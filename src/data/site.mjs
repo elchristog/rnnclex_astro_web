@@ -5,9 +5,9 @@ export const site = {
   url: 'https://rnnclex.com',
   // GA4 propio de rnnclex.com (propiedad 555401479).
   ga4Id: 'G-QM5PMF11R5',
-  // Pixel de Meta propio de rnnclex. VACIO a proposito: el 309464551754526 es de enfermera en Estados Unidos.
-  // Crear el pixel en el Business Manager de rnnclex y pegar aqui su ID; hasta entonces no se carga Meta.
-  metaPixelId: '',
+  // Pixel de Meta propio de rnnclex: conjunto de datos "Datos rnnclex.com" del portafolio Rnnclex (cuenta publicitaria 1580454663293852).
+  // NO es el 309464551754526 (ese es de enfermera en Estados Unidos).
+  metaPixelId: '2546835659134179',
   // Google Ads propio: completar con AW-XXXXXXXXXX cuando se cree la cuenta de rnnclex.
   googleAdsId: '',
   // La web app (Cloud Run): login, registro y pago con Stripe. Ideal: moverla a app.rnnclex.com.
