@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Utah. Info
 path: "/examen-nclex/requisitos/utah/"
 thin: false
 flags: []
-faqs: [{"question":"Como residente de Utah, ¿puedo trabajar en estados vecinos como Idaho o Arizona?","answer":"¡Sí! Dado que Utah, Idaho y Arizona son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Utah, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con esa única licencia. \\-"},{"question":"¿Qué es la DOPL?","answer":"La División de Licencias Ocupacionales y Profesionales (DOPL) es la principal agencia del gobierno de Utah que supervisa y gestiona las licencias para docenas de profesiones, incluyendo la Junta de Enfermería. El proceso de solicitud se centraliza a través de su portal."}]
+faqs: [{"question":"Como residente de Utah, ¿puedo trabajar en estados vecinos como Idaho o Arizona?","answer":"¡Sí! Dado que Utah, Idaho y Arizona son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Utah, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con esa única licencia."},{"question":"¿Qué es la DOPL?","answer":"La División de Licencias Ocupacionales y Profesionales (DOPL) es la principal agencia del gobierno de Utah que supervisa y gestiona las licencias para docenas de profesiones, incluyendo la Junta de Enfermería. El proceso de solicitud se centraliza a través de su portal."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Beehive State", deberás seguir el proceso de solicitud del Utah Board of Nursing. Este organismo opera bajo la División de Licencias Ocupacionales y Profesionales (DOPL) y es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito para que puedas navegar el proceso de aplicación en Utah con total confianza.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito para que puedas navegar
 
 ### NCLEX-RN Utah
 
-[**Junta Reguladora:** Utah Board of Nursing (Parte de DOPL)
-**Sitio Web Oficial:** https://dopl.utah.gov/nursing
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $90 - $95 USD
-](https://dopl.utah.gov/nursing)
+- **Junta Reguladora:** Utah Board of Nursing (Parte de DOPL)
+- **Sitio Web Oficial:** [dopl.utah.gov/nursing](https://dopl.utah.gov/nursing)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $90 - $95 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Utah
 
@@ -40,23 +38,17 @@ Utah exige que todos los solicitantes completen una verificación de antecedente
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Es un requisito mandatorio que los IENs presenten una evaluación de credenciales realizada por CGFNS y aprueben un examen de competencia en inglés.
+**Enfermeros Educados Internacionalmente (IENs):** Es un requisito mandatorio que los IENs presenten una evaluación de credenciales realizada por CGFNS y aprueben un examen de competencia en inglés.
 
 ## Proceso de Solicitud para Utah: Resumen Paso a Paso
 
-Completa la solicitud online en el portal de la DOPL de Utah y paga la tarifa de $90-$95.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC (BCI y FBI).
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Utah.
-
-(Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal de la DOPL de Utah y paga la tarifa de $90-$95.
+2. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC (BCI y FBI).
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Utah.
+5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
+6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

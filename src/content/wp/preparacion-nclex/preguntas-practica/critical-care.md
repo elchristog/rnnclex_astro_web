@@ -27,9 +27,9 @@ B) Hipercalcemia
 C) Formación de fístula
 D) Mixedema
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: La obstrucción respiratoria debido a edema de la glotis, daño bilateral del nervio laríngeo o compresión traqueal por hemorragia es una complicación mayor después de una tiroidectomía. La hipocalcemia (no la hipercalcemia) es una complicación (B). La formación de fístula (C) no es una complicación mayor. El mixedema (D) es hipotiroidismo, mientras que el riesgo postoperatorio es la tormenta tiroidea (hipertiroidismo).
+**Justificación:** La obstrucción respiratoria debido a edema de la glotis, daño bilateral del nervio laríngeo o compresión traqueal por hemorragia es una complicación mayor después de una tiroidectomía. La hipocalcemia (no la hipercalcemia) es una complicación (B). La formación de fístula (C) no es una complicación mayor. El mixedema (D) es hipotiroidismo, mientras que el riesgo postoperatorio es la tormenta tiroidea (hipertiroidismo).
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -40,9 +40,9 @@ B) Proporcionar distractores como leer o ver la televisión
 C) Decirle que no debería estar tan nerviosa y asegurarle que todo saldrá bien
 D) Recordarle que esta cirugía no es tan extensa como la anterior
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Esta intervención ayudará a aclarar cualquier malentendido y dará a la clienta la oportunidad de verbalizar sus preocupaciones, lo cual es terapéutico. Los distractores (B) no aliviarán la ansiedad preoperatoria y niegan sus sentimientos. Dar falsas seguridades (C) o minimizar la cirugía (D) no es apropiado y niega que la ansiedad es una respuesta normal.
+**Justificación:** Esta intervención ayudará a aclarar cualquier malentendido y dará a la clienta la oportunidad de verbalizar sus preocupaciones, lo cual es terapéutico. Los distractores (B) no aliviarán la ansiedad preoperatoria y niegan sus sentimientos. Dar falsas seguridades (C) o minimizar la cirugía (D) no es apropiado y niega que la ansiedad es una respuesta normal.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -53,9 +53,9 @@ B) Déficit de volumen de líquidos relacionado con vómitos y drenaje de sonda 
 C) Déficit de conocimiento relacionado con el régimen de tratamiento
 D) Nutrición alterada: menor a las necesidades corporales, relacionada con la ingesta inadecuada
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: El alivio del dolor agudo e intenso es el objetivo principal de la intervención de enfermería, ya que es una necesidad fisiológica y psicológica primordial. El déficit de volumen de líquidos (B) ya se está tratando con fluidos IV. El déficit de conocimiento (C) no se puede abordar en un cliente con dolor agudo. La nutrición (D) es una prioridad secundaria después del dolor y el volumen de líquidos.
+**Justificación:** El alivio del dolor agudo e intenso es el objetivo principal de la intervención de enfermería, ya que es una necesidad fisiológica y psicológica primordial. El déficit de volumen de líquidos (B) ya se está tratando con fluidos IV. El déficit de conocimiento (C) no se puede abordar en un cliente con dolor agudo. La nutrición (D) es una prioridad secundaria después del dolor y el volumen de líquidos.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -66,9 +66,9 @@ B) Cerebro (sistema nervioso)
 C) Corazón (sistema circulatorio)
 D) Pulmones (sistema respiratorio)
 
-Respuesta Correcta: B
+**Respuesta Correcta:** B
 
-Justificación: Las neuronas cerebrales sufren un daño irreversible después de 4 a 6 minutos de sumersión en agua debido a la hipoxia. El corazón, los pulmones y los riñones (A, C, D) pueden sobrevivir hasta 30 minutos.
+**Justificación:** Las neuronas cerebrales sufren un daño irreversible después de 4 a 6 minutos de sumersión en agua debido a la hipoxia. El corazón, los pulmones y los riñones (A, C, D) pueden sobrevivir hasta 30 minutos.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -79,8 +79,8 @@ B) El nivel de conciencia
 C) La turgencia de la piel
 D) La ingesta de líquidos
 
-Respuesta Correcta: B
+**Respuesta Correcta:** B
 
-Justificación: El llenado capilar, las alteraciones en el estado de conciencia (sensorio) y el gasto urinario son los indicadores más fiables para evaluar la hidratación. La presión arterial (A) puede permanecer normal incluso en un estado de hipovolemia. La turgencia de la piel (C) no es un indicador fiable en un cliente quemado. La ingesta de líquidos (D) no indica la adecuación de la reanimación.
+**Justificación:** El llenado capilar, las alteraciones en el estado de conciencia (sensorio) y el gasto urinario son los indicadores más fiables para evaluar la hidratación. La presión arterial (A) puede permanecer normal incluso en un estado de hipovolemia. La turgencia de la piel (C) no es un indicador fiable en un cliente quemado. La ingesta de líquidos (D) no indica la adecuación de la reanimación.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

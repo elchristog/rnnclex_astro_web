@@ -5,7 +5,7 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Massachuse
 path: "/examen-nclex/requisitos/massachusetts/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué significa exactamente el requisito de \"buen carácter moral\"?","answer":"Es un estándar legal que permite a la junta de enfermería evaluar el historial de un candidato para asegurar que es apto para practicar la enfermería de manera segura y ética. No significa que cualquier ofensa menor te descalifique, pero sí exige una divulgación completa y honesta de cualquier antecedente para que la junta pueda tomar una determinación informada. \\-"},{"question":"¿Cuándo se unirá Massachusetts oficialmente al NLC?","answer":"Actualmente no hay una fecha oficial establecida. Se recomienda a los solicitantes revisar periódicamente el sitio web de la Junta de Massachusetts para obtener las últimas actualizaciones sobre la implementación del Pacto de Licencia de Enfermería."}]
+faqs: [{"question":"¿Qué significa exactamente el requisito de \"buen carácter moral\"?","answer":"Es un estándar legal que permite a la junta de enfermería evaluar el historial de un candidato para asegurar que es apto para practicar la enfermería de manera segura y ética. No significa que cualquier ofensa menor te descalifique, pero sí exige una divulgación completa y honesta de cualquier antecedente para que la junta pueda tomar una determinación informada."},{"question":"¿Cuándo se unirá Massachusetts oficialmente al NLC?","answer":"Actualmente no hay una fecha oficial establecida. Se recomienda a los solicitantes revisar periódicamente el sitio web de la Junta de Massachusetts para obtener las últimas actualizaciones sobre la implementación del Pacto de Licencia de Enfermería."}]
 ---
 
 Si tu objetivo es obtener tu licencia de enfermería en "The Bay State", es fundamental que sigas el proceso de solicitud del Massachusetts Board of Registration in Nursing. Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
@@ -16,11 +16,10 @@ Esta guía te ofrece un desglose claro de cada requisito, prestando especial ate
 
 ### NCLEX-RN Massachusetts
 
-[**Junta Reguladora:** Massachusetts Board of Registration in Nursing
-**Sitio Web Oficial:** https://www.mass.gov/orgs/board-of-registration-in-nursing
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Promulgado, pendiente de implementación (ver detalles abajo)
-**Tarifa de Solicitud:** $230 USD
-](https://www.mass.gov/orgs/board-of-registration-in-nursing)
+- **Junta Reguladora:** Massachusetts Board of Registration in Nursing
+- **Sitio Web Oficial:** [www.mass.gov/orgs/board-of-registration-in-nursing](https://www.mass.gov/orgs/board-of-registration-in-nursing)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Promulgado, pendiente de implementación (ver detalles abajo)
+- **Tarifa de Solicitud:** $230 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Massachusetts
 
@@ -59,7 +58,7 @@ Programa tu examen NCLEX en un centro Pearson VUE.
 
 Estatus del Nurse Licensure Compact (NLC): Massachusetts ha aprobado la legislación para unirse al NLC, pero aún no ha fijado una fecha de implementación oficial. Por ahora, las licencias emitidas son de un solo estado y solo válidas para ejercer en Massachusetts. Se espera que en el futuro se conviertan en licencias multiestado.
 
-Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de credenciales y la aprobación de un examen de competencia en inglés.
+**Enfermeros Educados Internacionalmente (IENs):** Se requiere una evaluación de credenciales y la aprobación de un examen de competencia en inglés.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

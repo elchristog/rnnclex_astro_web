@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en New Jersey
 path: "/examen-nclex/requisitos/new-jersey/"
 thin: false
 flags: []
-faqs: [{"question":"¿Dónde puedo encontrar un notario público?","answer":"Los notarios públicos son fáciles de encontrar. Usualmente puedes acceder a sus servicios en bancos, oficinas de correos o envíos (como UPS Stores), y en oficinas municipales o de la ciudad por una pequeña tarifa. \\-"},{"question":"Como residente de New Jersey, ¿puedo trabajar en Nueva York con mi licencia?","answer":"No directamente. Aunque New Jersey es un estado miembro del NLC, Nueva York no lo es. Por lo tanto, una licencia multiestado de New Jersey no es válida para ejercer en Nueva York. Para trabajar en NY, necesitarías solicitar una licencia por \"endorsement\" (homologación) directamente con la junta de enfermería de Nueva York."}]
+faqs: [{"question":"¿Dónde puedo encontrar un notario público?","answer":"Los notarios públicos son fáciles de encontrar. Usualmente puedes acceder a sus servicios en bancos, oficinas de correos o envíos (como UPS Stores), y en oficinas municipales o de la ciudad por una pequeña tarifa."},{"question":"Como residente de New Jersey, ¿puedo trabajar en Nueva York con mi licencia?","answer":"No directamente. Aunque New Jersey es un estado miembro del NLC, Nueva York no lo es. Por lo tanto, una licencia multiestado de New Jersey no es válida para ejercer en Nueva York. Para trabajar en NY, necesitarías solicitar una licencia por \"endorsement\" (homologación) directamente con la junta de enfermería de Nueva York."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Garden State", deberás seguir el proceso de solicitud del New Jersey Board of Nursing. Este organismo, que forma parte de la División de Asuntos del Consumidor, es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a pasos únicos del proceso de New Jersey como la notarización de tu solicitud.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito, prestando especial ate
 
 ### NCLEX-RN New Jersey
 
-[**Junta Reguladora:** New Jersey Board of Nursing
-**Sitio Web Oficial:** https://www.njconsumeraffairs.gov/nur/Pages/default.aspx
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $200 USD
-](https://www.njconsumeraffairs.gov/nur/Pages/default.aspx)
+- **Junta Reguladora:** New Jersey Board of Nursing
+- **Sitio Web Oficial:** [www.njconsumeraffairs.gov/nur/Pages/default.aspx](https://www.njconsumeraffairs.gov/nur/Pages/default.aspx)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $200 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en New Jersey
 
@@ -40,28 +38,21 @@ Es mandatorio que todos los solicitantes completen una verificación de antecede
 
 ### Mandatos y Notas Específicas del Estado
 
-Requisito Crucial: Solicitud Notariada con Foto
+**Requisito Crucial:** Solicitud Notariada con Foto
 Un paso que no puedes olvidar en New Jersey es que, después de completar tu solicitud en línea, deberás imprimir una copia de la certificación, pegar una foto tuya tamaño pasaporte, y firmarla frente a un notario público. Luego, deberás escanear este documento notariado y subirlo a tu portal de solicitud. Omitir este paso es una de las causas más comunes de retrasos en la aprobación.
 Prueba de Ciudadanía o Presencia Legal: Debes presentar un documento que acredite tu ciudadanía estadounidense o tu estatus de presencia legal en el país.
 Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de credenciales y la aprobación de un examen de competencia en inglés.
 
 ## Proceso de Solicitud para New Jersey: Resumen Paso a Paso
 
-Completa la solicitud online en el portal de la NJ Division of Consumer Affairs.
-
-Imprime la certificación, pega tu foto, fírmala ante un notario y súbela de nuevo al portal.
-
-Paga la tarifa de solicitud de $200.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal de la NJ Division of Consumer Affairs.
+2. Imprime la certificación, pega tu foto, fírmala ante un notario y súbela de nuevo al portal.
+3. Paga la tarifa de solicitud de $200.
+4. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+5. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+6. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
+7. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
+8. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

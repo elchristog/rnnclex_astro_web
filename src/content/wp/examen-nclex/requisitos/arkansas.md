@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Ark
 path: "/examen-nclex/requisitos/arkansas/"
 thin: false
 flags: []
-faqs: [{"question":"Siendo Arkansas un estado NLC, ¿mi licencia será automáticamente multiestado?","answer":"Sí. Si Arkansas es tu \"Primary State of Residence\" (Estado Principal de Residencia), al aprobar el NCLEX y cumplir todos los requisitos, recibirás una licencia multiestado (MSL). Esto te permitirá ejercer la enfermería en Arkansas y en todos los demás estados que forman parte del Nurse Licensure Compact (NLC) con una sola licencia. \\-"},{"question":"¿Dónde encuentro las instrucciones para la toma de huellas dactilares?","answer":"Generalmente, el paquete de solicitud o las instrucciones dentro del Arkansas Nurse Portal te proporcionarán la información detallada, incluyendo los formularios necesarios y una lista de los proveedores autorizados para la toma de huellas dactilares."}]
+faqs: [{"question":"Siendo Arkansas un estado NLC, ¿mi licencia será automáticamente multiestado?","answer":"Sí. Si Arkansas es tu \"Primary State of Residence\" (Estado Principal de Residencia), al aprobar el NCLEX y cumplir todos los requisitos, recibirás una licencia multiestado (MSL). Esto te permitirá ejercer la enfermería en Arkansas y en todos los demás estados que forman parte del Nurse Licensure Compact (NLC) con una sola licencia."},{"question":"¿Dónde encuentro las instrucciones para la toma de huellas dactilares?","answer":"Generalmente, el paquete de solicitud o las instrucciones dentro del Arkansas Nurse Portal te proporcionarán la información detallada, incluyendo los formularios necesarios y una lista de los proveedores autorizados para la toma de huellas dactilares."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en "El Estado Natural", necesitas cumplir con los requerimientos específicos del Arkansas State Board of Nursing (ARSBN). Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX en Arkansas.
 
 Esta guía te proporciona un desglose claro de cada requisito, desde la solicitud en línea hasta la verificación de antecedentes, para que puedas aplicar con seguridad y precisión.
@@ -16,12 +15,10 @@ Esta guía te proporciona un desglose claro de cada requisito, desde la solicitu
 
 ### NCLEX-RN Arkansas
 
-[**Junta Reguladora:** Arkansas State Board of Nursing (ARSBN)
-**Sitio Web Oficial:** https://healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board/
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el portal de solicitud. Se recomienda verificar el monto actual directamente en el portal al iniciar el proceso.
-
-](https://healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board/)
+- **Junta Reguladora:** Arkansas State Board of Nursing (ARSBN)
+- **Sitio Web Oficial:** [healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board](https://healthy.arkansas.gov/boards-commissions/boards/nursing-arkansas-state-board/)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el portal de solicitud. Se recomienda verificar el monto actual directamente en el portal al iniciar el proceso.
 
 ## Desglose de Requisitos para la Licencia por Examen en Arkansas
 
@@ -45,19 +42,13 @@ El proceso de solicitud en Arkansas es bastante directo y se centra en los requi
 
 ## Proceso de Solicitud para Arkansas: Resumen Paso a Paso
 
-Accede al Arkansas Nurse Portal a través del sitio web oficial de la ARSBN.
-
-Crea una cuenta y completa la solicitud en línea para "Licensure by Examination", realizando el pago de las tarifas indicadas.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC estatal y federal.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la ARSBN.
-
-Espera la aprobación de tu solicitud por parte de la ARSBN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Accede al Arkansas Nurse Portal a través del sitio web oficial de la ARSBN.
+2. Crea una cuenta y completa la solicitud en línea para "Licensure by Examination", realizando el pago de las tarifas indicadas.
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC estatal y federal.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la ARSBN.
+6. Espera la aprobación de tu solicitud por parte de la ARSBN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

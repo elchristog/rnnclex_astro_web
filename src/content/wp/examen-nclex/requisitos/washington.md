@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Washington
 path: "/examen-nclex/requisitos/washington/"
 thin: false
 flags: []
-faqs: [{"question":"¿La licencia de Washington es multiestado?","answer":"Sí. Desde el 1 de julio de 2024, Washington es un miembro con implementación completa del Nurse Licensure Compact (NLC). Si tu residencia principal está en Washington, serás elegible para una licencia multiestado (MSL), que te permitirá ejercer en otros estados del pacto como Oregon e Idaho. \\-"},{"question":"¿Qué es la NCQAC?","answer":"La Nursing Care Quality Assurance Commission (NCQAC) es el nombre oficial de la Junta de Enfermería del Estado de Washington. Es el organismo responsable de regular la práctica de la enfermería para garantizar la seguridad y el bienestar del público."}]
+faqs: [{"question":"¿La licencia de Washington es multiestado?","answer":"Sí. Desde el 1 de julio de 2024, Washington es un miembro con implementación completa del Nurse Licensure Compact (NLC). Si tu residencia principal está en Washington, serás elegible para una licencia multiestado (MSL), que te permitirá ejercer en otros estados del pacto como Oregon e Idaho."},{"question":"¿Qué es la NCQAC?","answer":"La Nursing Care Quality Assurance Commission (NCQAC) es el nombre oficial de la Junta de Enfermería del Estado de Washington. Es el organismo responsable de regular la práctica de la enfermería para garantizar la seguridad y el bienestar del público."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Evergreen State", deberás seguir el proceso de solicitud de la Washington State Nursing Care Quality Assurance Commission (NCQAC). Este organismo, a menudo llamado simplemente la Junta de Enfermería de Washington, es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, incluyendo las particularidades de su proceso de verificación de antecedentes.
@@ -38,7 +37,7 @@ Debes demostrar tu graduación de un programa de enfermería aprobado por la jun
 
 ### Verificación de Antecedentes Penales (CBC)
 
-Atención: Proceso de CBC Específico
+**Atención:** Proceso de CBC Específico
 El proceso de verificación de antecedentes en Washington tiene una particularidad importante que depende de tu dirección:
 Para solicitantes con una dirección fuera del estado de Washington: Se requiere una verificación de antecedentes penales del FBI basada en huellas dactilares.
 Para solicitantes con una dirección dentro del estado de Washington: El proceso puede ser diferente y utilizar bases de datos estatales.
@@ -46,21 +45,16 @@ Es crucial seguir las instrucciones exactas que recibirás en el portal de solic
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de credenciales y la aprobación de un examen de competencia en inglés.
+**Enfermeros Educados Internacionalmente (IENs):** Se requiere una evaluación de credenciales y la aprobación de un examen de competencia en inglés.
 
 ## Proceso de Solicitud para Washington: Resumen Paso a Paso
 
-Crea una cuenta y completa la solicitud online en el portal de la NCQAC, pagando la tarifa de $138 o $203.
-
-Sigue las instrucciones específicas para la toma de huellas dactilares para el CBC, según tu dirección de residencia.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la NCQAC.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta y completa la solicitud online en el portal de la NCQAC, pagando la tarifa de $138 o $203.
+2. Sigue las instrucciones específicas para la toma de huellas dactilares para el CBC, según tu dirección de residencia.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la NCQAC.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

@@ -27,9 +27,9 @@ B) Desafiar el comportamiento del cliente inmediatamente con pasos para prevenir
 C) Dejar al cliente agresivo solo y alejar a los otros clientes.
 D) Para garantizar la seguridad de otros clientes, colocar al cliente en aislamiento inmediatamente cuando comience a gritar.
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Abordar el comportamiento agresivo de un cliente en un continuo de cuidado menos restrictivo está de acuerdo con sus derechos (es decir, métodos verbales, medicación, aislamiento y sujeciones, según sea necesario). Un enfoque desafiante (B) es amenazante e inapropiado. No es apropiado dejar solo a un cliente agresivo (C). Mover a un cliente a aislamiento inmediatamente por gritar (D) es inapropiado; se debe ofrecer la oportunidad de autocontrol primero.
+**Justificación:** Abordar el comportamiento agresivo de un cliente en un continuo de cuidado menos restrictivo está de acuerdo con sus derechos (es decir, métodos verbales, medicación, aislamiento y sujeciones, según sea necesario). Un enfoque desafiante (B) es amenazante e inapropiado. No es apropiado dejar solo a un cliente agresivo (C). Mover a un cliente a aislamiento inmediatamente por gritar (D) es inapropiado; se debe ofrecer la oportunidad de autocontrol primero.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -40,9 +40,9 @@ B) Hará que los otros clientes se vuelvan psicóticos
 C) Se volverá delirante y alucinará como resultado de la atención excesiva
 D) Puede exhibir comportamiento autolesivo
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Las personas con trastorno de personalidad antisocial son típicamente muy manipuladoras. Su comportamiento no puede causar que otra persona se vuelva psicótica (B). La psicosis no es un síntoma de la personalidad antisocial (C). El comportamiento autolesivo (D) es característico del trastorno límite de la personalidad.
+**Justificación:** Las personas con trastorno de personalidad antisocial son típicamente muy manipuladoras. Su comportamiento no puede causar que otra persona se vuelva psicótica (B). La psicosis no es un síntoma de la personalidad antisocial (C). El comportamiento autolesivo (D) es característico del trastorno límite de la personalidad.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -53,9 +53,9 @@ B) Evitar ir a psicoterapia
 C) Manipular a los miembros del equipo de salud
 D) Aumentar su autoimagen mostrando estándares más altos que los demás clientes
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Estos comportamientos compulsivos son intentos de aliviar la ansiedad. La evitación (B) no es un patrón en el cliente obsesivo. Aunque estos comportamientos puedan parecer manipuladores (C), ese no es el propósito detrás de la actividad. La autoestima inflada (D) no es una característica del cliente con ansiedad severa.
+**Justificación:** Estos comportamientos compulsivos son intentos de aliviar la ansiedad. La evitación (B) no es un patrón en el cliente obsesivo. Aunque estos comportamientos puedan parecer manipuladores (C), ese no es el propósito detrás de la actividad. La autoestima inflada (D) no es una característica del cliente con ansiedad severa.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -66,9 +66,9 @@ B) Debería poner al cliente en aislamiento hasta que prometa comportarse adecua
 C) Debería aplicar sujeciones completas hasta que el comportamiento esté bajo control
 D) Debería permitir que otros clientes observen el comportamiento para que puedan aprender de la experiencia
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Siempre se deben intentar las medidas menos restrictivas antes de colocar a un cliente en aislamiento o sujeciones. La enfermera debe intentar primero un enfoque verbal calmado, sugerir una habitación tranquila o solicitar que el cliente se tome un "tiempo fuera". Las sujeciones (C) solo se aplican después de que todas las demás medidas fallan. Otros clientes (D) deben ser retirados del área.
+**Justificación:** Siempre se deben intentar las medidas menos restrictivas antes de colocar a un cliente en aislamiento o sujeciones. La enfermera debe intentar primero un enfoque verbal calmado, sugerir una habitación tranquila o solicitar que el cliente se tome un "tiempo fuera". Las sujeciones (C) solo se aplican después de que todas las demás medidas fallan. Otros clientes (D) deben ser retirados del área.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -79,8 +79,8 @@ B) Delirios
 C) Alucinaciones
 D) Ecolalia
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Pasar rápidamente de un tema a otro sin seguir una secuencia lógica se llama fuga de ideas. Las creencias falsas (B) son delirios. Las percepciones sensoriales falsas (C) son alucinaciones. Repetir palabras (D) se llama ecolalia.
+**Justificación:** Pasar rápidamente de un tema a otro sin seguir una secuencia lógica se llama fuga de ideas. Las creencias falsas (B) son delirios. Las percepciones sensoriales falsas (C) son alucinaciones. Repetir palabras (D) se llama ecolalia.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

@@ -27,9 +27,9 @@ B) 10
 C) 8
 D) 9
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Un 7 sobre una puntuación perfecta de 10 es correcto. Se otorgan 2 puntos por una frecuencia cardíaca superior a 100; 1 punto por un esfuerzo respiratorio lento e irregular; 1 punto por cierta flexión de las extremidades al evaluar el tono muscular; 2 puntos por un llanto vigoroso al evaluar la irritabilidad refleja; y 1 punto por el color cuando el cuerpo es rosado con extremidades azules (acrocianosis). Para obtener un 10 (B), el bebé necesitaría tener un llanto fuerte, movimiento activo y estar completamente rosado. Para un 8 (C) o un 9 (D), más áreas evaluadas necesitarían una puntuación de 2 puntos.
+**Justificación:** Un 7 sobre una puntuación perfecta de 10 es correcto. Se otorgan 2 puntos por una frecuencia cardíaca superior a 100; 1 punto por un esfuerzo respiratorio lento e irregular; 1 punto por cierta flexión de las extremidades al evaluar el tono muscular; 2 puntos por un llanto vigoroso al evaluar la irritabilidad refleja; y 1 punto por el color cuando el cuerpo es rosado con extremidades azules (acrocianosis). Para obtener un 10 (B), el bebé necesitaría tener un llanto fuerte, movimiento activo y estar completamente rosado. Para un 8 (C) o un 9 (D), más áreas evaluadas necesitarían una puntuación de 2 puntos.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -40,9 +40,9 @@ B) 100 mg/dL y 200 mg/dL
 C) 40 mg/dL y 130 mg/dL
 D) 90 mg/dL y 200 mg/dL
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: El rango recomendado es entre 70 y 120 mg/dL para reducir el riesgo de mortalidad perinatal. Los otros niveles (B, C, D) no son recomendados. Cuanto más alta sea la glucosa en sangre, peor será el pronóstico para el feto. La hipoglucemia también puede tener efectos perjudiciales.
+**Justificación:** El rango recomendado es entre 70 y 120 mg/dL para reducir el riesgo de mortalidad perinatal. Los otros niveles (B, C, D) no son recomendados. Cuanto más alta sea la glucosa en sangre, peor será el pronóstico para el feto. La hipoglucemia también puede tener efectos perjudiciales.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -53,9 +53,9 @@ B) Prevención de contracciones uterinas
 C) Sedación
 D) Protección pulmonar fetal
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: El MgSO4 está clasificado como un fármaco anticonvulsivo. En el manejo de la preeclampsia, se utiliza para la prevención de las convulsiones eclámpticas. Aunque se ha utilizado para inhibir el trabajo de parto hiperactivo (B), sus resultados son cuestionables. Los efectos secundarios como la depresión respiratoria no deben confundirse con la sedación generalizada (C). El MgSO4 no afecta la madurez pulmonar fetal (D).
+**Justificación:** El MgSO4 está clasificado como un fármaco anticonvulsivo. En el manejo de la preeclampsia, se utiliza para la prevención de las convulsiones eclámpticas. Aunque se ha utilizado para inhibir el trabajo de parto hiperactivo (B), sus resultados son cuestionables. Los efectos secundarios como la depresión respiratoria no deben confundirse con la sedación generalizada (C). El MgSO4 no afecta la madurez pulmonar fetal (D).
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -66,9 +66,9 @@ B) Percepción de los movimientos fetales ("quickening")
 C) Un aumento de peso de 6 a 8 libras (2.7 a 3.6 kg)
 D) Agrandamiento abdominal
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Las náuseas y los vómitos son experimentados por casi la mitad de las mujeres embarazadas durante los primeros 3 meses debido a los niveles elevados de gonadotropina coriónica humana (hCG). La percepción de los movimientos fetales (B) no ocurre hasta las semanas 18-20 en primigrávidas. El aumento de peso en el primer trimestre debe ser modesto, de 2 a 4 libras (C). El agrandamiento abdominal (D) no es aparente hasta el segundo trimestre.
+**Justificación:** Las náuseas y los vómitos son experimentados por casi la mitad de las mujeres embarazadas durante los primeros 3 meses debido a los niveles elevados de gonadotropina coriónica humana (hCG). La percepción de los movimientos fetales (B) no ocurre hasta las semanas 18-20 en primigrávidas. El aumento de peso en el primer trimestre debe ser modesto, de 2 a 4 libras (C). El agrandamiento abdominal (D) no es aparente hasta el segundo trimestre.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -79,8 +79,8 @@ B) Debajo del ombligo, hacia el lado derecho del abdomen de la madre
 C) En el ombligo
 D) Por encima del ombligo, hacia el lado izquierdo del abdomen de la madre
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: La posición OAI (LOA en inglés) identifica a un feto cuya espalda está en el lado izquierdo de la madre, con la cabeza como parte de presentación. Es más fácil auscultar los tonos cardíacos fetales a través de la espalda del feto. Por lo tanto, el punto de auscultación correcto es el cuadrante inferior izquierdo del abdomen de la madre. La opción D sería correcta para una presentación de nalgas (sacroanterior izquierda).
+**Justificación:** La posición OAI (LOA en inglés) identifica a un feto cuya espalda está en el lado izquierdo de la madre, con la cabeza como parte de presentación. Es más fácil auscultar los tonos cardíacos fetales a través de la espalda del feto. Por lo tanto, el punto de auscultación correcto es el cuadrante inferior izquierdo del abdomen de la madre. La opción D sería correcta para una presentación de nalgas (sacroanterior izquierda).
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

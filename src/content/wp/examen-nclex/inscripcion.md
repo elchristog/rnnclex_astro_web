@@ -5,7 +5,7 @@ description: "Aprende cómo registrarte para el examen NCLEX-RN sin errores. Te 
 path: "/examen-nclex/inscripcion/"
 thin: false
 flags: []
-faqs: [{"question":"¿Puedo registrarme en Pearson VUE antes de aplicar a la Junta de Enfermería?","answer":"Sí, puedes hacerlo en paralelo. Sin embargo, no recibirás tu ATT de Pearson VUE hasta que la Junta de Enfermería haya procesado tu solicitud y te haya declarado elegible. \\-"},{"question":"¿Cuánto tiempo tarda en llegar el ATT?","answer":"El tiempo varía mucho según la eficiencia de tu Junta de Enfermería. Puede tardar desde dos semanas hasta varios meses. Es importante que te asegures de que todos tus documentos (especialmente las transcripciones) hayan sido recibidos por la junta para agilizar el proceso. \\-"},{"question":"¿Puedo cambiar el estado de mi solicitud después de enviarla?","answer":"Generalmente no. Cambiar de estado a mitad del proceso suele requerir que inicies una nueva solicitud y pagues las tarifas correspondientes a la nueva junta de enfermería. \\-"},{"question":"¿Qué tan pronto debo registrarme para el examen NCLEX?","answer":"La NCSBN no ha establecido directrices sobre cuándo deben inscribirse los estudiantes que se gradúan. Sin embargo, es común inscribirse para el examen NCLEX y la licencia durante el mes de graduación."}]
+faqs: [{"question":"¿Puedo registrarme en Pearson VUE antes de aplicar a la Junta de Enfermería?","answer":"Sí, puedes hacerlo en paralelo. Sin embargo, no recibirás tu ATT de Pearson VUE hasta que la Junta de Enfermería haya procesado tu solicitud y te haya declarado elegible."},{"question":"¿Cuánto tiempo tarda en llegar el ATT?","answer":"El tiempo varía mucho según la eficiencia de tu Junta de Enfermería. Puede tardar desde dos semanas hasta varios meses. Es importante que te asegures de que todos tus documentos (especialmente las transcripciones) hayan sido recibidos por la junta para agilizar el proceso."},{"question":"¿Puedo cambiar el estado de mi solicitud después de enviarla?","answer":"Generalmente no. Cambiar de estado a mitad del proceso suele requerir que inicies una nueva solicitud y pagues las tarifas correspondientes a la nueva junta de enfermería."},{"question":"¿Qué tan pronto debo registrarme para el examen NCLEX?","answer":"La NCSBN no ha establecido directrices sobre cuándo deben inscribirse los estudiantes que se gradúan. Sin embargo, es común inscribirse para el examen NCLEX y la licencia durante el mes de graduación."}]
 ---
 
 ![Pantalla de un formulario de inscripción online para el examen NCLEX en el sitio de Pearson VUE, mostrando campos para datos personales.](/images/wp/inscripcion-registro-nclex-pearson-vue.webp)
@@ -16,7 +16,7 @@ faqs: [{"question":"¿Puedo registrarme en Pearson VUE antes de aplicar a la Jun
 
 Sabemos que puede parecer un laberinto de formularios y agencias. Por eso, hemos creado esta guía detallada de inscripción al NCLEX (nclex exam registration) para llevarte de la mano en cada etapa y asegurar que tu registro se complete sin problemas ni demoras.
 
-Nota Importante: Antes de iniciar, asegúrate de conocer los requisitos específicos de tu estado, ya que el primer paso siempre es con tu Junta de Enfermería (Board of Nursing).
+**Nota Importante:** Antes de iniciar, asegúrate de conocer los requisitos específicos de tu estado, ya que el primer paso siempre es con tu Junta de Enfermería (Board of Nursing).
 
 ## El Proceso de Inscripción en Dos Partes
 
@@ -52,10 +52,9 @@ Este es el primer paso oficial.
 
 Paso 2
 
-[**Acción:** Visita www.nclex.com (el portal oficial de Pearson VUE) y crea una cuenta.
-**Detalles:** Deberás proporcionar tu información personal, el código de tu programa de enfermería y pagar la tarifa de $200 USD (para candidatos de EE. UU.).
-
-**Consejo de Experto:** Asegúrate de que el nombre que uses para registrarte sea IDÉNTICO al de la identificación oficial con fotografía que presentarás el día del examen. Cualquier discrepancia puede impedirte realizar la prueba.](http://www.nclex.com)
+- **Acción:** Visita www.nclex.com (el portal oficial de Pearson VUE) y crea una cuenta.
+- **Detalles:** Deberás proporcionar tu información personal, el código de tu programa de enfermería y pagar la tarifa de $200 USD (para candidatos de EE. UU.).
+- **Consejo de Experto:** Asegúrate de que el nombre que uses para registrarte sea IDÉNTICO al de la identificación oficial con fotografía que presentarás el día del examen. Cualquier discrepancia puede impedirte realizar la prueba.
 
 ### Espera la Confirmación de Elegibilidad de tu BON
 

@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Ohio. Info
 path: "/examen-nclex/requisitos/ohio/"
 thin: false
 flags: []
-faqs: [{"question":"¿Por qué debo aplicar con tantos meses de antelación?","answer":"El proceso de verificación de antecedentes penales (CBC), que involucra tanto al BCI de Ohio como al FBI, puede tardar varios meses en completarse. Aplicar temprano asegura que este paso ya esté finalizado para cuando te gradúes. De esta manera, en cuanto la junta reciba tus transcripciones finales, podrán declararte elegible y emitir tu ATT sin demoras. \\-"},{"question":"Como residente de Ohio, ¿puedo trabajar en Kentucky o Pennsylvania?","answer":"¡Sí! Dado que Ohio, Kentucky y Pennsylvania son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Ohio, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con una sola licencia."}]
+faqs: [{"question":"¿Por qué debo aplicar con tantos meses de antelación?","answer":"El proceso de verificación de antecedentes penales (CBC), que involucra tanto al BCI de Ohio como al FBI, puede tardar varios meses en completarse. Aplicar temprano asegura que este paso ya esté finalizado para cuando te gradúes. De esta manera, en cuanto la junta reciba tus transcripciones finales, podrán declararte elegible y emitir tu ATT sin demoras."},{"question":"Como residente de Ohio, ¿puedo trabajar en Kentucky o Pennsylvania?","answer":"¡Sí! Dado que Ohio, Kentucky y Pennsylvania son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Ohio, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con una sola licencia."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Buckeye State", deberás seguir el proceso de solicitud del Ohio Board of Nursing (OBN). Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito en Ohio, incluyendo un consejo clave sobre cuándo iniciar tu solicitud para un proceso más fluido.
@@ -47,19 +46,13 @@ El Ohio Board of Nursing recomienda encarecidamente que los estudiantes de enfer
 
 ## Proceso de Solicitud para Ohio: Resumen Paso a Paso
 
-(4-8 meses antes de graduarte) Crea una cuenta en el Ohio eLicense System.
-
-Completa la solicitud online para "Licensure by Examination" y paga la tarifa ($75 o $100).
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC (BCI y FBI).
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales a la OBN justo después de tu graduación.
-
-Espera la aprobación final y la recepción de tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. (4-8 meses antes de graduarte) Crea una cuenta en el Ohio eLicense System.
+2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa ($75 o $100).
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC (BCI y FBI).
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales a la OBN justo después de tu graduación.
+6. Espera la aprobación final y la recepción de tu Authorization to Test (ATT).
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

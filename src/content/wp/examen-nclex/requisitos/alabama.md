@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para presentar el examen NCLEX
 path: "/examen-nclex/requisitos/alabama/"
 thin: false
 flags: []
-faqs: [{"question":"¿Debo aplicar para la licencia multiestado (MSL) o de un solo estado (SSL)?","answer":"Si resides legalmente en Alabama (tu \"Primary State of Residence\") y no tienes delitos graves, eres elegible para la licencia MSL. Esta es la mejor opción ya que te permite practicar en Alabama y en todos los demás estados que forman parte del Nurse Licensure Compact (NLC) sin necesidad de obtener licencias adicionales. \\-"},{"question":"¿Cuánto tiempo tarda la ABN en procesar mi solicitud?","answer":"Los tiempos de procesamiento pueden variar. Te recomendamos consultar la sección de \"Licensing\" del sitio web oficial de la ABN para ver los plazos actuales. Asegurarte de que todos tus documentos se envíen correctamente agilizará el proceso."}]
+faqs: [{"question":"¿Debo aplicar para la licencia multiestado (MSL) o de un solo estado (SSL)?","answer":"Si resides legalmente en Alabama (tu \"Primary State of Residence\") y no tienes delitos graves, eres elegible para la licencia MSL. Esta es la mejor opción ya que te permite practicar en Alabama y en todos los demás estados que forman parte del Nurse Licensure Compact (NLC) sin necesidad de obtener licencias adicionales."},{"question":"¿Cuánto tiempo tarda la ABN en procesar mi solicitud?","answer":"Los tiempos de procesamiento pueden variar. Te recomendamos consultar la sección de \"Licensing\" del sitio web oficial de la ABN para ver los plazos actuales. Asegurarte de que todos tus documentos se envíen correctamente agilizará el proceso."}]
 ---
-
 ¿Planeas obtener tu licencia de enfermería en el "Corazón de Dixie"? El proceso para ser elegible y presentar el NCLEX en Alabama es gestionado por el Alabama Board of Nursing (ABN).
 
 Esta guía desglosa cada requisito que necesitas cumplir, desde las tarifas y la solicitud en línea hasta la verificación de antecedentes, para que puedas aplicar con total confianza y sin contratiempos.
@@ -46,25 +45,20 @@ Para todos los solicitantes, se requiere una auto-divulgación de cualquier hist
 
 Alabama tiene algunos requisitos adicionales importantes que debes tener en cuenta:
 
-Número de Seguro Social (SSN): Debes proporcionar un Número de Seguro Social de EE. UU. válido.
+**Número de Seguro Social (SSN):** Debes proporcionar un Número de Seguro Social de EE. UU. válido.
 
-Prueba de Ciudadanía/Presencia Legal: Debes presentar un documento que acredite tu ciudadanía estadounidense o tu estatus de presencia legal en el país.
+**Prueba de Ciudadanía/Presencia Legal:** Debes presentar un documento que acredite tu ciudadanía estadounidense o tu estatus de presencia legal en el país.
 
-Permiso Temporal: Una gran ventaja en Alabama es que los candidatos que aplican por primera vez pueden solicitar un permiso temporal que les permite trabajar como "Graduate Nurse" (GN) bajo supervisión directa mientras esperan los resultados de su examen NCLEX.
+**Permiso Temporal:** Una gran ventaja en Alabama es que los candidatos que aplican por primera vez pueden solicitar un permiso temporal que les permite trabajar como "Graduate Nurse" (GN) bajo supervisión directa mientras esperan los resultados de su examen NCLEX.
 
 ## Proceso de Solicitud para Alabama: Resumen Paso a Paso
 
-Crea tu cuenta en el portal de la ABN y completa la solicitud online para "Licensure by Examination", pagando la tarifa de $125 o $225.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Completa el proceso de huellas dactilares (si aplicas para la licencia MSL).
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la ABN.
-
-Espera la confirmación de elegibilidad por parte de la ABN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea tu cuenta en el portal de la ABN y completa la solicitud online para "Licensure by Examination", pagando la tarifa de $125 o $225.
+2. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Completa el proceso de huellas dactilares (si aplicas para la licencia MSL).
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la ABN.
+5. Espera la confirmación de elegibilidad por parte de la ABN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

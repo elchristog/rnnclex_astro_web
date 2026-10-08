@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en North Dako
 path: "/examen-nclex/requisitos/north-dakota/"
 thin: false
 flags: []
-faqs: [{"question":"Como residente de North Dakota, ¿puedo trabajar en South Dakota con mi licencia?","answer":"¡Sí! Dado que tanto North Dakota como South Dakota son estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en North Dakota, podrás ejercer en South Dakota y en los demás estados del pacto con esa única licencia. \\-"},{"question":"¿Por qué se especifica que la evaluación de IENs debe ser de CGFNS?","answer":"Algunas juntas de enfermería, como la de North Dakota, establecen acuerdos o tienen preferencia por servicios de evaluación de credenciales específicos como CGFNS para garantizar un proceso de verificación estandarizado y consistente. Es crucial que los IENs utilicen el servicio exacto que la junta requiere para evitar retrasos o el rechazo de su solicitud."}]
+faqs: [{"question":"Como residente de North Dakota, ¿puedo trabajar en South Dakota con mi licencia?","answer":"¡Sí! Dado que tanto North Dakota como South Dakota son estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en North Dakota, podrás ejercer en South Dakota y en los demás estados del pacto con esa única licencia."},{"question":"¿Por qué se especifica que la evaluación de IENs debe ser de CGFNS?","answer":"Algunas juntas de enfermería, como la de North Dakota, establecen acuerdos o tienen preferencia por servicios de evaluación de credenciales específicos como CGFNS para garantizar un proceso de verificación estandarizado y consistente. Es crucial que los IENs utilicen el servicio exacto que la junta requiere para evitar retrasos o el rechazo de su solicitud."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Peace Garden State", deberás seguir el proceso de solicitud del North Dakota Board of Nursing (NDBON). Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada paso del proceso en North Dakota, incluyendo sus requerimientos específicos para enfermeros educados internacionalmente.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada paso del proceso en North Dakota,
 
 ### NCLEX-RN North Dakota
 
-[**Junta Reguladora:** North Dakota Board of Nursing (NDBON)
-**Sitio Web Oficial:** https://www.ndbon.org
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el North Dakota Nurse Portal.
-](https://www.ndbon.org)
+- **Junta Reguladora:** North Dakota Board of Nursing (NDBON)
+- **Sitio Web Oficial:** [www.ndbon.org](https://www.ndbon.org)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el North Dakota Nurse Portal.
 
 ## Desglose de Requisitos para la Licencia por Examen en North Dakota
 
@@ -40,25 +38,18 @@ North Dakota exige que todos los solicitantes completen una Verificación del Hi
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Es un requisito mandatorio que los IENs presenten una evaluación de credenciales realizada específicamente por CGFNS International. No se aceptarán evaluaciones de otros servicios.
+**Enfermeros Educados Internacionalmente (IENs):** Es un requisito mandatorio que los IENs presenten una evaluación de credenciales realizada específicamente por CGFNS International. No se aceptarán evaluaciones de otros servicios.
 
 ## Proceso de Solicitud para North Dakota: Resumen Paso a Paso
 
-Crea una cuenta en el North Dakota Nurse Portal.
-
-Completa la solicitud online para "Licensure by Examination" y paga la tarifa correspondiente.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CHRC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la NDBON.
-
-(Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta en el North Dakota Nurse Portal.
+2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa correspondiente.
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CHRC.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la NDBON.
+6. (Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
+7. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+8. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

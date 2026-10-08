@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Mis
 path: "/examen-nclex/requisitos/missouri/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué es el sistema MACHS?","answer":"MACHS son las siglas de \"Missouri Automated Criminal History Site\". Es el portal oficial del estado de Missouri para procesar las verificaciones de antecedentes penales basadas en huellas dactilares para licencias profesionales y otros fines. La junta te proporcionará un código específico para registrarte en su sitio web. \\-"},{"question":"Como residente de Missouri, ¿mi licencia será multiestado?","answer":"Sí. Missouri es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Missouri y en los demás estados del pacto con una sola licencia."}]
+faqs: [{"question":"¿Qué es el sistema MACHS?","answer":"MACHS son las siglas de \"Missouri Automated Criminal History Site\". Es el portal oficial del estado de Missouri para procesar las verificaciones de antecedentes penales basadas en huellas dactilares para licencias profesionales y otros fines. La junta te proporcionará un código específico para registrarte en su sitio web."},{"question":"Como residente de Missouri, ¿mi licencia será multiestado?","answer":"Sí. Missouri es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Missouri y en los demás estados del pacto con una sola licencia."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Show-Me State", deberás seguir el proceso de solicitud del Missouri State Board of Nursing. Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada paso del proceso en Missouri, incluyendo su sistema específico para la verificación de antecedentes penales.
@@ -46,17 +45,12 @@ Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los
 
 ## Proceso de Solicitud para Missouri: Resumen Paso a Paso
 
-Completa la solicitud online en el portal del Missouri State Board of Nursing.
-
-Paga la tarifa de solicitud y regístrate en el sistema MACHS para la toma de huellas dactilares del CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Missouri.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal del Missouri State Board of Nursing.
+2. Paga la tarifa de solicitud y regístrate en el sistema MACHS para la toma de huellas dactilares del CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Missouri.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

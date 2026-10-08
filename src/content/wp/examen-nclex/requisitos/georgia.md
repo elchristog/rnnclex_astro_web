@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Geo
 path: "/examen-nclex/requisitos/georgia/"
 thin: false
 flags: []
-faqs: [{"question":"¿La tarifa de $40 es el único costo que debo pagar a la junta?","answer":"No. La tarifa de $40 es para la solicitud de la licencia. Deberás pagar por separado los costos asociados a la verificación de antecedentes penales con GAPS/Gemalto y la tarifa de $200 para registrarte en el examen NCLEX con Pearson VUE. \\-"},{"question":"Como residente de Georgia, ¿puedo trabajar en Florida o Tennessee con mi licencia?","answer":"¡Sí! Dado que Georgia, Florida y Tennessee son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Georgia (tu estado de residencia), podrás ejercer en cualquiera de esos estados sin necesidad de obtener licencias adicionales."}]
+faqs: [{"question":"¿La tarifa de $40 es el único costo que debo pagar a la junta?","answer":"No. La tarifa de $40 es para la solicitud de la licencia. Deberás pagar por separado los costos asociados a la verificación de antecedentes penales con GAPS/Gemalto y la tarifa de $200 para registrarte en el examen NCLEX con Pearson VUE."},{"question":"Como residente de Georgia, ¿puedo trabajar en Florida o Tennessee con mi licencia?","answer":"¡Sí! Dado que Georgia, Florida y Tennessee son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Georgia (tu estado de residencia), podrás ejercer en cualquiera de esos estados sin necesidad de obtener licencias adicionales."}]
 ---
-
 Si tu meta es obtener tu licencia de enfermería en el "Estado del Durazno", es esencial que sigas el proceso de solicitud del Georgia Board of Nursing. Este organismo gubernamental es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía desglosa cada paso del proceso en Georgia, desde su asequible tarifa de solicitud hasta su sistema específico de verificación de antecedentes.
@@ -16,11 +15,10 @@ Esta guía desglosa cada paso del proceso en Georgia, desde su asequible tarifa 
 
 ### NCLEX-RN Georgia
 
-[**Junta Reguladora:** Georgia Board of Nursing
-**Sitio Web Oficial:** https://sos.ga.gov/georgia-board-nursing
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $40 USD (Una de las más asequibles del país)
-](https://sos.ga.gov/georgia-board-nursing)
+- **Junta Reguladora:** Georgia Board of Nursing
+- **Sitio Web Oficial:** [sos.ga.gov/georgia-board-nursing](https://sos.ga.gov/georgia-board-nursing)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $40 USD (Una de las más asequibles del país)
 
 ## Desglose de Requisitos para la Licencia por Examen en Georgia
 
@@ -44,17 +42,12 @@ Prueba de Ciudadanía o Presencia Legal: Deberás presentar un documento válido
 
 ## Proceso de Solicitud para Florida: Resumen Paso a Paso
 
-Completa la solicitud (online o por correo) con el Georgia Board of Nursing y paga la tarifa de $40.
-
-Regístrate con GAPS/Gemalto para programar tu cita de toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Georgia.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud (online o por correo) con el Georgia Board of Nursing y paga la tarifa de $40.
+2. Regístrate con GAPS/Gemalto para programar tu cita de toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Georgia.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

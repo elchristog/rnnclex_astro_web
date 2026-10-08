@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Ari
 path: "/examen-nclex/requisitos/arizona/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué documentos sirven como prueba de presencia legal en Arizona?","answer":"La lista oficial está en el sitio de la AZBN, pero generalmente incluye documentos como un pasaporte de EE. UU., certificado de nacimiento, tarjeta de residente permanente (Green Card), o un permiso de trabajo (Employment Authorization Document), entre otros. \\-"},{"question":"¿Me conviene solicitar la licencia temporal?","answer":"Es una excelente opción si ya tienes una oferta de trabajo y quieres empezar a ejercer lo antes posible después de tu graduación. Te permite trabajar bajo la supervisión de un RN mientras esperas tomar y recibir los resultados del NCLEX. Es completamente opcional."}]
+faqs: [{"question":"¿Qué documentos sirven como prueba de presencia legal en Arizona?","answer":"La lista oficial está en el sitio de la AZBN, pero generalmente incluye documentos como un pasaporte de EE. UU., certificado de nacimiento, tarjeta de residente permanente (Green Card), o un permiso de trabajo (Employment Authorization Document), entre otros."},{"question":"¿Me conviene solicitar la licencia temporal?","answer":"Es una excelente opción si ya tienes una oferta de trabajo y quieres empezar a ejercer lo antes posible después de tu graduación. Te permite trabajar bajo la supervisión de un RN mientras esperas tomar y recibir los resultados del NCLEX. Es completamente opcional."}]
 ---
-
 Si tu meta es ejercer como enfermero/a en el "Estado del Gran Cañón", el primer paso es cumplir con los requerimientos del Arizona State Board of Nursing (AZBN) para poder presentar el examen NCLEX.
 
 Esta guía detallada te llevará a través de cada requisito específico de Arizona, desde la solicitud en línea y las tarifas, hasta la verificación de antecedentes, para que tu proceso sea claro y exitoso.
@@ -44,23 +43,17 @@ Arizona exige una verificación de antecedentes penales obligatoria para todos l
 
 Prueba de Ciudadanía o Presencia Legal: Es un requisito indispensable presentar un documento que acredite tu ciudadanía estadounidense o tu estatus de presencia legal en el país.
 
-Licencia Temporal (Opcional): Si deseas empezar a trabajar como Enfermero/a Graduado/a (GN) mientras esperas los resultados de tu examen, puedes solicitar una licencia temporal por una tarifa adicional de $50 USD.
+**Licencia Temporal (Opcional):** Si deseas empezar a trabajar como Enfermero/a Graduado/a (GN) mientras esperas los resultados de tu examen, puedes solicitar una licencia temporal por una tarifa adicional de $50 USD.
 
 ## Proceso de Solicitud para Arizona: Resumen Paso a Paso
 
-Crea una cuenta en el Arizona Nurse Portal.
-
-Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $300.
-
-Completa el proceso de toma de huellas dactilares para la verificación de antecedentes.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la AZBN.
-
-Espera la aprobación de tu solicitud por parte de la AZBN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta en el Arizona Nurse Portal.
+2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $300.
+3. Completa el proceso de toma de huellas dactilares para la verificación de antecedentes.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la AZBN.
+6. Espera la aprobación de tu solicitud por parte de la AZBN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

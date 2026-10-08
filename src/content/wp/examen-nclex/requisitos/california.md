@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en California
 path: "/examen-nclex/requisitos/california/"
 thin: false
 flags: []
-faqs: [{"question":"¿Mi licencia de California me sirve en Texas o Florida?","answer":"No directamente. California no es un estado miembro del NLC. Para trabajar en otro estado, incluso si tienes una licencia de CA, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de ese otro estado. \\-"},{"question":"¿Cuánto tiempo tarda el proceso de CBC con la \"Hard Card\" desde fuera del estado?","answer":"El proceso con la Hard Card puede tardar varias semanas o incluso meses más que el Live Scan. Es fundamental que inicies este paso tan pronto como sea posible en tu proceso de solicitud para evitar demoras significativas."}]
+faqs: [{"question":"¿Mi licencia de California me sirve en Texas o Florida?","answer":"No directamente. California no es un estado miembro del NLC. Para trabajar en otro estado, incluso si tienes una licencia de CA, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de ese otro estado."},{"question":"¿Cuánto tiempo tarda el proceso de CBC con la \"Hard Card\" desde fuera del estado?","answer":"El proceso con la Hard Card puede tardar varias semanas o incluso meses más que el Live Scan. Es fundamental que inicies este paso tan pronto como sea posible en tu proceso de solicitud para evitar demoras significativas."}]
 ---
-
 Obtener tu licencia de enfermería en el "Estado Dorado" es una meta para muchos, pero es crucial saber que el California Board of Registered Nursing (BRN) tiene algunos de los requisitos más específicos y estrictos de todo el país.
 
 Esta guía te llevará paso a paso a través de cada requerimiento, prestando especial atención a las particularidades del currículum educativo y el proceso de verificación de antecedentes (CBC) de California.
@@ -40,31 +39,25 @@ Este es el requisito más importante y único de California. No basta con habers
 
 Es obligatoria una verificación de antecedentes basada en huellas dactilares. El método varía según tu ubicación:
 
-Si estás en California: Debes usar el servicio electrónico Live Scan. Recibirás un formulario para llevar a un centro autorizado de Live Scan.
+**Si estás en California:** Debes usar el servicio electrónico Live Scan. Recibirás un formulario para llevar a un centro autorizado de Live Scan.
 
-Si estás fuera de California: Debes solicitar una tarjeta de huellas dactilares (Hard Card) a la BRN. Deberás completar la toma de huellas en una agencia de seguridad local y enviar la tarjeta por correo a la BRN. Este proceso es considerablemente más lento.
+**Si estás fuera de California:** Debes solicitar una tarjeta de huellas dactilares (Hard Card) a la BRN. Deberás completar la toma de huellas en una agencia de seguridad local y enviar la tarjeta por correo a la BRN. Este proceso es considerablemente más lento.
 
 ### Mandatos y Notas Específicas del Estado
 
-Permiso Interino (Opcional): Puedes solicitar un "Interim Permit" por una tarifa de $100. Este permiso te permite trabajar como "Graduate Nurse" (GN) bajo supervisión directa mientras esperas los resultados del NCLEX.
+**Permiso Interino (Opcional):** Puedes solicitar un "Interim Permit" por una tarifa de $100. Este permiso te permite trabajar como "Graduate Nurse" (GN) bajo supervisión directa mientras esperas los resultados del NCLEX.
 
-Enfermeros Internacionales (IENs): Además de la tarifa más alta y los requisitos curriculares, es posible que se te exija aprobar un examen de competencia en inglés como el TOEFL.
+**Enfermeros Internacionales (IENs):** Además de la tarifa más alta y los requisitos curriculares, es posible que se te exija aprobar un examen de competencia en inglés como el TOEFL.
 
 ## Proceso de Solicitud para California: Resumen Paso a Paso
 
-Verifica que tu programa cumple con los requisitos curriculares específicos de la BRN.
-
-Crea una cuenta en el sistema BreEZe y completa la solicitud online, pagando la tarifa de $350 o $750.
-
-Completa el proceso de huellas dactilares (Live Scan o Hard Card).
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales, desglosando el contenido curricular, directamente a la BRN.
-
-Espera la aprobación de la BRN y la recepción de tu ATT (Authorization to Test).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Verifica que tu programa cumple con los requisitos curriculares específicos de la BRN.
+2. Crea una cuenta en el sistema BreEZe y completa la solicitud online, pagando la tarifa de $350 o $750.
+3. Completa el proceso de huellas dactilares (Live Scan o Hard Card).
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales, desglosando el contenido curricular, directamente a la BRN.
+6. Espera la aprobación de la BRN y la recepción de tu ATT (Authorization to Test).
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

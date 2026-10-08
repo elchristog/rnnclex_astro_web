@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Virginia. 
 path: "/examen-nclex/requisitos/virginia/"
 thin: false
 flags: []
-faqs: [{"question":"¿Cómo puedo verificar si mi programa cumple con el requisito de las 500 horas clínicas?","answer":"La forma más segura es contactar a la oficina de registro o al director de tu programa de enfermería. Pide un documento oficial o una carta que certifique el número total de horas de cuidado directo al paciente completadas en tu currículo. Este documento puede ser necesario para tu solicitud. \\-"},{"question":"Como residente de Virginia, ¿puedo trabajar en Maryland o North Carolina?","answer":"¡Sí! Dado que Virginia, Maryland y North Carolina son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Virginia, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con una sola licencia."}]
+faqs: [{"question":"¿Cómo puedo verificar si mi programa cumple con el requisito de las 500 horas clínicas?","answer":"La forma más segura es contactar a la oficina de registro o al director de tu programa de enfermería. Pide un documento oficial o una carta que certifique el número total de horas de cuidado directo al paciente completadas en tu currículo. Este documento puede ser necesario para tu solicitud."},{"question":"Como residente de Virginia, ¿puedo trabajar en Maryland o North Carolina?","answer":"¡Sí! Dado que Virginia, Maryland y North Carolina son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Virginia, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con una sola licencia."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Old Dominion State", deberás seguir el proceso de solicitud del Virginia Board of Nursing. Este organismo, que forma parte del Departamento de Profesiones de la Salud (DHP), es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención al mandato específico sobre las horas de cuidado directo al paciente.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito, prestando especial ate
 
 ### NCLEX-RN Virginia
 
-[**Junta Reguladora:** Virginia Board of Nursing (Parte del DHP)
-**Sitio Web Oficial:** https://www.dhp.virginia.gov/Boards/Nursing
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $190 USD
-](https://www.dhp.virginia.gov/Boards/Nursing)
+- **Junta Reguladora:** Virginia Board of Nursing (Parte del DHP)
+- **Sitio Web Oficial:** [www.dhp.virginia.gov/Boards/Nursing](https://www.dhp.virginia.gov/Boards/Nursing)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $190 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Virginia
 
@@ -41,23 +39,17 @@ Virginia exige que todos los solicitantes completen una verificación de anteced
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Los IENs deben presentar una evaluación de credenciales de uno de los dos servicios aprobados por la junta: CGFNS o Josef Silny & Associates.
+**Enfermeros Educados Internacionalmente (IENs):** Los IENs deben presentar una evaluación de credenciales de uno de los dos servicios aprobados por la junta: CGFNS o Josef Silny & Associates.
 
 ## Proceso de Solicitud para Virginia: Resumen Paso a Paso
 
-Completa la solicitud online en el portal del Virginia Board of Nursing y paga la tarifa de $190.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales a la Junta, asegurándote de que documenten las 500 horas clínicas.
-
-(Solo para IENs) Envía el reporte de evaluación de credenciales de CGFNS o Josef Silny & Associates.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal del Virginia Board of Nursing y paga la tarifa de $190.
+2. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales a la Junta, asegurándote de que documenten las 500 horas clínicas.
+5. (Solo para IENs) Envía el reporte de evaluación de credenciales de CGFNS o Josef Silny & Associates.
+6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

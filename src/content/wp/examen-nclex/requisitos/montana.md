@@ -5,9 +5,8 @@ description: "Paso a paso para el NCLEX-RN en Montana: solicitud al Board of Nur
 path: "/examen-nclex/requisitos/montana/"
 thin: false
 flags: []
-faqs: [{"question":"¿Por qué los graduados en Canadá son tratados como otros IENs en Montana?","answer":"Cada estado establece sus propias regulaciones para la equivalencia educativa. La Junta de Montana requiere que todos los enfermeros educados en el extranjero, independientemente del país, se sometan al mismo proceso de evaluación de credenciales. Esto asegura que su formación cumple con los estándares específicos y rigurosos del estado de Montana. \\-"},{"question":"Como residente de Montana, ¿mi licencia será multiestado?","answer":"Sí. Montana es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Montana y en los demás estados del pacto con una sola licencia."}]
+faqs: [{"question":"¿Por qué los graduados en Canadá son tratados como otros IENs en Montana?","answer":"Cada estado establece sus propias regulaciones para la equivalencia educativa. La Junta de Montana requiere que todos los enfermeros educados en el extranjero, independientemente del país, se sometan al mismo proceso de evaluación de credenciales. Esto asegura que su formación cumple con los estándares específicos y rigurosos del estado de Montana."},{"question":"Como residente de Montana, ¿mi licencia será multiestado?","answer":"Sí. Montana es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Montana y en los demás estados del pacto con una sola licencia."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Estado del Tesoro" (Treasure State), deberás seguir el proceso de solicitud del Montana Board of Nursing. Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada paso del proceso en Montana, incluyendo notas importantes para enfermeros educados internacionalmente.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada paso del proceso en Montana, incl
 
 ### NCLEX-RN Montana
 
-[**Junta Reguladora:** Montana Board of Nursing
-**Sitio Web Oficial:**https://boards.bsd.dli.mt.gov/nursing/
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $100 USD
-](https://boards.bsd.dli.mt.gov/nursing/)
+- **Junta Reguladora:** Montana Board of Nursing
+- **Sitio Web Oficial:**https://boards.bsd.dli.mt.gov/nursing/
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $100 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Montana
 
@@ -45,19 +43,13 @@ Montana tiene requisitos estrictos para los IENs. Es importante destacar que los
 
 ## Proceso de Solicitud para Montana: Resumen Paso a Paso
 
-Crea una cuenta y completa la solicitud online en el portal ebiz.mt.gov/pol, pagando la tarifa de $100.
-
-Sigue las instrucciones recibidas para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Montana.
-
-(Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta y completa la solicitud online en el portal ebiz.mt.gov/pol, pagando la tarifa de $100.
+2. Sigue las instrucciones recibidas para completar la toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Montana.
+5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
+6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en South Dako
 path: "/examen-nclex/requisitos/south-dakota/"
 thin: false
 flags: []
-faqs: [{"question":"Como residente de South Dakota, ¿puedo trabajar en North Dakota?","answer":"¡Sí! Dado que tanto South Dakota como North Dakota son estados miembros fundadores del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en South Dakota, podrás ejercer en North Dakota y en los demás estados del pacto sin necesidad de obtener licencias adicionales. \\-"},{"question":"¿El proceso de solicitud en South Dakota es complicado?","answer":"Generalmente, se considera un proceso bastante directo y moderno, ya que su sistema está completamente digitalizado a través de su portal en línea, lo que facilita el seguimiento de tu solicitud."}]
+faqs: [{"question":"Como residente de South Dakota, ¿puedo trabajar en North Dakota?","answer":"¡Sí! Dado que tanto South Dakota como North Dakota son estados miembros fundadores del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en South Dakota, podrás ejercer en North Dakota y en los demás estados del pacto sin necesidad de obtener licencias adicionales."},{"question":"¿El proceso de solicitud en South Dakota es complicado?","answer":"Generalmente, se considera un proceso bastante directo y moderno, ya que su sistema está completamente digitalizado a través de su portal en línea, lo que facilita el seguimiento de tu solicitud."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Mount Rushmore State", deberás seguir el proceso de solicitud del South Dakota Board of Nursing (SDBON). Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada paso del proceso en South Dakota, que se caracteriza por ser completamente digital.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada paso del proceso en South Dakota,
 
 ### NCLEX-RN South Dakota
 
-[**Junta Reguladora:** South Dakota Board of Nursing (SDBON)
-**Sitio Web Oficial:** https://doh.sd.gov
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $100 USD
-](https://doh.sd.gov)
+- **Junta Reguladora:** South Dakota Board of Nursing (SDBON)
+- **Sitio Web Oficial:** [doh.sd.gov](https://doh.sd.gov)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $100 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en South Dakota
 
@@ -40,23 +38,17 @@ South Dakota exige que todos los solicitantes completen una verificación de ant
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y, además, aprobar un examen de competencia en inglés.
+**Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y, además, aprobar un examen de competencia en inglés.
 
 ## Proceso de Solicitu para South Dakota: Resumen Paso a Paso
 
-Completa la solicitud online en el portal del South Dakota Board of Nursing y paga la tarifa de $100.
-
-Sigue las instrucciones recibidas durante el proceso para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la SDBON.
-
-(Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal del South Dakota Board of Nursing y paga la tarifa de $100.
+2. Sigue las instrucciones recibidas durante el proceso para completar la toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la SDBON.
+5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
+6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

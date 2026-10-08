@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para presentar el examen NCLEX
 path: "/examen-nclex/requisitos/alaska/"
 thin: false
 flags: []
-faqs: [{"question":"¿Mi licencia de Alaska será multiestado?","answer":"No. Alaska no es miembro del Pacto de Licencia de Enfermería (Nurse Licensure Compact - NLC). Esto significa que la licencia que obtengas será válida únicamente para ejercer dentro del estado de Alaska. Si en el futuro deseas trabajar en otro estado, deberás solicitar una licencia por \"endorsement\" (homologación) en esa jurisdicción. \\-"},{"question":"¿Si me gradué en Canadá, necesito el examen de inglés?","answer":"Generalmente, los requisitos para IENs aplican a todos los graduados de programas fuera de los Estados Unidos. Aunque Canadá es de habla inglesa, es fundamental que verifiques directamente con el Alaska Board of Nursing si existe alguna exención específica para programas canadienses."}]
+faqs: [{"question":"¿Mi licencia de Alaska será multiestado?","answer":"No. Alaska no es miembro del Pacto de Licencia de Enfermería (Nurse Licensure Compact - NLC). Esto significa que la licencia que obtengas será válida únicamente para ejercer dentro del estado de Alaska. Si en el futuro deseas trabajar en otro estado, deberás solicitar una licencia por \"endorsement\" (homologación) en esa jurisdicción."},{"question":"¿Si me gradué en Canadá, necesito el examen de inglés?","answer":"Generalmente, los requisitos para IENs aplican a todos los graduados de programas fuera de los Estados Unidos. Aunque Canadá es de habla inglesa, es fundamental que verifiques directamente con el Alaska Board of Nursing si existe alguna exención específica para programas canadienses."}]
 ---
-
 ¿Estás listo para empezar tu carrera de enfermería en "La Última Frontera"? Para poder presentar el examen NCLEX y obtener tu licencia en Alaska, debes cumplir con los requisitos establecidos por el Alaska Board of Nursing.
 
 Esta guía te proporciona un desglose detallado de cada paso, desde las tarifas de solicitud hasta los requisitos específicos para enfermeros educados en el extranjero (IENs), para que tu proceso de aplicación sea lo más sencillo posibl
@@ -44,23 +43,18 @@ Alaska requiere una verificación de antecedentes penales obligatoria para todos
 
 ### Mandatos y Notas Específicas del Estado
 
-Permiso Temporal: Alaska ofrece la opción de solicitar un permiso temporal, que te permite practicar como enfermero/a graduado/a bajo ciertas condiciones mientras esperas los resultados de tu examen.
+**Permiso Temporal:** Alaska ofrece la opción de solicitar un permiso temporal, que te permite practicar como enfermero/a graduado/a bajo ciertas condiciones mientras esperas los resultados de tu examen.
 
-Enfermeros Educados Internacionalmente (IENs): Si obtuviste tu título fuera de EE. UU., es un requisito indispensable que apruebes un examen de competencia en inglés, como el TOEFL o el IELTS.
+**Enfermeros Educados Internacionalmente (IENs):** Si obtuviste tu título fuera de EE. UU., es un requisito indispensable que apruebes un examen de competencia en inglés, como el TOEFL o el IELTS.
 
 ## Proceso de Solicitud para Alaska: Resumen Paso a Paso
 
-Completa y envía la solicitud (online o en papel) al Alaska Board of Nursing junto con el pago de todas las tarifas.
-
-Completa el proceso de toma de huellas dactilares para la verificación de antecedentes penales.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela de enfermería que envíe tus transcripciones oficiales directamente a la Junta de Alaska.
-
-Espera la aprobación de tu solicitud y la recepción de tu Autorización para Examinarte (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa y envía la solicitud (online o en papel) al Alaska Board of Nursing junto con el pago de todas las tarifas.
+2. Completa el proceso de toma de huellas dactilares para la verificación de antecedentes penales.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela de enfermería que envíe tus transcripciones oficiales directamente a la Junta de Alaska.
+5. Espera la aprobación de tu solicitud y la recepción de tu Autorización para Examinarte (ATT) por correo electrónico.
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

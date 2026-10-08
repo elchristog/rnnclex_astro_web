@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en New Hampsh
 path: "/examen-nclex/requisitos/new-hampshire/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué documentos se aceptan como prueba de residencia principal?","answer":"Generalmente, se aceptan documentos oficiales emitidos por el gobierno que incluyan tu nombre y dirección actual, como una licencia de conducir, una tarjeta de registro de votante o una copia de tu declaración de impuestos federales más reciente. La junta especificará los documentos aceptados en el formulario de solicitud. \\-"},{"question":"Vivo en Massachusetts, ¿puedo solicitar una licencia de New Hampshire?","answer":"Sí, puedes. Sin embargo, como tu estado de residencia principal (Massachusetts) aún no ha implementado el NLC, la licencia que te otorgaría New Hampshire sería una licencia de un solo estado, válida únicamente para trabajar dentro de New Hampshire."}]
+faqs: [{"question":"¿Qué documentos se aceptan como prueba de residencia principal?","answer":"Generalmente, se aceptan documentos oficiales emitidos por el gobierno que incluyan tu nombre y dirección actual, como una licencia de conducir, una tarjeta de registro de votante o una copia de tu declaración de impuestos federales más reciente. La junta especificará los documentos aceptados en el formulario de solicitud."},{"question":"Vivo en Massachusetts, ¿puedo solicitar una licencia de New Hampshire?","answer":"Sí, puedes. Sin embargo, como tu estado de residencia principal (Massachusetts) aún no ha implementado el NLC, la licencia que te otorgaría New Hampshire sería una licencia de un solo estado, válida únicamente para trabajar dentro de New Hampshire."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Estado de Granito", deberás seguir el proceso de solicitud del New Hampshire Board of Nursing. Este organismo, que forma parte de la Oficina de Licencias y Certificaciones Profesionales (OPLC), es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a la documentación sobre tu estado de residencia.
@@ -48,19 +47,13 @@ Si tu residencia principal está en un estado no compacto (como Massachusetts o 
 
 ## Proceso de Solicitud para New Hampshire: Resumen Paso a Paso
 
-Completa la solicitud online en el portal de la Junta de New Hampshire y paga la tarifa de $148.
-
-Sube la documentación requerida, incluyendo la prueba de tu estado de residencia principal.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal de la Junta de New Hampshire y paga la tarifa de $148.
+2. Sube la documentación requerida, incluyendo la prueba de tu estado de residencia principal.
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
+6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
