@@ -1,0 +1,40 @@
+name: Limpiar contenido
+
+# Manual: limpia restos de migracion, construye el sitio, y abre un PR para revisar antes de publicar.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Limpiar
+        run: node scripts/fix-content.mjs
+      - name: Construir y revisar
+        run: |
+          npm ci
+          npm run build
+          node scripts/verify-parity.mjs
+      - name: Informe
+        run: cat scripts/cleanup-report.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Abrir PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "ryze-limpieza"
+          git config user.email "limpieza@rnnclex.com"
+          git checkout -b limpieza-contenido
+          git add -A src
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Limpiar restos de migracion en el contenido"
+          git push -f origin limpieza-contenido
+          gh pr create --base main --head limpieza-contenido --title "Limpiar restos de migracion en el contenido" --body-file scripts/cleanup-report.md || true
