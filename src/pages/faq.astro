@@ -1,0 +1,55 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const faqs = [
+  {
+    question: "¿Qué es el examen NCLEX-RN y por qué es necesario?",
+    answer: "El NCLEX-RN (National Council Licensure Examination) es el examen nacional estandarizado que todo graduado de enfermería debe aprobar para obtener su licencia como Registered Nurse (RN) en Estados Unidos."
+  },
+  {
+    question: "¿En qué consiste el Next Generation NCLEX (NGN)?",
+    answer: "El formato NGN evalúa el juicio clínico del estudiante mediante estudios de caso reales y nuevos tipos de preguntas (Drag and Drop, Bow-tie, Matrix/Grid)."
+  },
+  {
+    question: "¿Puedo presentar el examen en español?",
+    answer: "No, el examen oficial se administra únicamente en inglés. Sin embargo, nuestra plataforma te ofrece explicaciones bilingües para facilitar la comprensión conceptual y el dominio del vocabulario técnico."
+  },
+  {
+    question: "¿Cuál es la diferencia entre un examen CAT y un Readiness Assessment?",
+    answer: "Un examen CAT (Computer Adaptive Test) ajusta la dificultad de cada pregunta según tus respuestas anteriores (idéntico al examen oficial). El Readiness Assessment mide objetivamente tu probabilidad porcentual de aprobar antes de agendar tu cita."
+  },
+  {
+    question: "¿Cómo funciona la garantía de aprobación?",
+    answer: "Si completas el 80% de nuestro banco de preguntas y obtienes un puntaje alto en dos Readiness Assessments consecutivos, te garantizamos que aprobarás el NCLEX-RN en tu primer intento."
+  }
+];
+---
+
+<BaseLayout
+  title="Preguntas Frecuentes (FAQ) | Examen NCLEX-RN | rnnclex.com"
+  description="Resuelve todas tus dudas sobre el examen NCLEX-RN: Requisitos, registro en Pearson VUE, formato NGN y simuladores adaptativos en español."
+  canonical="https://rnnclex.com/faq/"
+  faqs={faqs}
+>
+  <section class="py-16 bg-[#eff4f7]">
+    <div class="max-w-screen-xl mx-auto px-4 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold text-[#2b2c27] mb-4">
+        Preguntas Frecuentes (FAQ)
+      </h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+        Todo lo que necesitas saber sobre la preparación, logística y revalidación de credenciales para el NCLEX-RN.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-20 bg-white">
+    <div class="max-w-screen-lg mx-auto px-4 space-y-6">
+      {faqs.map((faq) => (
+        <div class="p-8 bg-[#eff4f7] rounded-xl border border-gray-100">
+          <h2 class="text-xl font-bold text-[#2b2c27] mb-3">{faq.question}</h2>
+          <p class="text-base text-gray-600 leading-relaxed">{faq.answer}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+</BaseLayout>
