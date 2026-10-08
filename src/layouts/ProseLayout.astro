@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import AppCta from "@/components/global/AppCta.astro";
+import { site } from "@/data/site.mjs";
 
 interface Props {
   title: string;
@@ -15,6 +16,23 @@ interface Props {
 
 const { title, seoTitle, description, canonical, faqs = [], type = "service", datePublished, kicker } = Astro.props;
 const jsonType = type === "article" ? "article" : faqs.length > 0 ? "faq" : "service";
+
+// Migas de pan desde la ruta
+const names = {
+  "preparacion-nclex": "Preparación NCLEX",
+  "examen-nclex": "Guía del examen",
+  "recursos-nclex": "Recursos",
+  "proceso-licencia-homologacion": "Licencia y homologación",
+  "estrategias-examen": "Estrategias",
+  "simuladores-examen": "Simuladores",
+  requisitos: "Requisitos por estado",
+};
+const path = new URL(canonical).pathname.split("/").filter(Boolean);
+const crumbs = path.slice(0, -1).map((seg, i) => ({
+  label: names[seg] ?? seg.replace(/-/g, " ").replace(/^./, (c) => c.toUpperCase()),
+  href: "/" + path.slice(0, i + 1).join("/") + "/",
+}));
+const date = datePublished ? new Date(datePublished).toLocaleDateString("es-ES", { year: "numeric", month: "long", day: "numeric" }) : null;
 ---
 
 <BaseLayout
@@ -25,31 +43,64 @@ const jsonType = type === "article" ? "article" : faqs.length > 0 ? "faq" : "ser
   faqs={faqs}
   datePublished={datePublished}
 >
-  <section class="bg-[#eff4f7] border-b border-gray-200">
-    <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-16">
-      {kicker && <p class="text-xs font-bold uppercase tracking-widest text-[#0e497c] mb-3">{kicker}</p>}
-      <h1 class="text-3xl md:text-5xl font-bold text-[#2b2c27] leading-tight">{title}</h1>
+  <!-- Cabecera -->
+  <section class="bg-gradient-to-b from-[#eaf3fb] to-white border-b border-slate-200">
+    <div class="max-w-screen-xl mx-auto px-4 pt-8 pb-10 md:pt-10 md:pb-12">
+      <nav aria-label="Migas de pan" class="text-xs text-slate-500 flex flex-wrap items-center gap-1.5 mb-5">
+        <a href="/" class="hover:text-[#0e497c]">Inicio</a>
+        {crumbs.map((c) => (<><span aria-hidden="true">/</span><a href={c.href} class="hover:text-[#0e497c]">{c.label}</a></>))}
+      </nav>
+      {kicker && <p class="inline-block text-[11px] font-semibold uppercase tracking-wider text-[#0e497c] bg-white border border-[#cfe3f5] rounded-full px-3 py-1 mb-4">{kicker}</p>}
+      <h1 class="text-3xl md:text-4xl lg:text-[2.6rem] font-bold text-slate-900 tracking-tight leading-[1.15] max-w-4xl">{title}</h1>
+      {description && <p class="mt-4 text-lg text-slate-600 max-w-3xl leading-relaxed">{description}</p>}
+      {date && <p class="mt-4 text-xs text-slate-400">Publicado el {date}</p>}
     </div>
   </section>
 
+  <!-- Contenido + lateral -->
   <section class="bg-white py-10 md:py-14">
-    <div class="max-w-screen-lg mx-auto px-4">
-      <div class="prose prose-lg max-w-none prose-headings:text-[#0e497c] prose-a:text-[#0e497c] prose-img:rounded-xl">
-        <slot />
-      </div>
+    <div class="max-w-screen-xl mx-auto px-4 grid lg:grid-cols-[minmax(0,1fr)_320px] gap-10 xl:gap-14">
+      <article class="min-w-0">
+        <div data-prose class="rn-prose prose prose-lg prose-slate max-w-3xl">
+          <slot />
+        </div>
+      </article>
+
+      <aside class="hidden lg:block">
+        <div class="sticky top-20 space-y-5">
+          <div class="rounded-2xl border border-slate-200 bg-white shadow-sm p-6">
+            <p class="text-xs font-semibold uppercase tracking-wider text-[#0e497c]">Una sola suscripción</p>
+            <p class="mt-2 flex items-end gap-1"><span class="text-4xl font-bold text-slate-900">USD {site.offer.price}</span><span class="text-slate-500 mb-1">/ mes</span></p>
+            <ul class="mt-4 space-y-2 text-sm text-slate-700">
+              <li class="flex gap-2"><span class="text-emerald-600">✓</span> +3500 preguntas bilingües</li>
+              <li class="flex gap-2"><span class="text-emerald-600">✓</span> CAT, NGN y Readiness Assessment</li>
+              <li class="flex gap-2"><span class="text-emerald-600">✓</span> Preparación guiada y mentoría</li>
+            </ul>
+            <a href={site.appUrl} data-cta="app" class="mt-5 block text-center bg-[#0e497c] hover:bg-[#0b3b64] text-white font-semibold py-3 rounded-lg transition">Empezar ahora</a>
+            <a href="/preparacion-nclex/preguntas-practica/" class="mt-2 block text-center text-sm font-medium text-[#0e497c] hover:underline">Ver preguntas de muestra gratis</a>
+          </div>
+          <div data-toc-wrap class="rounded-2xl border border-slate-200 p-5">
+            <p class="text-xs font-semibold uppercase tracking-wider text-slate-500 mb-3">En esta página</p>
+            <ol data-toc class="space-y-2 text-sm"></ol>
+          </div>
+        </div>
+      </aside>
     </div>
   </section>
 
   {
     faqs.length > 0 && (
-      <section class="bg-[#eff4f7] py-12">
-        <div class="max-w-screen-lg mx-auto px-4">
-          <h2 class="text-2xl md:text-3xl font-semibold text-[#2b2c27] mb-8">Preguntas frecuentes</h2>
+      <section class="bg-slate-50 py-14 border-y border-slate-200">
+        <div class="max-w-screen-md mx-auto px-4">
+          <h2 class="text-2xl md:text-3xl font-bold text-slate-900 tracking-tight mb-6">Preguntas frecuentes</h2>
           <div class="space-y-3">
             {faqs.map((f) => (
-              <details class="bg-white rounded-lg border border-gray-200 p-5">
-                <summary class="cursor-pointer font-semibold text-[#2b2c27]">{f.question}</summary>
-                <p class="mt-3 text-gray-600 leading-relaxed">{f.answer}</p>
+              <details class="group rounded-xl border border-slate-200 bg-white p-5">
+                <summary class="cursor-pointer list-none flex items-center justify-between gap-4 font-semibold text-slate-900">
+                  {f.question}
+                  <span class="text-[#0e497c] transition group-open:rotate-45 text-xl leading-none">+</span>
+                </summary>
+                <p class="mt-3 text-sm text-slate-600 leading-relaxed">{f.answer}</p>
               </details>
             ))}
           </div>
@@ -60,3 +111,83 @@ const jsonType = type === "article" ? "article" : faqs.length > 0 ? "faq" : "ser
 
   <AppCta />
 </BaseLayout>
+
+<style is:global>
+  .rn-prose { color: #334155; line-height: 1.75; font-size: 1.05rem; }
+  .rn-prose h2 { color: #0e497c; font-weight: 700; font-size: 1.65rem; line-height: 1.25; margin-top: 2.6em; margin-bottom: .7em; padding-top: .2em; scroll-margin-top: 5rem; letter-spacing: -0.01em; }
+  .rn-prose h2:first-child { margin-top: 0; }
+  .rn-prose h3 { color: #0f172a; font-weight: 650; font-size: 1.25rem; line-height: 1.3; margin-top: 1.9em; margin-bottom: .5em; scroll-margin-top: 5rem; }
+  .rn-prose h4 { color: #0f172a; font-weight: 600; font-size: 1.1rem; margin-top: 1.6em; margin-bottom: .4em; }
+  .rn-prose p { margin-top: 0; margin-bottom: 1.1em; }
+  .rn-prose a { color: #0e497c; text-decoration: underline; text-underline-offset: 3px; text-decoration-color: #a0ccf2; font-weight: 500; }
+  .rn-prose a:hover { text-decoration-color: #0e497c; }
+  .rn-prose strong { color: #0f172a; font-weight: 650; }
+  .rn-prose img { display: block; max-width: 100%; width: auto; max-height: 420px; height: auto; margin: 1.8em auto; border-radius: 1rem; border: 1px solid #e2e8f0; box-shadow: 0 6px 24px -12px rgba(15,23,42,.25); object-fit: contain; background: #fff; }
+  .rn-prose ul, .rn-prose ol { padding-left: 1.4em; margin: 1em 0 1.3em; }
+  .rn-prose ul { list-style: none; padding-left: 0; }
+  .rn-prose ul > li { position: relative; padding-left: 1.6em; margin: .55em 0; }
+  .rn-prose ul > li::before { content: ""; position: absolute; left: .2em; top: .62em; width: .5em; height: .5em; border-radius: 9999px; background: #0e497c; opacity: .85; }
+  .rn-prose ol { list-style: decimal; }
+  .rn-prose ol > li { padding-left: .3em; margin: .55em 0; }
+  .rn-prose ol > li::marker { color: #0e497c; font-weight: 700; }
+  .rn-prose li > p { margin: .3em 0; }
+  .rn-prose blockquote { border: 0; border-left: 4px solid #0e497c; background: #eaf3fb; border-radius: 0 .75rem .75rem 0; padding: 1rem 1.25rem; color: #1e3a5f; font-style: normal; margin: 1.6em 0; }
+  .rn-prose blockquote p { margin: .3em 0; }
+  .rn-prose table { width: 100%; display: block; overflow-x: auto; border-collapse: collapse; margin: 1.6em 0; font-size: .95rem; border: 1px solid #e2e8f0; border-radius: .75rem; }
+  .rn-prose thead th { background: #0e497c; color: #fff; text-align: left; padding: .7rem .9rem; font-weight: 600; }
+  .rn-prose tbody td { padding: .65rem .9rem; border-top: 1px solid #e2e8f0; vertical-align: top; }
+  .rn-prose tbody tr:nth-child(even) td { background: #f8fafc; }
+  .rn-prose hr { border: 0; border-top: 1px solid #e2e8f0; margin: 2.5em 0; }
+  .rn-prose code { background: #f1f5f9; padding: .1em .35em; border-radius: .3em; font-size: .9em; }
+  .rn-prose details { border: 1px solid #e2e8f0; border-radius: .75rem; padding: 1rem 1.2rem; margin: 1em 0; }
+  .rn-prose iframe, .rn-prose video { max-width: 100%; border-radius: 1rem; }
+  .rn-prose figure.rn-card { margin: 1rem 0; border: 1px solid #e2e8f0; background: #f8fafc; border-radius: 1rem; padding: 1.1rem 1.3rem; }
+  .rn-prose figure.rn-card blockquote { background: transparent; border: 0; padding: 0; margin: 0; color: #334155; font-size: .98rem; }
+  .rn-prose figure.rn-card figcaption { margin-top: .6rem; font-size: .85rem; font-weight: 600; color: #0e497c; }
+  @media (max-width: 640px) { .rn-prose h2 { font-size: 1.4rem; } .rn-prose { font-size: 1rem; } .rn-prose img { max-height: 300px; } }
+</style>
+
+<script is:inline>
+  (function () {
+    var box = document.querySelector("[data-prose]");
+    var toc = document.querySelector("[data-toc]");
+    var wrap = document.querySelector("[data-toc-wrap]");
+    if (!box) return;
+
+    // Testimonios sueltos ("— Nombre, RN" + cita) se muestran como tarjetas
+    var ps = Array.prototype.slice.call(box.querySelectorAll(":scope > p"));
+    for (var i = 0; i < ps.length - 1; i++) {
+      var t = (ps[i].textContent || "").trim();
+      var q = (ps[i + 1].textContent || "").trim();
+      if (/^—\s*.{2,40},?\s*RN$/.test(t) && /^[\u201c"]/.test(q)) {
+        var card = document.createElement("figure");
+        card.className = "rn-card";
+        var bq = document.createElement("blockquote");
+        bq.textContent = q;
+        var cap = document.createElement("figcaption");
+        cap.textContent = t.replace(/^—\s*/, "");
+        card.appendChild(bq);
+        card.appendChild(cap);
+        ps[i].parentNode.insertBefore(card, ps[i]);
+        ps[i].remove();
+        ps[i + 1].remove();
+        i++;
+      }
+    }
+
+    // "En esta página": se arma sola con los títulos H2
+    if (!toc || !wrap) return;
+    var hs = Array.prototype.slice.call(box.querySelectorAll("h2"));
+    if (hs.length < 3) { wrap.remove(); return; }
+    hs.forEach(function (h, i) {
+      if (!h.id) h.id = "sec-" + (i + 1);
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = "#" + h.id;
+      a.textContent = (h.textContent || "").replace(/\s+/g, " ").trim();
+      a.className = "block text-slate-600 hover:text-[#0e497c] leading-snug";
+      li.appendChild(a);
+      toc.appendChild(li);
+    });
+  })();
+</script>
