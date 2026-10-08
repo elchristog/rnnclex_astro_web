@@ -1,0 +1,628 @@
+[
+  {
+    "path": "/faq/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/quienes-somos/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/equipo/",
+    "status": "ok",
+    "chars": 6382,
+    "faqs": 0,
+    "flags": []
+  },
+  {
+    "path": "/contacto/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/terminos-y-condiciones/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/preparacion-nclex/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/preparacion-nclex/cursos/",
+    "status": "ok",
+    "chars": 3502,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/preparacion-nclex/simuladores-examen/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/preparacion-nclex/simuladores-examen/cat/",
+    "status": "ok",
+    "chars": 5771,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/preparacion-nclex/simuladores-examen/readiness-assessment/",
+    "status": "ok",
+    "chars": 6083,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/examen-nclex/inscripcion/",
+    "status": "ok",
+    "chars": 7378,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/fechas/",
+    "status": "ok",
+    "chars": 5014,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/recursos-nclex/",
+    "status": "ya-existe-en-astro"
+  },
+  {
+    "path": "/recursos-nclex/app/",
+    "status": "ok",
+    "chars": 4416,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/recursos-nclex/videos/",
+    "status": "ok",
+    "chars": 3730,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/recursos-nclex/tutores/",
+    "status": "ok",
+    "chars": 5669,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/recursos-nclex/libros-y-guias/",
+    "status": "ok",
+    "chars": 7177,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/alabama/",
+    "status": "ok",
+    "chars": 3962,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/alaska/",
+    "status": "ok",
+    "chars": 3865,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/arizona/",
+    "status": "ok",
+    "chars": 3622,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/arkansas/",
+    "status": "ok",
+    "chars": 3869,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/california/",
+    "status": "ok",
+    "chars": 4082,
+    "faqs": 2,
+    "flags": [
+      "precio-viejo"
+    ]
+  },
+  {
+    "path": "/examen-nclex/requisitos/colorado/",
+    "status": "ok",
+    "chars": 3829,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/connecticut/",
+    "status": "ok",
+    "chars": 3908,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/delaware/",
+    "status": "ok",
+    "chars": 3542,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/florida/",
+    "status": "ok",
+    "chars": 4074,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/georgia/",
+    "status": "ok",
+    "chars": 3376,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/hawaii/",
+    "status": "ok",
+    "chars": 3870,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/idaho/",
+    "status": "ok",
+    "chars": 3440,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/illinois/",
+    "status": "ok",
+    "chars": 3991,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/indiana/",
+    "status": "ok",
+    "chars": 3748,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/iowa/",
+    "status": "ok",
+    "chars": 3496,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/kansas/",
+    "status": "ok",
+    "chars": 3733,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/kentucky/",
+    "status": "ok",
+    "chars": 3651,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/louisiana/",
+    "status": "ok",
+    "chars": 3695,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/maine/",
+    "status": "ok",
+    "chars": 3731,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/maryland/",
+    "status": "ok",
+    "chars": 3322,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/massachusetts/",
+    "status": "ok",
+    "chars": 4117,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/michigan/",
+    "status": "ok",
+    "chars": 3798,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/minnesota/",
+    "status": "ok",
+    "chars": 3489,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/mississippi/",
+    "status": "ok",
+    "chars": 3341,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/missouri/",
+    "status": "ok",
+    "chars": 3642,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/montana/",
+    "status": "ok",
+    "chars": 3599,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/nebraska/",
+    "status": "ok",
+    "chars": 3680,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/nevada/",
+    "status": "ok",
+    "chars": 3706,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/new-hampshire/",
+    "status": "ok",
+    "chars": 3934,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/new-jersey/",
+    "status": "ok",
+    "chars": 3945,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/new-mexico/",
+    "status": "ok",
+    "chars": 3523,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/new-york/",
+    "status": "ok",
+    "chars": 3944,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/north-carolina/",
+    "status": "ok",
+    "chars": 3502,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/north-dakota/",
+    "status": "ok",
+    "chars": 3539,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/ohio/",
+    "status": "ok",
+    "chars": 3598,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/oklahoma/",
+    "status": "ok",
+    "chars": 3634,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/oregon/",
+    "status": "ok",
+    "chars": 3808,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/pennsylvania/",
+    "status": "ok",
+    "chars": 3744,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/rhode-island/",
+    "status": "ok",
+    "chars": 3840,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/south-carolina/",
+    "status": "ok",
+    "chars": 3540,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/south-dakota/",
+    "status": "ok",
+    "chars": 3364,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/tennessee/",
+    "status": "ok",
+    "chars": 3566,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/texas/",
+    "status": "ok",
+    "chars": 3649,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/utah/",
+    "status": "ok",
+    "chars": 3323,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/vermont/",
+    "status": "ok",
+    "chars": 3465,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/virginia/",
+    "status": "ok",
+    "chars": 3575,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/washington/",
+    "status": "ok",
+    "chars": 3712,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/west-virginia/",
+    "status": "ok",
+    "chars": 6100,
+    "faqs": 0,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/wisconsin/",
+    "status": "ok",
+    "chars": 3665,
+    "faqs": 2,
+    "flags": []
+  },
+  {
+    "path": "/examen-nclex/requisitos/wyoming/",
+    "status": "ok",
+    "chars": 6100,
+    "faqs": 0,
+    "flags": []
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/adult-health/",
+    "status": "ok",
+    "chars": 5568,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/maternal-newborn-health/",
+    "status": "ok",
+    "chars": 5691,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/mental-health/",
+    "status": "ok",
+    "chars": 6599,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/pharmacology/",
+    "status": "ok",
+    "chars": 5007,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/fundamentals/",
+    "status": "ok",
+    "chars": 6083,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/child-health/",
+    "status": "ok",
+    "chars": 5351,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/leadership-management/",
+    "status": "ok",
+    "chars": 5822,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/preparacion-nclex/preguntas-practica/critical-care/",
+    "status": "ok",
+    "chars": 5545,
+    "faqs": 0,
+    "flags": [
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/estrategias-examen/plan-estudio-nclex-8-semanas/",
+    "status": "ok",
+    "chars": 2087,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/",
+    "status": "ok",
+    "chars": 2296,
+    "faqs": 4,
+    "flags": [
+      "precio-viejo"
+    ]
+  },
+  {
+    "path": "/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/",
+    "status": "ok",
+    "chars": 2815,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/proceso-licencia-homologacion/como-obtener-att-nclex/",
+    "status": "ok",
+    "chars": 3030,
+    "faqs": 4,
+    "flags": []
+  },
+  {
+    "path": "/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/",
+    "status": "ok",
+    "chars": 4681,
+    "faqs": 4,
+    "flags": [
+      "desde-100"
+    ]
+  },
+  {
+    "path": "/proceso-licencia-homologacion/como-inscribirte-al-examen-nclex-en-2025/",
+    "status": "ok",
+    "chars": 6775,
+    "faqs": 0,
+    "flags": [
+      "precio-viejo",
+      "whatsapp-compra"
+    ]
+  },
+  {
+    "path": "/estrategias-examen/desbloquea-el-exito-en-el-nclex-guia-definitiva-de-libros-y-estrategias-de-estudio/",
+    "status": "ok",
+    "chars": 5989,
+    "faqs": 0,
+    "flags": []
+  },
+  {
+    "path": "/proceso-licencia-homologacion/cuantas-veces-se-puede-hacer-el-nclex/",
+    "status": "ok",
+    "chars": 8493,
+    "faqs": 0,
+    "flags": []
+  },
+  {
+    "path": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
+    "status": "ok",
+    "chars": 5966,
+    "faqs": 4,
+    "flags": [
+      "precio-viejo",
+      "desde-100"
+    ]
+  },
+  {
+    "path": "/estrategias-examen/es-bueno-sacar-80-en-el-nclex/",
+    "status": "ok",
+    "chars": 6872,
+    "faqs": 0,
+    "flags": []
+  },
+  {
+    "path": "/estrategias-examen/como-pasar-el-nclex/",
+    "status": "ok",
+    "chars": 11561,
+    "faqs": 0,
+    "flags": [
+      "desde-100"
+    ]
+  },
+  {
+    "path": "/estrategias-examen/que-es-el-next-generation-nclex/",
+    "status": "ok",
+    "chars": 6851,
+    "faqs": 0,
+    "flags": []
+  }
+]
