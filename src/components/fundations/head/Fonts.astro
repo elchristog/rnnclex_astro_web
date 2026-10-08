@@ -1,7 +1,18 @@
-
-<link rel="preconnect" href="https://rsms.me/" crossorigin />
-<link rel="preload" as="style" href="https://rsms.me/inter/inter.css" />
-<link rel="stylesheet" href="https://rsms.me/inter/inter.css" media="print" onload="this.media='all'" />
+---
+// Tipografia de marca: Poppins (la misma del manual de marca de rnnclex).
+---
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" media="print" onload="this.media='all'" />
 <noscript>
-  <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" />
 </noscript>
+<style is:global>
+  :root, html, body {
+    font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+    font-feature-settings: normal !important;
+  }
+  body { color: #0f172a; -webkit-font-smoothing: antialiased; }
+  summary::-webkit-details-marker { display: none; }
+</style>
