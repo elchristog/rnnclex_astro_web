@@ -38,8 +38,6 @@ jobs:
       - name: Revisar que el sitio este completo y sin errores
         run: node scripts/verify-parity.mjs
         env:
-          # Mientras migras: informa pero no bloquea. Antes del corte, crear la
-          # variable PARITY_STRICT=true en Settings > Variables del repo.
           PARITY_STRICT: ${{ vars.PARITY_STRICT || 'false' }}
 
       - name: Revisar enlaces externos (solo informa)
@@ -58,8 +56,8 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: google-github-actions/auth@v2
         with:
-          workload_identity_provider: projects/627008374034/locations/global/workloadIdentityPools/github-deployments/providers/github-actions
-          service_account: github-deploy@company-data-driven.iam.gserviceaccount.com
+          workload_identity_provider: projects/627008374034/locations/global/workloadIdentityPools/github-deployments/providers/github-rnnclex
+          service_account: rnnclex-deploy@company-data-driven.iam.gserviceaccount.com
 
       - name: Preparar Google Cloud
         if: github.event_name != 'pull_request'
