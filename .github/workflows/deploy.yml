@@ -40,6 +40,12 @@ jobs:
         env:
           PARITY_STRICT: ${{ vars.PARITY_STRICT || 'false' }}
 
+      - name: Revisar imagenes y enlaces (WordPress, rotos, otros proyectos)
+        continue-on-error: true
+        run: node scripts/check-assets.mjs
+        env:
+          STRICT: ${{ vars.ASSETS_STRICT || 'false' }}
+
       - name: Revisar enlaces externos (solo informa)
         continue-on-error: true
         run: node scripts/check-links.mjs
