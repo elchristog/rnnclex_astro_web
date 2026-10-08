@@ -1,0 +1,34 @@
+---
+// Medicion unica del sitio: GA4 + Meta + (Google Ads cuando exista). Se carga UNA sola vez desde BaseLayout.
+import { site } from "@/data/site.mjs";
+
+const cfg = {
+  ga4: site.ga4Id,
+  pixel: site.metaPixelId,
+  ads: site.googleAdsId,
+  appUrl: site.appUrl,
+  appHosts: site.appHosts,
+  price: site.offer.price,
+  currency: site.offer.currency,
+};
+---
+<script is:inline async src={"https://www.googletagmanager.com/gtag/js?id=" + site.ga4Id}></script>
+<script is:inline define:vars={{ cfg }}>
+  window.RNN = cfg;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  window.gtag = gtag;
+  gtag('js', new Date());
+  // linker: mantiene a la misma persona al saltar del sitio a la app (otro dominio)
+  gtag('config', cfg.ga4, { linker: { domains: cfg.appHosts, accept_incoming: true } });
+  if (cfg.ads) { gtag('config', cfg.ads); }
+
+  !function(f,b,e,v,n,t,s){
+    if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];
+    t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)
+  }(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', cfg.pixel);
+  fbq('track', 'PageView');
+</script>
+<script is:inline src="/js/rnn-events.js" defer></script>
