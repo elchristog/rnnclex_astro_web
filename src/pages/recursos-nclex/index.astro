@@ -1,0 +1,36 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Recursos Adicionales NCLEX-RN | App Móvil y Guías | rnnclex.com"
+  description="Accede a recursos de estudio para el NCLEX-RN: App móvil, más de 400 guías en español, videos de apoyo y tutores expertos."
+  canonical="https://rnnclex.com/recursos-nclex/"
+>
+  <section class="py-16 bg-[#eff4f7]">
+    <div class="max-w-screen-xl mx-auto px-4 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold text-[#2b2c27] mb-4">
+        Recursos de Apoyo para tu Estudio
+      </h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+        Materiales adicionales creados para reforzar tu aprendizaje y estudio diario.
+      </p>
+    </div>
+  </section>
+
+  <section class="py-20 bg-white">
+    <div class="max-w-screen-xl mx-auto px-4 grid grid-cols-1 md:grid-cols-2 gap-8">
+      <div class="p-8 bg-gray-50 border border-gray-200 rounded-xl">
+        <h2 class="text-xl font-bold text-[#0e497c] mb-3">📱 App Móvil RNNCLEX</h2>
+        <p class="text-sm text-gray-600 mb-6">Estudia en cualquier momento desde tu teléfono móvil Android o iOS con sincronización en tiempo real.</p>
+        <a href="/recursos-nclex/app/" class="inline-block bg-[#0e497c] text-white text-xs font-bold py-3 px-6 rounded hover:bg-[#0b3b64] transition">Descargar App</a>
+      </div>
+
+      <div class="p-8 bg-gray-50 border border-gray-200 rounded-xl">
+        <h2 class="text-xl font-bold text-[#0e497c] mb-3">📚 Guías de Estudio en Español</h2>
+        <p class="text-sm text-gray-600 mb-6">Descarga guías resumidas y esquemas visuales para acelerar la comprensión de temas clave.</p>
+        <a href="/recursos-nclex/libros-y-guias/" class="inline-block bg-[#0e497c] text-white text-xs font-bold py-3 px-6 rounded hover:bg-[#0b3b64] transition">Ver Guías</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
