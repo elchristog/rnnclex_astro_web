@@ -12,7 +12,7 @@ faqs: [{"question":"¿Puedo prepararme para el NCLEX solo con videos de YouTube?
 
 Leer es fundamental, pero a veces, un concepto complejo solo "hace clic" cuando lo vemos y escuchamos. Los videos de preparación para el NCLEX (nclex review videos) son una herramienta increíblemente poderosa para el aprendizaje visual y auditivo.
 
-En esta guía, te mostramos cómo usar los videos de forma estratégica para complementar tu estudio. Además, te presentamos nuestros dos canales de YouTube especializados, cada uno diseñado para apoyarte en una etapa diferente de tu viaje para convertirte en enfermera en Estados Unidos.
+En esta guía, te mostramos cómo usar los videos de forma estratégica para complementar tu estudio. Además, te presentamos nuestro canal de YouTube, creado para apoyarte durante toda tu preparación.
 
 ## Cómo Usar los Videos de Forma Estratégica
 
@@ -32,7 +32,7 @@ Escucha videos de repaso o tips mientras haces tareas domésticas o vas en el co
 
 Mira videos de simulacros donde un instructor resuelve preguntas en voz alta. Escuchar su proceso de razonamiento es una forma excelente de entrenar tu propia mente para pensar como el NCLEX.
 
-## Nuestros Canales de YouTube: Tu Dosis Diaria de Conocimiento
+## Nuestro Canal de YouTube: Tu Dosis Diaria de Conocimiento
 
 \-
 
@@ -50,23 +50,9 @@ Contenido que encontrarás:
 
 **\-** Noticias y actualizaciones importantes sobre el NCLEX.
 
+[Suscríbete al canal de rnnclex](https://www.youtube.com/@rnnclex-usa)
+
 \-
-
-### Canal: Enfermera en Estados Unidos - Tu Guía para el Proceso Completo
-
-Aprobar el NCLEX es solo una parte del viaje. Este canal está dedicado a todo lo demás: el laberinto de la homologación, los trámites burocráticos y la adaptación a la vida como enfermera en EE. UU.
-
-Contenido que encontrarás:
-
-**\-** Guías de homologación de títulos paso a paso.
-
-**\-** Desglose de requisitos por estado (Florida, Texas, etc.).
-
-**\-** Consejos sobre el proceso de visado y la búsqueda de empleo.
-
-**\-** Entrevistas y experiencias sobre la vida y el trabajo en EE. UU.
-
-[Suscríbete a Enfermera en Estados Unidos](https://www.youtube.com/@enfermeraenestadosunidos)
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

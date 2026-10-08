@@ -1,6 +1,6 @@
 ---
 title: "¿Cuántas Veces se Puede Hacer el NCLEX? Guía para Repetidores 2025"
-seoTitle: "¿Cuántas Veces se Puede Hacer el NCLEX? Guía para Repetidores 2025"
+seoTitle: "¿Cuántas veces puedes repetir el NCLEX? Guía para repetidores"
 description: "Descubre cuánto cuesta el NCLEX en 2025. Desglosamos el costo total, desde la tarifa de registro hasta los gastos de la junta de enfermería, para que…"
 date: "2025-08-12T10:51:59"
 updated: "2025-08-12T10:54:02"
