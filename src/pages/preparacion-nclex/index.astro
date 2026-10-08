@@ -3,63 +3,277 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 ---
 
 <BaseLayout
-  title="Preparación NCLEX-RN | Banco de Preguntas, CAT y Cursos | rnnclex.com"
-  description="Domina el examen NCLEX-RN con +3500 preguntas explicadas, simuladores adaptativos CAT, pruebas Readiness y casos NGN en español e inglés."
+  title="La Guía Definitiva de Preparación para el Examen NCLEX | rnnclex.com"
+  description="Descubre la mejor preparación para el examen NCLEX. Te guiamos paso a paso con un plan de estudio, banco de preguntas, simuladores y cursos de expertos. ¡Empieza aquí!"
   canonical="https://rnnclex.com/preparacion-nclex/"
 >
-  <section class="py-16 bg-[#eff4f7]">
-    <div class="max-w-screen-xl mx-auto px-4 text-center">
-      <h1 class="text-4xl md:text-5xl font-bold text-[#2b2c27] mb-6">
-        Herramientas de Preparación NCLEX-RN
+  {/* Hero Section */}
+  <section class="py-12 bg-white text-center border-t border-black/10">
+    <div class="max-w-[1120px] mx-auto px-5 flex flex-col items-center">
+      <h1 class="text-4xl md:text-5xl lg:text-[50px] font-bold text-[#2b2c27] mb-3 leading-tight">
+        Guía Maestra para la Preparación del Examen NCLEX-RN
       </h1>
-      <p class="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-        Diseñamos el ecosistema más completo para enfermeros hispanos. Practica con nuestro banco adaptativo, mide tus probabilidades reales de aprobación y domina el Next Generation NCLEX (NGN).
-      </p>
+      
+      <img
+        src="/images/guia-preparacion-examen-nclex-rn-rnnclex.webp"
+        alt="Guía maestra para la preparación del examen NCLEX-RN, mostrando un escritorio organizado con un plan de estudio, un banco de preguntas en una laptop y herramientas de rnnclex.com."
+        class="w-[200px] h-[200px] rounded-full object-cover my-5 border-4 border-gray-100 shadow-md"
+        width="200"
+        height="200"
+      />
+
+      <div class="flex flex-col md:flex-row items-center justify-center gap-4 my-5 w-full">
+        <a href="/preparacion-nclex/preguntas-practica/" class="w-full md:w-auto bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold py-4 px-[48px] text-[18px] md:text-[20px] rounded tracking-wider transition text-center shadow">
+          Preguntas de Práctica
+        </a>
+        <a href="/preparacion-nclex/simuladores-examen/" class="w-full md:w-auto bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold py-4 px-[48px] text-[18px] md:text-[20px] rounded tracking-wider transition text-center shadow">
+          Simuladores de NCLEX
+        </a>
+        <a href="/preparacion-nclex/cursos/" class="w-full md:w-auto bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold py-4 px-[48px] text-[18px] md:text-[20px] rounded tracking-wider transition text-center shadow">
+          Cursos Online
+        </a>
+        <a href="/preparacion-nclex/preguntas-practica/" class="w-full md:w-auto border-3 border-[#a0ccf2] text-[#0e497c] hover:bg-[#eff4f7] font-bold py-[14px] px-[46px] text-[18px] md:text-[20px] rounded tracking-wider transition text-center">
+          Iniciar Prueba Gratuita
+        </a>
+      </div>
+
+      <div class="text-[18px] md:text-[20px] lg:text-[25px] text-[#070707] text-justify max-w-[90%] my-12 leading-relaxed">
+        Bienvenido/a a la guía más completa sobre cómo prepararse para el examen NCLEX. Sabemos que el NCLEX no es solo una prueba de conocimientos, sino un examen de pensamiento crítico que determina tu futuro como enfermero/a registrado/a.<br/><br/>
+        En esta página, desglosaremos la metodología exacta y las herramientas que necesitas para no solo presentar el examen, sino para dominarlo con confianza. Esta es la mejor preparación para el NCLEX (best nclex preparation) porque se basa en un enfoque estructurado y probado.
+      </div>
     </div>
   </section>
 
-  <section class="py-20 bg-white">
-    <div class="max-w-screen-xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
-      <!-- Item 1 -->
-      <div class="p-8 bg-gray-50 rounded-xl border border-gray-100 flex flex-col justify-between">
+  {/* Los 3 Pilares Section */}
+  <section class="py-16 bg-[#eff4f7]">
+    <div class="max-w-[1120px] mx-auto px-5">
+      <h2 class="text-3xl md:text-4xl font-bold text-[#2b2c27] text-center mb-6">
+        Los 3 Pilares Fundamentales de tu Preparación NCLEX
+      </h2>
+
+      <p class="text-lg text-gray-700 max-w-4xl mx-auto mb-12 text-center leading-relaxed">
+        Estudiar sin un plan es como navegar sin un mapa. El NCLEX utiliza un formato de Prueba Adaptativa por Computadora (CAT), lo que significa que el examen se ajusta a tu nivel de habilidad en tiempo real. No puedes simplemente memorizar; necesitas entender, aplicar y analizar.<br/><br/>
+        Una revisión del NCLEX (nclex review) efectiva se compone de tres elementos clave que trabajan en conjunto: la práctica constante, la simulación del entorno real y el refuerzo del conocimiento teórico.<br/><br/>
+        Hemos estructurado nuestra plataforma en torno a los tres pilares esenciales que te llevarán al éxito. A continuación, te explicamos cada uno y cómo integrarlos en tu plan de estudio.
+      </p>
+
+      {/* Pilar 1 */}
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center bg-white p-8 rounded-2xl shadow-sm border border-gray-100 mb-12">
         <div>
-          <span class="text-2xl mb-4 block">🗄️</span>
-          <h2 class="text-xl font-bold text-[#2b2c27] mb-3">Banco de Preguntas +3500</h2>
-          <p class="text-sm text-gray-600 leading-relaxed mb-6">
-            Preguntas redactadas por expertos en enfermería, con explicaciones detalladas (racionalizaciones) en español e inglés técnico para asegurar tu aprendizaje.
+          <h3 class="text-2xl font-bold text-[#0e497c] mb-4">Domina con Preguntas de Práctica (Qbank)</h3>
+          <p class="text-gray-600 text-base leading-relaxed mb-6">
+            El pilar de cualquier buena preparación es la práctica masiva con preguntas de alta calidad. Un banco de preguntas robusto te permite familiarizarte con el estilo y la dificultad del examen, identificar tus debilidades y, lo más importante, aprender de tus errores a través de las justificaciones.<br/><br/>
+            ¿Qué buscar? Un banco con miles de preguntas (nclex practice questions), que incluya los nuevos formatos del Next Generation NCLEX (NGN) y que ofrezca justificaciones detalladas para cada opción de respuesta, no solo la correcta.<br/><br/>
+            <strong>Nuestra Solución:</strong> Nuestro Qbank te ofrece +3.500 preguntas actualizadas, que cubren todas las áreas del NCLEX.
           </p>
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-2">Explora Nuestro Banco de Preguntas</h4>
+          <p class="text-sm text-gray-500 mb-4">Sumérgete en miles de preguntas de práctica y empieza a construir tu base de conocimiento hoy mismo.</p>
+          <a href="/preparacion-nclex/preguntas-practica/" class="inline-block bg-[#0e497c] text-white font-bold py-3 px-6 rounded text-sm hover:bg-[#0b3b64] transition">
+            Ir a Preguntas de Práctica
+          </a>
         </div>
-        <a href="/preparacion-nclex/preguntas-practica/" class="inline-block bg-[#0e497c] text-white text-xs font-bold py-3 px-6 rounded text-center hover:bg-[#0b3b64] transition">
-          Iniciar Práctica Gratis
-        </a>
+        <div>
+          <img
+            src="/images/banco-de-preguntas-nclex-qbank-rnnclex.webp"
+            alt="Interfaz del banco de preguntas (Qbank) de rnnclex.com, mostrando una pregunta de práctica del NCLEX-RN con opciones de respuesta en una pantalla de laptop."
+            class="w-full h-auto rounded-xl shadow border border-gray-200"
+          />
+        </div>
       </div>
 
-      <!-- Item 2 -->
-      <div class="p-8 bg-gray-50 rounded-xl border border-gray-100 flex flex-col justify-between">
-        <div>
-          <span class="text-2xl mb-4 block">💻</span>
-          <h2 class="text-xl font-bold text-[#2b2c27] mb-3">Simuladores CAT & Readiness</h2>
-          <p class="text-sm text-gray-600 leading-relaxed mb-6">
-            El simulador adaptativo (Computerized Adaptive Testing) simula el algoritmo oficial de Pearson VUE para calcular tu probabilidad de pasar el examen.
-          </p>
+      {/* Pilar 2 */}
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center bg-white p-8 rounded-2xl shadow-sm border border-gray-100 mb-12">
+        <div class="order-2 md:order-1">
+          <img
+            src="/images/simulador-nclex-cat-readiness-rnnclex-e1750962527374.webp"
+            alt="Pantalla de una tablet mostrando el resultado de un 'Readiness Assessment' de rnnclex.com, con un gráfico de rendimiento y una predicción de 'Alta probabilidad de pasar' el examen NCLEX."
+            class="w-full h-auto rounded-xl shadow border border-gray-200"
+          />
         </div>
-        <a href="/preparacion-nclex/simuladores-examen/CAT/" class="inline-block bg-[#0e497c] text-white text-xs font-bold py-3 px-6 rounded text-center hover:bg-[#0b3b64] transition">
-          Probar Simulador CAT
-        </a>
+        <div class="order-1 md:order-2">
+          <h3 class="text-2xl font-bold text-[#0e497c] mb-4">Simula el Examen Real (CAT & Readiness Assessments)</h3>
+          <p class="text-gray-600 text-base leading-relaxed mb-6">
+            Una vez que has practicado, necesitas probarte en un entorno que imite el examen real. Aquí es donde los simuladores y las evaluaciones de preparación (nclex readiness exam) entran en juego. Te ayudan a manejar el tiempo, controlar la ansiedad y obtener una predicción realista de tu rendimiento.<br/><br/>
+            ¿Qué buscar? Herramientas que ofrezcan simulaciones CAT ilimitadas y Readiness Assessments que te den un puntaje predictivo de aprobación.<br/><br/>
+            <strong>Nuestra Solución:</strong> Realiza exámenes predictivos ilimitados para saber exactamente cuándo estás listo/a para el éxito.
+          </p>
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-2">Prueba Nuestros Simuladores de Examen</h4>
+          <p class="text-sm text-gray-500 mb-4">Mide tu preparación, familiarízate con el formato adaptativo y gana la confianza que necesitas para el día del examen.</p>
+          <a href="/preparacion-nclex/simuladores-examen/" class="inline-block bg-[#0e497c] text-white font-bold py-3 px-6 rounded text-sm hover:bg-[#0b3b64] transition">
+            Ver Simuladores
+          </a>
+        </div>
       </div>
 
-      <!-- Item 3 -->
-      <div class="p-8 bg-gray-50 rounded-xl border border-gray-100 flex flex-col justify-between">
+      {/* Pilar 3 */}
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center bg-white p-8 rounded-2xl shadow-sm border border-gray-100">
         <div>
-          <span class="text-2xl mb-4 block">🎧</span>
-          <h2 class="text-xl font-bold text-[#2b2c27] mb-3">Cursos Online y Revisiones</h2>
-          <p class="text-sm text-gray-600 leading-relaxed mb-6">
-            Estructuras de estudio paso a paso para repasar farmacología, enfermería médico-quirúrgica, maternidad y pediatría con enfoque bilingüe.
+          <h3 class="text-2xl font-bold text-[#0e497c] mb-4">Refuerza tu Conocimiento con Cursos de Expertos</h3>
+          <p class="text-gray-600 text-base leading-relaxed mb-6">
+            La práctica y la simulación revelarán tus áreas débiles. El siguiente paso es reforzar esos temas con contenido teórico enfocado y de alto rendimiento. Los cursos online te permiten repasar conceptos clave de manera eficiente.<br/><br/>
+            ¿Qué buscar? Los mejores cursos de preparación para el NCLEX (best nclex prep course) ofrecen videos bajo demanda, revisiones en vivo y material de estudio conciso que se centra en lo que realmente necesitas saber.<br/><br/>
+            <strong>Nuestra Solución:</strong> Accede a más de 400 guías de estudio en español y cursos en video impartidos por enfermeros expertos.
+          </p>
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-2">Descubre Nuestros Cursos Online</h4>
+          <p class="text-sm text-gray-500 mb-4">Profundiza en los temas más complejos con lecciones en video, guías de estudio y revisiones de expertos.</p>
+          <a href="/preparacion-nclex/cursos/" class="inline-block bg-[#0e497c] text-white font-bold py-3 px-6 rounded text-sm hover:bg-[#0b3b64] transition">
+            Explorar Cursos
+          </a>
+        </div>
+        <div>
+          <img
+            src="/images/cursos-expertos-nclex-videos-rnnclex.webp"
+            alt="Instructor experto impartiendo un curso online sobre la preparación para el examen NCLEX-RN en la plataforma de rnnclex.com, visto en una pantalla de laptop."
+            class="w-full h-auto rounded-xl shadow border border-gray-200"
+          />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* Plan Paso a Paso Section */}
+  <section class="py-16 bg-white">
+    <div class="max-w-[1120px] mx-auto px-5">
+      <h2 class="text-3xl md:text-4xl font-bold text-[#2b2c27] text-center mb-4">
+        Cómo Crear tu Plan de Estudio NCLEX Paso a Paso
+      </h2>
+      <p class="text-gray-600 text-center mb-12">Ahora, unamos todo. Sigue este plan para estructurar tu estudio:</p>
+
+      <div class="space-y-6 max-w-3xl mx-auto">
+        <div class="flex items-start gap-4 p-6 bg-gray-50 rounded-xl border border-gray-200">
+          <div class="bg-[#0e497c] text-white font-bold px-3 py-1 rounded text-sm shrink-0">Paso 1</div>
+          <div>
+            <h3 class="font-bold text-lg text-[#2b2c27] mb-1">Realiza un Diagnóstico NCLEX</h3>
+            <p class="text-sm text-gray-600">Comienza con uno de nuestros Readiness Assessments para obtener una línea base de tu conocimiento actual.</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-4 p-6 bg-gray-50 rounded-xl border border-gray-200">
+          <div class="bg-[#0e497c] text-white font-bold px-3 py-1 rounded text-sm shrink-0">Paso 2</div>
+          <div>
+            <h3 class="font-bold text-lg text-[#2b2c27] mb-1">Práctica Enfocada Qbank</h3>
+            <p class="text-sm text-gray-600">Utiliza el Banco de Preguntas para crear exámenes personalizados en las áreas donde obtuviste un puntaje más bajo. Lee cada justificación con atención.</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-4 p-6 bg-gray-50 rounded-xl border border-gray-200">
+          <div class="bg-[#0e497c] text-white font-bold px-3 py-1 rounded text-sm shrink-0">Paso 3</div>
+          <div>
+            <h3 class="font-bold text-lg text-[#2b2c27] mb-1">Revisa y Aprende con Cursos</h3>
+            <p class="text-sm text-gray-600">¿Sigues fallando en farmacología? Ve a nuestros Cursos Online y mira los videos correspondientes a ese tema.</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-4 p-6 bg-gray-50 rounded-xl border border-gray-200">
+          <div class="bg-[#0e497c] text-white font-bold px-3 py-1 rounded text-sm shrink-0">Paso 4</div>
+          <div>
+            <h3 class="font-bold text-lg text-[#2b2c27] mb-1">Simula y Mide CAT</h3>
+            <p class="text-sm text-gray-600">Una vez por semana, realiza un examen CAT completo para medir tu progreso y mejorar tu resistencia.</p>
+          </div>
+        </div>
+
+        <div class="flex items-start gap-4 p-6 bg-gray-50 rounded-xl border border-gray-200">
+          <div class="bg-[#0e497c] text-white font-bold px-3 py-1 rounded text-sm shrink-0">Paso 5</div>
+          <div>
+            <h3 class="font-bold text-lg text-[#2b2c27] mb-1">Repite</h3>
+            <p class="text-sm text-gray-600">Continúa este ciclo de diagnóstico, práctica, revisión y simulación hasta que obtengas consistentemente puntajes altos en tus evaluaciones de preparación.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* Testimonios Section */}
+  <section class="py-16 bg-[#eff4f7]">
+    <div class="max-w-[1120px] mx-auto px-5">
+      <h2 class="text-3xl md:text-4xl font-bold text-[#2b2c27] text-center mb-12">
+        Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
+      </h2>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex flex-col justify-between">
+          <div>
+            <p class="text-sm font-bold text-[#0e497c] mb-3">— Daniela P., RN</p>
+            <p class="text-gray-600 text-sm italic leading-relaxed mb-6">
+              "¡Aprobé en 85 preguntas! Las preguntas de práctica de rnnclex.com son increíblemente similares al examen real. Los simuladores CAT me dieron la confianza que necesitaba. ¡Totalmente recomendado!"
+            </p>
+          </div>
+          <a href="/preparacion-nclex/preguntas-practica/" class="inline-block text-center border border-[#0e497c] text-[#0e497c] font-bold py-2 px-4 rounded text-xs hover:bg-[#0e497c] hover:text-white transition">
+            Iniciar Prueba Gratuita
+          </a>
+        </div>
+
+        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex flex-col justify-between">
+          <div>
+            <p class="text-sm font-bold text-[#0e497c] mb-3">— Carlos V., RN</p>
+            <p class="text-gray-600 text-sm italic leading-relaxed mb-6">
+              "La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing de Florida me salvaron de muchos dolores de cabeza. ¡Gracias!"
+            </p>
+          </div>
+          <a href="/preparacion-nclex/preguntas-practica/" class="inline-block text-center border border-[#0e497c] text-[#0e497c] font-bold py-2 px-4 rounded text-xs hover:bg-[#0e497c] hover:text-white transition">
+            Iniciar Prueba Gratuita
+          </a>
+        </div>
+
+        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex flex-col justify-between">
+          <div>
+            <p class="text-sm font-bold text-[#0e497c] mb-3">— Jessica H., RN</p>
+            <p class="text-gray-600 text-sm italic leading-relaxed mb-6">
+              "Pasé mi NCLEX en el primer intento. El banco de preguntas (nclex test bank) es excelente y las explicaciones son muy claras. No podría haberlo hecho sin esta plataforma."
+            </p>
+          </div>
+          <a href="/preparacion-nclex/preguntas-practica/" class="inline-block text-center border border-[#0e497c] text-[#0e497c] font-bold py-2 px-4 rounded text-xs hover:bg-[#0e497c] hover:text-white transition">
+            Iniciar Prueba Gratuita
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* FAQ Section */}
+  <section class="py-16 bg-white">
+    <div class="max-w-[1120px] mx-auto px-5">
+      <h3 class="text-3xl font-bold text-[#2b2c27] text-center mb-12">Preguntas Frecuentes</h3>
+
+      <div class="space-y-8 max-w-4xl mx-auto">
+        <div class="p-6 bg-[#eff4f7] rounded-xl border border-gray-200">
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-3">¿Cuánto tiempo lleva prepararse para el examen NCLEX RN?</h4>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            No hay una respuesta única, ya que depende de varios factores personales. Sin embargo, la mayoría de los graduados dedican entre 22 y 28 semanas a una preparación enfocada.<br/><br/>
+            Los factores que influyen en este tiempo son:<br/>
+            - <strong>Tu base de conocimientos:</strong> Qué tan sólidos son tus conocimientos de la escuela de enfermería.<br/>
+            - <strong>Tiempo de estudio:</strong> Las horas diarias o semanales que puedes dedicar de manera consistente.<br/>
+            - <strong>Familiaridad con el formato:</strong> Tu nivel de comodidad con las preguntas de pensamiento crítico y el formato de Prueba Adaptativa por Computadora (CAT).<br/><br/>
+            La mejor estrategia es comenzar con una evaluación de preparación (Readiness Assessment) para medir tu punto de partida y luego crear un plan de estudio realista basado en los resultados.
           </p>
         </div>
-        <a href="/preparacion-nclex/cursos/" class="inline-block bg-[#0e497c] text-white text-xs font-bold py-3 px-6 rounded text-center hover:bg-[#0b3b64] transition">
-          Ver Cursos Disponibles
-        </a>
+
+        <div class="p-6 bg-[#eff4f7] rounded-xl border border-gray-200">
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-3">¿Cuál es la mejor preparación para el examen NCLEX?</h4>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            La "mejor" preparación no es un solo producto, sino una metodología integral que combina tres componentes esenciales:<br/><br/>
+            - <strong>Práctica Masiva con un Qbank de Calidad:</strong> Utilizar un banco de preguntas extenso (+3,000 preguntas) es crucial. Las preguntas deben ser similares en estilo y dificultad a las del examen real y con justificaciones detalladas.<br/>
+            - <strong>Simulación Realista (CAT y Predictoras):</strong> Debes practicar en un entorno que imite el examen real.<br/>
+            - <strong>Repaso Enfocado del Contenido:</strong> Repasa las áreas débiles con recursos eficientes como videos y guías de estudio.
+          </p>
+        </div>
+
+        <div class="p-6 bg-[#eff4f7] rounded-xl border border-gray-200">
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-3">¿Qué tan difícil es el examen NCLEX RN?</h4>
+          <p class="text-sm text-gray-600 leading-relaxed">
+            El NCLEX-RN es conocido por ser un examen desafiante debido a su enfoque en el pensamiento crítico y el juicio clínico bajo el formato CAT adaptativo. No está diseñado para memorizar, sino para evaluar decisiones de enfermería seguras.
+          </p>
+        </div>
+
+        <div class="p-6 bg-[#eff4f7] rounded-xl border border-gray-200 text-center">
+          <h4 class="text-lg font-bold text-[#2b2c27] mb-3">¿Es bueno obtener un 80% en el NCLEX?</h4>
+          <p class="text-sm text-gray-600 leading-relaxed mb-6">
+            El NCLEX-RN no tiene calificación porcentual; es un examen pass/fail (aprobado/reprobado). Enfócate en tu nivel de juicio clínico y en las evaluaciones predictivas de Readiness Assessment.
+          </p>
+          <a href="/preparacion-nclex/preguntas-practica/" class="inline-block bg-[#0e497c] text-white font-bold py-3 px-8 rounded text-sm hover:bg-[#0b3b64] transition shadow">
+            Iniciar Prueba Gratuita
+          </a>
+        </div>
       </div>
     </div>
   </section>
