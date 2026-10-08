@@ -3,7 +3,7 @@
 //      'enacted' = aprobado, implementacion pendiente, 'none' = no pertenece.
 // Estado del NLC revisado en oct-2026 (nursecompact.org / NCSBN). Las tarifas NO se guardan aqui a proposito:
 // cada junta las fija y cambian; la pagina remite al sitio oficial.
-// Los sitios oficiales se revisan en CI con scripts/check-links.mjs.
+// Los sitios oficiales se revisan en CI con scripts/check-links.mjs (algunos responden 403 a los robots aunque funcionen en el navegador).
 const rows = [
   ['alabama', 'Alabama', 'AL', 'Alabama Board of Nursing', 'https://abn.alabama.gov/', 'full'],
   ['alaska', 'Alaska', 'AK', 'Alaska Board of Nursing', 'https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/BoardofNursing', 'none'],
@@ -33,7 +33,7 @@ const rows = [
   ['montana', 'Montana', 'MT', 'Montana Board of Nursing', 'https://boards.bsd.dli.mt.gov/nur', 'full'],
   ['nebraska', 'Nebraska', 'NE', 'Nebraska DHHS, Licensure Unit (Nursing)', 'https://dhhs.ne.gov/', 'full'],
   ['nevada', 'Nevada', 'NV', 'Nevada State Board of Nursing', 'https://nevadanursingboard.org/', 'none'],
-  ['new-hampshire', 'New Hampshire', 'NH', 'New Hampshire Board of Nursing', 'https://www.oplc.nh.gov/office-professional-licensure-and-certification/nursing', 'full'],
+  ['new-hampshire', 'New Hampshire', 'NH', 'New Hampshire Board of Nursing', 'https://www.oplc.nh.gov/new-hampshire-board-nursing', 'full'],
   ['new-jersey', 'New Jersey', 'NJ', 'New Jersey Board of Nursing', 'https://www.njconsumeraffairs.gov/nur', 'full'],
   ['new-mexico', 'New Mexico', 'NM', 'New Mexico Board of Nursing', 'https://nmbon.sks.com/', 'full'],
   ['new-york', 'New York', 'NY', 'NYSED, Office of the Professions (Enfermería)', 'https://www.op.nysed.gov/professions/registered-professional-nursing', 'none'],
@@ -46,7 +46,7 @@ const rows = [
   ['rhode-island', 'Rhode Island', 'RI', 'Rhode Island Department of Health (Nursing)', 'https://health.ri.gov/licenses', 'full'],
   ['south-carolina', 'South Carolina', 'SC', 'South Carolina Board of Nursing', 'https://llr.sc.gov/nurse/', 'full'],
   ['south-dakota', 'South Dakota', 'SD', 'South Dakota Board of Nursing', 'https://doh.sd.gov/boards/nursing/', 'full'],
-  ['tennessee', 'Tennessee', 'TN', 'Tennessee Board of Nursing', 'https://www.tn.gov/health/health-program-areas/health-professional-boards/nursing-board.html', 'full'],
+  ['tennessee', 'Tennessee', 'TN', 'Tennessee Board of Nursing', 'https://www.tn.gov/health/licensure/nurs.html', 'full'],
   ['texas', 'Texas', 'TX', 'Texas Board of Nursing', 'https://www.bon.texas.gov/', 'full'],
   ['utah', 'Utah', 'UT', 'Utah Board of Nursing', 'https://dopl.utah.gov/nurse/', 'full'],
   ['vermont', 'Vermont', 'VT', 'Vermont State Board of Nursing', 'https://sos.vermont.gov/nursing/', 'full'],
