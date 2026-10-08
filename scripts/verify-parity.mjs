@@ -16,12 +16,16 @@ const paths = [
 ];
 const expected = new Set(paths);
 
-// Restos de la oferta anterior que no deben salir publicados
+// Restos de la oferta anterior que no deben salir publicados (texto visible)
+// Nota: $350/$650/$900 NO se buscan porque son tarifas reales de juntas estatales y del CES.
 const OFFER_BAD = [
   /Acceso\s+(30|90|180)\s+D[ií]as/i,
-  /\$\s?(49|89|139|350|650|900)(?![\d,])/,
+  /\$\s?(49|89|139)(?![\d,.])/,
   /desde\s+\$\s?100/i,
+  /mensaje por WhatsApp/i,
 ];
+// Enlaces de compra/contacto antiguos (en el HTML)
+const OLD_LINKS = [/rnnclex_whatsapp/i, /wa\.me\//i, /api\.whatsapp\.com/i, /calendly\.com/i];
 
 function walkAll(dir, out = []) {
   for (const e of readdirSync(dir, { withFileTypes: true })) {
@@ -102,6 +106,7 @@ for (const f of htmlFiles) {
   if (!/http-equiv=["']refresh["']/i.test(raw)) {
     const visible = raw.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '').replace(/<[^>]+>/g, ' ');
     for (const re of OFFER_BAD) if (re.test(visible)) offerLeaks.push(rel + ' (' + re.source.slice(0, 24) + ')');
+    for (const re of OLD_LINKS) if (re.test(raw)) offerLeaks.push(rel + ' (enlace antiguo ' + re.source.slice(0, 18) + ')');
   }
   if (rel.endsWith('/') && !expected.has(rel) && rel !== '/404/') extras.push(rel);
   // Enlaces internos rotos
