@@ -10,13 +10,12 @@ flags: []
 faqs: [{"question":"¿Cuánto dura el ATT?","answer":"Lo define tu Board of Nursing. El promedio ronda 90 días. Debes examinarte dentro de esas fechas."},{"question":"¿Puedo pagar Pearson antes de que la junta me apruebe?","answer":"Sí. El registro permanece abierto hasta 365 días esperando elegibilidad. El ATT solo sale cuando ambos están listos."},{"question":"¿Qué pasa si expira el ATT?","answer":"Debes registrarte de nuevo y pagar otra tarifa de examen. No se reutiliza el ATT vencido."},{"question":"¿El ATT llega por correo postal?","answer":"No. Pearson lo envía por email a la dirección del registro."}]
 ---
 
-[](https://rnnclex.com/)
 
 **Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 4 de octubre de 2026
 
-El ATT solo sirve si estás listo. Practica 85 preguntas gratis antes de agendar.
+El ATT solo sirve si estás listo. Practica preguntas de muestra gratis antes de agendar.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
 El **ATT (Authorization to Test)** es el correo de Pearson VUE que te autoriza a programar el NCLEX. Sin ATT no hay cita. Sin elegibilidad del Board of Nursing y registro pagado en Pearson, no hay ATT.
 
@@ -53,6 +52,6 @@ Cuando tus Readiness Assessments den alta probabilidad de pasar de forma consist
 
 +3500 preguntas bilingües, CAT y NGN. Empieza gratis.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
 [Ver planes](/precios/) · [Inscripción NCLEX](/examen-nclex/inscripcion/)

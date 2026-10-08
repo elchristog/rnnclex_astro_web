@@ -6,11 +6,10 @@ date: "2025-08-11T15:55:30"
 updated: "2026-10-04T08:28:41"
 section: "estrategias-examen"
 slug: "como-pasar-el-nclex"
-flags: ["desde-100"]
+flags: []
 faqs: []
 ---
 
-[](https://rnnclex.com/)
 
 * * *
 
@@ -212,8 +211,8 @@ Oficialmente, los resultados pueden tardar hasta seis semanas. Sin embargo, pued
 
 ## Pasa el NCLEX a la primera
 
-Practica con 85 preguntas bilingües gratis y prepárate desde $100 — menos que Archer o UWorld.
+Practica con preguntas de muestra gratis y prepárate por USD 19 al mes — menos que Archer o UWorld.
 
-[Prueba 85 preguntas gratis →](https://rnnclex.com/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis →](https://rnnclex.com/preparacion-nclex/preguntas-practica/)
 
 [Ver planes de preparación →](https://rnnclex.com/precios/)

@@ -6,11 +6,10 @@ date: "2025-11-14T14:48:10"
 updated: "2025-11-14T14:49:19"
 section: "proceso-licencia-homologacion"
 slug: "como-inscribirte-al-examen-nclex-en-2025"
-flags: ["precio-viejo","whatsapp-compra"]
+flags: []
 faqs: []
 ---
 
-[](https://rnnclex.com/)
 
 * * *
 
@@ -94,8 +93,8 @@ Depende de la BON y si requieres validación de credenciales (True Merit/CGFNS).
 
 Algunas Boards la exigen, otras no. Verifica siempre los requisitos específicos del estado al que aplicas.
 
-### ¿Necesitas ayuda personalizada?
+### ¿Quieres practicar mientras avanzas con el trámite?
 
-Únete a nuestra comunidad de enfermeros. Recibe asistencia paso a paso desde la validación de documentos hasta tu examen.
+Accede a la plataforma bilingüe: más de 3500 preguntas, simuladores CAT, NGN y guías en español por USD 19 al mes.
 
-[**Unirme al Canal de WhatsApp**](https://bit.ly/rnnclex_whatsapp)
+[**Empezar ahora — USD 19/mes**](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

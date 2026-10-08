@@ -4,17 +4,15 @@ seoTitle: "Preguntas NCLEX: Salud Mental | Muestra Gratuita y Justificaciones"
 description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Salud Mental. Pon a prueba tu conocimiento en anorexia, Alzheimer y más."
 path: "/preparacion-nclex/preguntas-practica/mental-health/"
 thin: false
-flags: ["whatsapp-compra"]
+flags: []
 faqs: []
 ---
 
 ![Captura de pantalla de la interfaz del Qbank de rnnclex.com en una laptop, mostrando una pregunta de práctica de formato NGN para el examen NCLEX-RN.](/images/wp/banco-preguntas-nclex-ngn-rnnclex.webp)
 
-Sabemos que la mejor forma de demostrar el valor de nuestra herramienta es que la uses. Por eso, te ofrecemos una prueba completamente gratuita de nuestro Qbank premium.
+Sabemos que la mejor forma de demostrar el valor de nuestra herramienta es que la uses. Por eso, aquí tienes preguntas de muestra gratuitas de nuestro Qbank. El banco completo, con más de 3500 preguntas, está dentro de la plataforma por USD 19 al mes.
 
-**Para recibir tu acceso, simplemente envíanos un mensaje por WhatsApp. ¡Es así de fácil!**
-
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 La categoría de Salud Mental en el NCLEX evalúa tu habilidad para proporcionar un cuidado seguro, ético y terapéutico a clientes con desórdenes psiquiátricos. Las preguntas a menudo se centran en la comunicación, la seguridad del paciente, las intervenciones psicosociales y la farmacología psiquiátrica.
 
@@ -33,7 +31,7 @@ Respuesta Correcta: A
 
 Justificación: Un plan específico es un factor de alto riesgo para un suicidio potencial. Un intento de suicidio previo (B) es un factor de riesgo definitivo para intentos posteriores. Toda amenaza de suicidio (C) debe tomarse en serio. Al cliente se le debe preguntar directamente sobre su intención de hacerse daño corporal (D); las preguntas directas y respetuosas no perjudican al cliente.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **El cuidado de enfermería para un cliente con abuso de sustancias que experimenta delirium por abstinencia de alcohol incluye:**
 
@@ -46,7 +44,7 @@ Respuesta Correcta: A
 
 Justificación: Estos clientes tienen un alto riesgo de sufrir convulsiones durante la primera semana tras el cese de la ingesta de alcohol. La ingesta de líquidos debe aumentarse para prevenir la deshidratación (B). Los estímulos ambientales deben disminuirse para prevenir la precipitación de convulsiones (C). La aplicación de sujeciones (D) puede hacer que el cliente aumente su actividad física y, finalmente, provocar agotamiento.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **Una clienta de 16 años con anorexia nerviosa está en una unidad psiquiátrica de hospitalización. Tiene miedo de ganar peso y se niega a comer lo suficiente. Para ayudar con el problema de la impotencia y planificar que ya no necesite retener la comida para sentir que tiene el control, la enfermera utiliza la siguiente estrategia:**
 
@@ -59,7 +57,7 @@ Respuesta Correcta: A
 
 Justificación: Los clientes con anorexia nerviosa se sienten fuera de control. Proporcionar un entorno estructurado ofrece seguridad y comodidad, y puede ayudarles a desarrollar un control interno, reduciendo así su necesidad de controlar mediante la auto-inanición. La distracción (B) no se centra en la necesidad de control del cliente. Las revisiones frecuentes de la habitación (C) refuerzan los sentimientos de impotencia. Las largas discusiones sobre la comida (D) permiten a la clienta entregarse a su preocupación y continuar con el comportamiento disfuncional.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **Una mujer de 60 años presenta olvidos, labilidad emocional, confusión y disminución de la concentración. No ha podido realizar las actividades de la vida diaria sin ayuda. Tras una evaluación médica, se le diagnostica la enfermedad de Alzheimer. Una intervención de enfermería apropiada para disminuir la ansiedad de esta clienta incluiría:**
 
@@ -72,7 +70,7 @@ Respuesta Correcta: A
 
 Justificación: Cuanto más control pueda tener la clienta sobre su rutina diaria, menos ansiedad experimentará. La confrontación (B) tiende a aumentar la ansiedad. La prueba de realidad (C) es una herramienta de evaluación, no una intervención para disminuir la ansiedad. Un entorno altamente estimulante (D) aumenta la distracción y la ansiedad.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **Un cliente de 48 años se presenta con un largo historial de depresión severa no aliviada por medicamentos. Es ingresado en el hospital para terapia electroconvulsiva (TEC). Los familiares están muy preocupados y solicitan información sobre los efectos secundarios del tratamiento. La enfermera informa a la familia que el cliente:**
 
@@ -85,4 +83,4 @@ Respuesta Correcta: A
 
 Justificación: El cliente estará confundido y tendrá una pérdida de memoria, que suele ser temporal, después de la terapia de electrochoque. No estará alerta y orientado inmediatamente (B). Dormirá inmediatamente después del tratamiento, no tendrá insomnio (C). Requerirá cuidados especiales, como la toma de signos vitales cada hora para monitorizar hipotensión, taquicardia y posible actividad convulsiva (D).
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

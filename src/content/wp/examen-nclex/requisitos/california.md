@@ -4,7 +4,7 @@ seoTitle: "Requisitos para el Examen NCLEX en California | Guía Completa 2025"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en California. Información sobre tarifas, curriculum estricto, CBC (Live Scan), y el proceso con el California Board of Registered Nursing (BRN)."
 path: "/examen-nclex/requisitos/california/"
 thin: false
-flags: ["precio-viejo"]
+flags: []
 faqs: [{"question":"¿Mi licencia de California me sirve en Texas o Florida?","answer":"No directamente. California no es un estado miembro del NLC. Para trabajar en otro estado, incluso si tienes una licencia de CA, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de ese otro estado. \\-"},{"question":"¿Cuánto tiempo tarda el proceso de CBC con la \"Hard Card\" desde fuera del estado?","answer":"El proceso con la Hard Card puede tardar varias semanas o incluso meses más que el Live Scan. Es fundamental que inicies este paso tan pronto como sea posible en tu proceso de solicitud para evitar demoras significativas."}]
 ---
 

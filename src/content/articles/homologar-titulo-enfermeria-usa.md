@@ -6,17 +6,16 @@ date: "2026-09-22T17:45:05"
 updated: "2026-09-22T17:45:43"
 section: "proceso-licencia-homologacion"
 slug: "homologar-titulo-enfermeria-usa"
-flags: ["precio-viejo"]
+flags: []
 faqs: [{"question":"¿Existe homologación automática del título de enfermería en EE.UU.?","answer":"No. Cada estado evalúa tu caso. No hay un reconocimiento federal único que reemplace junta + NCLEX."},{"question":"¿Necesito CGFNS para homologar?","answer":"Muchos estados sí piden el CES Professional Report de TruMerit/CGFNS. Confirma el estado elegido."},{"question":"¿Puedo trabajar de RN solo con el CES aprobado?","answer":"No. El CES apoya la elegibilidad. Para la licencia RN debes aprobar el NCLEX y completar el proceso del Board."},{"question":"¿Qué es el Nurse Licensure Compact (NLC)?","answer":"Un acuerdo entre estados que permite practicar en varios con una licencia multistate, una vez ya eres RN elegible. No reemplaza el primer NCLEX ni la primera licencia."}]
 ---
 
-[](https://rnnclex.com/)
 
 **Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 22 de septiembre de 2026
 
-Homologar abre la puerta. El NCLEX la cruza. Practica 85 preguntas gratis mientras tramitas.
+Homologar abre la puerta. El NCLEX la cruza. Practica preguntas de muestra gratis mientras tramitas.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
 En EE.UU. no existe una “homologación federal” única de tu título de enfermería. **Cada Board of Nursing estatal decide si tu educación extranjera es comparable y si puedes presentarte al NCLEX-RN.** “Homologar” en la práctica = cumplir el paquete de ese estado + aprobar el NCLEX + recibir la licencia RN.
 
@@ -49,6 +48,6 @@ Sin NCLEX aprobado no hay licencia RN de EE.UU. por esta vía. Por eso el trámi
 
 +3500 preguntas bilingües. Menos que Archer o UWorld.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
 [Ver planes](/precios/) · [Guía IEN](/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/)

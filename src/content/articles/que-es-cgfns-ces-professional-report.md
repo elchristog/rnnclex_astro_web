@@ -6,17 +6,16 @@ date: "2026-09-22T17:42:10"
 updated: "2026-09-22T17:43:00"
 section: "proceso-licencia-homologacion"
 slug: "que-es-cgfns-ces-professional-report"
-flags: ["desde-100"]
-faqs: [{"question":"¿CGFNS y TruMerit son lo mismo?","answer":"Sí. TruMerit es el nombre actual de la organización conocida históricamente como CGFNS International. Los servicios CES y VisaScreen continúan bajo esa marca."},{"question":"¿Todos los estados exigen el CES Professional Report?","answer":"No. Cada Board of Nursing define sus reglas. Muchos sí lo piden para IENs; otros aceptan evaluadores alternativos o tienen vías distintas. Revisa siempre los requisitos del estado donde aplicarás."},{"question":"¿Cuánto tarda el CES?","answer":"Depende de cuándo tu escuela y autoridad de licencia envíen los documentos. El retraso típico no es TruMerit: es el correo institucional. Planifica varios meses."},{"question":"¿Puedo estudiar el NCLEX mientras hago el CES?","answer":"Sí, y conviene. El trámite administrativo y la preparación académica corren en paralelo. Puedes empezar con 85 preguntas gratis en rnnclex.com."}]
+flags: []
+faqs: [{"question":"¿CGFNS y TruMerit son lo mismo?","answer":"Sí. TruMerit es el nombre actual de la organización conocida históricamente como CGFNS International. Los servicios CES y VisaScreen continúan bajo esa marca."},{"question":"¿Todos los estados exigen el CES Professional Report?","answer":"No. Cada Board of Nursing define sus reglas. Muchos sí lo piden para IENs; otros aceptan evaluadores alternativos o tienen vías distintas. Revisa siempre los requisitos del estado donde aplicarás."},{"question":"¿Cuánto tarda el CES?","answer":"Depende de cuándo tu escuela y autoridad de licencia envíen los documentos. El retraso típico no es TruMerit: es el correo institucional. Planifica varios meses."},{"question":"¿Puedo estudiar el NCLEX mientras hago el CES?","answer":"Sí, y conviene. El trámite administrativo y la preparación académica corren en paralelo. Puedes empezar con preguntas de muestra gratis en rnnclex.com."}]
 ---
 
-[](https://rnnclex.com/)
 
 **Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 22 de septiembre de 2026
 
-Mientras tramitas CGFNS, ya puedes practicar el NCLEX: 85 preguntas gratis en inglés y español.
+Mientras tramitas CGFNS, ya puedes practicar el NCLEX: preguntas de muestra gratis en inglés y español.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
 Si te formaste como enfermero o enfermera fuera de Estados Unidos, casi seguro vas a cruzarte con **CGFNS**. En 2026 la organización opera bajo la marca **TruMerit** (antes CGFNS International). Su trabajo es verificar que tu educación y licencia extranjeras sean comparables a los estándares de EE.UU. antes de que una junta estatal (Board of Nursing) te declare elegible para el NCLEX-RN.
 
@@ -82,6 +81,6 @@ Mientras esperas papeles, el tiempo no tiene que ser muerto: el examen es en ing
 
 Prepárate con +3500 preguntas bilingües, CAT y NGN. Suscripción más accesible que Archer o UWorld.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
-[Ver planes desde $100](/precios/) · [Cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/)
+[Ver el plan de USD 19/mes](/precios/) · [Cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/)

@@ -1,7 +1,7 @@
 ---
 title: "Preparación NCLEX bilingüe para enfermeros hispanos"
 seoTitle: "Prep NCLEX bilingüe para hispanos | +3500 preguntas"
-description: "Preparación NCLEX-RN en inglés y español: +3500 preguntas, CAT, NGN y precio más accesible que Archer o UWorld. Empieza con 85 preguntas gratis."
+description: "Preparación NCLEX-RN en inglés y español: +3500 preguntas, CAT, NGN y precio más accesible que Archer o UWorld. Empieza con preguntas de muestra gratis."
 path: "/examen-nclex/requisitos/west-virginia/"
 thin: false
 flags: []

@@ -10,13 +10,12 @@ flags: []
 faqs: [{"question":"¿8 semanas alcanzan si trabajo full time?","answer":"Sí si cumples 2–3 h netas casi todos los días. Si no, alarga a 10–12 semanas; no comprimas el CAT."},{"question":"¿Debo estudiar solo en inglés?","answer":"Practica timed en inglés. Usa español para aclarar conceptos y vocabulario, no para evitar el idioma del examen."},{"question":"¿Cuántas preguntas en total en 8 semanas?","answer":"Con este ritmo superas con holgura las 2.000–3.000 preguntas de práctica de calidad, más 2 Readiness y varios CAT."},{"question":"¿Qué hago si el Readiness de la semana 7 sale bajo?","answer":"No agendes. Extiende 2–3 semanas sobre áreas débiles y repite el Readiness. Reprobar cuesta $200 y 45 días."}]
 ---
 
-[](https://rnnclex.com/)
 
 **Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 22 de septiembre de 2026
 
-Empieza el plan hoy con 85 preguntas reales gratis.
+Empieza el plan hoy con preguntas de muestra gratis.
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
 Ocho semanas bastan si ya tienes base clínica y un ATT o fecha cercana. Este plan asume **2–3 horas diarias entre semana y 4 el fin de semana**, con práctica en inglés y repaso de conceptos en español.
 
@@ -53,4 +52,4 @@ En [el banco de +3500 preguntas](/preparacion-nclex/preguntas-practica/) de rnnc
 
 ## Semana 1 empieza con una prueba gratis
 
-[Prueba 85 preguntas gratis](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)

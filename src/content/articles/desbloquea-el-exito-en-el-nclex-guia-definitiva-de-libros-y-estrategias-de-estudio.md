@@ -10,7 +10,6 @@ flags: []
 faqs: []
 ---
 
-[](https://rnnclex.com/)
 
 * * *
 

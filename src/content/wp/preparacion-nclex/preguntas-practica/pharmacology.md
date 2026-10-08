@@ -4,17 +4,15 @@ seoTitle: "Preguntas NCLEX: Farmacología | Muestra Gratuita y Justificaciones"
 description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Farmacología. Pon a prueba tu conocimiento en inotrópicos, nitroglicerina, dopamina y más."
 path: "/preparacion-nclex/preguntas-practica/pharmacology/"
 thin: false
-flags: ["whatsapp-compra"]
+flags: []
 faqs: []
 ---
 
 ![Captura de pantalla de la interfaz del Qbank de rnnclex.com en una laptop, mostrando una pregunta de práctica de formato NGN para el examen NCLEX-RN.](/images/wp/banco-preguntas-nclex-ngn-rnnclex.webp)
 
-Sabemos que la mejor forma de demostrar el valor de nuestra herramienta es que la uses. Por eso, te ofrecemos una prueba completamente gratuita de nuestro Qbank premium.
+Sabemos que la mejor forma de demostrar el valor de nuestra herramienta es que la uses. Por eso, aquí tienes preguntas de muestra gratuitas de nuestro Qbank. El banco completo, con más de 3500 preguntas, está dentro de la plataforma por USD 19 al mes.
 
-**Para recibir tu acceso, simplemente envíanos un mensaje por WhatsApp. ¡Es así de fácil!**
-
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 La farmacología es una de las áreas más temidas y cruciales del examen NCLEX. No solo se evalúa tu capacidad para memorizar nombres de medicamentos, sino para entender sus mecanismos de acción, efectos secundarios críticos, y las intervenciones de enfermería que garantizan la seguridad del paciente.
 
@@ -33,7 +31,7 @@ Respuesta Correcta: A
 
 Justificación: Los agentes inotrópicos positivos no deben administrarse debido a su acción de aumentar la contractilidad miocárdica. Un aumento de la contractilidad ventricular incrementaría la obstrucción del tracto de salida en el cliente con miocardiopatía hipertrófica. Los vasodilatadores (B) no suelen prescribirse, pero no están contraindicados. Los diuréticos (C) se usan con precaución para evitar causar hipovolemia. Los antidisrítmicos (D) suelen ser necesarios para tratar arritmias auriculares y ventriculares.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **Para asegurar una educación adecuada, la enfermera debe enseñar al cliente que toma nitroglicerina sublingual (SL) a esperar ¿cuál de las siguientes respuestas con la administración?**
 
@@ -46,7 +44,7 @@ Respuesta Correcta: A
 
 Justificación: Es de esperar una sensación de picazón o ardor cuando se coloca la nitroglicerina debajo de la lengua. Este efecto indica que el medicamento es potente y eficaz. La ausencia de esta respuesta significa que el cliente necesita obtener un nuevo frasco de nitroglicerina. Las otras respuestas (B, C, D) no son esperadas ni son efectos secundarios del fármaco.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **Después de 3 semanas de tratamiento, un cliente severamente deprimido de repente comienza a sentirse mejor y a interactuar apropiadamente con otros clientes y el personal. La enfermera sabe que este cliente tiene un riesgo aumentado de:**
 
@@ -59,7 +57,7 @@ Respuesta Correcta: A
 
 Justificación: Cuando un cliente severamente deprimido comienza a sentirse súbitamente mejor, a menudo indica que ha recuperado la energía suficiente para llevar a cabo un plan de suicidio que ya había decidido. La mejora en el comportamiento no es indicativa de una exacerbación (B). El cliente deprimido tiene tendencia a la autoviolencia, no a la violencia hacia otros (C). El comportamiento depresivo no siempre se acompaña de comportamiento psicótico (D).
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **El medicamento que mejor penetra la escara es:**
 
@@ -72,7 +70,7 @@ Respuesta Correcta: A
 
 Justificación: El acetato de mafenida es bacteriostático contra organismos grampositivos y gramnegativos y es el agente que mejor penetra la escara. La sulfadiazina de plata (B) penetra pobremente la escara. El sulfato de neomicina (C) y la povidona yodada (D) no penetran la escara.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
 **Cuando un cliente recibe terapia vasoactiva IV, como dopamina (Intropin), y ocurre una extravasación, la enfermera debe estar preparada para administrar ¿cuál de los siguientes medicamentos directamente en el sitio?**
 
@@ -85,4 +83,4 @@ Respuesta Correcta: A
 
 Justificación: La fentolamina se administra para contrarrestar los efectos alfa-adrenérgicos que causan isquemia y necrosis del tejido local. La epinefrina (B) y la fenilefrina (C) son vasoconstrictores que empeorarían la isquemia. El bicarbonato de sodio (D) es un agente alcalinizante incompatible con la dopamina.
 
-[¡Solicitar Mi Prueba Gratuita por WhatsApp!](https://bit.ly/rnnclex_whatsapp)
+[Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

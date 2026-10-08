@@ -1,24 +1,23 @@
 ---
 title: "¿Cuánto cuesta el NCLEX 2026? $200 + total ~$400"
 seoTitle: "¿Cuánto cuesta el NCLEX 2026? $200 + total ~$400"
-description: "Tarifa Pearson VUE $200, junta estatal $40–$350, CBC $30–$75. Primer intento ~$400. Internacional +$150. Prep desde $100 en rnnclex.com."
+description: "Tarifa Pearson VUE $200, junta estatal $40–$350, CBC $30–$75. Primer intento ~$400. Internacional +$150. Prep por USD 19 al mes en rnnclex.com."
 date: "2025-08-12T10:29:13"
 updated: "2026-09-27T17:15:46"
 section: "proceso-licencia-homologacion"
 slug: "cuanto-cuesta-el-nclex"
-flags: ["precio-viejo","desde-100"]
-faqs: [{"question":"¿Cuánto cuesta el examen NCLEX-RN en 2026?","answer":"La tarifa de registro con Pearson VUE es de $200 USD por cada intento. Al sumar la solicitud a la junta estatal y la verificación de antecedentes, el costo total del primer intento suele rondar los $400 USD en EE.UU."},{"question":"¿Hay tarifa extra si presento el NCLEX fuera de Estados Unidos?","answer":"Sí. Si programas el examen en un centro internacional (fuera de EE.UU., Canadá o Australia), Pearson VUE cobra aproximadamente $150 USD adicionales sobre los $200 base."},{"question":"¿Debo pagar de nuevo si repruebo el NCLEX?","answer":"Sí. Cada intento nuevo requiere otra tarifa de $200 a Pearson VUE, y debes esperar al menos 45 días entre intentos. Por eso aprobar a la primera es el mayor ahorro."},{"question":"¿Cuánto cuesta prepararse bien para el NCLEX?","answer":"Depende del proveedor. Plataformas premium como Archer o UWorld suelen costar varios cientos de dólares. En rnnclex.com la suscripción empieza desde $100 con banco de +3500 preguntas bilingüe, CAT y NGN."}]
+flags: []
+faqs: [{"question":"¿Cuánto cuesta el examen NCLEX-RN en 2026?","answer":"La tarifa de registro con Pearson VUE es de $200 USD por cada intento. Al sumar la solicitud a la junta estatal y la verificación de antecedentes, el costo total del primer intento suele rondar los $400 USD en EE.UU."},{"question":"¿Hay tarifa extra si presento el NCLEX fuera de Estados Unidos?","answer":"Sí. Si programas el examen en un centro internacional (fuera de EE.UU., Canadá o Australia), Pearson VUE cobra aproximadamente $150 USD adicionales sobre los $200 base."},{"question":"¿Debo pagar de nuevo si repruebo el NCLEX?","answer":"Sí. Cada intento nuevo requiere otra tarifa de $200 a Pearson VUE, y debes esperar al menos 45 días entre intentos. Por eso aprobar a la primera es el mayor ahorro."},{"question":"¿Cuánto cuesta prepararse bien para el NCLEX?","answer":"Depende del proveedor. Plataformas premium como Archer o UWorld suelen costar varios cientos de dólares. En rnnclex.com la suscripción cuesta USD 19 al mes con banco de +3500 preguntas bilingüe, CAT y NGN."}]
 ---
 
-[](https://rnnclex.com/)
 
 * * *
 
 **Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 22 de septiembre de 2026
 
-Antes de gastar $200 en el examen, practica con 85 preguntas reales gratis (inglés y español).
+Antes de gastar $200 en el examen, practica con preguntas de muestra gratis (inglés y español).
 
-[Prueba 85 preguntas gratis →](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis →](/preparacion-nclex/preguntas-practica/)
 
 Planificar tu camino para convertirte en enfermero/a registrado/a en Estados Unidos implica un paso financiero crucial: entender **cuánto cuesta el NCLEX**. Si bien existe una tarifa de examen principal que casi todos conocen, el costo total para obtener tu licencia es, en realidad, una suma de varios componentes. Es por esto que conocer el panorama completo es fundamental para tu presupuesto.
 
@@ -95,8 +94,8 @@ En resumen, el **costo del NCLEX** es más que una simple tarifa de $200; es una
 
 ## Invierte en tu futuro con confianza
 
-Prepárate con +3500 preguntas bilingües, CAT y NGN — a un precio mucho más accesible que Archer o UWorld. Empieza con 85 preguntas gratis.
+Prepárate con +3500 preguntas bilingües, CAT y NGN — a un precio mucho más accesible que Archer o UWorld. Empieza con preguntas de muestra gratis.
 
-[Prueba 85 preguntas gratis →](/preparacion-nclex/preguntas-practica/)
+[Prueba preguntas de muestra gratis →](/preparacion-nclex/preguntas-practica/)
 
-[Ver planes desde $100](/precios/)
+[Ver el plan de USD 19/mes](/precios/)
