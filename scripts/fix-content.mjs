@@ -1,8 +1,8 @@
 // Limpia restos de la migracion desde WordPress en el texto de las paginas (solo el cuerpo, no el encabezado YAML).
-// 1) Bloques envueltos en [ ... ](url) -> lista con vinetas
+// 1) Bloques de VARIAS lineas envueltos en [ ... ](url) -> lista con vinetas (los enlaces de una linea, como botones, NO se tocan)
 // 2) Secciones cuyo texto es identico al de la seccion anterior -> se quita la seccion repetida (se informa)
 // 3) Secciones de pasos con parrafos cortos -> lista numerada
-// 4) Etiquetas "Titulo: texto" al inicio de parrafo -> negrita
+// 4) Etiquetas cortas "Titulo: texto" al inicio de parrafo -> negrita (maximo 5 palabras, sin comas)
 // 5) Marcas sobrantes de FAQ en el encabezado
 // Escribe scripts/cleanup-report.md con todo lo cambiado y lo que requiere decision humana.
 import { readFileSync, writeFileSync, readdirSync, statSync } from 'node:fs';
@@ -27,14 +27,15 @@ function splitDoc(txt) {
 }
 
 function fixWrapper(body, file) {
-  const re = /^\[(\*\*[\s\S]*?)\s*\]\((https?:\/\/[^)]*)\)\s*$/gm;
-  return body.replace(re, (all, inner) => {
+  const re = /^\[(\*\*[\s\S]*?)\s*\]\((https?:\/\/[^)]*)\)[ \t]*$/gm;
+  return body.replace(re, (all, inner, url) => {
     const lines = inner.split(/\n/).map((l) => l.trim()).filter(Boolean);
-    if (!lines.length || !lines.every((l) => l.startsWith('**'))) return all;
+    // Solo bloques de varias lineas; un enlace de una linea es un boton y se conserva tal cual
+    if (lines.length < 2 || !lines.every((l) => l.startsWith('**'))) return all;
     report.wrapper.push(file);
     return lines
       .map((l) => '- ' + l.replace(/(^|\s)(https?:\/\/[^\s)]+)(?=\s|$)/g, (mm, sp, u) => sp + '[' + u.replace(/^https?:\/\//, '').replace(/\/$/, '') + '](' + u + ')'))
-      .join('\n');
+      .join('\n') + '\n';
   });
 }
 
@@ -71,7 +72,7 @@ function fixSteps(body, file) {
   for (const s of secs) {
     if (!s.head || !STEP_HEAD.test(s.title)) continue;
     const paras = s.text.split(/\n{2,}/).map((x) => x.trim()).filter(Boolean);
-    const plain = paras.every((p) => !/^([-*+]|\d+\.|>|\||#|!|<)/.test(p) && !p.includes('\n') && p.length < 260);
+    const plain = paras.every((p) => !/^([-*+]|\d+\.|>|\||#|!|<|\[)/.test(p) && !p.includes('\n') && p.length < 260);
     if (paras.length >= 3 && plain) {
       s.text = paras.map((p, i) => (i + 1) + '. ' + p).join('\n');
       report.steps.push(file + ' -> "' + s.title + '" (' + paras.length + ' pasos)');
@@ -84,8 +85,8 @@ function fixSteps(body, file) {
 function fixLabels(body, file) {
   let n = 0;
   const out = body.split(/\n{2,}/).map((blk) => {
-    const m = blk.match(/^([A-ZÁÉÍÓÚÑ][^:\n.*#\[\]]{3,70}):(\s|\n)/);
-    if (m && !blk.startsWith('**')) {
+    const m = blk.match(/^([A-ZÁÉÍÓÚÑ][^:\n.*#\[\],]{2,50}):(\s|\n)/);
+    if (m && !blk.startsWith('**') && m[1].trim().split(/\s+/).length <= 5) {
       n++;
       return '**' + m[1] + ':**' + blk.slice(m[0].length - m[2].length);
     }
@@ -105,7 +106,7 @@ for (const f of walk('src/content')) {
   body = fixDup(body, f);
   body = fixSteps(body, f);
   body = fixLabels(body, f);
-  if (/^\[\*\*/m.test(body)) report.pending.push(f + ' -> aún hay un bloque [ ... ](url) sin resolver');
+  if (/^\[\*\*[^\n]*\n/m.test(body)) report.pending.push(f + ' -> aún hay un bloque [ ... ](url) sin resolver');
   if (/\\\[ \\\]/.test(body)) report.pending.push(f + ' -> casillas "[ ]" sueltas');
   const after = h2 + body;
   if (after !== before) writeFileSync(f, after);
