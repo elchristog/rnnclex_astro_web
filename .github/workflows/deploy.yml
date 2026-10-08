@@ -10,6 +10,10 @@ permissions:
   contents: read
   id-token: write
 
+env:
+  # Bucket propio de rnnclex.com. NUNCA apuntar al de otro sitio.
+  BUCKET: rnnclex.com
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -28,16 +32,47 @@ jobs:
           npm ci
           npm run build
 
+      - name: Revisar que el sitio este completo y sin errores
+        run: node scripts/verify-parity.mjs
+        env:
+          # Mientras migras: informa pero no bloquea. Antes del corte, crear la
+          # variable PARITY_STRICT=true en Settings > Variables del repo.
+          PARITY_STRICT: ${{ vars.PARITY_STRICT || 'false' }}
+
+      - name: Seguro contra publicar en el bucket equivocado
+        run: |
+          if [ "${BUCKET}" != "rnnclex.com" ]; then
+            echo "El bucket debe ser rnnclex.com y es ${BUCKET}. Se cancela."
+            exit 1
+          fi
+
       - name: Conectar con Google Cloud
         uses: google-github-actions/auth@v2
         with:
           workload_identity_provider: projects/627008374034/locations/global/workloadIdentityPools/github-deployments/providers/github-actions
           service_account: github-deploy@company-data-driven.iam.gserviceaccount.com
 
-      - name: Publicar en enfermerausa.com
+      - name: Preparar Google Cloud
         uses: google-github-actions/setup-gcloud@v2
         with:
           project_id: company-data-driven
 
-      - name: Subir la versión publicada
-        run: gcloud storage rsync --recursive dist gs://enfermerausa.com
+      - name: Subir la version publicada
+        run: |
+          # 1) Todo con cache larga (CSS/JS con hash en _astro/)
+          gcloud storage rsync --recursive --delete-unmatched-destination-objects dist "gs://${BUCKET}" \
+            --cache-control="public, max-age=31536000, immutable"
+          # 2) HTML: navegador 60s, CDN 1 dia
+          mapfile -t HTML_OBJS < <(gcloud storage ls -r "gs://${BUCKET}/**/*.html" 2>/dev/null || true)
+          if [ ${#HTML_OBJS[@]} -gt 0 ]; then
+            gcloud storage objects update "${HTML_OBJS[@]}" \
+              --cache-control="public, max-age=60, s-maxage=86400, must-revalidate" || true
+          fi
+          # 3) XML (sitemap, rss): corto, Google debe ver el sitemap al dia
+          mapfile -t XML_OBJS < <(gcloud storage ls "gs://${BUCKET}/*.xml" 2>/dev/null || true)
+          if [ ${#XML_OBJS[@]} -gt 0 ]; then
+            gcloud storage objects update "${XML_OBJS[@]}" \
+              --cache-control="public, max-age=3600, s-maxage=86400, must-revalidate" || true
+          fi
+          gcloud storage objects update "gs://${BUCKET}/index.html" \
+            --cache-control="public, max-age=60, s-maxage=86400, must-revalidate" || true
