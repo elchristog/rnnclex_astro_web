@@ -10,8 +10,8 @@ interface Props {
 
 const {
   type = 'home',
-  title = 'RNNCLEX - Plataforma y Guía de Preparación NCLEX-RN para Enfermeros Hispanos',
-  description = 'La plataforma especializada en preparación del examen NCLEX-RN, simuladores NGN en español, homologación de título y visa EB-3 para Estados Unidos.',
+  title = 'rnnclex.com | Preparación NCLEX-RN bilingüe para enfermeros hispanos',
+  description = 'Plataforma de preparación del examen NCLEX-RN en inglés y español para enfermeros hispanos: +3500 preguntas, simuladores CAT y NGN, y preparación guiada.',
   url = 'https://rnnclex.com',
   faqs = [],
   datePublished = '2026-01-01'
@@ -20,25 +20,30 @@ const {
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "EducationalOccupationalProgram",
-  "name": "Programa de Preparación NCLEX-RN y Homologación de Enfermería para EE.UU.",
+  "name": "Preparación NCLEX-RN bilingüe para enfermeros hispanos",
   "description": description,
   "provider": {
     "@type": "Organization",
-    "name": "RNNCLEX",
+    "name": "rnnclex.com",
     "url": "https://rnnclex.com",
     "logo": "https://rnnclex.com/logo.webp",
-    "email": "soporte@rnnclex.com",
     "sameAs": [
-      "https://www.youtube.com/@rnnclex",
-      "https://www.instagram.com/rnnclex",
-      "https://www.facebook.com/rnnclex"
+      "https://www.youtube.com/@rnnclex-usa",
+      "https://www.instagram.com/rnnclex.usa",
+      "https://www.facebook.com/rnnclex.usa",
+      "https://www.linkedin.com/company/rnnclex-com/"
     ]
   },
   "occupationalCategory": "Registered Nurse (RN)",
   "educationalProgramMode": "online",
+  "inLanguage": ["es", "en"],
   "offers": {
     "@type": "Offer",
-    "category": "Preparación NCLEX-RN y Asesoría de Homologación"
+    "category": "Suscripción mensual de preparación NCLEX-RN",
+    "price": "19",
+    "priceCurrency": "USD",
+    "url": "https://rnnclex.com/precios/",
+    "availability": "https://schema.org/InStock"
   }
 };
 
@@ -62,13 +67,14 @@ const articleSchema = type === 'article' ? {
   "description": description,
   "mainEntityOfPage": url,
   "datePublished": datePublished,
+  "inLanguage": "es",
   "author": {
-    "@type": "Organization",
-    "name": "RNNCLEX"
+    "@type": "Person",
+    "name": "Alejandra Martínez, RN, BSN"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "RNNCLEX",
+    "name": "rnnclex.com",
     "logo": {
       "@type": "ImageObject",
       "url": "https://rnnclex.com/logo.webp"

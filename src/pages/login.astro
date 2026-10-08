@@ -1,0 +1,16 @@
+---
+import { site } from "@/data/site.mjs";
+const destination = site.appLoginUrl;
+---
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <title>Iniciar sesión | rnnclex.com</title>
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href="https://rnnclex.com/login/" />
+    <meta http-equiv="refresh" content={`0;url=${destination}`} />
+  </head>
+  <body>
+    <p>Te estamos llevando a la plataforma. Si no pasa nada, <a href={destination}>entra aquí</a>.</p>
+  </body>
+</html>

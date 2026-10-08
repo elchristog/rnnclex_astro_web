@@ -1,0 +1,66 @@
+name: Migrar contenido de WordPress
+
+# Se ejecuta al subir un cambio a migration/RUN_MIGRATION en una rama (nunca en main).
+# 1) copia el texto real de rnnclex.com (WordPress) a Markdown, 2) corrige la oferta vieja,
+# 3) construye el sitio y lo revisa (informa), 4) guarda todo en la rama.
+on:
+  push:
+    branches-ignore:
+      - main
+    paths:
+      - 'migration/RUN_MIGRATION'
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependencias
+        run: npm install --no-save cheerio turndown
+
+      - name: Migrar contenido
+        run: node scripts/migrate-from-wp.mjs
+
+      - name: Corregir la oferta (USD 19/mes, sin WhatsApp)
+        run: node scripts/fix-offer.mjs
+
+      - name: Ajustes de independencia y titulos
+        run: node scripts/fix-extra.mjs
+
+      - name: Construir el sitio
+        id: build
+        continue-on-error: true
+        run: npm run build
+
+      - name: Revisar que el sitio este completo y sin errores
+        if: steps.build.outcome == 'success'
+        continue-on-error: true
+        run: node scripts/verify-parity.mjs
+
+      - name: Guardar el contenido migrado en la rama
+        run: |
+          git config user.name "ryze-migracion"
+          git config user.email "migracion@rnnclex.com"
+          git add -A src/content src/pages src/components public/images/wp migration/report.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios"
+          else
+            git commit -m "Contenido migrado desde WordPress y corregido a la oferta de USD 19/mes (automatico)"
+            git push
+          fi
+
+      - name: Resultado de la construccion
+        if: steps.build.outcome != 'success'
+        run: |
+          echo "::error title=Construccion::El sitio no construyo. Revisar el paso 'Construir el sitio'."
+          exit 1

@@ -1,0 +1,126 @@
+---
+import { getCollection, render } from "astro:content";
+import ProseLayout from "@/layouts/ProseLayout.astro";
+import { states, nlcShort, nlcLong } from "@/data/states.mjs";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("wp");
+  const byId = new Map(entries.map((e) => [e.id, e]));
+  return states.map((s) => ({
+    params: { state: s.slug },
+    props: { s, entry: byId.get(`examen-nclex/requisitos/${s.slug}`) ?? null },
+  }));
+}
+
+const { s, entry } = Astro.props;
+// Si WordPress tenía una guía completa de este estado, se conserva; si no existía o estaba corta, se genera la guía base.
+const rich = Boolean(entry) && (entry.body?.length ?? 0) > 1500;
+const Content = rich ? (await render(entry)).Content : null;
+
+// Títulos ya optimizados en WordPress (p. ej. Florida y Montana) se respetan; los genéricos de 2025 se actualizan.
+const wpTitle = entry?.data.seoTitle ?? "";
+const wpDesc = entry?.data.description ?? "";
+const custom = rich && wpTitle.length > 0 && !/Gu[ií]a( Completa)? 2025/i.test(wpTitle);
+
+const seoTitle = custom ? wpTitle : `Requisitos NCLEX en ${s.name} 2026 | Guía para IEN`;
+const generatedDescription = `Requisitos para presentar el NCLEX-RN en ${s.name}: junta de enfermería, documentos, huellas, inglés para IEN y estado del NLC. Guía en español.`;
+const description = custom && wpDesc.length >= 50 ? wpDesc : generatedDescription;
+const host = s.url.replace(/^https?:\/\//, "").replace(/\/$/, "");
+
+const generatedFaqs = [
+  { question: `¿${s.name} pertenece al Nurse Licensure Compact (NLC)?`, answer: nlcLong(s) },
+  {
+    question: `¿Cuánto cuesta presentar el NCLEX en ${s.name}?`,
+    answer: `El examen cuesta USD 200 con Pearson VUE por cada intento. Además pagas la solicitud de licencia a ${s.board}, cuya tarifa fija la junta, y, si aplica, la toma de huellas y la evaluación de credenciales para enfermeros formados fuera de EE. UU.`,
+  },
+  {
+    question: `¿Puedo obtener la licencia en ${s.name} si estudié fuera de Estados Unidos?`,
+    answer: `Sí, muchos enfermeros formados en el extranjero (IEN) obtienen su licencia en ${s.name}. La junta suele pedir evaluación de credenciales y prueba de inglés; confirma los requisitos exactos con ${s.board}.`,
+  },
+  {
+    question: "¿El NCLEX se puede presentar en español?",
+    answer: "No. El NCLEX-RN se presenta en inglés. Por eso conviene una preparación bilingüe: estudias los conceptos en español y practicas las preguntas en inglés, como en el examen.",
+  },
+];
+const extraFaqs = rich ? entry.data.faqs ?? [] : [];
+const faqs = [...generatedFaqs, ...extraFaqs];
+---
+
+<ProseLayout
+  title={`Requisitos para el NCLEX-RN en ${s.name}: guía completa`}
+  seoTitle={seoTitle}
+  description={description}
+  canonical={`https://rnnclex.com/examen-nclex/requisitos/${s.slug}/`}
+  faqs={faqs}
+  kicker={`${s.abbr} · Guía por estado`}
+>
+  <p>
+    Esta guía resume cómo presentar el NCLEX-RN para obtener tu licencia de enfermería en <strong>{s.name}</strong>. La junta que decide si eres elegible es <strong>{s.board}</strong>; después, el examen se programa con Pearson VUE.
+  </p>
+
+  <div class="not-prose my-8 grid gap-5 md:grid-cols-2 rounded-xl border border-gray-200 bg-[#eff4f7] p-6">
+    <div>
+      <p class="text-xs font-bold uppercase tracking-wider text-[#0e497c]">Junta reguladora</p>
+      <p class="mt-1 font-semibold text-[#2b2c27]">{s.board}</p>
+    </div>
+    <div>
+      <p class="text-xs font-bold uppercase tracking-wider text-[#0e497c]">Sitio oficial</p>
+      <a href={s.url} target="_blank" rel="noopener" class="mt-1 inline-block font-semibold text-[#0e497c] underline break-all">{host}</a>
+    </div>
+    <div>
+      <p class="text-xs font-bold uppercase tracking-wider text-[#0e497c]">Nurse Licensure Compact</p>
+      <p class="mt-1 font-semibold text-[#2b2c27]">{nlcShort(s)}</p>
+    </div>
+    <div>
+      <p class="text-xs font-bold uppercase tracking-wider text-[#0e497c]">Examen NCLEX-RN</p>
+      <p class="mt-1 font-semibold text-[#2b2c27]">USD 200 por intento (Pearson VUE)</p>
+      <p class="text-xs text-gray-600 mt-1">Unos USD 150 más si lo presentas fuera de EE. UU., Canadá o Australia.</p>
+    </div>
+  </div>
+
+  {
+    rich ? (
+      <Content />
+    ) : (
+      <>
+        <h2>Pasos para presentar el NCLEX en {s.name}</h2>
+        <ol>
+          <li>Abre tu solicitud de licencia por examen con <strong>{s.board}</strong> en su <a href={s.url} target="_blank" rel="noopener">sitio oficial</a>.</li>
+          <li>Si estudiaste fuera de Estados Unidos, confirma si piden <a href="/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/">evaluación de credenciales (CGFNS/TruMerit)</a> y prueba de inglés.</li>
+          <li>Pide a tu escuela y a la autoridad que emitió tu licencia que envíen los documentos directamente a la junta o al evaluador.</li>
+          <li>Completa la verificación de antecedentes y la toma de huellas si {s.board} la exige.</li>
+          <li>Regístrate y paga el examen en Pearson VUE. Mira <a href="/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/">cuánto cuesta el NCLEX</a> en total.</li>
+          <li>Espera tu <a href="/proceso-licencia-homologacion/como-obtener-att-nclex/">ATT (Authorization to Test)</a>.</li>
+          <li>Agenda tu cita en un <a href="/examen-nclex/fechas/">centro Pearson VUE</a> dentro de la ventana de tu ATT.</li>
+        </ol>
+
+        <h2>Qué confirmar con {s.board}</h2>
+        <ul>
+          <li>Tarifa de la solicitud y formas de pago aceptadas.</li>
+          <li>Qué documentos de educación necesitan y cómo deben enviarse (directo desde tu escuela).</li>
+          <li>Requisitos para graduados fuera de EE. UU.: evaluación de credenciales y prueba de inglés.</li>
+          <li>Verificación de antecedentes y huellas dactilares.</li>
+          <li>Cursos o requisitos propios del estado antes de emitir la licencia.</li>
+          <li>Si ofrecen permiso temporal mientras esperas el examen.</li>
+        </ul>
+      </>
+    )
+  }
+
+  <h2>Nurse Licensure Compact en {s.name}</h2>
+  <p>{nlcLong(s)}</p>
+
+  <h2>Si eres enfermero/a formado/a fuera de EE. UU. (IEN)</h2>
+  <p>
+    El examen es el mismo, pero el trámite tiene más pasos. Lee la <a href="/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/">guía de NCLEX para enfermeros extranjeros</a> y cómo funciona la <a href="/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/">homologación de tu título</a>.
+  </p>
+
+  <h2>Estudia en inglés y en español</h2>
+  <p>
+    Mientras avanzas con la junta, practica con la plataforma bilingüe de rnnclex.com: +3500 preguntas, simuladores CAT y NGN, por USD 19 al mes. Mira el <a href="/precios/">plan completo</a>.
+  </p>
+
+  <p class="text-sm text-gray-500">
+    Información revisada en octubre de 2026. Las reglas y tarifas cambian: verifica siempre en el <a href={s.url} target="_blank" rel="noopener">sitio oficial de {s.board}</a>.
+  </p>
+</ProseLayout>

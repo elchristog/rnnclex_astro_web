@@ -1,9 +1,10 @@
 ---
+import Tracking from "@/components/fundations/head/Tracking.astro";
 import "@/styles/global.css";
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
-import Tracking from "@/components/fundations/head/Tracking.astro";
 import Navigation from "@/components/global/Navigation.astro";
 import Footer from "@/components/global/Footer.astro";
+import { site } from "@/data/site.mjs";
 
 interface Props {
   title?: string;
@@ -15,14 +16,15 @@ interface Props {
   ogImage?: string;
 }
 
-const { title, description, canonical, type, faqs, datePublished, ogImage } = Astro.props;
+const { title, description, type, faqs, datePublished, ogImage } = Astro.props;
+// Si la página no indica su canonical, se calcula desde la ruta (siempre con barra final)
+const canonical = Astro.props.canonical ?? new URL(Astro.url.pathname, site.url).href;
 ---
 
 <html lang="es" class="scroll-smooth">
   <head>
     <BaseHead title={title} description={description} canonical={canonical} type={type} faqs={faqs} datePublished={datePublished} ogImage={ogImage} />
     <Tracking />
-    <script is:inline async src="https://px.get-ryze.ai/px.js" data-key="rz_pk_ef648ae0587e39e5432c2763244613a3"></script>
   </head>
   <body class="flex flex-col bg-white min-h-dvh">
     <Navigation />

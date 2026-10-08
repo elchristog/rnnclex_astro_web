@@ -1,5 +1,5 @@
 {
-  "_nota": "Inventario de las 92 URLs de rnnclex.com en WordPress (sitemap del 8-oct-2026). Cada una debe existir IGUAL en el sitio Astro. Las URLs no se cambian: si una cambia, va con redireccion 301 en Cloudflare.",
+  "_nota": "Inventario de las 94 URLs de rnnclex.com: las 92 de WordPress (sitemap del 8-oct-2026) + West Virginia y Wyoming (nuevas, para cubrir los 50 estados). Cada una debe existir IGUAL en el sitio Astro. Las URLs no se cambian: si una cambia, va con redireccion 301 en Cloudflare.",
   "core": [
     "/",
     "/precios/",
@@ -34,7 +34,7 @@
     "missouri", "montana", "nebraska", "nevada", "new-hampshire", "new-jersey", "new-mexico",
     "new-york", "north-carolina", "north-dakota", "ohio", "oklahoma", "oregon", "pennsylvania",
     "rhode-island", "south-carolina", "south-dakota", "tennessee", "texas", "utah", "vermont",
-    "virginia", "washington", "wisconsin"
+    "virginia", "washington", "west-virginia", "wisconsin", "wyoming"
   ],
   "qbank": [
     "adult-health", "maternal-newborn-health", "mental-health", "pharmacology",

@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -39,6 +42,10 @@ jobs:
           # variable PARITY_STRICT=true en Settings > Variables del repo.
           PARITY_STRICT: ${{ vars.PARITY_STRICT || 'false' }}
 
+      - name: Revisar enlaces externos (solo informa)
+        continue-on-error: true
+        run: node scripts/check-links.mjs
+
       - name: Seguro contra publicar en el bucket equivocado
         run: |
           if [ "${BUCKET}" != "rnnclex.com" ]; then
@@ -46,18 +53,22 @@ jobs:
             exit 1
           fi
 
+      # Los pasos siguientes publican de verdad: solo corren al mezclar en main, nunca en un PR.
       - name: Conectar con Google Cloud
+        if: github.event_name != 'pull_request'
         uses: google-github-actions/auth@v2
         with:
           workload_identity_provider: projects/627008374034/locations/global/workloadIdentityPools/github-deployments/providers/github-actions
           service_account: github-deploy@company-data-driven.iam.gserviceaccount.com
 
       - name: Preparar Google Cloud
+        if: github.event_name != 'pull_request'
         uses: google-github-actions/setup-gcloud@v2
         with:
           project_id: company-data-driven
 
       - name: Subir la version publicada
+        if: github.event_name != 'pull_request'
         run: |
           # 1) Todo con cache larga (CSS/JS con hash en _astro/)
           gcloud storage rsync --recursive --delete-unmatched-destination-objects dist "gs://${BUCKET}" \

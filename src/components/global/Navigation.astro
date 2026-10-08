@@ -1,15 +1,16 @@
 ---
+import { site } from "@/data/site.mjs";
+
 const mainNav = [
   {
     label: "Preparación NCLEX",
     href: "/preparacion-nclex/",
     children: [
       { label: "Preguntas de Práctica", href: "/preparacion-nclex/preguntas-practica/" },
-      { label: "Quiz", href: "/preparacion-nclex/preguntas-practica/" },
       { label: "Readiness Assessment", href: "/preparacion-nclex/simuladores-examen/readiness-assessment/" },
-      { label: "CAT (Computer Adaptive Test)", href: "/preparacion-nclex/simuladores-examen/CAT/" },
+      { label: "CAT (Computer Adaptive Test)", href: "/preparacion-nclex/simuladores-examen/cat/" },
       { label: "Cursos Online", href: "/preparacion-nclex/cursos/" },
-      { label: "Prueba Gratuita", href: "/preparacion-nclex/preguntas-practica/" },
+      { label: "Preguntas de muestra gratis", href: "/preparacion-nclex/preguntas-practica/" },
     ]
   },
   {
@@ -71,13 +72,12 @@ const mainNav = [
 
     <!-- Action Buttons -->
     <div class="flex items-center gap-3">
-      <a href="/login/" class="text-xs font-bold text-[#0e497c] border-2 border-[#a0ccf2] hover:bg-[#a0ccf2]/20 px-4 py-2 rounded uppercase tracking-wider transition">
+      <a href={site.appLoginUrl} data-cta="login" class="text-xs font-bold text-[#0e497c] border-2 border-[#a0ccf2] hover:bg-[#a0ccf2]/20 px-4 py-2 rounded uppercase tracking-wider transition">
         LOGIN
       </a>
-      <a href="/preparacion-nclex/preguntas-practica/" class="bg-[#0e497c] hover:bg-[#0b3b64] text-white text-xs font-bold px-4 py-2.5 rounded uppercase tracking-wider shadow transition">
-        TEST GRATIS
+      <a href={site.appUrl} data-cta="app" class="bg-[#0e497c] hover:bg-[#0b3b64] text-white text-xs font-bold px-4 py-2.5 rounded uppercase tracking-wider shadow transition">
+        EMPEZAR · USD {site.offer.price}/MES
       </a>
     </div>
   </div>
 </header>
-
