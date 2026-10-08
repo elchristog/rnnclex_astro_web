@@ -1,7 +1,7 @@
 ---
 title: "¿Qué es el Next Generation NCLEX (NGN)? Guía Exhaustiva 2025"
 seoTitle: "¿Qué es el Next Generation NCLEX (NGN)? Guía Exhaustiva 2025"
-description: "Una guía exhaustiva sobre el Next Generation NCLEX (NGN). Aprende sobre el juicio clínico, los nuevos tipos de preguntas (estudios de caso, bow-tie) y el sistema de puntuación de crédito parcial."
+description: "Una guía exhaustiva sobre el Next Generation NCLEX (NGN). Aprende sobre el juicio clínico, los nuevos tipos de preguntas (estudios de caso, bow-tie) y el…"
 date: "2025-06-21T18:32:48"
 updated: "2025-08-10T20:34:58"
 section: "estrategias-examen"

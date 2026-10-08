@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Michigan"
-seoTitle: "Requisitos para el Examen NCLEX en Michigan | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Michigan"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en Michigan. Información sobre tarifas, CBC, y los cursos obligatorios de Trata de Personas y Sesgo Implícito."
 path: "/examen-nclex/requisitos/michigan/"
 thin: false

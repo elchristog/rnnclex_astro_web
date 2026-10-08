@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Maryland"
-seoTitle: "Requisitos para el Examen NCLEX en Maryland | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Maryland. Información sobre la tarifa de $100, NLC, CBC, y el proceso con el Maryland Board of Nursing (MBON)."
+seoTitle: "Requisitos para el Examen NCLEX en Maryland"
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Maryland. Información sobre la tarifa de $100, NLC, CBC, y el proceso con el Maryland Board…"
 path: "/examen-nclex/requisitos/maryland/"
 thin: false
 flags: []

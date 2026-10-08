@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Virginia"
-seoTitle: "Requisitos para el Examen NCLEX en Virginia | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Virginia. Información sobre tarifas, NLC, CBC, las 500 horas clínicas y el proceso con el Virginia Board of Nursing."
+seoTitle: "Requisitos para el Examen NCLEX en Virginia"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Virginia. Información sobre tarifas, NLC, CBC, las 500 horas clínicas y el proceso con el Virginia…"
 path: "/examen-nclex/requisitos/virginia/"
 thin: false
 flags: []

@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Louisiana"
-seoTitle: "Requisitos para el Examen NCLEX en Louisiana | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Louisiana. Información sobre tarifas, NLC, CBC, y el requisito de SSN con la Louisiana State Board of Nursing (LSBN)."
+seoTitle: "Requisitos para el Examen NCLEX en Louisiana"
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Louisiana. Información sobre tarifas, NLC, CBC, y el requisito de SSN con la Louisiana State…"
 path: "/examen-nclex/requisitos/louisiana/"
 thin: false
 flags: []

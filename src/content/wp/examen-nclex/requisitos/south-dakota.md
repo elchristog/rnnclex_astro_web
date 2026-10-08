@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en South Dakota"
 seoTitle: "Requisitos para el Examen NCLEX en South Dakota | Guía 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en South Dakota. Información sobre la tarifa de $100, NLC, CBC, y el proceso con el South Dakota Board of Nursing (SDBON)."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en South Dakota. Información sobre la tarifa de $100, NLC, CBC, y el proceso con el South Dakota Board…"
 path: "/examen-nclex/requisitos/south-dakota/"
 thin: false
 flags: []

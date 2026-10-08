@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Tennessee"
-seoTitle: "Requisitos para el Examen NCLEX en Tennessee | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Tennessee. Información sobre tarifas, NLC, CBC, prueba de ciudadanía y el proceso con el Tennessee Board of Nursing."
+seoTitle: "Requisitos para el Examen NCLEX en Tennessee"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Tennessee. Información sobre tarifas, NLC, CBC, prueba de ciudadanía y el proceso con el Tennessee…"
 path: "/examen-nclex/requisitos/tennessee/"
 thin: false
 flags: []

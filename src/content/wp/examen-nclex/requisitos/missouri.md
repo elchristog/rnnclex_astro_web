@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Missouri"
-seoTitle: "Requisitos para el Examen NCLEX en Missouri | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Missouri"
 description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Missouri. Información sobre tarifas, NLC, CBC (MACHS), y el proceso con el Missouri State Board of Nursing."
 path: "/examen-nclex/requisitos/missouri/"
 thin: false

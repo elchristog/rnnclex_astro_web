@@ -1,7 +1,7 @@
 ---
 title: "Preguntas de Práctica del NCLEX-RN: Fundamentos de Enfermería"
 seoTitle: "Preguntas NCLEX: Fundamentos de Enfermería | Muestra Gratuita"
-description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Fundamentos de Enfermería. Pon a prueba tu conocimiento en seguridad del paciente, ética, procedimientos básicos y más."
+description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Fundamentos de Enfermería. Pon a prueba tu conocimiento en seguridad del paciente, ética…"
 path: "/preparacion-nclex/preguntas-practica/fundamentals/"
 thin: false
 flags: []

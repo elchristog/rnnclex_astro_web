@@ -1,6 +1,6 @@
 ---
 title: "Curso de Preparación Integral para el Examen NCLEX-RN"
-seoTitle: "Curso de Preparación para el Examen NCLEX-RN | Guiado e Integral"
+seoTitle: "Curso de Preparación para el Examen NCLEX-RN"
 description: "Nuestro curso de preparación para el NCLEX-RN te guía paso a paso hasta el éxito. Incluye videos, +400 guías, Qbank de +3500 preguntas y simuladores. ¡Todo en una app!"
 path: "/preparacion-nclex/cursos/"
 thin: false

@@ -1,6 +1,6 @@
 ---
 title: "Un Equipo de Expertos Dedicado a Tu Éxito"
-seoTitle: "Nuestro Equipo de Expertos | rnnclex.com"
+seoTitle: "Nuestro Equipo de Expertos"
 description: "Conoce al equipo de enfermeros, tecnólogos y estrategas detrás de rnnclex.com. Descubre la experiencia y la pasión que nos impulsa a garantizar tu éxito en el NCLEX."
 path: "/equipo/"
 thin: false

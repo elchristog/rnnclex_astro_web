@@ -1,7 +1,7 @@
 ---
 title: "Desbloquea el Éxito en el NCLEX: Guía Definitiva de Libros y Estrategias de Estudio"
-seoTitle: "Desbloquea el Éxito en el NCLEX: Guía Definitiva de Libros y Estrategias de Estudio"
-description: "¿Te sientes abrumado por la cantidad de recursos para el NCLEX? Descubre los libros clave, cómo utilizarlos eficazmente y una innovadora herramienta en español para optimizar tu estudio. ¡Prepárate para aprobar el examen con confianza!"
+seoTitle: "Guía de libros y estrategias de estudio para el NCLEX"
+description: "¿Te sientes abrumado por la cantidad de recursos para el NCLEX? Descubre los libros clave, cómo utilizarlos eficazmente y una innovadora herramienta en…"
 date: "2025-10-26T19:43:22"
 updated: "2025-10-26T19:43:23"
 section: "estrategias-examen"

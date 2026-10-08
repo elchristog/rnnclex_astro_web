@@ -1,7 +1,7 @@
 ---
 title: "Preguntas de Práctica del NCLEX-RN: Salud del Adulto"
-seoTitle: "Preguntas de Práctica NCLEX: Salud del Adulto | Muestra Gratuita"
-description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Salud del Adulto (Adult Health). Pon a prueba tu conocimiento y descubre por qué nuestro Qbank es la mejor herramienta."
+seoTitle: "Preguntas de Práctica NCLEX: Salud del Adulto"
+description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Salud del Adulto (Adult Health). Pon a prueba tu conocimiento y descubre por qué nuestro…"
 path: "/preparacion-nclex/preguntas-practica/adult-health/"
 thin: false
 flags: []

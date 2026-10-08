@@ -1,7 +1,7 @@
 ---
 title: "Examen CAT del NCLEX: La Guía Definitiva de la Prueba Adaptativa"
-seoTitle: "¿Qué es el Examen CAT del NCLEX? Guía y Simulación | rnnclex.com"
-description: "Aprende qué es una Prueba Adaptativa por Computadora (CAT) y por qué es crucial para tu preparación del NCLEX. Practica en nuestro simulador CAT y domina el formato del examen real."
+seoTitle: "¿Qué es el Examen CAT del NCLEX? Guía y Simulación"
+description: "Aprende qué es una Prueba Adaptativa por Computadora (CAT) y por qué es crucial para tu preparación del NCLEX. Practica en nuestro simulador CAT y domina…"
 path: "/preparacion-nclex/simuladores-examen/cat/"
 thin: false
 flags: []

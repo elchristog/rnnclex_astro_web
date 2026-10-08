@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Mississippi"
-seoTitle: "Requisitos para el Examen NCLEX en Mississippi | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Mississippi. Información sobre la tarifa de $100, NLC, CBC, y el requisito de SSN con el Mississippi Board of Nursing (MSBN)."
+seoTitle: "Requisitos para el Examen NCLEX en Mississippi"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Mississippi. Información sobre la tarifa de $100, NLC, CBC, y el requisito de SSN con el…"
 path: "/examen-nclex/requisitos/mississippi/"
 thin: false
 flags: []

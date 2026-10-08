@@ -1,7 +1,7 @@
 ---
 title: "Cómo inscribirte al examen NCLEX en 2025"
 seoTitle: "Cómo inscribirte al examen NCLEX en 2025"
-description: "La elección de la BON más conveniente dependerá de tu situación personal. Si ya resides en Estados Unidos, lógicamente deberías optar por la BON de tu estado. Si aún te encuentras en el extranjero y no has rendido el examen de inglés, Nueva York podría ser una excelente opción inicial. Investiga a fondo los requisitos de cada BON y elige la que mejor se adapte a tus circunstancias. En definitiva, la BON elegida definirá si puedes registrarte en Pearson VUE."
+description: "Guía paso a paso para inscribirte al NCLEX: elige tu Board of Nursing, envía tus documentos, regístrate en Pearson VUE, recibe el ATT y agenda tu examen."
 date: "2025-11-14T14:48:10"
 updated: "2025-11-14T14:49:19"
 section: "proceso-licencia-homologacion"
@@ -15,7 +15,7 @@ faqs: []
 
 **Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 14 de Noviembre de 2025
 
-# ¡Conquista el NCLEX en 2025! Guía Paso a Paso para Enfermeros Internacionales (NCLEX)
+## ¡Conquista el NCLEX en 2025! Guía Paso a Paso para Enfermeros Internacionales (NCLEX)
 
 ¿Sueñas con ser enfermero en Estados Unidos? El **NCLEX** es tu llave. Esta guía completa te explica, paso a paso, cómo inscribirte al examen **NCLEX** en 2025, desde la elección de la Board of Nursing hasta el día del examen. ¡Prepárate para alcanzar tu meta! Además conoce mas información sobre el [NCLEX](https://rnnclex.com/preparacion-nclex/preguntas-practica/).
 

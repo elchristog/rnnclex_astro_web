@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en New Mexico"
-seoTitle: "Requisitos para el Examen NCLEX en Nuevo México | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Nuevo México. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el New Mexico Board of Nursing."
+seoTitle: "Requisitos para el Examen NCLEX en Nuevo México"
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Nuevo México. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el New…"
 path: "/examen-nclex/requisitos/new-mexico/"
 thin: false
 flags: []

@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en New Jersey"
-seoTitle: "Requisitos para el Examen NCLEX en New Jersey | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en New Jersey"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en New Jersey. Información sobre la tarifa de $200, NLC, CBC, y la solicitud notariada con el NJ Board of Nursing."
 path: "/examen-nclex/requisitos/new-jersey/"
 thin: false

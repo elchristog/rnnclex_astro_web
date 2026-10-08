@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Colorado"
-seoTitle: "Requisitos para el Examen NCLEX en Colorado | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Colorado"
 description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Colorado. Información sobre tarifas, NLC, CBC y el proceso con el Colorado Board of Nursing."
 path: "/examen-nclex/requisitos/colorado/"
 thin: false

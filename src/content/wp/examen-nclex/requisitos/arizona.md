@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Arizona"
-seoTitle: "Requisitos para el Examen NCLEX en Arizona | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Arizona. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Arizona State Board of Nursing (AZBN)."
+seoTitle: "Requisitos para el Examen NCLEX en Arizona"
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Arizona. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Arizona State…"
 path: "/examen-nclex/requisitos/arizona/"
 thin: false
 flags: []

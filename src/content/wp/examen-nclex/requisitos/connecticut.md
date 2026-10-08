@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Connecticut"
 seoTitle: "Requisitos para el Examen NCLEX en Connecticut | Guía 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Connecticut. Información sobre tarifas, NLC, CBC, y el proceso con el Connecticut Department of Public Health (DPH)."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Connecticut. Información sobre tarifas, NLC, CBC, y el proceso con el Connecticut Department of…"
 path: "/examen-nclex/requisitos/connecticut/"
 thin: false
 flags: []

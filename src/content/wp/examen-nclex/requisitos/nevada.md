@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Nevada"
 seoTitle: "Requisitos para el Examen NCLEX en Nevada | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Nevada. Información sobre tarifas, CBC, y la regla de práctica de 5 años con el Nevada State Board of Nursing."
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Nevada. Información sobre tarifas, CBC, y la regla de práctica de 5 años con el Nevada State…"
 path: "/examen-nclex/requisitos/nevada/"
 thin: false
 flags: []

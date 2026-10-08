@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Oklahoma"
-seoTitle: "Requisitos para el Examen NCLEX en Oklahoma | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Oklahoma"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en Oklahoma. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Oklahoma Board of Nursing."
 path: "/examen-nclex/requisitos/oklahoma/"
 thin: false

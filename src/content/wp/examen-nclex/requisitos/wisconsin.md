@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Wisconsin"
-seoTitle: "Requisitos para el Examen NCLEX en Wisconsin | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Wisconsin"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en Wisconsin. Información sobre tarifas, NLC, CBC, y el proceso con el Wisconsin Board of Nursing (DSPS)."
 path: "/examen-nclex/requisitos/wisconsin/"
 thin: false

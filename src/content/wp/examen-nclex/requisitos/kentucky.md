@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Kentucky"
-seoTitle: "Requisitos para el Examen NCLEX en Kentucky | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Kentucky"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en Kentucky. Información sobre tarifas, NLC, CBC (IdentoGO), y el Examen de Jurisprudencia obligatorio."
 path: "/examen-nclex/requisitos/kentucky/"
 thin: false

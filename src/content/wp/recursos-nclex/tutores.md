@@ -1,7 +1,7 @@
 ---
 title: "Tutoría NCLEX-RN: Tu Plan de Ataque Personalizado para Aprobar"
-seoTitle: "Tutoría Personalizada para el NCLEX-RN | Conoce a Nuestros Expertos"
-description: "Eleva tu preparación del NCLEX con nuestra tutoría personalizada. Nuestros tutores expertos analizan tu rendimiento en nuestra plataforma y crean un plan a tu medida para guiarte al éxito"
+seoTitle: "Tutoría Personalizada para el NCLEX-RN"
+description: "Eleva tu preparación del NCLEX con nuestra tutoría personalizada. Nuestros tutores expertos analizan tu rendimiento en nuestra plataforma y crean un plan…"
 path: "/recursos-nclex/tutores/"
 thin: false
 flags: []

@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Alaska"
 seoTitle: "Requisitos para el Examen NCLEX en Alaska | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para presentar el examen NCLEX-RN en Alaska. Información sobre tarifas, NLC, CBC y el proceso de solicitud con el Alaska Board of Nursing."
+description: "Guía paso a paso de los requisitos para presentar el examen NCLEX-RN en Alaska. Información sobre tarifas, NLC, CBC y el proceso de solicitud con el…"
 path: "/examen-nclex/requisitos/alaska/"
 thin: false
 flags: []

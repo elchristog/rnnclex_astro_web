@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Indiana"
-seoTitle: "Requisitos para el Examen NCLEX en Indiana | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Indiana. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Indiana State Board of Nursing."
+seoTitle: "Requisitos para el Examen NCLEX en Indiana"
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Indiana. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Indiana State…"
 path: "/examen-nclex/requisitos/indiana/"
 thin: false
 flags: []

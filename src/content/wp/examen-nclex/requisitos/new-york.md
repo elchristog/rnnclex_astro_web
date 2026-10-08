@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en New York"
-seoTitle: "Requisitos para el Examen NCLEX en New York | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en New York. Información sobre tarifas, cursos obligatorios (Control de Infecciones, Abuso Infantil) y el proceso con NYSED."
+seoTitle: "Requisitos para el Examen NCLEX en New York"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en New York. Información sobre tarifas, cursos obligatorios (Control de Infecciones, Abuso Infantil) y…"
 path: "/examen-nclex/requisitos/new-york/"
 thin: false
 flags: []

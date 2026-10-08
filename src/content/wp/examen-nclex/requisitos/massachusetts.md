@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Massachusetts"
 seoTitle: "Requisitos para el Examen NCLEX en Massachusetts | Guía 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Massachusetts. Información sobre tarifas, NLC, CBC, y el proceso con el Massachusetts Board of Registration in Nursing."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Massachusetts. Información sobre tarifas, NLC, CBC, y el proceso con el Massachusetts Board of…"
 path: "/examen-nclex/requisitos/massachusetts/"
 thin: false
 flags: []

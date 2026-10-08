@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Delaware"
-seoTitle: "Requisitos para el Examen NCLEX en Delaware | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Delaware"
 description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Delaware. Información sobre tarifas, NLC, CBC, horas clínicas y el proceso con el Delaware Board of Nursing."
 path: "/examen-nclex/requisitos/delaware/"
 thin: false

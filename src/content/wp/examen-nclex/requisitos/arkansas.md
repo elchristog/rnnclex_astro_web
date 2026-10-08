@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Arkansas"
-seoTitle: "Requisitos para el Examen NCLEX en Arkansas | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Arkansas. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Arkansas State Board of Nursing (ARSBN)."
+seoTitle: "Requisitos para el Examen NCLEX en Arkansas"
+description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Arkansas. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Arkansas…"
 path: "/examen-nclex/requisitos/arkansas/"
 thin: false
 flags: []

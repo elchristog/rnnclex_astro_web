@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en North Dakota"
 seoTitle: "Requisitos para el Examen NCLEX en North Dakota | Guía 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en North Dakota. Información sobre tarifas, NLC, CHRC, y el proceso de solicitud con el North Dakota Board of Nursing (NDBON)."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en North Dakota. Información sobre tarifas, NLC, CHRC, y el proceso de solicitud con el North Dakota…"
 path: "/examen-nclex/requisitos/north-dakota/"
 thin: false
 flags: []

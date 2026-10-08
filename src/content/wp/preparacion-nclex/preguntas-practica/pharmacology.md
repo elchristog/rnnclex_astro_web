@@ -1,6 +1,6 @@
 ---
 title: "Preguntas de Práctica del NCLEX-RN: Farmacología"
-seoTitle: "Preguntas NCLEX: Farmacología | Muestra Gratuita y Justificaciones"
+seoTitle: "Preguntas NCLEX: Farmacología | Muestra Gratuita"
 description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Farmacología. Pon a prueba tu conocimiento en inotrópicos, nitroglicerina, dopamina y más."
 path: "/preparacion-nclex/preguntas-practica/pharmacology/"
 thin: false

@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Nebraska"
-seoTitle: "Requisitos para el Examen NCLEX en Nebraska | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Nebraska"
 description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Nebraska. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Nebraska DHHS."
 path: "/examen-nclex/requisitos/nebraska/"
 thin: false

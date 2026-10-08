@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en California"
-seoTitle: "Requisitos para el Examen NCLEX en California | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en California. Información sobre tarifas, curriculum estricto, CBC (Live Scan), y el proceso con el California Board of Registered Nursing (BRN)."
+seoTitle: "Requisitos para el Examen NCLEX en California"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en California. Información sobre tarifas, curriculum estricto, CBC (Live Scan), y el proceso con el…"
 path: "/examen-nclex/requisitos/california/"
 thin: false
 flags: []

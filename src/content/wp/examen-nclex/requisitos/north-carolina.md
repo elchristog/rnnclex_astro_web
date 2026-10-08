@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en North Carolina"
 seoTitle: "Requisitos para el Examen NCLEX en North Carolina | Guía 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en North Carolina. Información sobre la tarifa de $75, NLC, CBC, y el requisito de SSN con el NC Board of Nursing (NCBON)."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en North Carolina. Información sobre la tarifa de $75, NLC, CBC, y el requisito de SSN con el NC Board…"
 path: "/examen-nclex/requisitos/north-carolina/"
 thin: false
 flags: []

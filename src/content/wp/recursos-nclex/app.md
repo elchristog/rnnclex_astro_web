@@ -1,6 +1,6 @@
 ---
 title: "Más que una App. Una Plataforma de Preparación Guiada por Inteligencia Artificial para el NCLEX-RN"
-seoTitle: "Plataforma Inteligente de Preparación NCLEX (Web App) | rnnclex.com"
+seoTitle: "Plataforma Inteligente de Preparación NCLEX (Web App)"
 description: "Descubre la web app más avanzada para el NCLEX-RN. Con +3500 preguntas, IA para reforzar temas, cursos, mentoría y simuladores. Tu preparación completa en un solo lugar."
 path: "/recursos-nclex/app/"
 thin: false

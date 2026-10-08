@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Alabama"
-seoTitle: "Requisitos para el Examen NCLEX en Alabama | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para presentar el examen NCLEX-RN en Alabama. Información sobre tarifas, NLC, CBC y el proceso de solicitud con el Alabama Board of Nursing (ABN)."
+seoTitle: "Requisitos para el Examen NCLEX en Alabama"
+description: "Guía paso a paso de los requisitos para presentar el examen NCLEX-RN en Alabama. Información sobre tarifas, NLC, CBC y el proceso de solicitud con el…"
 path: "/examen-nclex/requisitos/alabama/"
 thin: false
 flags: []

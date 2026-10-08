@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Texas"
 seoTitle: "Requisitos para el Examen NCLEX en Texas | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Texas. Información sobre tarifas, NLC, CBC, y el Examen de Jurisprudencia obligatorio con el Texas Board of Nursing (BON)."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Texas. Información sobre tarifas, NLC, CBC, y el Examen de Jurisprudencia obligatorio con el Texas…"
 path: "/examen-nclex/requisitos/texas/"
 thin: false
 flags: []

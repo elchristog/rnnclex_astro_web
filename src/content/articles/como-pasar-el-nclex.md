@@ -1,7 +1,7 @@
 ---
-title: "Cómo Pasar el NCLEX: Guía Estratégica para Dominar el NGN | rnnclex.com"
-seoTitle: "Cómo Pasar el NCLEX: Guía Estratégica para Dominar el NGN | rnnclex.com"
-description: "La guía definitiva para pasar el Next Generation NCLEX-RN. Aprende sobre el juicio clínico, planes de estudio, herramientas de diagnóstico (CAT), y preparación psicológica."
+title: "Cómo Pasar el NCLEX: Guía Estratégica para Dominar el NGN"
+seoTitle: "Cómo Pasar el NCLEX: Guía Estratégica para Dominar el NGN"
+description: "La guía definitiva para pasar el Next Generation NCLEX-RN. Aprende sobre el juicio clínico, planes de estudio, herramientas de diagnóstico (CAT), y…"
 date: "2025-08-11T15:55:30"
 updated: "2026-10-04T08:28:41"
 section: "estrategias-examen"

@@ -1,6 +1,6 @@
 ---
 title: "Preguntas de Práctica del NCLEX-RN: Salud Mental"
-seoTitle: "Preguntas NCLEX: Salud Mental | Muestra Gratuita y Justificaciones"
+seoTitle: "Preguntas NCLEX: Salud Mental | Muestra Gratuita"
 description: "Practica con preguntas de muestra gratuitas del NCLEX-RN sobre Salud Mental. Pon a prueba tu conocimiento en anorexia, Alzheimer y más."
 path: "/preparacion-nclex/preguntas-practica/mental-health/"
 thin: false

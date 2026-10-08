@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Washington"
-seoTitle: "Requisitos para el Examen NCLEX en Washington | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Washington. Información sobre tarifas (MSL/SSL), NLC, CBC, y el proceso con la Comisión de Enfermería de WA (NCQAC)."
+seoTitle: "Requisitos para el Examen NCLEX en Washington"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Washington. Información sobre tarifas (MSL/SSL), NLC, CBC, y el proceso con la Comisión de…"
 path: "/examen-nclex/requisitos/washington/"
 thin: false
 flags: []

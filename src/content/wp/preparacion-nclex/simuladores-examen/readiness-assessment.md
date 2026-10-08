@@ -1,6 +1,6 @@
 ---
 title: "NCLEX Readiness Assessment: El Examen Predictivo que Mide tu Verdadera Preparación"
-seoTitle: "NCLEX Readiness Assessment: Mide tu Probabilidad de Aprobar | rnnclex.com"
+seoTitle: "NCLEX Readiness Assessment: Mide tu Probabilidad de Aprobar"
 description: "Descubre qué es un NCLEX Readiness Assessment y cómo predice tu éxito. Prueba nuestro examen predictivo y obtén un análisis detallado de tu preparación. ¡Averígualo hoy!"
 path: "/preparacion-nclex/simuladores-examen/readiness-assessment/"
 thin: false

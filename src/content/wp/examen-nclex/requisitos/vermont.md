@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Vermont"
-seoTitle: "Requisitos para el Examen NCLEX en Vermont | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Vermont"
 description: "Guía paso a paso de los requisitos para el NCLEX-RN en Vermont. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Vermont Board of Nursing (OPR)."
 path: "/examen-nclex/requisitos/vermont/"
 thin: false

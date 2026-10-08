@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Illinois"
-seoTitle: "Requisitos para el Examen NCLEX en Illinois | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Illinois. Información sobre el proceso con Continental Testing Services (CTS), tarifas, CBC, y requisitos curriculares."
+seoTitle: "Requisitos para el Examen NCLEX en Illinois"
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Illinois. Información sobre el proceso con Continental Testing Services (CTS), tarifas, CBC, y…"
 path: "/examen-nclex/requisitos/illinois/"
 thin: false
 flags: []

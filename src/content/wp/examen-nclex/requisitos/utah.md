@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Utah"
 seoTitle: "Requisitos para el Examen NCLEX en Utah | Guía Completa 2025"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Utah. Información sobre tarifas, NLC, CBC (BCI/FBI), y el proceso de solicitud con la Junta de Enfermería de Utah (DOPL)."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Utah. Información sobre tarifas, NLC, CBC (BCI/FBI), y el proceso de solicitud con la Junta de…"
 path: "/examen-nclex/requisitos/utah/"
 thin: false
 flags: []

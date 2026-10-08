@@ -1,6 +1,6 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Georgia"
-seoTitle: "Requisitos para el Examen NCLEX en Georgia | Guía Completa 2025"
+seoTitle: "Requisitos para el Examen NCLEX en Georgia"
 description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Georgia. Información sobre tarifas, NLC, CBC (GAPS/Gemalto), y el proceso con el Georgia Board of Nursing."
 path: "/examen-nclex/requisitos/georgia/"
 thin: false
