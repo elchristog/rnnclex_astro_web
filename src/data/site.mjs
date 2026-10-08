@@ -10,8 +10,10 @@ export const site = {
   metaPixelId: '',
   // Google Ads propio: completar con AW-XXXXXXXXXX cuando se cree la cuenta de rnnclex.
   googleAdsId: '',
-  // La web app (registro, login y pago con Stripe). Ideal: moverla a app.rnnclex.com.
+  // La web app (Cloud Run): login, registro y pago con Stripe. Ideal: moverla a app.rnnclex.com.
+  appBase: 'https://rnnclex-frontend-v2-989579164577.us-central1.run.app/',
   appUrl: 'https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user',
+  appLoginUrl: 'https://rnnclex-frontend-v2-989579164577.us-central1.run.app/',
   appHosts: ['rnnclex-frontend-v2-989579164577.us-central1.run.app', 'app.rnnclex.com'],
   // Oferta unica
   offer: { price: 19, currency: 'USD', interval: 'mes' },

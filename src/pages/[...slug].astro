@@ -1,0 +1,27 @@
+---
+import { getCollection, render } from "astro:content";
+import ProseLayout from "@/layouts/ProseLayout.astro";
+
+// Páginas copiadas de WordPress que no tienen archivo propio en Astro.
+// Los estados (/examen-nclex/requisitos/<estado>/) los maneja su propia ruta.
+export async function getStaticPaths() {
+  const entries = await getCollection("wp");
+  return entries
+    .filter((e) => !e.id.startsWith("examen-nclex/requisitos/"))
+    .map((e) => ({ params: { slug: e.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+---
+
+<ProseLayout
+  title={d.title}
+  seoTitle={d.seoTitle}
+  description={d.description ?? ""}
+  canonical={`https://rnnclex.com/${entry.id}/`}
+  faqs={d.faqs ?? []}
+>
+  <Content />
+</ProseLayout>

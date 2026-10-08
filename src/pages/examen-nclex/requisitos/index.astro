@@ -1,0 +1,111 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import AppCta from "@/components/global/AppCta.astro";
+import { states, priority, nlcShort } from "@/data/states.mjs";
+
+const top = priority.map((slug) => states.find((s) => s.slug === slug)).filter(Boolean);
+const badge = (s) =>
+  s.nlc === "full"
+    ? "bg-emerald-100 text-emerald-800"
+    : s.nlc === "enacted"
+      ? "bg-amber-100 text-amber-800"
+      : "bg-gray-100 text-gray-700";
+
+const faqs = [
+  {
+    question: "¿El requisito para el NCLEX es el mismo en todos los estados?",
+    answer: "El examen es el mismo en todo Estados Unidos, pero cada junta de enfermería fija sus propios requisitos para declararte elegible: documentos, tarifas, huellas, prueba de inglés y, para enfermeros formados fuera de EE. UU., evaluación de credenciales.",
+  },
+  {
+    question: "¿Qué es el Nurse Licensure Compact (NLC)?",
+    answer: "Es un acuerdo entre estados que permite ejercer en varios con una sola licencia multiestado, siempre que tu estado de residencia principal sea miembro. No reemplaza el primer NCLEX ni la primera licencia.",
+  },
+  {
+    question: "¿En qué estado me conviene sacar la licencia?",
+    answer: "Depende de dónde vas a trabajar y de qué tan exigente sea el trámite para IEN. Si tu estado pertenece al NLC, una licencia multiestado te da más opciones de empleo. Compara los requisitos de cada junta antes de decidir.",
+  },
+  {
+    question: "¿Cuánto cuesta el NCLEX?",
+    answer: "El examen cuesta USD 200 por intento con Pearson VUE, más la solicitud a la junta estatal y otros costos según tu caso.",
+  },
+];
+---
+
+<BaseLayout
+  title="Requisitos NCLEX por estado 2026 | Guía para IEN"
+  description="Requisitos del NCLEX-RN estado por estado para enfermeros formados fuera de EE. UU.: junta de enfermería, documentos, inglés, CGFNS y estado del NLC."
+  canonical="https://rnnclex.com/examen-nclex/requisitos/"
+  type="faq"
+  faqs={faqs}
+>
+  <section class="bg-[#eff4f7] border-b border-gray-200">
+    <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-16">
+      <p class="text-xs font-bold uppercase tracking-widest text-[#0e497c] mb-3">Guía del examen</p>
+      <h1 class="text-3xl md:text-5xl font-bold text-[#2b2c27] leading-tight">Requisitos del NCLEX-RN por estado (2026)</h1>
+      <p class="mt-4 text-lg text-gray-600 max-w-3xl">
+        El examen es el mismo en todo el país, pero cada junta de enfermería decide quién es elegible. Elige tu estado y mira qué necesitas, en español.
+      </p>
+    </div>
+  </section>
+
+  <section class="bg-white py-12">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <div class="prose prose-lg max-w-none prose-headings:text-[#0e497c] prose-a:text-[#0e497c]">
+        <h2>Cómo elegir el estado de tu licencia</h2>
+        <ul>
+          <li><strong>Dónde vas a trabajar:</strong> la licencia se tramita en el estado donde ejercerás o vivirás.</li>
+          <li><strong>Si eres IEN:</strong> revisa si la junta pide <a href="/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/">evaluación de credenciales (CGFNS/TruMerit)</a> y prueba de inglés. Lee la <a href="/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/">guía para enfermeros extranjeros</a>.</li>
+          <li><strong>Nurse Licensure Compact (NLC):</strong> si tu estado es miembro, una licencia multiestado te permite ejercer en otros estados miembros.</li>
+          <li><strong>Después de la junta:</strong> te registras en Pearson VUE, recibes el <a href="/proceso-licencia-homologacion/como-obtener-att-nclex/">ATT</a> y agendas en las <a href="/examen-nclex/fechas/">fechas y centros</a> disponibles.</li>
+        </ul>
+      </div>
+
+      <h2 class="mt-12 mb-5 text-2xl font-semibold text-[#2b2c27]">Los más consultados</h2>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          top.map((s) => (
+            <a href={`/examen-nclex/requisitos/${s.slug}/`} class="block rounded-xl border-2 border-[#0e497c]/20 bg-[#eff4f7] p-4 hover:border-[#0e497c] transition">
+              <p class="font-bold text-[#0e497c]">{s.name}</p>
+              <p class="mt-1 text-xs text-gray-600">{s.board}</p>
+              <span class={`mt-3 inline-block rounded-full px-2.5 py-1 text-[11px] font-semibold ${badge(s)}`}>{nlcShort(s)}</span>
+            </a>
+          ))
+        }
+      </div>
+
+      <h2 class="mt-14 mb-5 text-2xl font-semibold text-[#2b2c27]">Todos los estados (A–Z)</h2>
+      <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          states.map((s) => (
+            <a href={`/examen-nclex/requisitos/${s.slug}/`} class="flex items-center justify-between gap-3 rounded-lg border border-gray-200 bg-white p-4 hover:border-[#0e497c] hover:shadow-sm transition">
+              <span>
+                <span class="block font-semibold text-[#2b2c27]">{s.name}</span>
+                <span class="block text-xs text-gray-500">{s.abbr}</span>
+              </span>
+              <span class={`shrink-0 rounded-full px-2.5 py-1 text-[11px] font-semibold ${badge(s)}`}>{nlcShort(s)}</span>
+            </a>
+          ))
+        }
+      </div>
+      <p class="mt-6 text-xs text-gray-500">Estado del NLC revisado en octubre de 2026. Verifica siempre en el sitio oficial de la junta.</p>
+    </div>
+  </section>
+
+  <section class="bg-[#eff4f7] py-12">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-semibold text-[#2b2c27] mb-8">Preguntas frecuentes</h2>
+      <div class="space-y-3">
+        {
+          faqs.map((f) => (
+            <details class="bg-white rounded-lg border border-gray-200 p-5">
+              <summary class="cursor-pointer font-semibold text-[#2b2c27]">{f.question}</summary>
+              <p class="mt-3 text-gray-600 leading-relaxed">{f.answer}</p>
+            </details>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <AppCta />
+</BaseLayout>

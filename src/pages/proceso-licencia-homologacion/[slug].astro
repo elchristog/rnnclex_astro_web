@@ -1,0 +1,15 @@
+---
+import { getCollection } from "astro:content";
+import ArticlePage from "@/components/blog/ArticlePage.astro";
+
+export async function getStaticPaths() {
+  const all = await getCollection("articles");
+  return all
+    .filter((e) => e.data.section === "proceso-licencia-homologacion")
+    .map((e) => ({ params: { slug: e.data.slug }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+---
+
+<ArticlePage entry={entry} />

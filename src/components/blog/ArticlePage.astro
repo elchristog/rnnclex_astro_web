@@ -1,0 +1,21 @@
+---
+import { render } from "astro:content";
+import ProseLayout from "@/layouts/ProseLayout.astro";
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const canonical = `https://rnnclex.com/${d.section}/${d.slug}/`;
+---
+
+<ProseLayout
+  title={d.title}
+  seoTitle={d.seoTitle}
+  description={d.description}
+  canonical={canonical}
+  faqs={d.faqs ?? []}
+  type="article"
+  datePublished={d.date.toISOString()}
+>
+  <Content />
+</ProseLayout>
