@@ -1,264 +1,235 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import { site } from "@/data/site.mjs";
 
 const faqs = [
   {
+    question: "¿Qué es rnnclex.com y para quién es?",
+    answer: "Es una plataforma de preparación NCLEX-RN pensada para enfermeros hispanos: banco de preguntas bilingüe (inglés y español), simuladores con tecnología CAT, formato Next Generation (NGN), preparación guiada con mentoría y sesiones grupales, todo dentro de una web app por una suscripción de USD 19 al mes."
+  },
+  {
+    question: "¿Por qué es más económico que Archer Review, UWorld o Bootcamp?",
+    answer: "Ofrecemos el mismo tipo de preparación guiada que las academias premium, pero con una sola suscripción mensual accesible y contenido en ambos idiomas. No pagas por planes largos ni por módulos separados: pagas USD 19 al mes y puedes cancelar cuando quieras."
+  },
+  {
     question: "¿Cuál es la mejor manera de estudiar para el NCLEX-RN?",
-    answer: "La mejor estrategia combina la práctica constante con preguntas de alta calidad, el uso de simuladores adaptativos (CAT & Readiness Assessment) para medir tu progreso y la revisión de contenido en tus áreas más débiles. Nuestra plataforma está diseñada para facilitar exactamente este proceso. Un simulacro genérico calcula tus aciertos, nosotros calculamos tu probabilidad de pasar el NCLEX."
+    answer: "La mejor estrategia combina práctica constante con preguntas de calidad, simuladores adaptativos (CAT y Readiness Assessment) para medir tu progreso y repaso enfocado en tus áreas débiles. Nuestra plataforma está diseñada para ese ciclo: practicas, mides, corriges y repites con guía."
   },
   {
     question: "¿Sus preguntas son como las del examen NCLEX real?",
-    answer: "Sí. Nuestro equipo de expertos en enfermería actualiza constantemente nuestro banco de preguntas (nclex test bank) para reflejar el estilo, la dificultad y los temas del examen NCLEX-RN actual, incluyendo todos los nuevos formatos NGN."
+    answer: "Sí. Nuestro equipo de enfermería actualiza el banco de preguntas para reflejar el estilo, la dificultad y los temas del NCLEX-RN actual, incluyendo los formatos NGN como estudios de caso y Bow-Tie, con justificaciones detalladas en español e inglés."
   },
   {
     question: "¿Cómo me inscribo para el examen NCLEX?",
-    answer: "El proceso de inscripción varía ligeramente según tu junta de enfermería estatal. Hemos creado una guía completa en nuestra sección de Examen NCLEX que te lleva paso a paso a través del proceso de solicitud y registro en Pearson VUE."
+    answer: "El proceso varía según tu junta de enfermería estatal. Tenemos guías por estado y un paso a paso para la solicitud, la autorización ATT y el registro en Pearson VUE, para que no pierdas tiempo ni dinero."
   },
   {
-    question: "¿Ofrecen algún tipo de examen de práctica gratuito para el NCLEX?",
-    answer: "¡Claro! Ofrecemos un cuestionario de práctica gratuito (free nclex practice exam) para que puedas experimentar la calidad de nuestra plataforma y familiarizarte con el tipo de preguntas que encontrarás. Puedes empezar hoy mismo."
+    question: "¿Puedo probar la plataforma antes de suscribirme?",
+    answer: "Sí. Puedes ver preguntas de muestra gratis para conocer el estilo del banco de preguntas y la plataforma antes de empezar tu suscripción."
   }
+];
+
+const features = [
+  { icon: "🌐", title: "Bilingüe de verdad", text: "Cada pregunta y justificación en español e inglés. Estudias en tu idioma y te acostumbras al inglés del examen." },
+  { icon: "🗄️", title: "+3500 preguntas", text: "Banco de preguntas bilingüe con justificaciones detalladas, formatos NGN y exámenes personalizados por tema." },
+  { icon: "💻", title: "Tecnología CAT", text: "Simuladores adaptativos y Readiness Assessment que predicen tu probabilidad de pasar antes de agendar." },
+  { icon: "🧭", title: "Preparación guiada", text: "Un plan claro de estudio, diagnóstico inicial y seguimiento para que sepas qué practicar cada semana." },
+  { icon: "👩‍⚕️", title: "Mentoría y sesiones grupales", text: "Acompañamiento de enfermeros expertos y sesiones en grupo para resolver dudas y mantener el ritmo." },
+  { icon: "📱", title: "Web app y móvil", text: "Estudia desde el computador o el celular. Tu progreso se guarda y se sincroniza en la web app." },
+];
+
+const steps = [
+  { n: "1", title: "Regístrate y haz tu diagnóstico", text: "Crea tu cuenta y mide tu punto de partida con un Readiness Assessment." },
+  { n: "2", title: "Practica con guía", text: "Sigue tu plan: preguntas por tema, justificaciones y repaso de tus áreas débiles." },
+  { n: "3", title: "Simula y agenda con confianza", text: "Haz simulacros CAT hasta ver “Alta probabilidad de pasar” y agenda tu examen." },
 ];
 ---
 
 <BaseLayout
-  title="Prep NCLEX bilingüe para hispanos | +3500 preguntas"
-  description="Preparación NCLEX-RN en inglés y español: +3500 preguntas, CAT, NGN y precio más accesible que Archer o UWorld. Empieza con preguntas de muestra gratis."
+  title="Preparación NCLEX para enfermeros hispanos | Bilingüe"
+  description="Preparación NCLEX-RN bilingüe para enfermeros hispanos: +3500 preguntas en español e inglés, CAT, NGN, mentoría y web app por USD 19 al mes."
   canonical="https://rnnclex.com/"
   type="home"
   faqs={faqs}
 >
-  <!-- Hero Section -->
-  <section class="py-16 md:py-24 text-center border-t border-b border-gray-100 bg-white">
-    <div class="max-w-screen-xl mx-auto px-4 flex flex-col items-center">
-      <div class="bg-white p-4 rounded-3xl border border-gray-200/80 shadow-md mb-8 flex items-center justify-center">
-        <img
-          src="/images/rn_nclex_logo_large.webp"
-          alt="Logo de rnnclex.com, plataforma de preparación para el examen NCLEX-RN"
-          class="w-32 h-32 object-contain rounded-2xl"
-          width="128"
-          height="128"
-        />
-      </div>
-      <h1 class="text-4xl md:text-6xl font-normal text-[#2b2c27] tracking-tight mb-6 max-w-4xl leading-tight">
-        Preparación NCLEX bilingüe para enfermeros hispanos
-      </h1>
-      <p class="text-lg md:text-xl text-[#575757] font-extralight max-w-2xl leading-relaxed mb-10">
-        Tu camino hacia la licencia de enfermería comienza aquí. Domina el examen con nuestra metodología de preparación integral, banco de preguntas adaptativas y el apoyo de expertos que necesitas para triunfar.
-      </p>
-      <div class="flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto">
-        <a
-          href="/precios/"
-          class="w-full sm:w-auto bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold text-lg px-10 py-5 rounded tracking-widest transition shadow text-center"
-        >
-          Ver Planes y Precios
-        </a>
-        <a
-          href="/preparacion-nclex/preguntas-practica/"
-          class="w-full sm:w-auto bg-transparent border-3 border-[#a0ccf2] text-[#0e497c] hover:bg-[#a0ccf2]/10 font-bold text-lg px-10 py-5 rounded tracking-widest transition text-center"
-        >
-          Ver preguntas de muestra gratis
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- Section 2: Del Sueño a la Realidad -->
-  <section class="py-20 bg-[#eff4f7]">
-    <div class="max-w-screen-xl mx-auto px-4">
-      <div class="text-center max-w-3xl mx-auto mb-16">
-        <h2 class="text-3xl md:text-4xl font-normal text-[#2b2c27] mb-4">
-          Del Sueño a la Realidad: Tu Licencia de Enfermería te Espera
-        </h2>
-        <p class="text-gray-600 text-base leading-relaxed">
-          Sabemos que completar la escuela de enfermería es un logro monumental. El examen NCLEX-RN® es el último paso que te separa de tu vocación. En rnnclex.com, hemos diseñado un ecosistema de estudio completo y personalizado. Olvídate de la incertidumbre y prepárate con un plan claro, recursos de alta calidad y la certeza de que estás estudiando de la manera más inteligente.
+  <!-- Hero -->
+  <section class="relative overflow-hidden bg-gradient-to-b from-[#eaf3fb] to-white">
+    <div class="max-w-screen-xl mx-auto px-4 py-14 md:py-20 grid lg:grid-cols-12 gap-10 items-center">
+      <div class="lg:col-span-7">
+        <p class="inline-flex items-center gap-2 text-xs font-semibold text-[#0e497c] bg-white border border-[#cfe3f5] rounded-full px-3 py-1 mb-5">
+          Preparación NCLEX-RN · Español + English
         </p>
+        <h1 class="text-4xl md:text-5xl font-bold text-slate-900 tracking-tight leading-[1.1]">
+          Preparación NCLEX para <span class="text-[#0e497c]">enfermeros hispanos</span>, en tu idioma y a un precio justo
+        </h1>
+        <p class="mt-5 text-lg text-slate-600 max-w-2xl leading-relaxed">
+          La preparación guiada de las academias premium, pero bilingüe y a una fracción del precio de Archer Review, UWorld o Bootcamp. Banco de preguntas bilingüe, tecnología CAT, NGN, mentoría y sesiones grupales en una sola web app.
+        </p>
+        <div class="mt-8 flex flex-col sm:flex-row gap-3">
+          <a href={site.appUrl} data-cta="app" class="bg-[#0e497c] hover:bg-[#0b3b64] text-white font-semibold px-7 py-3.5 rounded-lg text-center transition shadow-sm">
+            Empezar por USD {site.offer.price}/mes
+          </a>
+          <a href="/preparacion-nclex/preguntas-practica/" class="bg-white border border-slate-300 hover:border-[#0e497c] text-[#0e497c] font-semibold px-7 py-3.5 rounded-lg text-center transition">
+            Ver preguntas de muestra gratis
+          </a>
+        </div>
+        <ul class="mt-7 flex flex-wrap gap-x-6 gap-y-2 text-sm text-slate-600">
+          <li>✓ +3500 preguntas bilingües</li>
+          <li>✓ CAT y NGN</li>
+          <li>✓ Cancela cuando quieras</li>
+        </ul>
       </div>
 
-      <!-- 3 Pillars Grid -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-        <!-- Pillar 1 -->
-        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex flex-col justify-between">
-          <div>
-            <img
-              src="/images/herramientas-preparacion-nclex.webp"
-              alt="Herramientas de preparación NCLEX"
-              class="w-full h-48 object-cover rounded-lg mb-6"
-            />
-            <h3 class="text-xl font-bold text-[#2b2c27] mb-3">Preparación Integral para el NCLEX</h3>
-            <p class="text-sm text-gray-600 mb-6 leading-relaxed">
-              Domina cada área del examen con nuestro conjunto de herramientas de estudio. Desde bancos de preguntas hasta simuladores que imitan el examen real, te damos todo para construir una base de conocimiento sólida.
-            </p>
-
-            <ul class="space-y-4 text-xs text-gray-700 mb-8">
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">🗄️</span>
-                <span><strong>Banco de Preguntas Extenso:</strong> Practica con miles de preguntas (3500 NCLEX practice questions) que incluyen justificaciones detalladas.</span>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">💻</span>
-                <span><strong>Simuladores de Examen (CAT & Readiness):</strong> Familiarízate con el formato adaptativo del NCLEX y recibe predicciones en tiempo real.</span>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">🎧</span>
-                <span><strong>Cursos y Revisiones Online:</strong> Accede a cursos estructurados impartidos por enfermeros expertos.</span>
-              </li>
-            </ul>
-          </div>
-          <a href="/preparacion-nclex/" class="inline-block bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold text-xs py-3 px-6 rounded tracking-wider text-center transition">
-            Herramientas de Preparación NCLEX
+      <div class="lg:col-span-5">
+        <div class="bg-white rounded-2xl shadow-xl border border-slate-200 p-7">
+          <p class="text-xs font-semibold uppercase tracking-wider text-[#0e497c]">Una sola suscripción</p>
+          <p class="mt-2 flex items-end gap-1">
+            <span class="text-5xl font-bold text-slate-900">USD {site.offer.price}</span>
+            <span class="text-slate-500 mb-1">/ mes</span>
+          </p>
+          <ul class="mt-5 space-y-3 text-sm text-slate-700">
+            <li class="flex gap-2"><span class="text-emerald-600">✓</span> Banco de preguntas bilingüe +3500</li>
+            <li class="flex gap-2"><span class="text-emerald-600">✓</span> Simuladores CAT y Readiness Assessment</li>
+            <li class="flex gap-2"><span class="text-emerald-600">✓</span> Preparación guiada y plan de estudio</li>
+            <li class="flex gap-2"><span class="text-emerald-600">✓</span> Mentoría y sesiones grupales</li>
+            <li class="flex gap-2"><span class="text-emerald-600">✓</span> +400 guías de estudio en español</li>
+          </ul>
+          <a href={site.appUrl} data-cta="app" class="mt-6 block bg-[#0e497c] hover:bg-[#0b3b64] text-white font-semibold text-center py-3 rounded-lg transition">
+            Crear mi cuenta
           </a>
-        </div>
-
-        <!-- Pillar 2 -->
-        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex flex-col justify-between">
-          <div>
-            <img
-              src="/images/guia-requisitos-inscripcion-nclex.webp"
-              alt="Guía y requisitos para inscripción NCLEX"
-              class="w-full h-48 object-cover rounded-lg mb-6"
-            />
-            <h3 class="text-xl font-bold text-[#2b2c27] mb-3">El Examen NCLEX: Requisitos y Logística</h3>
-            <p class="text-sm text-gray-600 mb-6 leading-relaxed">
-              Navega el proceso administrativo sin estrés. Te proporcionamos guías claras y actualizadas sobre todo lo que necesitas saber antes, durante y después del examen.
-            </p>
-
-            <ul class="space-y-4 text-xs text-gray-700 mb-8">
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">🚩</span>
-                <span><strong>Requisitos por Estado:</strong> Encuentra la información específica del Board of Nursing que te corresponde.</span>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">📖</span>
-                <span><strong>Guía de Inscripción:</strong> Un paso a paso detallado para registrarte en el examen sin errores.</span>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">📅</span>
-                <span><strong>Fechas y Centros:</strong> Consejos para elegir la mejor fecha y localizar tu centro de examen Pearson VUE.</span>
-              </li>
-            </ul>
-          </div>
-          <a href="/examen-nclex/" class="inline-block bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold text-xs py-3 px-6 rounded tracking-wider text-center transition">
-            Ver Guía del Examen
-          </a>
-        </div>
-
-        <!-- Pillar 3 -->
-        <div class="bg-white p-8 rounded-xl shadow-sm border border-gray-100 flex flex-col justify-between">
-          <div>
-            <img
-              src="/images/app-nclex-estudio-movil.webp"
-              alt="App móvil de rnnclex.com"
-              class="w-full h-48 object-cover rounded-lg mb-6"
-            />
-            <h3 class="text-xl font-bold text-[#2b2c27] mb-3">Recursos y Herramientas de Apoyo</h3>
-            <p class="text-sm text-gray-600 mb-6 leading-relaxed">
-              Complementa tu estudio con nuestra selección curada de los mejores recursos adicionales. Maximizamos tu aprendizaje con materiales recomendados por expertos.
-            </p>
-
-            <ul class="space-y-4 text-xs text-gray-700 mb-8">
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">📱</span>
-                <span><strong>App para el NCLEX:</strong> Contamos con una de las mejores aplicaciones para estudiar sobre la marcha.</span>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">🔖</span>
-                <span><strong>Libros y Guías:</strong> Una lista de más de 400 guías esenciales en Español que marcan la diferencia.</span>
-              </li>
-              <li class="flex items-start gap-2">
-                <span class="text-[#0e497c] font-bold">👤</span>
-                <span><strong>Tutores Expertos:</strong> Conecta con tutores calificados para un apoyo personalizado.</span>
-              </li>
-            </ul>
-          </div>
-          <a href="/recursos-nclex/" class="inline-block bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold text-xs py-3 px-6 rounded tracking-wider text-center transition">
-            Descubrir Recursos Adicionales
-          </a>
+          <p class="mt-3 text-xs text-slate-500 text-center">Pago seguro con Stripe dentro de la plataforma.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Testimonios Section -->
-  <section class="py-20 bg-white">
+  <!-- Propuesta de valor -->
+  <section class="bg-white py-16 md:py-20">
     <div class="max-w-screen-xl mx-auto px-4">
-      <h2 class="text-3xl md:text-4xl font-normal text-center text-[#2b2c27] mb-12">
-        Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
-      </h2>
-
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-        <div class="bg-gray-50 p-8 rounded-xl border border-gray-100">
-          <p class="text-xs font-bold text-[#0e497c] mb-2">— Daniela P., RN</p>
-          <p class="text-sm text-gray-600 italic leading-relaxed mb-6">
-            "¡Aprobé en 85 preguntas! Las preguntas de práctica de rnnclex.com son increíblemente similares al examen real. Los simuladores CAT me dieron la confianza que necesitaba. ¡Totalmente recomendado!"
-          </p>
-          <a href="/preparacion-nclex/preguntas-practica/" class="text-xs font-bold text-[#0e497c] hover:underline">
-            Ver preguntas de muestra gratis →
-          </a>
-        </div>
-
-        <div class="bg-gray-50 p-8 rounded-xl border border-gray-100">
-          <p class="text-xs font-bold text-[#0e497c] mb-2">— Carlos V., RN</p>
-          <p class="text-sm text-gray-600 italic leading-relaxed mb-6">
-            "La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing de Florida me salvaron de muchos dolores de cabeza. ¡Gracias!"
-          </p>
-          <a href="/preparacion-nclex/preguntas-practica/" class="text-xs font-bold text-[#0e497c] hover:underline">
-            Ver preguntas de muestra gratis →
-          </a>
-        </div>
-
-        <div class="bg-gray-50 p-8 rounded-xl border border-gray-100">
-          <p class="text-xs font-bold text-[#0e497c] mb-2">— Jessica H., RN</p>
-          <p class="text-sm text-gray-600 italic leading-relaxed mb-6">
-            "Pasé mi NCLEX en el primer intento. El banco de preguntas (nclex test bank) es excelente y las explicaciones son muy claras. No podría haberlo hecho sin esta plataforma."
-          </p>
-          <a href="/preparacion-nclex/preguntas-practica/" class="text-xs font-bold text-[#0e497c] hover:underline">
-            Ver preguntas de muestra gratis →
-          </a>
-        </div>
+      <div class="max-w-2xl mb-10">
+        <h2 class="text-3xl font-bold text-slate-900 tracking-tight">Todo lo que necesitas para aprobar el NCLEX-RN</h2>
+        <p class="mt-3 text-slate-600">Una preparación completa pensada para quien estudia en español y presenta el examen en inglés.</p>
       </div>
-    </div>
-  </section>
-
-  <!-- NGN Section -->
-  <section class="py-20 bg-[#0e497c] text-white text-center">
-    <div class="max-w-screen-md mx-auto px-4">
-      <h2 class="text-3xl md:text-4xl font-normal mb-6">
-        Totalmente Preparado para el Next Generation NCLEX (NGN)
-      </h2>
-      <p class="text-gray-200 text-base leading-relaxed mb-8">
-        El NCLEX ha evolucionado, y nuestra plataforma también. Practica con los nuevos formatos de pregunta, incluyendo Estudios de Caso (Case Studies), Respuesta Múltiple Extendida y los innovadores Bow-Tie. Con rnnclex.com, no habrá sorpresas el día del examen.
-      </p>
-      <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
-        <a
-          href="/estrategias-examen/que-es-el-next-generation-nclex/"
-          class="bg-white text-[#0e497c] font-bold text-sm px-8 py-4 rounded tracking-wider hover:bg-gray-100 transition w-full sm:w-auto"
-        >
-          Aprende Más sobre NGN
-        </a>
-        <a
-          href="/preparacion-nclex/preguntas-practica/"
-          class="text-white border-2 border-white font-bold text-sm px-8 py-4 rounded tracking-wider hover:bg-white/10 transition w-full sm:w-auto"
-        >
-          Ver preguntas de muestra gratis
-        </a>
-      </div>
-    </div>
-  </section>
-
-  <!-- FAQ Section -->
-  <section class="py-20 bg-white">
-    <div class="max-w-screen-lg mx-auto px-4">
-      <h2 class="text-3xl md:text-4xl font-normal text-center text-[#2b2c27] mb-12">
-        ¿Tienes Preguntas? Tenemos Respuestas
-      </h2>
-
-      <div class="space-y-6">
-        {faqs.map((faq) => (
-          <div class="p-6 bg-[#eff4f7] rounded-lg">
-            <h3 class="text-lg font-bold text-[#2b2c27] mb-2">{faq.question}</h3>
-            <p class="text-sm text-gray-600 leading-relaxed">{faq.answer}</p>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {features.map((f) => (
+          <div class="rounded-2xl border border-slate-200 p-6 hover:border-[#0e497c]/40 hover:shadow-sm transition">
+            <div class="w-11 h-11 rounded-xl bg-[#eaf3fb] flex items-center justify-center text-xl">{f.icon}</div>
+            <h3 class="mt-4 text-lg font-semibold text-slate-900">{f.title}</h3>
+            <p class="mt-2 text-sm text-slate-600 leading-relaxed">{f.text}</p>
           </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Comparación -->
+  <section class="bg-slate-50 py-16 md:py-20 border-y border-slate-200">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <div class="text-center max-w-2xl mx-auto mb-10">
+        <h2 class="text-3xl font-bold text-slate-900 tracking-tight">Nivel premium, hecho para hispanos</h2>
+        <p class="mt-3 text-slate-600">Lo que buscas en Archer Review, UWorld o Bootcamp, en español y mucho más accesible.</p>
+      </div>
+      <div class="overflow-x-auto rounded-2xl border border-slate-200 bg-white">
+        <table class="w-full text-sm text-left">
+          <thead>
+            <tr class="bg-[#0e497c] text-white">
+              <th class="p-4 font-semibold">&nbsp;</th>
+              <th class="p-4 font-semibold">rnnclex.com</th>
+              <th class="p-4 font-semibold">Academias premium en inglés</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100 text-slate-700">
+            <tr><td class="p-4 font-medium">Contenido bilingüe ES/EN</td><td class="p-4 text-emerald-700 font-semibold">Sí, todo</td><td class="p-4">Solo inglés</td></tr>
+            <tr><td class="p-4 font-medium">Preparación guiada y mentoría</td><td class="p-4 text-emerald-700 font-semibold">Incluida</td><td class="p-4">Según el plan</td></tr>
+            <tr><td class="p-4 font-medium">CAT, NGN y Readiness Assessment</td><td class="p-4 text-emerald-700 font-semibold">Incluidos</td><td class="p-4">Incluidos</td></tr>
+            <tr><td class="p-4 font-medium">Precio</td><td class="p-4 text-emerald-700 font-semibold">USD {site.offer.price} al mes</td><td class="p-4">Mucho más alto</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cómo funciona -->
+  <section class="bg-white py-16 md:py-20">
+    <div class="max-w-screen-xl mx-auto px-4">
+      <h2 class="text-3xl font-bold text-slate-900 tracking-tight text-center mb-10">Así es tu camino del sueño a la licencia</h2>
+      <div class="grid md:grid-cols-3 gap-6">
+        {steps.map((s) => (
+          <div class="relative rounded-2xl bg-[#eaf3fb] p-7">
+            <span class="w-9 h-9 rounded-full bg-[#0e497c] text-white font-bold flex items-center justify-center">{s.n}</span>
+            <h3 class="mt-4 text-lg font-semibold text-slate-900">{s.title}</h3>
+            <p class="mt-2 text-sm text-slate-600 leading-relaxed">{s.text}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Guía del examen -->
+  <section class="bg-slate-50 py-16 md:py-20 border-y border-slate-200">
+    <div class="max-w-screen-xl mx-auto px-4">
+      <div class="flex items-end justify-between flex-wrap gap-3 mb-8">
+        <div class="max-w-2xl">
+          <h2 class="text-3xl font-bold text-slate-900 tracking-tight">Guías gratis para el proceso de licencia</h2>
+          <p class="mt-3 text-slate-600">Requisitos por estado, inscripción, ATT y fechas del examen, explicados paso a paso para enfermeros internacionales.</p>
+        </div>
+        <a href="/examen-nclex/requisitos/" class="text-sm font-semibold text-[#0e497c] hover:underline">Ver requisitos por estado →</a>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <a href="/examen-nclex/requisitos/" class="rounded-xl bg-white border border-slate-200 p-5 hover:border-[#0e497c] transition"><p class="font-semibold text-slate-900">Requisitos por estado</p><p class="mt-1 text-sm text-slate-600">50 estados, con Florida, California, Texas y más.</p></a>
+        <a href="/examen-nclex/inscripcion/" class="rounded-xl bg-white border border-slate-200 p-5 hover:border-[#0e497c] transition"><p class="font-semibold text-slate-900">Inscripción y registro</p><p class="mt-1 text-sm text-slate-600">Solicitud, Pearson VUE y ATT sin errores.</p></a>
+        <a href="/examen-nclex/fechas/" class="rounded-xl bg-white border border-slate-200 p-5 hover:border-[#0e497c] transition"><p class="font-semibold text-slate-900">Fechas y centros</p><p class="mt-1 text-sm text-slate-600">Cómo agendar y elegir tu centro de examen.</p></a>
+        <a href="/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/" class="rounded-xl bg-white border border-slate-200 p-5 hover:border-[#0e497c] transition"><p class="font-semibold text-slate-900">¿Cuánto cuesta el NCLEX?</p><p class="mt-1 text-sm text-slate-600">Todos los costos del proceso, explicados.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonios -->
+  <section class="bg-white py-16 md:py-20">
+    <div class="max-w-screen-xl mx-auto px-4">
+      <h2 class="text-3xl font-bold text-slate-900 tracking-tight text-center mb-10">Enfermeros que ya aprobaron el NCLEX</h2>
+      <div class="grid md:grid-cols-3 gap-6">
+        <figure class="rounded-2xl border border-slate-200 p-7">
+          <blockquote class="text-slate-700 leading-relaxed">“¡Aprobé en 85 preguntas! Las preguntas de práctica de rnnclex.com son increíblemente similares al examen real. Los simuladores CAT me dieron la confianza que necesitaba.”</blockquote>
+          <figcaption class="mt-4 text-sm font-semibold text-[#0e497c]">Daniela P., RN</figcaption>
+        </figure>
+        <figure class="rounded-2xl border border-slate-200 p-7">
+          <blockquote class="text-slate-700 leading-relaxed">“La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing de Florida me salvaron de muchos dolores de cabeza.”</blockquote>
+          <figcaption class="mt-4 text-sm font-semibold text-[#0e497c]">Carlos V., RN</figcaption>
+        </figure>
+        <figure class="rounded-2xl border border-slate-200 p-7">
+          <blockquote class="text-slate-700 leading-relaxed">“Pasé mi NCLEX en el primer intento. El banco de preguntas es excelente y las explicaciones son muy claras.”</blockquote>
+          <figcaption class="mt-4 text-sm font-semibold text-[#0e497c]">Jessica H., RN</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- NGN -->
+  <section class="bg-[#0e497c] text-white py-16 text-center">
+    <div class="max-w-screen-md mx-auto px-4">
+      <h2 class="text-3xl font-bold tracking-tight">Listo para el Next Generation NCLEX (NGN)</h2>
+      <p class="mt-4 text-blue-100 leading-relaxed">Practica con los nuevos formatos: estudios de caso, respuesta múltiple extendida y Bow-Tie. Sin sorpresas el día del examen.</p>
+      <div class="mt-7 flex flex-col sm:flex-row items-center justify-center gap-3">
+        <a href={site.appUrl} data-cta="app" class="bg-white text-[#0e497c] font-semibold px-7 py-3 rounded-lg hover:bg-blue-50 transition">Empezar por USD {site.offer.price}/mes</a>
+        <a href="/estrategias-examen/que-es-el-next-generation-nclex/" class="border border-white/60 text-white font-semibold px-7 py-3 rounded-lg hover:bg-white/10 transition">Qué es el NGN</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="bg-white py-16 md:py-20">
+    <div class="max-w-screen-md mx-auto px-4">
+      <h2 class="text-3xl font-bold text-slate-900 tracking-tight text-center mb-8">Preguntas frecuentes</h2>
+      <div class="space-y-3">
+        {faqs.map((faq) => (
+          <details class="group rounded-xl border border-slate-200 bg-white p-5">
+            <summary class="cursor-pointer list-none flex items-center justify-between gap-4 font-semibold text-slate-900">
+              {faq.question}
+              <span class="text-[#0e497c] transition group-open:rotate-45 text-xl leading-none">+</span>
+            </summary>
+            <p class="mt-3 text-sm text-slate-600 leading-relaxed">{faq.answer}</p>
+          </details>
         ))}
       </div>
     </div>
