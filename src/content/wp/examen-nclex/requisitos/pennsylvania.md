@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Pennsylvan
 path: "/examen-nclex/requisitos/pennsylvania/"
 thin: false
 flags: []
-faqs: [{"question":"¿Dónde puedo encontrar el curso de Abuso Infantil aprobado?","answer":"El sitio web del Pennsylvania Department of State (DOS) o de la Junta de Enfermería proporciona una lista de proveedores aprobados para esta formación. Hay muchas opciones disponibles para completar el curso en línea. \\-"},{"question":"¿La licencia de Pennsylvania es multiestado?","answer":"Sí. Desde julio de 2025, Pennsylvania es un miembro con implementación completa del Nurse Licensure Compact (NLC). Si tu residencia principal está en Pennsylvania, serás elegible para una licencia multiestado (MSL), válida para ejercer en los demás estados del pacto."}]
+faqs: [{"question":"¿Dónde puedo encontrar el curso de Abuso Infantil aprobado?","answer":"El sitio web del Pennsylvania Department of State (DOS) o de la Junta de Enfermería proporciona una lista de proveedores aprobados para esta formación. Hay muchas opciones disponibles para completar el curso en línea."},{"question":"¿La licencia de Pennsylvania es multiestado?","answer":"Sí. Desde julio de 2025, Pennsylvania es un miembro con implementación completa del Nurse Licensure Compact (NLC). Si tu residencia principal está en Pennsylvania, serás elegible para una licencia multiestado (MSL), válida para ejercer en los demás estados del pacto."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Keystone State", deberás seguir el proceso de solicitud del Pennsylvania State Board of Nursing. Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose detallado de cada requisito, prestando especial atención al curso de formación mandatorio que todos los solicitantes deben completar.
@@ -41,25 +40,19 @@ Pennsylvania exige que todos los solicitantes completen una Verificación de His
 
 ### Mandatos y Notas Específicas del Estado
 
-Curso Obligatorio: Reconocimiento y Reporte de Abuso Infantil
+**Curso Obligatorio:** Reconocimiento y Reporte de Abuso Infantil
 Es un requisito mandatorio en Pennsylvania que todos los solicitantes de profesiones de la salud completen una formación de 3 horas sobre el reconocimiento y reporte de abuso infantil. Debes tomar este curso a través de un proveedor aprobado por la junta y presentar el certificado de finalización como parte de tu solicitud de licencia.
 Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de credenciales y la aprobación de un examen de competencia en inglés.
 
 ## Proceso de Solicitud para Pennsylvania: Resumen Paso a Paso
 
-Completa el curso obligatorio de 3 horas sobre Reporte de Abuso Infantil.
-
-Crea una cuenta y completa la solicitud online en el portal PALS, pagando la tarifa correspondiente.
-
-Sigue las instrucciones para el CHRC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Pennsylvania.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa el curso obligatorio de 3 horas sobre Reporte de Abuso Infantil.
+2. Crea una cuenta y completa la solicitud online en el portal PALS, pagando la tarifa correspondiente.
+3. Sigue las instrucciones para el CHRC.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Pennsylvania.
+6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

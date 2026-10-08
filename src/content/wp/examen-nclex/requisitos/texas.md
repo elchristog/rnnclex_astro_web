@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Texas. Inf
 path: "/examen-nclex/requisitos/texas/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué tan difícil es el Examen de Jurisprudencia de Texas?","answer":"Es un examen de libro abierto, lo que significa que puedes consultar los materiales de referencia mientras lo tomas. Sin embargo, no debe tomarse a la ligera. Requiere una revisión cuidadosa del \"Texas Nurse Practice Act\" y las reglas de la junta. La BON especifica la puntuación de aprobación y el número de intentos permitidos. \\-"},{"question":"Como residente de Texas, ¿puedo trabajar en Oklahoma o Louisiana?","answer":"¡Sí! Dado que Texas, Oklahoma y Louisiana son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Texas, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con esa única licencia."}]
+faqs: [{"question":"¿Qué tan difícil es el Examen de Jurisprudencia de Texas?","answer":"Es un examen de libro abierto, lo que significa que puedes consultar los materiales de referencia mientras lo tomas. Sin embargo, no debe tomarse a la ligera. Requiere una revisión cuidadosa del \"Texas Nurse Practice Act\" y las reglas de la junta. La BON especifica la puntuación de aprobación y el número de intentos permitidos."},{"question":"Como residente de Texas, ¿puedo trabajar en Oklahoma o Louisiana?","answer":"¡Sí! Dado que Texas, Oklahoma y Louisiana son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Texas, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto con esa única licencia."}]
 ---
-
 Si tu meta es obtener tu licencia de enfermería en el "Lone Star State", deberás seguir el proceso de solicitud del Texas Board of Nursing (BON). Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose detallado de cada requisito, prestando especial atención al Examen de Jurisprudencia, un paso mandatorio y único del proceso en Texas.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose detallado de cada requisito, prestando especial
 
 ### NCLEX-RN Texas
 
-[**Junta Reguladora:** Texas Board of Nursing (BON)
-**Sitio Web Oficial:** https://www.bon.texas.gov
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifas de Solicitud:** Las tarifas exactas para la solicitud y otros procesos se detallan en el Texas Nurse Portal.
-](https://www.bon.texas.gov)
+- **Junta Reguladora:** Texas Board of Nursing (BON)
+- **Sitio Web Oficial:** [www.bon.texas.gov](https://www.bon.texas.gov)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifas de Solicitud:** Las tarifas exactas para la solicitud y otros procesos se detallan en el Texas Nurse Portal.
 
 ## Desglose de Requisitos para la Licencia por Examen en Texas
 
@@ -46,19 +44,13 @@ Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de cr
 
 ## Proceso de Solicitud para Texas: Resumen Paso a Paso
 
-Crea una cuenta en el Texas Nurse Portal y completa la solicitud online.
-
-Paga la tarifa de solicitud y sigue las instrucciones para la toma de huellas dactilares (DPS y FBI).
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Estudia y aprueba el Texas Nursing Jurisprudence Exam.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la BON.
-
-Una vez que la BON verifique que has cumplido todos los requisitos (incluyendo el examen de jurisprudencia), recibirás tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta en el Texas Nurse Portal y completa la solicitud online.
+2. Paga la tarifa de solicitud y sigue las instrucciones para la toma de huellas dactilares (DPS y FBI).
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Estudia y aprueba el Texas Nursing Jurisprudence Exam.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la BON.
+6. Una vez que la BON verifique que has cumplido todos los requisitos (incluyendo el examen de jurisprudencia), recibirás tu Authorization to Test (ATT).
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

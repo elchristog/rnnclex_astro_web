@@ -19,7 +19,7 @@ La preparación para el NCLEX puede sentirse como escalar una montaña, especial
 
 Un error común al empezar es intentar leer un libro de revisión completo, como el popular [**Saunders Comprehensive Review**](https://www.amazon.com/s?k=saunders+nclex+rn+examination&hvadid=777919866478&hvdev=c&hvexpln=67&hvlocphy=1015493&hvnetw=g&hvocijid=11431193541078392856--&hvqmt=b&hvrand=11431193541078392856&hvtargid=kwd-301309777173&hydadcr=22569_13821285&mcid=7aae9db8212a399f839970d64ca26795&tag=googhydr-20&ref=pd_sl_6p9g8jgdvi_b_p67), de principio a fin. Aunque es una herramienta valiosa, su extensión puede ser abrumadora y poco eficiente.
 
-Recuerda: el NCLEX no evalúa la simple memorización, sino tu **razonamiento y juicio clínico**. Por lo tanto, la clave está en usar los **libros para el NCLEX** de forma inteligente: identificando tus debilidades para mejorar conceptos específicos y desarrollar un mejor razonamiento.
+**Recuerda:** el NCLEX no evalúa la simple memorización, sino tu **razonamiento y juicio clínico**. Por lo tanto, la clave está en usar los **libros para el NCLEX** de forma inteligente: identificando tus debilidades para mejorar conceptos específicos y desarrollar un mejor razonamiento.
 
 * * *
 

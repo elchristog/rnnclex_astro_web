@@ -27,9 +27,9 @@ B) Vasodilatadores
 C) Diuréticos
 D) Antidisrítmicos
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Los agentes inotrópicos positivos no deben administrarse debido a su acción de aumentar la contractilidad miocárdica. Un aumento de la contractilidad ventricular incrementaría la obstrucción del tracto de salida en el cliente con miocardiopatía hipertrófica. Los vasodilatadores (B) no suelen prescribirse, pero no están contraindicados. Los diuréticos (C) se usan con precaución para evitar causar hipovolemia. Los antidisrítmicos (D) suelen ser necesarios para tratar arritmias auriculares y ventriculares.
+**Justificación:** Los agentes inotrópicos positivos no deben administrarse debido a su acción de aumentar la contractilidad miocárdica. Un aumento de la contractilidad ventricular incrementaría la obstrucción del tracto de salida en el cliente con miocardiopatía hipertrófica. Los vasodilatadores (B) no suelen prescribirse, pero no están contraindicados. Los diuréticos (C) se usan con precaución para evitar causar hipovolemia. Los antidisrítmicos (D) suelen ser necesarios para tratar arritmias auriculares y ventriculares.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -40,9 +40,9 @@ B) Visión borrosa temporal
 C) Urticaria generalizada con el uso prolongado
 D) Frecuencia urinaria
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Es de esperar una sensación de picazón o ardor cuando se coloca la nitroglicerina debajo de la lengua. Este efecto indica que el medicamento es potente y eficaz. La ausencia de esta respuesta significa que el cliente necesita obtener un nuevo frasco de nitroglicerina. Las otras respuestas (B, C, D) no son esperadas ni son efectos secundarios del fármaco.
+**Justificación:** Es de esperar una sensación de picazón o ardor cuando se coloca la nitroglicerina debajo de la lengua. Este efecto indica que el medicamento es potente y eficaz. La ausencia de esta respuesta significa que el cliente necesita obtener un nuevo frasco de nitroglicerina. Las otras respuestas (B, C, D) no son esperadas ni son efectos secundarios del fármaco.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -53,9 +53,9 @@ B) Exacerbación de los síntomas depresivos
 C) Violencia hacia otros
 D) Comportamiento psicótico
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Cuando un cliente severamente deprimido comienza a sentirse súbitamente mejor, a menudo indica que ha recuperado la energía suficiente para llevar a cabo un plan de suicidio que ya había decidido. La mejora en el comportamiento no es indicativa de una exacerbación (B). El cliente deprimido tiene tendencia a la autoviolencia, no a la violencia hacia otros (C). El comportamiento depresivo no siempre se acompaña de comportamiento psicótico (D).
+**Justificación:** Cuando un cliente severamente deprimido comienza a sentirse súbitamente mejor, a menudo indica que ha recuperado la energía suficiente para llevar a cabo un plan de suicidio que ya había decidido. La mejora en el comportamiento no es indicativa de una exacerbación (B). El cliente deprimido tiene tendencia a la autoviolencia, no a la violencia hacia otros (C). El comportamiento depresivo no siempre se acompaña de comportamiento psicótico (D).
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -66,9 +66,9 @@ B) Sulfadiazina de plata (Silvadene)
 C) Sulfato de neomicina (Neosporin)
 D) Povidona yodada (Betadine)
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: El acetato de mafenida es bacteriostático contra organismos grampositivos y gramnegativos y es el agente que mejor penetra la escara. La sulfadiazina de plata (B) penetra pobremente la escara. El sulfato de neomicina (C) y la povidona yodada (D) no penetran la escara.
+**Justificación:** El acetato de mafenida es bacteriostático contra organismos grampositivos y gramnegativos y es el agente que mejor penetra la escara. La sulfadiazina de plata (B) penetra pobremente la escara. El sulfato de neomicina (C) y la povidona yodada (D) no penetran la escara.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -79,8 +79,8 @@ B) Epinefrina
 C) Fenilefrina (Neo-Synephrine)
 D) Bicarbonato de sodio
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: La fentolamina se administra para contrarrestar los efectos alfa-adrenérgicos que causan isquemia y necrosis del tejido local. La epinefrina (B) y la fenilefrina (C) son vasoconstrictores que empeorarían la isquemia. El bicarbonato de sodio (D) es un agente alcalinizante incompatible con la dopamina.
+**Justificación:** La fentolamina se administra para contrarrestar los efectos alfa-adrenérgicos que causan isquemia y necrosis del tejido local. La epinefrina (B) y la fenilefrina (C) son vasoconstrictores que empeorarían la isquemia. El bicarbonato de sodio (D) es un agente alcalinizante incompatible con la dopamina.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

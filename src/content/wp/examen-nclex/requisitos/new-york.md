@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en New York. 
 path: "/examen-nclex/requisitos/new-york/"
 thin: false
 flags: []
-faqs: [{"question":"¿Dónde puedo encontrar los cursos obligatorios aprobados por NYSED?","answer":"El sitio web oficial del NYSED (op.nysed.gov) tiene una lista de proveedores aprobados para ambos cursos. Puedes buscar en línea \"NYSED approved infection control providers\" o \"NYSED approved child abuse reporting providers\" para encontrar muchas opciones, incluyendo cursos en línea. \\-"},{"question":"Si tengo una licencia de New Jersey (estado NLC), ¿puedo trabajar en New York?","answer":"No directamente. Dado que New York no es un estado miembro del NLC, una licencia multiestado de New Jersey (o de cualquier otro estado del pacto) no es válida para ejercer en NY. Deberás solicitar una licencia por \"endorsement\" (homologación) directamente con el NYSED, cumpliendo con todos sus requisitos, incluyendo los cursos de formación."}]
+faqs: [{"question":"¿Dónde puedo encontrar los cursos obligatorios aprobados por NYSED?","answer":"El sitio web oficial del NYSED (op.nysed.gov) tiene una lista de proveedores aprobados para ambos cursos. Puedes buscar en línea \"NYSED approved infection control providers\" o \"NYSED approved child abuse reporting providers\" para encontrar muchas opciones, incluyendo cursos en línea."},{"question":"Si tengo una licencia de New Jersey (estado NLC), ¿puedo trabajar en New York?","answer":"No directamente. Dado que New York no es un estado miembro del NLC, una licencia multiestado de New Jersey (o de cualquier otro estado del pacto) no es válida para ejercer en NY. Deberás solicitar una licencia por \"endorsement\" (homologación) directamente con el NYSED, cumpliendo con todos sus requisitos, incluyendo los cursos de formación."}]
 ---
-
 Si tu meta es obtener tu licencia de enfermería en el "Empire State", deberás seguir el proceso de solicitud del New York State Education Department (NYSED), Office of the Professions. Es crucial entender que New York tiene requisitos de formación únicos que debes completar antes de que tu licencia pueda ser emitida.
 
 Esta guía te ofrece un desglose detallado de cada paso, prestando especial atención a los cursos de formación mandatorios.
@@ -47,21 +46,16 @@ Control de Infecciones (Infection Control): Esta formación debe completarse y r
 Identificación y Reporte de Abuso Infantil (Child Abuse Identification and Reporting): Esta es una formación que se completa una sola vez.
 Deberás presentar los certificados de finalización de ambos cursos como parte de tu solicitud de licencia.
 
-Permiso Limitado: Los graduados elegibles pueden solicitar un "Limited Permit" que les permite trabajar bajo supervisión mientras esperan los resultados del NCLEX.
+**Permiso Limitado:** Los graduados elegibles pueden solicitar un "Limited Permit" que les permite trabajar bajo supervisión mientras esperan los resultados del NCLEX.
 
 ## Proceso de Solicitud para New York: Resumen Paso a Paso
 
-Completa los dos cursos obligatorios: Control de Infecciones y Abuso Infantil, a través de proveedores aprobados por NYSED.
-
-Completa la solicitud online en el portal de NYSED y paga la tarifa de $143.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe la verificación de tu educación directamente a NYSED.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa los dos cursos obligatorios: Control de Infecciones y Abuso Infantil, a través de proveedores aprobados por NYSED.
+2. Completa la solicitud online en el portal de NYSED y paga la tarifa de $143.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe la verificación de tu educación directamente a NYSED.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

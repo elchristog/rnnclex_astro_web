@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Nev
 path: "/examen-nclex/requisitos/nevada/"
 thin: false
 flags: []
-faqs: [{"question":"¿A quién afecta la \"regla de los 5 años\"?","answer":"Afecta principalmente a personas que se graduaron de la escuela de enfermería pero, por diversas razones, no solicitaron su licencia inmediatamente y dejaron pasar cinco o más años. Si este es tu caso, te recomendamos encarecidamente que contactes al Nevada State Board of Nursing directamente para confirmar si necesitas un curso de actualización antes de iniciar tu solicitud. \\-"},{"question":"¿Mi licencia de Nevada me permitirá trabajar en estados vecinos como California o Arizona?","answer":"No directamente. Dado que Nevada, California y Arizona no son miembros del Nurse Licensure Compact (NLC), necesitarás solicitar una licencia por \"endorsement\" (homologación) en cada estado en el que desees ejercer, cumpliendo con los requisitos individuales de cada junta."}]
+faqs: [{"question":"¿A quién afecta la \"regla de los 5 años\"?","answer":"Afecta principalmente a personas que se graduaron de la escuela de enfermería pero, por diversas razones, no solicitaron su licencia inmediatamente y dejaron pasar cinco o más años. Si este es tu caso, te recomendamos encarecidamente que contactes al Nevada State Board of Nursing directamente para confirmar si necesitas un curso de actualización antes de iniciar tu solicitud."},{"question":"¿Mi licencia de Nevada me permitirá trabajar en estados vecinos como California o Arizona?","answer":"No directamente. Dado que Nevada, California y Arizona no son miembros del Nurse Licensure Compact (NLC), necesitarás solicitar una licencia por \"endorsement\" (homologación) en cada estado en el que desees ejercer, cumpliendo con los requisitos individuales de cada junta."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Silver State", deberás seguir el proceso de solicitud del Nevada State Board of Nursing. Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a una regla de práctica reciente muy importante que todos los solicitantes deben considerar.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito, prestando especial ate
 
 ### NCLEX-RN Nevada
 
-[**Junta Reguladora:** Nevada State Board of Nursing
-**Sitio Web Oficial:** https://nevadanursingboard.org
-**Participa en el Pacto de Licencia de Enfermería (NLC):** No (Estado No Miembro)
-**Tarifa de Solicitud (RN):** $100 USD
-](https://nevadanursingboard.org)
+- **Junta Reguladora:** Nevada State Board of Nursing
+- **Sitio Web Oficial:** [nevadanursingboard.org](https://nevadanursingboard.org)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** No (Estado No Miembro)
+- **Tarifa de Solicitud (RN):** $100 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Nevada
 
@@ -43,23 +41,17 @@ Es mandatorio que todos los solicitantes completen una verificación de antecede
 Requisito de Práctica Reciente (Regla de los 5 Años)
 El Nevada State Board of Nursing exige que los solicitantes de la licencia por examen demuestren haber practicado la enfermería de alguna forma en los últimos cinco años. Esto puede afectar a los graduados que han esperado un tiempo significativo para solicitar su primera licencia. Si han pasado más de 5 años desde tu graduación y nunca has obtenido una licencia, es muy probable que se te exija completar un curso de actualización ("refresher course") aprobado por la junta.
 
-Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los Estados Unidos, se requiere la aprobación de un examen de competencia en inglés.
+**Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, se requiere la aprobación de un examen de competencia en inglés.
 
 ## Proceso de Solicitud para Nevada: Resumen Paso a Paso
 
-Crea una cuenta en el Nevada Nurse Portal.
-
-Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $100.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Nevada.
-
-Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT).
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta en el Nevada Nurse Portal.
+2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $100.
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Nevada.
+6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT).
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

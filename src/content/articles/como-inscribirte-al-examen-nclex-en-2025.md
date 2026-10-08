@@ -95,6 +95,6 @@ Algunas Boards la exigen, otras no. Verifica siempre los requisitos específicos
 
 ### ¿Quieres practicar mientras avanzas con el trámite?
 
-Accede a la plataforma bilingüe: más de 3500 preguntas, simuladores CAT, NGN y guías en español por USD 19 al mes.
+**Accede a la plataforma bilingüe:** más de 3500 preguntas, simuladores CAT, NGN y guías en español por USD 19 al mes.
 
 [**Empezar ahora — USD 19/mes**](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

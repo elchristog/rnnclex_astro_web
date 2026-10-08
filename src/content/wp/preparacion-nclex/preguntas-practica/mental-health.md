@@ -27,9 +27,9 @@ B) Un cliente que no tiene éxito en un primer intento de suicidio no es probabl
 C) Un cliente que amenaza con suicidarse solo busca atención y no es probable que lo intente.
 D) Los enfermeros que cuidan a un cliente que ha intentado suicidarse no deben hacer referencia a la palabra "suicidio" para proteger el ego del cliente.
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Un plan específico es un factor de alto riesgo para un suicidio potencial. Un intento de suicidio previo (B) es un factor de riesgo definitivo para intentos posteriores. Toda amenaza de suicidio (C) debe tomarse en serio. Al cliente se le debe preguntar directamente sobre su intención de hacerse daño corporal (D); las preguntas directas y respetuosas no perjudican al cliente.
+**Justificación:** Un plan específico es un factor de alto riesgo para un suicidio potencial. Un intento de suicidio previo (B) es un factor de riesgo definitivo para intentos posteriores. Toda amenaza de suicidio (C) debe tomarse en serio. Al cliente se le debe preguntar directamente sobre su intención de hacerse daño corporal (D); las preguntas directas y respetuosas no perjudican al cliente.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -40,9 +40,9 @@ B) Restringir la ingesta de líquidos
 C) Aumentar los estímulos sensoriales
 D) Aplicar sujeciones en tobillos y muñecas
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Estos clientes tienen un alto riesgo de sufrir convulsiones durante la primera semana tras el cese de la ingesta de alcohol. La ingesta de líquidos debe aumentarse para prevenir la deshidratación (B). Los estímulos ambientales deben disminuirse para prevenir la precipitación de convulsiones (C). La aplicación de sujeciones (D) puede hacer que el cliente aumente su actividad física y, finalmente, provocar agotamiento.
+**Justificación:** Estos clientes tienen un alto riesgo de sufrir convulsiones durante la primera semana tras el cese de la ingesta de alcohol. La ingesta de líquidos debe aumentarse para prevenir la deshidratación (B). Los estímulos ambientales deben disminuirse para prevenir la precipitación de convulsiones (C). La aplicación de sujeciones (D) puede hacer que el cliente aumente su actividad física y, finalmente, provocar agotamiento.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -53,9 +53,9 @@ B) Distraer a la clienta durante las comidas para que coma, ya que debe ingerir 
 C) Realizar revisiones frecuentes de la habitación para asegurarse de que la clienta no esconde o desecha la comida.
 D) Escuchar atentamente y participar en discusiones profundas sobre la comida para animarla a comer.
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Los clientes con anorexia nerviosa se sienten fuera de control. Proporcionar un entorno estructurado ofrece seguridad y comodidad, y puede ayudarles a desarrollar un control interno, reduciendo así su necesidad de controlar mediante la auto-inanición. La distracción (B) no se centra en la necesidad de control del cliente. Las revisiones frecuentes de la habitación (C) refuerzan los sentimientos de impotencia. Las largas discusiones sobre la comida (D) permiten a la clienta entregarse a su preocupación y continuar con el comportamiento disfuncional.
+**Justificación:** Los clientes con anorexia nerviosa se sienten fuera de control. Proporcionar un entorno estructurado ofrece seguridad y comodidad, y puede ayudarles a desarrollar un control interno, reduciendo así su necesidad de controlar mediante la auto-inanición. La distracción (B) no se centra en la necesidad de control del cliente. Las revisiones frecuentes de la habitación (C) refuerzan los sentimientos de impotencia. Las largas discusiones sobre la comida (D) permiten a la clienta entregarse a su preocupación y continuar con el comportamiento disfuncional.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -66,9 +66,9 @@ B) Confrontar las confabulaciones
 C) Realizar pruebas de realidad
 D) Proporcionar un entorno altamente estimulante
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: Cuanto más control pueda tener la clienta sobre su rutina diaria, menos ansiedad experimentará. La confrontación (B) tiende a aumentar la ansiedad. La prueba de realidad (C) es una herramienta de evaluación, no una intervención para disminuir la ansiedad. Un entorno altamente estimulante (D) aumenta la distracción y la ansiedad.
+**Justificación:** Cuanto más control pueda tener la clienta sobre su rutina diaria, menos ansiedad experimentará. La confrontación (B) tiende a aumentar la ansiedad. La prueba de realidad (C) es una herramienta de evaluación, no una intervención para disminuir la ansiedad. Un entorno altamente estimulante (D) aumenta la distracción y la ansiedad.
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)
 
@@ -79,8 +79,8 @@ B) Estará alerta y orientado inmediatamente después del tratamiento
 C) Tendrá insomnio durante los primeros días
 D) No requerirá cuidados especiales después del procedimiento
 
-Respuesta Correcta: A
+**Respuesta Correcta:** A
 
-Justificación: El cliente estará confundido y tendrá una pérdida de memoria, que suele ser temporal, después de la terapia de electrochoque. No estará alerta y orientado inmediatamente (B). Dormirá inmediatamente después del tratamiento, no tendrá insomnio (C). Requerirá cuidados especiales, como la toma de signos vitales cada hora para monitorizar hipotensión, taquicardia y posible actividad convulsiva (D).
+**Justificación:** El cliente estará confundido y tendrá una pérdida de memoria, que suele ser temporal, después de la terapia de electrochoque. No estará alerta y orientado inmediatamente (B). Dormirá inmediatamente después del tratamiento, no tendrá insomnio (C). Requerirá cuidados especiales, como la toma de signos vitales cada hora para monitorizar hipotensión, taquicardia y posible actividad convulsiva (D).
 
 [Practicar con el banco completo — USD 19/mes](https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user)

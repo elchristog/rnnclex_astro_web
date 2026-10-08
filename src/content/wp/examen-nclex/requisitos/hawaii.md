@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Haw
 path: "/examen-nclex/requisitos/hawaii/"
 thin: false
 flags: []
-faqs: [{"question":"¿Mi licencia de Hawái será válida en otros estados?","answer":"No automáticamente. Hawái no es miembro del Pacto de Licencia de Enfermería (NLC). Si deseas trabajar en otro estado, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de esa jurisdicción específica. \\-"},{"question":"¿Qué es el portal \"MyPVL\"?","answer":"MyPVL es el portal en línea de la División de Licencias Profesionales y Vocacionales (PVL) de Hawái. Es una plataforma centralizada que utilizan muchas profesiones, incluyendo la enfermería, para gestionar solicitudes, renovaciones y mantener actualizada la información de la licencia."}]
+faqs: [{"question":"¿Mi licencia de Hawái será válida en otros estados?","answer":"No automáticamente. Hawái no es miembro del Pacto de Licencia de Enfermería (NLC). Si deseas trabajar en otro estado, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de esa jurisdicción específica."},{"question":"¿Qué es el portal \"MyPVL\"?","answer":"MyPVL es el portal en línea de la División de Licencias Profesionales y Vocacionales (PVL) de Hawái. Es una plataforma centralizada que utilizan muchas profesiones, incluyendo la enfermería, para gestionar solicitudes, renovaciones y mantener actualizada la información de la licencia."}]
 ---
-
 Si sueñas con comenzar tu carrera de enfermería en el "Estado de Aloha", es esencial que sigas los procedimientos establecidos por el Hawaii Board of Nursing. Esta entidad, que forma parte de la División de Licencias Profesionales y Vocacionales (PVL), es la responsable de confirmar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, desde la solicitud en el portal MyPVL hasta el proceso específico de toma de huellas dactilares.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito, desde la solicitud en 
 
 ### NCLEX-RN Hawaii
 
-[**Junta Reguladora:** Hawaii Board of Nursing
-**Sitio Web Oficial:** https://cca.hawaii.gov/pvl/boards/nursing/
-**Participa en el Pacto de Licencia de Enfermería (NLC):** No (Estado No Miembro)
-**Tarifas de Solicitud:** Las tarifas incluyen un cargo de $60 USD para el "Center for Nursing", además de la tarifa de solicitud principal. Verifica el monto total actualizado en el portal MyPVL al iniciar tu aplicación.
-](https://cca.hawaii.gov/pvl/boards/nursing/)
+- **Junta Reguladora:** Hawaii Board of Nursing
+- **Sitio Web Oficial:** [cca.hawaii.gov/pvl/boards/nursing](https://cca.hawaii.gov/pvl/boards/nursing/)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** No (Estado No Miembro)
+- **Tarifas de Solicitud:** Las tarifas incluyen un cargo de $60 USD para el "Center for Nursing", además de la tarifa de solicitud principal. Verifica el monto total actualizado en el portal MyPVL al iniciar tu aplicación.
 
 ## Desglose de Requisitos para la Licencia por Examen en Hawaii
 
@@ -48,19 +46,13 @@ El proceso en Hawái es directo, con sus particularidades centradas en el uso de
 
 ## Proceso de Solicitud para Hawaii: Resumen Paso a Paso
 
-Crea una cuenta en el portal MyPVL o descarga el formulario en papel desde el sitio web de la junta.
-
-Completa la solicitud para "Licensure by Examination" y realiza el pago de las tarifas.
-
-Regístrate con Fieldprint Inc. y completa tu cita para la toma de huellas dactilares electrónicas.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Hawái.
-
-Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta en el portal MyPVL o descarga el formulario en papel desde el sitio web de la junta.
+2. Completa la solicitud para "Licensure by Examination" y realiza el pago de las tarifas.
+3. Regístrate con Fieldprint Inc. y completa tu cita para la toma de huellas dactilares electrónicas.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Hawái.
+6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

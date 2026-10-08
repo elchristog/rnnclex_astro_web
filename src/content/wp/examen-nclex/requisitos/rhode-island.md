@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Rhode Isla
 path: "/examen-nclex/requisitos/rhode-island/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué documentos se aceptan como prueba de residencia principal?","answer":"Generalmente, se aceptan documentos oficiales que incluyan tu nombre y dirección actual, como una licencia de conducir, una tarjeta de registro de votante o una copia de tu declaración de impuestos federales más reciente. La junta especificará los documentos válidos en el formulario de solicitud. \\-"},{"question":"Vivo en Massachusetts. ¿Qué tipo de licencia de Rhode Island puedo obtener?","answer":"Dado que tu estado de residencia principal (Massachusetts) aún no ha implementado el NLC, la licencia que te otorgaría Rhode Island sería una licencia de un solo estado (Single-State License), válida únicamente para trabajar dentro de Rhode Island."}]
+faqs: [{"question":"¿Qué documentos se aceptan como prueba de residencia principal?","answer":"Generalmente, se aceptan documentos oficiales que incluyan tu nombre y dirección actual, como una licencia de conducir, una tarjeta de registro de votante o una copia de tu declaración de impuestos federales más reciente. La junta especificará los documentos válidos en el formulario de solicitud."},{"question":"Vivo en Massachusetts. ¿Qué tipo de licencia de Rhode Island puedo obtener?","answer":"Dado que tu estado de residencia principal (Massachusetts) aún no ha implementado el NLC, la licencia que te otorgaría Rhode Island sería una licencia de un solo estado (Single-State License), válida únicamente para trabajar dentro de Rhode Island."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Ocean State", deberás seguir el proceso de solicitud de la Junta de Registro de Enfermería y Educación en Enfermería de Rhode Island. Este organismo, que forma parte del Departamento de Salud del estado, es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a la documentación sobre tu estado de residencia.
@@ -44,25 +43,18 @@ Rhode Island exige que todos los solicitantes completen una verificación de ant
 Prueba de Residencia Primaria (Primary State of Residence)
 Como estado miembro del NLC, Rhode Island exige que proporciones una prueba de tu estado de residencia principal. Esto es fundamental para determinar si eres elegible para una licencia multiestado (si vives en RI) o una licencia de un solo estado (si vives en un estado no compacto).
 
-Enfermeros Educados Internacionalmente (IENs): Es un requisito mandatorio que los IENs presenten una evaluación de credenciales realizada por CGFNS
+**Enfermeros Educados Internacionalmente (IENs):** Es un requisito mandatorio que los IENs presenten una evaluación de credenciales realizada por CGFNS
 
 ## Proceso de Solicitud para Rhode Island: Resumen Paso a Paso
 
-Completa la solicitud online en el portal de licencias de Rhode Island y paga la tarifa de $135.
-
-Sube la documentación requerida, incluyendo la prueba de tu estado de residencia principal.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
-
-(Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal de licencias de Rhode Island y paga la tarifa de $135.
+2. Sube la documentación requerida, incluyendo la prueba de tu estado de residencia principal.
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
+6. (Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
+7. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+8. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Iow
 path: "/examen-nclex/requisitos/iowa/"
 thin: false
 flags: []
-faqs: [{"question":"¿La tarifa de $143 es el único pago que debo hacer a la junta de Iowa?","answer":"Sí, esa tarifa cubre tanto la solicitud de la licencia por examen como el costo de la verificación de antecedentes penales (CBC) que exige la junta. Ten en cuenta que la tarifa de $200 para registrarte en el examen NCLEX con Pearson VUE es un pago separado que se realiza a dicha entidad. \\-"},{"question":"Como residente de Iowa, ¿mi licencia será multiestado?","answer":"¡Sí! Iowa es uno de los estados fundadores del Nurse Licensure Compact (NLC). Si Iowa es tu estado de residencia principal, al obtener tu licencia esta será una licencia multiestado (MSL), permitiéndote ejercer en todos los demás estados miembros del pacto."}]
+faqs: [{"question":"¿La tarifa de $143 es el único pago que debo hacer a la junta de Iowa?","answer":"Sí, esa tarifa cubre tanto la solicitud de la licencia por examen como el costo de la verificación de antecedentes penales (CBC) que exige la junta. Ten en cuenta que la tarifa de $200 para registrarte en el examen NCLEX con Pearson VUE es un pago separado que se realiza a dicha entidad."},{"question":"Como residente de Iowa, ¿mi licencia será multiestado?","answer":"¡Sí! Iowa es uno de los estados fundadores del Nurse Licensure Compact (NLC). Si Iowa es tu estado de residencia principal, al obtener tu licencia esta será una licencia multiestado (MSL), permitiéndote ejercer en todos los demás estados miembros del pacto."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Hawkeye State", deberás seguir el proceso de solicitud del Iowa Board of Nursing. Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada paso del proceso en Iowa, incluyendo su conveniente estructura de tarifa única.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada paso del proceso en Iowa, incluye
 
 ### NCLEX-RN Iowa
 
-[**Junta Reguladora:** Iowa Board of Nursing
-**Sitio Web Oficial:** https://dial.iowa.gov/about-dial/boards/board-nursing
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud:** $143 USD (Importante: esta tarifa única ya incluye el costo de la Verificación de Antecedentes Penales).
-](https://dial.iowa.gov/about-dial/boards/board-nursing)
+- **Junta Reguladora:** Iowa Board of Nursing
+- **Sitio Web Oficial:** [dial.iowa.gov/about-dial/boards/board-nursing](https://dial.iowa.gov/about-dial/boards/board-nursing)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud:** $143 USD (Importante: esta tarifa única ya incluye el costo de la Verificación de Antecedentes Penales).
 
 ## Desglose de Requisitos para la Licencia por Examen en Iowa
 
@@ -40,21 +38,16 @@ Es mandatorio que todos los solicitantes completen una verificación de antecede
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y es posible que necesites demostrar tu competencia en inglés a través del examen TOEFL.
+**Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y es posible que necesites demostrar tu competencia en inglés a través del examen TOEFL.
 
 ## Proceso de Solicitud para Iowa: Resumen Paso a Paso
 
-Completa la solicitud online en el portal del Iowa Board of Nursing y paga la tarifa única de $143.
-
-Sigue las instrucciones recibidas después de aplicar para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Iowa.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal del Iowa Board of Nursing y paga la tarifa única de $143.
+2. Sigue las instrucciones recibidas después de aplicar para completar la toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Iowa.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Mississipp
 path: "/examen-nclex/requisitos/mississippi/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué sucede si soy un candidato internacional y aún no tengo un SSN?","answer":"Según la política actual de la MSBN, el SSN es un requisito indispensable para la emisión de la licencia. Si te encuentras en proceso de obtener uno, te recomendamos contactar directamente a la junta para discutir tu caso específico, aunque generalmente debes tener el SSN antes de que se emita la licencia. \\-"},{"question":"Como residente de Mississippi, ¿mi licencia será multiestado?","answer":"Sí. Mississippi es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Mississippi y en los demás estados del pacto con una sola licencia."}]
+faqs: [{"question":"¿Qué sucede si soy un candidato internacional y aún no tengo un SSN?","answer":"Según la política actual de la MSBN, el SSN es un requisito indispensable para la emisión de la licencia. Si te encuentras en proceso de obtener uno, te recomendamos contactar directamente a la junta para discutir tu caso específico, aunque generalmente debes tener el SSN antes de que se emita la licencia."},{"question":"Como residente de Mississippi, ¿mi licencia será multiestado?","answer":"Sí. Mississippi es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Mississippi y en los demás estados del pacto con una sola licencia."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Magnolia State", es fundamental que cumplas con los requerimientos del Mississippi Board of Nursing (MSBN). Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a mandatos importantes como la necesidad de un Número de Seguro Social (SSN).
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito, prestando especial ate
 
 ### NCLEX-RN Mississippi
 
-[**Junta Reguladora:** Mississippi Board of Nursing (MSBN)
-**Sitio Web Oficial:** https://www.msbn.ms.gov
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifa de Solicitud (RN):** $100 USD
-](https://www.msbn.ms.gov)
+- **Junta Reguladora:** Mississippi Board of Nursing (MSBN)
+- **Sitio Web Oficial:** [www.msbn.ms.gov](https://www.msbn.ms.gov)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifa de Solicitud (RN):** $100 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Mississippi
 
@@ -40,24 +38,18 @@ Mississippi exige que todos los solicitantes completen una verificación de ante
 
 ### Mandatos y Notas Específicas del Estado
 
-Requisito Indispensable: Número de Seguro Social (SSN)
+**Requisito Indispensable:** Número de Seguro Social (SSN)
 El Mississippi Board of Nursing exige que todos los solicitantes posean un Número de Seguro Social (SSN) de EE. UU. válido para poder obtener una licencia. Este es un requisito obligatorio y no negociable para completar el proceso de solicitud en este estado.
 
 ## Proceso de Solicitud para Mississippi: Resumen Paso a Paso
 
-Crea una cuenta en el portal MSBN Gateway.
-
-Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $100.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la MSBN.
-
-Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Crea una cuenta en el portal MSBN Gateway.
+2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $100.
+3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la MSBN.
+6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+7. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

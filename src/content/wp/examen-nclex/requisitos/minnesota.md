@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Oklahoma. 
 path: "/examen-nclex/requisitos/minnesota/"
 thin: false
 flags: []
-faqs: [{"question":"¿Mi licencia de Minnesota me permitirá trabajar en Wisconsin?","answer":"No directamente. Minnesota no es un estado miembro del NLC, mientras que su vecino Wisconsin sí lo es. Para trabajar en Wisconsin con una licencia de Minnesota, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de Wisconsin. \\-"},{"question":"¿El costo de $137 es el único pago que debo hacer?","answer":"No. Los $137 USD se pagan a la Junta de Enfermería de Minnesota por la solicitud y el CBC. Aparte, deberás pagar la tarifa de $200 USD directamente a Pearson VUE para registrarte en el examen NCLEX."}]
+faqs: [{"question":"¿Mi licencia de Minnesota me permitirá trabajar en Wisconsin?","answer":"No directamente. Minnesota no es un estado miembro del NLC, mientras que su vecino Wisconsin sí lo es. Para trabajar en Wisconsin con una licencia de Minnesota, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de Wisconsin."},{"question":"¿El costo de $137 es el único pago que debo hacer?","answer":"No. Los $137 USD se pagan a la Junta de Enfermería de Minnesota por la solicitud y el CBC. Aparte, deberás pagar la tarifa de $200 USD directamente a Pearson VUE para registrarte en el examen NCLEX."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Estado de los 10,000 Lagos", deberás seguir el proceso de solicitud del Minnesota Board of Nursing. Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada paso del proceso en Minnesota, que se realiza de forma completamente online.
@@ -43,21 +42,16 @@ Minnesota exige que todos los solicitantes completen una verificación de antece
 
 ### Mandatos y Notas Específicas del Estado
 
-Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y, además, aprobar un examen de competencia en inglés como el TOEFL o el IELTS.
+**Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y, además, aprobar un examen de competencia en inglés como el TOEFL o el IELTS.
 
 ## Proceso de Solicitud para Minnesota: Resumen Paso a Paso
 
-Completa la solicitud online en el portal del Minnesota Board of Nursing, pagando las tarifas de $105 y $32.
-
-Sigue las instrucciones recibidas durante el proceso para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Minnesota.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen NCLEX en un centro Pearson VUE.
+1. Completa la solicitud online en el portal del Minnesota Board of Nursing, pagando las tarifas de $105 y $32.
+2. Sigue las instrucciones recibidas durante el proceso para completar la toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Minnesota.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+6. Programa tu examen NCLEX en un centro Pearson VUE.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

@@ -5,9 +5,8 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Kan
 path: "/examen-nclex/requisitos/kansas/"
 thin: false
 flags: []
-faqs: [{"question":"¿Qué sucede si me gradué hace más de dos años y quiero aplicar en Kansas?","answer":"Debes contactar directamente al Kansas State Board of Nursing para informarte sobre el proceso de petición. Es probable que te pidan documentación adicional o que completes un curso de actualización (\"refresher course\") aprobado por la junta antes de considerarte elegible para el examen. \\-"},{"question":"Como residente de Kansas, ¿mi licencia será multiestado?","answer":"Sí. Kansas es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Kansas y en los demás estados del pacto con una sola licencia."}]
+faqs: [{"question":"¿Qué sucede si me gradué hace más de dos años y quiero aplicar en Kansas?","answer":"Debes contactar directamente al Kansas State Board of Nursing para informarte sobre el proceso de petición. Es probable que te pidan documentación adicional o que completes un curso de actualización (\"refresher course\") aprobado por la junta antes de considerarte elegible para el examen."},{"question":"Como residente de Kansas, ¿mi licencia será multiestado?","answer":"Sí. Kansas es un estado miembro del Nurse Licensure Compact (NLC). Si cumples con los requisitos de residencia, tu licencia será una licencia multiestado (MSL), permitiéndote ejercer en Kansas y en los demás estados del pacto con una sola licencia."}]
 ---
-
 Si tu objetivo es obtener tu licencia de enfermería en el "Sunflower State", deberás seguir el proceso de solicitud del Kansas State Board of Nursing (KSBN). Este organismo es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a una regla de tiempo muy importante que todos los recién graduados deben conocer.
@@ -16,11 +15,10 @@ Esta guía te ofrece un desglose claro de cada requisito, prestando especial ate
 
 ### NCLEX-RN Kansas
 
-[**Junta Reguladora:** Kansas State Board of Nursing (KSBN)
-**Sitio Web Oficial:** https://ksbn.kansas.gov/
-**Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-**Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el portal de solicitud. Es fundamental verificarlas al iniciar tu aplicación.
-](https://ksbn.kansas.gov/)
+- **Junta Reguladora:** Kansas State Board of Nursing (KSBN)
+- **Sitio Web Oficial:** [ksbn.kansas.gov](https://ksbn.kansas.gov/)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
+- **Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el portal de solicitud. Es fundamental verificarlas al iniciar tu aplicación.
 
 ## Desglose de Requisitos para la Licencia por Examen en Kansas
 
@@ -40,24 +38,19 @@ Es mandatorio que todos los solicitantes completen una verificación de antecede
 
 ### Mandatos y Notas Específicas del Estado
 
-Regla Importante: Límite de 2 Años Post-Graduación
+**Regla Importante:** Límite de 2 Años Post-Graduación
 El Kansas State Board of Nursing exige que los solicitantes presenten el examen NCLEX en un plazo de dos años desde su fecha de graduación. Si han pasado más de dos años, deberás presentar una petición especial a la Junta para que se te permita realizar el examen, lo que podría implicar requisitos adicionales como cursos de actualización.
 
-Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los Estados Unidos, se requiere la aprobación de un examen de competencia en inglés como el TOEFL.
+**Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, se requiere la aprobación de un examen de competencia en inglés como el TOEFL.
 
 ## Proceso de Solicitud para Kansas: Resumen Paso a Paso
 
-Completa la solicitud online en el portal del Kansas State Board of Nursing y paga la tarifa indicada.
-
-Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
-
-Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la KSBN.
-
-Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
-
-Programa tu examen, asegurándote de que la fecha sea dentro de los 2 años posteriores a tu graduación.
+1. Completa la solicitud online en el portal del Kansas State Board of Nursing y paga la tarifa indicada.
+2. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la KSBN.
+5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
+6. Programa tu examen, asegurándote de que la fecha sea dentro de los 2 años posteriores a tu graduación.
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
