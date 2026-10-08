@@ -21,4 +21,4 @@ Las preguntas NGN presentan casos clínicos reales con tablas de signos vitales,
 2. **Evaluación de Vías Aéreas y Respiración (ABC):** Airway, Breathing, Circulation siempre tienen prioridad.
 3. **Pacientes Inestables sobre Estables:** Reconoce inmediatamente los signos de deterioro hemodinámico.
 
-Con los simuladores y tutorías de **enfermerausa.com**, miles de enfermeros hispanos han logrado su licencia en su primer intento. Si vas a presentar el examen, esta [guía de preparación NCLEX-RN 2026](/blog/posts/preparacion-examen-nclex-rn-espanol-2026/) detalla el formato y los simuladores en español.
+Con los simuladores y tutorías de **RNNCLEX**, miles de enfermeros hispanos han logrado su licencia en su primer intento. Si vas a presentar el examen, esta [guía de preparación NCLEX-RN 2026](/blog/posts/preparacion-examen-nclex-rn-espanol-2026/) detalla el formato y los simuladores en español.

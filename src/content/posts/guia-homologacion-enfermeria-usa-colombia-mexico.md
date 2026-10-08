@@ -24,4 +24,4 @@ La junta de enfermería del estado al que apliques exige una evaluación oficial
 2. **Solicitud en CGFNS o TruMerit:** Apertura del expediente en la plataforma oficial.
 3. **Verificación Directa:** Tu universidad de origen debe enviar la documentación sellada directamente a la entidad evaluadora.
 
-En **enfermerausa.com**, te acompañamos sin errores burocráticos para asegurar la aprobación de tu expediente en el menor tiempo posible.
+En **RNNCLEX**, te acompañamos sin errores burocráticos para asegurar la aprobación de tu expediente en el menor tiempo posible.

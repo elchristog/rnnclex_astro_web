@@ -5,7 +5,7 @@ import mdx from "@astrojs/mdx";
 import { legacyRedirects } from './src/data/legacy-redirects.mjs';
 
 export default defineConfig({
-  site: 'https://enfermerausa.com',
+  site: 'https://rnnclex.com',
   trailingSlash: 'always',
   build: {
     inlineStylesheets: 'always'

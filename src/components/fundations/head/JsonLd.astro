@@ -10,9 +10,9 @@ interface Props {
 
 const {
   type = 'home',
-  title = 'Enfermera en Estados Unidos - Agencia de Reclutamiento para Enfermeros Hispanos',
-  description = 'Agencia líder en homologación de título de enfermería, preparación NCLEX, visa EB-3 y patrocinio en EE.UU.',
-  url = 'https://enfermerausa.com',
+  title = 'RNNCLEX - Plataforma y Guía de Preparación NCLEX-RN para Enfermeros Hispanos',
+  description = 'La plataforma especializada en preparación del examen NCLEX-RN, simuladores NGN en español, homologación de título y visa EB-3 para Estados Unidos.',
+  url = 'https://rnnclex.com',
   faqs = [],
   datePublished = '2026-01-01'
 } = Astro.props;
@@ -20,26 +20,25 @@ const {
 const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "EducationalOccupationalProgram",
-  "name": "Programa de Homologación y Empleo para Enfermeras en EE.UU.",
+  "name": "Programa de Preparación NCLEX-RN y Homologación de Enfermería para EE.UU.",
   "description": description,
   "provider": {
     "@type": "Organization",
-    "name": "Enfermera en Estados Unidos",
-    "url": "https://enfermerausa.com",
-    "logo": "https://enfermerausa.com/logo.webp",
-    "email": "hello@enfermeraenestadosunidos.com",
+    "name": "RNNCLEX",
+    "url": "https://rnnclex.com",
+    "logo": "https://rnnclex.com/logo.webp",
+    "email": "soporte@rnnclex.com",
     "sameAs": [
-      "https://www.instagram.com/enfermeraenestadosunidos",
-      "https://www.facebook.com/enfermeraenestadosunidosusa",
-      "https://www.youtube.com/@enfermeraenestadosunidos",
-      "https://www.tiktok.com/@enfermeraenestadosunidos"
+      "https://www.youtube.com/@rnnclex",
+      "https://www.instagram.com/rnnclex",
+      "https://www.facebook.com/rnnclex"
     ]
   },
   "occupationalCategory": "Registered Nurse (RN)",
   "educationalProgramMode": "online",
   "offers": {
     "@type": "Offer",
-    "category": "Asesoría de Homologación y Visados"
+    "category": "Preparación NCLEX-RN y Asesoría de Homologación"
   }
 };
 
@@ -65,14 +64,14 @@ const articleSchema = type === 'article' ? {
   "datePublished": datePublished,
   "author": {
     "@type": "Organization",
-    "name": "Enfermera en Estados Unidos"
+    "name": "RNNCLEX"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Enfermera en Estados Unidos",
+    "name": "RNNCLEX",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://enfermerausa.com/logo.webp"
+      "url": "https://rnnclex.com/logo.webp"
     }
   }
 } : null;
