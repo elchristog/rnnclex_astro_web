@@ -34,6 +34,9 @@ jobs:
       - name: Corregir la oferta (USD 19/mes, sin WhatsApp)
         run: node scripts/fix-offer.mjs
 
+      - name: Ajustes de independencia y titulos
+        run: node scripts/fix-extra.mjs
+
       - name: Construir el sitio
         id: build
         continue-on-error: true
