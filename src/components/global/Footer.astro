@@ -1,88 +1,75 @@
 ---
-const footerLinks = [
-  {
-    title: "Servicios Principales",
-    links: [
-      { href: "/licencia-de-enfermeria-y-examen-nclex-usa/", label: "Licencia RN y Examen NCLEX" },
-      { href: "/evaluacion-y-homologacion-de-titulo-enfermeria-usa/", label: "Homologación CGFNS / TruMerit" },
-      { href: "/ofertas-de-empleo-para-enfermeras-en-usa/", label: "Ofertas Laborales con Sponsor" },
-      { href: "/proceso-de-visa-y-relocalizacion-para-enfermeras/", label: "Visa EB-3 y Green Card" },
-      { href: "/salarios-de-enfermeros-en-estados-unidos/", label: "Salarios 2026 por Estado" },
-    ],
-  },
-  {
-    title: "Recursos & Blog",
-    links: [
-      { href: "/blog/home/", label: "Blog RNNCLEX" },
-      { href: "/licencia-de-enfermeria-y-examen-nclex-usa/", label: "Guía Definitiva NCLEX" },
-      { href: "/salarios-de-enfermeros-en-estados-unidos/", label: "Calculadora de Salarios" },
-    ],
-  },
-  {
-    title: "Redes Oficiales & Contacto",
-    links: [
-      { href: "mailto:soporte@rnnclex.com", label: "✉️ soporte@rnnclex.com", isEmail: true },
-      { href: "https://www.youtube.com/@rnnclex", label: "▶️ YouTube Oficial", external: true },
-      { href: "https://www.instagram.com/rnnclex", label: "📸 Instagram Oficial", external: true },
-      { href: "https://www.facebook.com/rnnclex", label: "👍 Facebook Oficial", external: true },
-    ],
-  },
-];
 ---
 
-<footer class="bg-gray-900 text-white mt-16 py-12 border-t border-gray-800">
+<footer class="bg-[#2b2c28] text-gray-300 pt-12 pb-8 border-t border-gray-800 text-sm">
   <div class="max-w-screen-xl mx-auto px-4 md:px-8">
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
+      <!-- Col 1: RN NCLEX Info -->
       <div>
-        <div class="mb-4">
-          <span class="text-2xl font-black text-white tracking-wider">RN<span class="text-emerald-500">NCLEX</span></span>
-        </div>
-        <p class="text-gray-400 text-sm leading-relaxed mb-4">
-          La plataforma #1 para enfermeros hispanos. Te preparamos para el examen NCLEX-RN y te acompañamos desde la homologación de tu título hasta tu contrato en EE.UU.
+        <h3 class="text-xl font-bold text-white mb-4">RN NCLEX</h3>
+        <p class="text-xs text-gray-400 leading-relaxed mb-4">
+          En rnnclex.com, nuestra misión es ser la principal plataforma de preparación para el examen NCLEX-RN en español. Ofrecemos las mejores herramientas, desde un completo banco de preguntas de práctica hasta cursos online y simuladores CAT para asegurar tu éxito en el camino a convertirte en enfermero/a en EE. UU.
         </p>
-        <div class="flex items-center gap-3 mb-4">
-          <a href="https://www.youtube.com/@rnnclex" target="_blank" rel="noopener noreferrer" class="w-8 h-8 rounded-full bg-gray-800 hover:bg-emerald-600 flex items-center justify-center text-xs transition" title="YouTube">▶️</a>
-          <a href="https://www.instagram.com/rnnclex" target="_blank" rel="noopener noreferrer" class="w-8 h-8 rounded-full bg-gray-800 hover:bg-emerald-600 flex items-center justify-center text-xs transition" title="Instagram">📸</a>
-          <a href="https://www.facebook.com/rnnclex" target="_blank" rel="noopener noreferrer" class="w-8 h-8 rounded-full bg-gray-800 hover:bg-emerald-600 flex items-center justify-center text-xs transition" title="Facebook">👍</a>
-        </div>
-        <a
-          href="https://bit.ly/3R6RbFW"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="inline-block bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold py-2 px-4 rounded shadow transition-all"
-        >
-          Agendar Sesión Informativa
+        <p class="text-xs text-gray-400 mb-4">
+          Orgullosamente creado por: <strong>Enfermera en Estados Unidos LLC</strong>, Georgia U.S.A
+        </p>
+        <a href="https://enfermeraenestadosunidos.com/" target="_blank" rel="noopener" class="inline-block bg-[#0e497c] hover:bg-[#0b3b64] text-white text-xs font-bold px-4 py-2 rounded transition">
+          Visitar Sitio Madre
         </a>
       </div>
 
-      {footerLinks.map((col) => (
-        <div>
-          <h3 class="font-semibold text-white mb-4 text-base tracking-wide">{col.title}</h3>
-          <ul class="space-y-2 text-sm">
-            {col.links.map((link) => (
-              <li>
-                <a
-                  href={link.href}
-                  target={link.external ? "_blank" : "_self"}
-                  rel={link.external ? "noopener noreferrer" : ""}
-                  class="text-gray-400 hover:text-emerald-400 transition-colors"
-                >
-                  {link.isEmail ? <Fragment set:html="<!--email_off-->✉️ soporte@rnnclex.com<!--/email_off-->" /> : link.label}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </div>
-      ))}
+      <!-- Col 2: Home Links -->
+      <div>
+        <h4 class="font-bold text-white uppercase text-xs tracking-wider mb-4">HOME</h4>
+        <ul class="space-y-2 text-xs">
+          <li><a href="/" class="hover:text-white transition">HOME</a></li>
+          <li><a href="/preparacion-nclex/" class="hover:text-white transition">Preparación NCLEX</a></li>
+          <li><a href="/examen-nclex/" class="hover:text-white transition">Guía del Examen</a></li>
+          <li><a href="/recursos-nclex/" class="hover:text-white transition">Recursos</a></li>
+          <li><a href="/blog/" class="hover:text-white transition">Blog</a></li>
+          <li><a href="/precios/" class="hover:text-white transition">Precios</a></li>
+        </ul>
+      </div>
+
+      <!-- Col 3: Producto Links -->
+      <div>
+        <h4 class="font-bold text-white uppercase text-xs tracking-wider mb-4">PRODUCTO</h4>
+        <ul class="space-y-2 text-xs">
+          <li><a href="/preparacion-nclex/preguntas-practica/" class="hover:text-white transition">Banco de Preguntas +3500</a></li>
+          <li><a href="/recursos-nclex/libros-y-guias/" class="hover:text-white transition">Guías de Estudio en Español +400</a></li>
+          <li><a href="/preparacion-nclex/simuladores-examen/CAT/" class="hover:text-white transition">CAT (Computer Adaptive Test)</a></li>
+          <li><a href="/preparacion-nclex/simuladores-examen/readiness-assessment/" class="hover:text-white transition">Readiness Assessment</a></li>
+          <li><a href="/preparacion-nclex/cursos/" class="hover:text-white transition">Cursos Online</a></li>
+        </ul>
+      </div>
+
+      <!-- Col 4: Más Links -->
+      <div>
+        <h4 class="font-bold text-white uppercase text-xs tracking-wider mb-4">MÁS</h4>
+        <ul class="space-y-2 text-xs mb-6">
+          <li><a href="/contacto/" class="hover:text-white transition">Contacto</a></li>
+          <li><a href="/equipo/" class="hover:text-white transition">Equipo</a></li>
+          <li><a href="/faq/" class="hover:text-white transition">FAQ</a></li>
+          <li><a href="/preparacion-nclex/preguntas-practica/" class="hover:text-white transition">Quiz Gratis NCLEX</a></li>
+          <li><a href="/quienes-somos/" class="hover:text-white transition">Quiénes Somos</a></li>
+        </ul>
+
+        <a href="https://bit.ly/rnnclex_whatsapp" target="_blank" rel="noopener" class="text-xs text-emerald-400 font-bold hover:underline block mb-4">
+          📞 (404) 690-3706
+        </a>
+      </div>
     </div>
 
-    <div class="border-t border-gray-800 pt-6 flex flex-col md:flex-row items-center justify-between text-xs text-gray-500 gap-4">
-      <p>© 2026 rnnclex.com — Plataforma de Preparación NCLEX y Homologación para Enfermeros Hispanos. Todos los derechos reservados.</p>
-      <div class="flex gap-4">
-        <a href="/" class="hover:text-gray-300">Inicio</a>
-        <a href="/blog/home/" class="hover:text-gray-300">Blog</a>
-        <a href="mailto:soporte@rnnclex.com" class="hover:text-gray-300"><Fragment set:html="<!--email_off-->soporte@rnnclex.com<!--/email_off-->" /></a>
+    <!-- Bottom Bar -->
+    <div class="border-t border-gray-700 pt-6 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-gray-400">
+      <div class="flex items-center gap-3">
+        <img src="https://rnnclex.com/wp-content/uploads/2025/06/rn_nclex_logo-150x150.webp" alt="RNNCLEX logo" class="h-8 w-8" width="32" height="32" />
+        <span>© 2026 rnnclex.com. Todos los derechos reservados.</span>
+      </div>
+      <div>
+        <a href="/terminos-y-condiciones/" class="hover:text-white transition">Terms & Conditions</a>
       </div>
     </div>
   </div>
 </footer>
+
