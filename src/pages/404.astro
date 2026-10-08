@@ -1,89 +1,25 @@
 ---
-// Fundations
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import Text from "@/components/fundations/elements/Text.astro";
-import Button from "@/components/fundations/elements/Button.astro";
-import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 ---
 
-<BaseLayout>
-  <section>
-    <Wrapper variant="standard" class="pt-48 pb-8 lg:pt-82">
-      <Text
-        tag="p"
-        variant="textXS"
-        class="font-medium uppercase text-base-500"
-      >
-        Error 404
-      </Text>
-      <Text
-        tag="h1"
-        variant="displayLG"
-        class="max-w-xl mt-8 text-base-800 text-balance"
-      >
-        This page vanished into thin air
-      </Text>
-      <Text
-        tag="p"
-        variant="textBase"
-        class="max-w-md mt-4 text-base-500 text-balance"
-      >
-        Sorry about that. The page you're looking for either doesn't exist or
-        was moved. Let's get you back on track.
-      </Text>
-
-      <div class="flex flex-wrap mt-8 gap-4">
-        <Button isLink href="/" size="base" variant="default"> Back to Homepage </Button>
-        <Button isLink href="/helpcenter/home" size="base" variant="muted">
-          Visit Help Center
-        </Button>
+<BaseLayout
+  title="Página no encontrada | rnnclex.com"
+  description="No encontramos la página que buscas. Explora la preparación NCLEX bilingüe, los requisitos por estado o empieza con la suscripción de USD 19 al mes."
+  canonical="https://rnnclex.com/404/"
+>
+  <section class="bg-[#eff4f7] border-b border-gray-200">
+    <div class="max-w-screen-lg mx-auto px-4 py-20 text-center">
+      <p class="text-xs font-bold uppercase tracking-widest text-[#0e497c] mb-3">Error 404</p>
+      <h1 class="text-3xl md:text-5xl font-bold text-[#2b2c27] leading-tight">Esta página no existe o cambió de lugar</h1>
+      <p class="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
+        Lamentamos el inconveniente. Elige una de estas páginas para seguir con tu preparación para el NCLEX.
+      </p>
+      <div class="mt-8 flex flex-wrap justify-center gap-4">
+        <a href="/" class="bg-[#0e497c] hover:bg-[#0b3b64] text-white font-bold px-6 py-3 rounded transition">Ir al inicio</a>
+        <a href="/examen-nclex/requisitos/" class="border-2 border-[#0e497c] text-[#0e497c] font-bold px-6 py-3 rounded hover:bg-[#0e497c] hover:text-white transition">Requisitos por estado</a>
+        <a href="/precios/" class="border-2 border-[#0e497c] text-[#0e497c] font-bold px-6 py-3 rounded hover:bg-[#0e497c] hover:text-white transition">Ver el plan</a>
+        <a href="/blog/" class="border-2 border-[#0e497c] text-[#0e497c] font-bold px-6 py-3 rounded hover:bg-[#0e497c] hover:text-white transition">Blog</a>
       </div>
-    </Wrapper>
-  </section>
-
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationalOccupationalProgram",
-    "name": "RNNCLEX - Preparación NCLEX-RN y Homologación de Enfermería",
-    "url": "https://rnnclex.com",
-    "description": "Plataforma especializada en preparación del examen NCLEX-RN, simuladores NGN y homologación de títulos de enfermería para EE.UU.",
-    "provider": {
-      "@type": "Organization",
-      "name": "RNNCLEX",
-      "url": "https://rnnclex.com"
-    }
-  }
-  </script>
-
-
-  <!-- Bloque Enlazado Interno SEO -->
-  <section class="py-8 bg-emerald-900 text-white text-center">
-    <div class="max-w-screen-xl mx-auto px-4">
-      <h3 class="text-xl font-bold mb-2">¿Listo para dar el paso hacia tu Licencia RN en EE.UU.?</h3>
-      <p class="text-emerald-100 text-sm mb-4">Acompáñanos en nuestra próxima Sesión Informativa donde resolveremos tus dudas sobre costos y procesos.</p>
-      <a href="https://bit.ly/3R6RbFW" target="_blank" rel="noopener noreferrer" class="inline-block bg-white text-emerald-900 font-bold px-6 py-2.5 rounded-lg shadow hover:bg-emerald-50 transition">
-        Agendar Mi Lugar en la Sesión Informativa
-      </a>
     </div>
   </section>
-
-
-  <!-- Bloque E-E-A-T Autoría y Revisión -->
-  <div class="max-w-screen-xl mx-auto px-4 my-8">
-    <div class="bg-slate-100 p-4 rounded-lg border border-slate-300 flex items-center gap-4 text-xs text-slate-700">
-      <span class="font-bold text-emerald-800 bg-emerald-100 px-2 py-1 rounded">✓ Información Verificada</span>
-      <span>Contenido redactado y revisado por el Equipo Especializado en Licencias Médicas de EE.UU. (CGFNS & NCLEX Specialists). Fuentes oficiales: <a href="https://www.ncsbn.org" target="_blank" rel="noopener" class="underline">NCSBN</a> | <a href="https://www.cgfns.org" target="_blank" rel="noopener" class="underline">CGFNS</a>.</span>
-    </div>
-  </div>
-
-
-  <!-- Bloque Answer-First GEO -->
-  <div class="max-w-screen-xl mx-auto px-4 my-6">
-    <div class="p-5 bg-emerald-50 border-l-4 border-emerald-600 rounded-r-lg">
-      <p class="text-xs font-bold text-emerald-800 uppercase tracking-wide">📌 Resumen Clave del Proceso:</p>
-      <p class="text-sm font-semibold text-slate-900 mt-1">Para ejercer como enfermero registrado (RN) en EE.UU. en 2026 se requiere: 1) Homologar créditos con CGFNS o TruMerit, 2) Aprobar el examen adaptativo NCLEX-RN (85-150 preguntas NGN), 3) Demostrar inglés (OET u IELTS), y 4) Obtener patrocinio de Visa EB-3 de Residencia Permanente directa (Schedule A).</p>
-    </div>
-  </div>
-
 </BaseLayout>

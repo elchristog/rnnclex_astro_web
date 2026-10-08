@@ -48,7 +48,7 @@ jobs:
         run: |
           git config user.name "ryze-migracion"
           git config user.email "migracion@rnnclex.com"
-          git add -A src/content public/images/wp migration/report.json
+          git add -A src/content src/pages src/components public/images/wp migration/report.json
           if git diff --cached --quiet; then
             echo "Sin cambios"
           else

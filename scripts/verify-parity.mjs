@@ -7,6 +7,8 @@ import { join } from 'node:path';
 const strict = process.env.PARITY_STRICT === 'true';
 const SITE = 'https://rnnclex.com';
 const inv = JSON.parse(readFileSync('migration/urls.json', 'utf8'));
+// rnnclex es independiente: nada de otros proyectos
+const FORBIDDEN = [...inv.forbidden, 'enfermeraenestadosunidos', 'helpcenter'];
 
 const paths = [
   ...inv.core,
@@ -16,16 +18,17 @@ const paths = [
 ];
 const expected = new Set(paths);
 
-// Restos de la oferta anterior que no deben salir publicados (texto visible)
+// Restos de la oferta anterior o de otros proyectos que no deben salir publicados (texto visible)
 // Nota: $350/$650/$900 NO se buscan porque son tarifas reales de juntas estatales y del CES.
 const OFFER_BAD = [
   /Acceso\s+(30|90|180)\s+D[ií]as/i,
   /\$\s?(49|89|139)(?![\d,.])/,
   /desde\s+\$\s?100/i,
   /mensaje por WhatsApp/i,
+  /\bEB-?3\b|Schedule A|Visa Bulletin|Sesi[oó]n Informativa/i,
 ];
 // Enlaces de compra/contacto antiguos (en el HTML)
-const OLD_LINKS = [/rnnclex_whatsapp/i, /wa\.me\//i, /api\.whatsapp\.com/i, /calendly\.com/i];
+const OLD_LINKS = [/bit\.ly\//i, /wa\.me\//i, /api\.whatsapp\.com/i, /calendly\.com/i];
 
 function walkAll(dir, out = []) {
   for (const e of readdirSync(dir, { withFileTypes: true })) {
@@ -78,7 +81,7 @@ for (const p of paths) {
   const issues = [];
   const title = ((html.match(/<title[^>]*>([^<]*)<\/title>/i) || [])[1] || '').trim();
   if (!title) issues.push('sin titulo');
-  else if (title.length > 65) issues.push('titulo largo (' + title.length + ')');
+  else if (title.length > 65) issues.push('titulo largo (' + title.length + '): ' + title);
   const metaTag = (html.match(/<meta[^>]*name=["']description["'][^>]*>/i) || [])[0];
   if (attr(metaTag, 'content').length < 50) issues.push('descripcion ausente o corta');
   const h1s = (html.match(/<h1[\s>]/gi) || []).length;
@@ -100,7 +103,7 @@ for (const f of htmlFiles) {
   const raw = readFileSync(f, 'utf8');
   const html = raw.toLowerCase();
   const rel = f.replace(/^dist/, '').replace(/index\.html$/, '');
-  for (const bad of inv.forbidden) {
+  for (const bad of FORBIDDEN) {
     if (html.includes(bad)) (leaks[bad] = leaks[bad] || []).push(rel);
   }
   if (!/http-equiv=["']refresh["']/i.test(raw)) {
@@ -140,7 +143,7 @@ const report = lines.join('\n');
 console.log(report);
 if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, report + '\n');
 
-// Anotaciones visibles en la pestana del PR / checks
+// Anotaciones visibles en la pestana del PR / checks (GitHub muestra solo las primeras 10 de cada tipo: el detalle completo esta en el log)
 note('notice', 'Resumen', 'esperadas ' + paths.length + ', correctas ' + ok + ', faltan ' + missing.length + ', con problemas ' + problems.length + ', otro sitio ' + leakKeys.length + ', oferta vieja ' + offerLeaks.length + ', enlaces rotos ' + broken.size + ', extra ' + extras.length);
 for (const x of missing.slice(0, 40)) note(level, 'Falta', x);
 for (const x of problems.slice(0, 40)) note(level, 'Problema', x);

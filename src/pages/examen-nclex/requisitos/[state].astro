@@ -13,12 +13,18 @@ export async function getStaticPaths() {
 }
 
 const { s, entry } = Astro.props;
-// Si WordPress tenía una guía completa de este estado, se conserva; si estaba vacía o corta, se genera la guía base.
+// Si WordPress tenía una guía completa de este estado, se conserva; si no existía o estaba corta, se genera la guía base.
 const rich = Boolean(entry) && (entry.body?.length ?? 0) > 1500;
 const Content = rich ? (await render(entry)).Content : null;
 
-const seoTitle = `Requisitos NCLEX en ${s.name} 2026 | Guía para IEN`;
-const description = `Requisitos para presentar el NCLEX-RN en ${s.name}: junta de enfermería, documentos, huellas, inglés para IEN y estado del NLC. Guía en español.`;
+// Títulos ya optimizados en WordPress (p. ej. Florida y Montana) se respetan; los genéricos de 2025 se actualizan.
+const wpTitle = entry?.data.seoTitle ?? "";
+const wpDesc = entry?.data.description ?? "";
+const custom = rich && wpTitle.length > 0 && !/Gu[ií]a( Completa)? 2025/i.test(wpTitle);
+
+const seoTitle = custom ? wpTitle : `Requisitos NCLEX en ${s.name} 2026 | Guía para IEN`;
+const generatedDescription = `Requisitos para presentar el NCLEX-RN en ${s.name}: junta de enfermería, documentos, huellas, inglés para IEN y estado del NLC. Guía en español.`;
+const description = custom && wpDesc.length >= 50 ? wpDesc : generatedDescription;
 const host = s.url.replace(/^https?:\/\//, "").replace(/\/$/, "");
 
 const generatedFaqs = [
@@ -111,7 +117,7 @@ const faqs = [...generatedFaqs, ...extraFaqs];
 
   <h2>Estudia en inglés y en español</h2>
   <p>
-    Mientras avanzas con la junta, practica con la plataforma bilingüe de rnnclex.com: +3500 preguntas, simuladores CAT y NGN. Mira los <a href="/precios/">planes y precios</a>.
+    Mientras avanzas con la junta, practica con la plataforma bilingüe de rnnclex.com: +3500 preguntas, simuladores CAT y NGN, por USD 19 al mes. Mira el <a href="/precios/">plan completo</a>.
   </p>
 
   <p class="text-sm text-gray-500">
