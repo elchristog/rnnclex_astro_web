@@ -1,0 +1,61 @@
+{
+  "_nota": "Inventario de las 92 URLs de rnnclex.com en WordPress (sitemap del 8-oct-2026). Cada una debe existir IGUAL en el sitio Astro. Las URLs no se cambian: si una cambia, va con redireccion 301 en Cloudflare.",
+  "core": [
+    "/",
+    "/precios/",
+    "/faq/",
+    "/quienes-somos/",
+    "/equipo/",
+    "/contacto/",
+    "/terminos-y-condiciones/",
+    "/login/",
+    "/blog/",
+    "/preparacion-nclex/",
+    "/preparacion-nclex/preguntas-practica/",
+    "/preparacion-nclex/cursos/",
+    "/preparacion-nclex/simuladores-examen/",
+    "/preparacion-nclex/simuladores-examen/cat/",
+    "/preparacion-nclex/simuladores-examen/readiness-assessment/",
+    "/examen-nclex/",
+    "/examen-nclex/inscripcion/",
+    "/examen-nclex/fechas/",
+    "/examen-nclex/requisitos/",
+    "/recursos-nclex/",
+    "/recursos-nclex/app/",
+    "/recursos-nclex/videos/",
+    "/recursos-nclex/tutores/",
+    "/recursos-nclex/libros-y-guias/"
+  ],
+  "redirects": ["/login/"],
+  "states": [
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado", "connecticut", "delaware",
+    "florida", "georgia", "hawaii", "idaho", "illinois", "indiana", "iowa", "kansas", "kentucky",
+    "louisiana", "maine", "maryland", "massachusetts", "michigan", "minnesota", "mississippi",
+    "missouri", "montana", "nebraska", "nevada", "new-hampshire", "new-jersey", "new-mexico",
+    "new-york", "north-carolina", "north-dakota", "ohio", "oklahoma", "oregon", "pennsylvania",
+    "rhode-island", "south-carolina", "south-dakota", "tennessee", "texas", "utah", "vermont",
+    "virginia", "washington", "wisconsin"
+  ],
+  "qbank": [
+    "adult-health", "maternal-newborn-health", "mental-health", "pharmacology",
+    "fundamentals", "child-health", "leadership-management", "critical-care"
+  ],
+  "posts": [
+    "/estrategias-examen/que-es-el-next-generation-nclex/",
+    "/estrategias-examen/desbloquea-el-exito-en-el-nclex-guia-definitiva-de-libros-y-estrategias-de-estudio/",
+    "/estrategias-examen/plan-estudio-nclex-8-semanas/",
+    "/estrategias-examen/es-bueno-sacar-80-en-el-nclex/",
+    "/estrategias-examen/como-pasar-el-nclex/",
+    "/proceso-licencia-homologacion/cuantas-veces-se-puede-hacer-el-nclex/",
+    "/proceso-licencia-homologacion/como-inscribirte-al-examen-nclex-en-2025/",
+    "/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/",
+    "/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/",
+    "/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/",
+    "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
+    "/proceso-licencia-homologacion/como-obtener-att-nclex/"
+  ],
+  "forbidden": [
+    "g-zf1g0t80d2",
+    "enfermerausa"
+  ]
+}
