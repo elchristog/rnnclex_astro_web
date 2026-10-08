@@ -141,29 +141,53 @@ const date = datePublished ? new Date(datePublished).toLocaleDateString("es-ES",
   .rn-prose code { background: #f1f5f9; padding: .1em .35em; border-radius: .3em; font-size: .9em; }
   .rn-prose details { border: 1px solid #e2e8f0; border-radius: .75rem; padding: 1rem 1.2rem; margin: 1em 0; }
   .rn-prose iframe, .rn-prose video { max-width: 100%; border-radius: 1rem; }
+  .rn-prose figure.rn-card { margin: 1rem 0; border: 1px solid #e2e8f0; background: #f8fafc; border-radius: 1rem; padding: 1.1rem 1.3rem; }
+  .rn-prose figure.rn-card blockquote { background: transparent; border: 0; padding: 0; margin: 0; color: #334155; font-size: .98rem; }
+  .rn-prose figure.rn-card figcaption { margin-top: .6rem; font-size: .85rem; font-weight: 600; color: #0e497c; }
   @media (max-width: 640px) { .rn-prose h2 { font-size: 1.4rem; } .rn-prose { font-size: 1rem; } .rn-prose img { max-height: 300px; } }
 </style>
 
-<script>
-  // "En esta página": se arma sola con los títulos H2 del contenido
-  const box = document.querySelector("[data-prose]");
-  const toc = document.querySelector("[data-toc]");
-  const wrap = document.querySelector("[data-toc-wrap]");
-  if (box && toc && wrap) {
-    const hs = Array.from(box.querySelectorAll("h2"));
-    if (hs.length < 3) {
-      wrap.remove();
-    } else {
-      hs.forEach((h, i) => {
-        if (!h.id) h.id = "sec-" + (i + 1);
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.href = "#" + h.id;
-        a.textContent = (h.textContent || "").replace(/\s+/g, " ").trim();
-        a.className = "block text-slate-600 hover:text-[#0e497c] leading-snug";
-        li.appendChild(a);
-        toc.appendChild(li);
-      });
+<script is:inline>
+  (function () {
+    var box = document.querySelector("[data-prose]");
+    var toc = document.querySelector("[data-toc]");
+    var wrap = document.querySelector("[data-toc-wrap]");
+    if (!box) return;
+
+    // Testimonios sueltos ("— Nombre, RN" + cita) se muestran como tarjetas
+    var ps = Array.prototype.slice.call(box.querySelectorAll(":scope > p"));
+    for (var i = 0; i < ps.length - 1; i++) {
+      var t = (ps[i].textContent || "").trim();
+      var q = (ps[i + 1].textContent || "").trim();
+      if (/^—\s*.{2,40},?\s*RN$/.test(t) && /^[\u201c"]/.test(q)) {
+        var card = document.createElement("figure");
+        card.className = "rn-card";
+        var bq = document.createElement("blockquote");
+        bq.textContent = q;
+        var cap = document.createElement("figcaption");
+        cap.textContent = t.replace(/^—\s*/, "");
+        card.appendChild(bq);
+        card.appendChild(cap);
+        ps[i].parentNode.insertBefore(card, ps[i]);
+        ps[i].remove();
+        ps[i + 1].remove();
+        i++;
+      }
     }
-  }
+
+    // "En esta página": se arma sola con los títulos H2
+    if (!toc || !wrap) return;
+    var hs = Array.prototype.slice.call(box.querySelectorAll("h2"));
+    if (hs.length < 3) { wrap.remove(); return; }
+    hs.forEach(function (h, i) {
+      if (!h.id) h.id = "sec-" + (i + 1);
+      var li = document.createElement("li");
+      var a = document.createElement("a");
+      a.href = "#" + h.id;
+      a.textContent = (h.textContent || "").replace(/\s+/g, " ").trim();
+      a.className = "block text-slate-600 hover:text-[#0e497c] leading-snug";
+      li.appendChild(a);
+      toc.appendChild(li);
+    });
+  })();
 </script>
