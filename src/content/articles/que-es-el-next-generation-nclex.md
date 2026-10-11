@@ -105,3 +105,9 @@ Plataformas como la nuestra en **rnnclex.com** han integrado completamente estos
 ### **Consideraciones para Enfermeras Educadas Internacionalmente (IENs)**
 
 El NGN es el mismo examen para todos, pero los IENs deben completar pasos previos como la **validación de credenciales**. Una gran ventaja es que no es necesario viajar a EE. UU. para tomar el examen; se puede presentar en centros de prueba de Pearson VUE en numerosos países, incluyendo **México, Brasil, España, Filipinas, India** y muchos otros. Consulta nuestra **[\[guía de centros de examen\]](/examen-nclex/fechas/)** para más detalles.
+
+## Practica el NGN en inglés y en español
+
+El mejor modo de dominar el NGN es enfrentarte a sus formatos antes del examen. En rnnclex.com practicas estudios de caso desplegables, Bow-Tie y CAT con un banco de más de 3500 preguntas bilingüe, por USD 19 al mes — mucho más accesible que UWorld o Archer.
+
+[Ver el plan de USD 19/mes →](/precios/)

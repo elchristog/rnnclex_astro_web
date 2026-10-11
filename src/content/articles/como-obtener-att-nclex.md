@@ -3,7 +3,7 @@ title: "Cómo obtener el ATT del NCLEX paso a paso (2026)"
 seoTitle: "Cómo obtener el ATT del NCLEX paso a paso 2026"
 description: "ATT (Authorization to Test): qué es, cómo se obtiene tras la elegibilidad del Board y Pearson VUE, validez ~90 días y errores que lo bloquean."
 date: "2026-09-22T17:43:00"
-updated: "2026-10-04T08:24:29"
+updated: "2026-10-11T10:15:00"
 section: "proceso-licencia-homologacion"
 slug: "como-obtener-att-nclex"
 flags: []
@@ -11,7 +11,7 @@ faqs: [{"question":"¿Cuánto dura el ATT?","answer":"Lo define tu Board of Nurs
 ---
 
 
-**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 4 de octubre de 2026
+**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 11 de octubre de 2026
 
 El ATT solo sirve si estás listo. Practica preguntas de muestra gratis antes de agendar.
 
@@ -25,7 +25,7 @@ El **ATT (Authorization to Test)** es el correo de Pearson VUE que te autoriza a
 
 ## Los 6 pasos oficiales (NCSBN / Pearson 2026)
 
-1.  **Aplica a la junta de enfermería (NRB)** del estado donde quieres licencia. Ahí pides elegibilidad y, si aplica, acomodaciones.
+1.  **Aplica a la junta de enfermería (NRB)** del estado donde quieres licencia. Ahí pides elegibilidad y, si aplica, acomodaciones. Compara los requisitos y tarifas de cada junta en la [guía de requisitos por estado](/examen-nclex/requisitos/).
 2.  **Cumple requisitos de IEN** si estudiaste fuera de EE.UU. (a menudo CES de TruMerit/CGFNS, inglés, transcripts). Ver [qué es CGFNS](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/).
 3.  **Regístrate y paga el NCLEX en Pearson VUE** ($200 USD por intento, tarjeta o pago de terceros). Online o por teléfono.
 4.  **Espera el email de confirmación de registro** (suele llegar en ~2 días). El registro permanece abierto hasta 365 días esperando la elegibilidad de la junta.
