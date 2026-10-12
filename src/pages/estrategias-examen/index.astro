@@ -1,0 +1,55 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import AppCta from "@/components/global/AppCta.astro";
+
+const posts = (await getCollection("articles"))
+  .filter((p) => p.data.section === "estrategias-examen")
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const fmt = (d) => d.toLocaleDateString("es-ES", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<BaseLayout
+  title="Estrategias para aprobar el NCLEX-RN en español"
+  description="Guías en español con estrategias, planes de estudio y consejos sobre NGN y CAT para aprobar el examen NCLEX-RN a la primera."
+  canonical="https://rnnclex.com/estrategias-examen/"
+  type="service"
+>
+  <section class="bg-gradient-to-b from-[#eaf3fb] to-white border-b border-slate-200">
+    <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-14">
+      <nav aria-label="Migas de pan" class="text-xs text-slate-500 flex items-center gap-1.5 mb-4">
+        <a href="/" class="hover:text-[#0e497c]">Inicio</a><span aria-hidden="true">/</span><a href="/blog/" class="hover:text-[#0e497c]">Blog</a>
+      </nav>
+      <h1 class="text-3xl md:text-4xl font-bold text-slate-900 tracking-tight">Estrategias para aprobar el NCLEX-RN</h1>
+      <p class="mt-3 text-lg text-slate-600 max-w-2xl">Planes de estudio, claves del formato CAT y del Next Generation NCLEX (NGN), explicados en español paso a paso.</p>
+    </div>
+  </section>
+
+  <section class="bg-white py-10 md:py-12">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <div class="grid gap-5 sm:grid-cols-2">
+        {
+          posts.map((post) => (
+            <a href={`/${post.data.section}/${post.data.slug}/`} class="group flex flex-col rounded-2xl border border-slate-200 p-6 hover:border-[#0e497c]/50 hover:shadow-md transition bg-white">
+              <h2 class="text-lg font-semibold text-slate-900 leading-snug group-hover:text-[#0e497c]">{post.data.title}</h2>
+              <p class="mt-2 text-sm text-slate-600 leading-relaxed line-clamp-3 flex-1">{post.data.description}</p>
+              <p class="mt-4 text-xs text-slate-400">{fmt(post.data.date)}</p>
+            </a>
+          ))
+        }
+      </div>
+
+      <div class="mt-10 rounded-2xl bg-[#eaf3fb] p-6 md:p-8">
+        <h2 class="text-xl font-bold text-[#0e497c]">¿Quieres practicar con el formato real?</h2>
+        <p class="mt-2 text-slate-700">Banco de más de 3500 preguntas bilingües, simulador CAT y preguntas NGN por USD 19 al mes.</p>
+        <div class="mt-4 flex flex-wrap gap-3 text-sm font-semibold">
+          <a href="/precios/" class="bg-[#0e497c] text-white px-4 py-2 rounded-lg hover:bg-[#0b3b64]">Ver el plan de USD 19/mes</a>
+          <a href="/preparacion-nclex/preguntas-practica/" class="text-[#0e497c] px-4 py-2">Ver preguntas de muestra gratis</a>
+          <a href="/proceso-licencia-homologacion/" class="text-[#0e497c] px-4 py-2">Proceso de licencia y homologación</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <AppCta />
+</BaseLayout>
