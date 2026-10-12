@@ -6,6 +6,15 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 const canonical = `https://rnnclex.com/${d.section}/${d.slug}/`;
+
+// Firma E-E-A-T: autora del programa. Si el articulo ya trae su propia firma en el texto, no se duplica.
+const hasByline = (entry.body ?? "").includes("Escrito por");
+const reviewed = (d.updated ?? d.date).toLocaleDateString("es-ES", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+  timeZone: "UTC",
+});
 ---
 
 <ProseLayout
@@ -17,5 +26,14 @@ const canonical = `https://rnnclex.com/${d.section}/${d.slug}/`;
   type="article"
   datePublished={d.date.toISOString()}
 >
+  {
+    !hasByline && (
+      <p class="text-sm text-slate-600 border-b border-slate-200 pb-4 mb-6">
+        <strong>Escrito por:</strong>{" "}
+        <a href="https://rnnclex.com/equipo/">Alejandra Barreto, RN, BSN</a>, Líder del Programa rnnclex |{" "}
+        <strong>Última actualización:</strong> {reviewed}
+      </p>
+    )
+  }
   <Content />
 </ProseLayout>
