@@ -8,9 +8,7 @@ flags: []
 faqs: []
 ---
 
-![Retrato profesional de Bingley Ortiz, Directora de Comunicación y Ventas de rnnclex.com y Enfermera en Estados Unidos.](/images/wp/bingley-ortiz-directora-comunicacion-rnnclex.webp)
-
-El éxito de rnnclex.com no reside en un algoritmo, sino en la sinergia de nuestro equipo: una fusión única de líderes en tecnología, estrategas académicos y, lo más importante, enfermeros/as registrados que han vivido el mismo proceso que tú.
+El éxito de rnnclex.com no reside en un algoritmo, sino en la sinergia de nuestro equipo: una fusión única de líderes en tecnología y, lo más importante, enfermeros/as registrados que han vivido el mismo proceso que tú.
 
 Cada miembro de nuestro equipo comparte una misma pasión: empoderar a la comunidad de enfermería de habla hispana para que alcancen sus metas profesionales en Estados Unidos.
 
@@ -46,26 +44,6 @@ Alejandra Martínez, RN, BSN, IBCLC
 Alejandra Martínez es la visionaria y fuerza impulsora detrás de todo el ecosistema de apoyo para enfermeros hispanohablantes. Como fundadora de "Enfermera en Estados Unidos", se ha consolidado como la principal referente en el complejo proceso migratorio y de homologación de títulos. Su experiencia no se detiene en la burocracia; también es una experta en la preparación para el NCLEX, habiendo guiado exitosamente a centenares de profesionales en cada paso de su viaje.
 
 Su doble certificación como Enfermera Registrada (RN) y Consultora de Lactancia Certificada (IBCLC) demuestra su profundo compromiso con la excelencia clínica. La misión personal de Alejandra es derribar las barreras que enfrentan los enfermeros latinos, proveyendo una ruta clara y confiable para alcanzar el sueño de ejercer su profesión en Estados Unidos.
-
-Bingley Ortiz, Directora de Comunicación y Ventas
-
-![Retrato profesional de Bingley Ortiz, Directora de Comunicación y Ventas de rnnclex.com y Enfermera en Estados Unidos.](/images/wp/bingley-ortiz-directora-comunicacion-rnnclex.webp)
-
-**Directora de Comunicación y Ventas
-**
-Bingley Ortiz es el motor detrás de la comunicación, el crecimiento y el corazón de nuestra comunidad. Con una habilidad excepcional para conectar, ha sido la arquitecta de la voz y la personalidad de Enfermera en Estados Unidos y rnnclex.com, posicionando ambas marcas como los referentes indiscutibles para la comunidad de enfermería de habla hispana.
-
-Su formación como Comunicadora Social y Periodista con énfasis en comunicación organizacional le otorga una capacidad única para generar confianza a través de procesos honestos, mostrar el lado humano de la marca y fomentar una profunda empatía con las dudas y aspiraciones de cada estudiante. Bingley cree firmemente que la confianza se construye con transparencia y contenido de altísima calidad, y su liderazgo en esta área ha sido fundamental para llevar a nuestras plataformas al lugar de liderazgo que ocupan hoy.
-
-Andrés Cruz, RN, BSN
-
-![Retrato profesional de Andrés Cruz, RN, BSN, Director de Metodología Académica y estratega de preparación para el NCLEX en rnnclex.com.](/images/wp/andres-cruz-rn-bsn-director-metodologia-nclex.webp)
-
-**Director de Metodología Académica
-**
-Andrés Cruz es el arquitecto intelectual detrás de las innovadoras y efectivas estrategias de estudio de rnnclex.com. Como referente para Hispanoamérica en la preparación para el NCLEX, su especialidad es desarrollar las metodologías de enseñanza más avanzadas, traduciendo la complejidad del examen en un plan de estudio claro y alcanzable.
-
-Trabajando de la mano con "Enfermera en Estados Unidos" y rnnclex.com, Andrés ha sido fundamental en el diseño de nuestro sistema de aprendizaje inteligente. Su enfoque basado en datos y en la psicología del aprendizaje ha ayudado directamente a más de 300 enfermeros a superar el NCLEX en su primer intento. Su obsesión es desmitificar el examen y dar a cada estudiante las herramientas precisas para pensar como el NCLEX.
 
 ### ¿Quieres ser parte de nuestro equipo?
 
