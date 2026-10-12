@@ -1,0 +1,44 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import AppCta from "@/components/global/AppCta.astro";
+
+const posts = (await getCollection("articles"))
+  .filter((e) => e.data.section === "proceso-licencia-homologacion")
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const fmt = (d) => d.toLocaleDateString("es-ES", { year: "numeric", month: "long", day: "numeric" });
+---
+
+<BaseLayout
+  title="Licencia y homologación de enfermería en EE. UU."
+  description="Guías en español sobre CGFNS, ATT, costo del NCLEX, inscripción y homologación de tu título de enfermería para trabajar como enfermero/a en Estados Unidos."
+  canonical="https://rnnclex.com/proceso-licencia-homologacion/"
+  type="service"
+>
+  <section class="bg-gradient-to-b from-[#eaf3fb] to-white border-b border-slate-200">
+    <div class="max-w-screen-lg mx-auto px-4 py-12 md:py-14">
+      <nav aria-label="Migas de pan" class="text-xs text-slate-500 mb-4"><a href="/" class="hover:text-[#0e497c]">Inicio</a> / <a href="/blog/" class="hover:text-[#0e497c]">Blog</a></nav>
+      <h1 class="text-3xl md:text-4xl font-bold text-slate-900 tracking-tight">Licencia y homologación de enfermería en Estados Unidos</h1>
+      <p class="mt-3 text-lg text-slate-600 max-w-2xl">El camino completo para enfermeros hispanos: CGFNS, ATT, inscripción al NCLEX, costos y requisitos por estado.</p>
+    </div>
+  </section>
+
+  <section class="bg-white py-10 md:py-12">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {
+          posts.map((post) => (
+            <a href={`/proceso-licencia-homologacion/${post.data.slug}/`} class="group flex flex-col rounded-2xl border border-slate-200 p-6 hover:border-[#0e497c]/50 hover:shadow-md transition bg-white">
+              <h2 class="text-lg font-semibold text-slate-900 leading-snug group-hover:text-[#0e497c] line-clamp-3">{post.data.title}</h2>
+              <p class="mt-2 text-sm text-slate-600 leading-relaxed line-clamp-3 flex-1">{post.data.description}</p>
+              <p class="mt-4 text-xs text-slate-400">{fmt(post.data.date)}</p>
+            </a>
+          ))
+        }
+      </div>
+      <p class="mt-10 text-slate-600">Consulta los <a href="/examen-nclex/requisitos/" class="font-semibold text-[#0e497c] underline">requisitos de tu estado</a>, las <a href="/examen-nclex/fechas/" class="font-semibold text-[#0e497c] underline">fechas y centros de examen</a> y prepárate con la <a href="/precios/" class="font-semibold text-[#0e497c] underline">plataforma bilingüe por USD 19 al mes</a>.</p>
+    </div>
+  </section>
+
+  <AppCta />
+</BaseLayout>
