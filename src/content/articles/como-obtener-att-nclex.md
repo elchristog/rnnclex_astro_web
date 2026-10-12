@@ -11,7 +11,7 @@ faqs: [{"question":"¿Cuánto dura el ATT?","answer":"Lo define tu Board of Nurs
 ---
 
 
-**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 11 de octubre de 2026
+**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 11 de octubre de 2026
 
 El ATT solo sirve si estás listo. Practica preguntas de muestra gratis antes de agendar.
 
