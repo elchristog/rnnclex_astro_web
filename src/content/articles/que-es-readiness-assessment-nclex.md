@@ -11,7 +11,7 @@ faqs: [{"question":"¿Qué es el Readiness Assessment del NCLEX?","answer":"Es u
 
 * * *
 
-**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 11 de octubre de 2026
+**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 11 de octubre de 2026
 
 El **Readiness Assessment del NCLEX** es un examen predictivo que compara tu rendimiento con datos históricos de miles de candidatos y te da un veredicto directo: si tu probabilidad de aprobar es alta, límite (borderline) o baja. A diferencia de un simulacro normal, no te dice cuántas preguntas acertaste — te dice si estás listo para presentarte al examen real.
 
