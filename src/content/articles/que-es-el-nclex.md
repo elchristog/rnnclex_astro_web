@@ -11,7 +11,7 @@ faqs: [{"question":"¿Qué es el NCLEX?","answer":"El NCLEX-RN (National Council
 
 * * *
 
-**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 12 de octubre de 2026
+**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 12 de octubre de 2026
 
 El **NCLEX-RN** (*National Council Licensure Examination for Registered Nurses*) es el examen que debes aprobar para obtener tu licencia como enfermero/a registrado/a en Estados Unidos. Lo administra el **NCSBN** (National Council of State Boards of Nursing), se presenta en un centro **Pearson VUE** y se califica solo como **aprobado o reprobado**: no hay un porcentaje mínimo que debas sacar.
 
