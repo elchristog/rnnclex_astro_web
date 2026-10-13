@@ -1,0 +1,45 @@
+{
+  "actualizado": "2026-10-13",
+  "nota_envio": "Sin envio esta semana: Instantly no tiene remitente de rnnclex (unico remitente hello@enfermeraenestadosunidos.com, dominio ajeno). Pendiente humano: crear remitente de rnnclex con dominio propio y 2-3 semanas de calentamiento.",
+  "excluidos_esta_semana": [
+    {
+      "dominio": "thehispanicnurses.org",
+      "motivo": "Ya contactado en sep-2026 por campanas de Enfermera en Estados Unidos de esta misma cuenta (leads de thehispanicnurses.org y capitulos Houston, San Diego, Orange County, Phoenix, Illinois). No repetir contacto."
+    }
+  ],
+  "prospectos": [
+    {
+      "dominio": "nuestrasalud.org",
+      "organizacion": "Alianza Nacional para la Salud Hispana",
+      "contacto": "Contacto general publico listado en https://www.nuestrasalud.org/contacto",
+      "email": "info@healthyamericas.org",
+      "razon": "Organizacion nacional de salud hispana con seccion de recursos y sala de prensa; su comunidad de profesionales y familias hispanas encaja con una guia gratuita del NCLEX en espanol.",
+      "url_destino_rnnclex": "https://rnnclex.com/estrategias-examen/que-es-el-nclex/",
+      "fecha_envio": null,
+      "estado": "prospecto",
+      "fecha_seguimiento": null
+    },
+    {
+      "dominio": "mora.health",
+      "organizacion": "Mora Health",
+      "contacto": "Contacto publico listado en https://www.mora.health/programa",
+      "email": "talento@mora.health",
+      "razon": "Blog en espanol sobre el camino de enfermeras mexicanas a EE.UU. (articulo 'Que es el NCLEX-RN y como prepararte desde Mexico'); la guia de requisitos por estado complementa su contenido y no compiten: Mora es colocacion/agencia, rnnclex es preparacion del examen.",
+      "url_destino_rnnclex": "https://rnnclex.com/examen-nclex/requisitos/",
+      "fecha_envio": null,
+      "estado": "prospecto",
+      "fecha_seguimiento": null
+    },
+    {
+      "dominio": "fvi.edu",
+      "organizacion": "FVI School of Nursing and Technology (Miami y Miramar, FL)",
+      "contacto": "Contacto general publico listado en https://fvi.edu/es/contactanos/",
+      "email": "info@fvi.edu",
+      "razon": "Escuela de enfermeria con sitio y blog NCLEX completos en espanol; la guia de requisitos NCLEX por estado es un recurso gratuito util para sus estudiantes y egresados hispanohablantes.",
+      "url_destino_rnnclex": "https://rnnclex.com/examen-nclex/requisitos/",
+      "fecha_envio": null,
+      "estado": "prospecto",
+      "fecha_seguimiento": null
+    }
+  ]
+}
