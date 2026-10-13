@@ -1,0 +1,11 @@
+[
+  {
+    "fecha": "2026-10-13",
+    "pagina": "/precios/",
+    "hipotesis": "El CTA principal decia 'Empezar ahora' sin el precio y no habia CTA despues del FAQ; el visitante que leia objeciones (precio, idioma, que incluye) llegaba al final de la pagina sin siguiente paso y se iba.",
+    "cambio": "CRO: (1) CTA principal y CTA final renombrados a 'Empezar por USD 19/mes' (antes 'Empezar ahora'); (2) anadida seccion final de cierre tras el FAQ con CTA repetido hacia la web app; (3) enlace 'siguiente paso' hacia /preparacion-nclex/preguntas-practica/ en la tarjeta de precio. Diseno: tarjetas FAQ con hover/focus visibles, tamano tactil >=44px, contraste AA (texto slate sobre blanco), jerarquia visual del precio (USD grande, /mes secundario) y tokens de marca (#0e497c).",
+    "metrica_antes": { "bounce": 0.1, "engagement": 1.0, "tasa_paso": "view_pricing->signup en /precios/: 15/63 = 24% (28d, 15 sep - 12 oct 2026)" },
+    "evaluar_el": "2026-10-27",
+    "resultado": "pendiente"
+  }
+]
