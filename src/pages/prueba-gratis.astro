@@ -1,0 +1,137 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { site } from "@/data/site.mjs";
+
+const free = [
+  "2 módulos introductorios al NCLEX",
+  "2 competencias grupales para practicar con otros enfermeros",
+  "Acceso sin límite de tiempo: tú decides cuándo seguir",
+  "Plataforma bilingüe: practica en inglés y en español",
+];
+
+const premium = [
+  "Todos los módulos, desde la semana 1 del plan de estudio",
+  "Más de 3500 preguntas con justificaciones",
+  "Simuladores adaptativos CAT y preguntas NGN",
+  "Readiness Assessment y más de 400 guías en español",
+];
+
+const steps = [
+  { n: "1", t: "Entra con tu cuenta de Google", d: "Tu cuenta se crea automáticamente, sin formularios largos." },
+  { n: "2", t: "Haz los módulos introductorios", d: "Conoce cómo es el NCLEX y cómo se estudia en la plataforma." },
+  { n: "3", t: "Decide si quieres seguir", d: `Si te sirve, pasas al plan completo por USD ${site.offer.price} al mes. Si no, tu acceso gratuito sigue ahí.` },
+];
+
+const faqs = [
+  {
+    question: "¿Qué incluye la prueba gratis?",
+    answer: "Incluye 2 módulos introductorios al NCLEX y 2 competencias grupales. No tiene límite de tiempo.",
+  },
+  {
+    question: "¿Tengo que pagar para crear la cuenta?",
+    answer: "No. Entras con tu cuenta de Google y tu cuenta gratuita se crea automáticamente.",
+  },
+  {
+    question: "¿Cuándo tengo que pagar?",
+    answer: `Solo si quieres seguir con el resto de los módulos, que empiezan en la semana 1 del plan de estudio. El plan completo cuesta USD ${site.offer.price} al mes.`,
+  },
+  {
+    question: "¿Está en español?",
+    answer: "Sí. La plataforma es bilingüe. El NCLEX-RN se presenta en inglés, por eso practicas en inglés y en español.",
+  },
+];
+---
+
+<BaseLayout
+  title="Prueba gratis: empieza tu preparación NCLEX en español e inglés"
+  description="Crea tu cuenta gratis y prueba 2 módulos introductorios al NCLEX y 2 competencias grupales, sin límite de tiempo. Plataforma bilingüe para enfermeros hispanos."
+  canonical="https://rnnclex.com/prueba-gratis/"
+  type="faq"
+  faqs={faqs}
+>
+  <section class="py-14 md:py-20 bg-gradient-to-b from-[#eaf3fb] to-white">
+    <div class="max-w-screen-lg mx-auto px-4 text-center">
+      <p class="text-xs font-bold uppercase tracking-widest text-[#0e497c]">Prueba gratis · sin límite de tiempo</p>
+      <h1 class="mt-3 text-4xl md:text-5xl font-bold text-slate-900 tracking-tight">Empieza tu preparación NCLEX hoy, sin pagar</h1>
+      <p class="mt-5 text-lg text-slate-600 max-w-2xl mx-auto leading-relaxed">
+        Prueba la plataforma bilingüe hecha para enfermeros hispanos: 2 módulos introductorios y 2 competencias grupales, gratis y sin límite de tiempo.
+      </p>
+      <a
+        href={site.appUrl}
+        data-cta="app"
+        class="mt-8 inline-block bg-[#0e497c] hover:bg-[#0b3b64] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#003388] text-white font-bold text-lg min-h-[48px] py-3 px-8 rounded-xl tracking-wide transition"
+      >
+        Empezar gratis con Google
+      </a>
+      <p class="mt-3 text-xs text-slate-500">Tu cuenta se crea automáticamente. No necesitas pagar para empezar.</p>
+    </div>
+  </section>
+
+  <section class="py-14 bg-white">
+    <div class="max-w-screen-lg mx-auto px-4 grid md:grid-cols-2 gap-6">
+      <div class="rounded-2xl border-2 border-[#0e497c] p-8">
+        <p class="text-xs font-bold uppercase tracking-widest text-[#0e497c]">Gratis, para siempre</p>
+        <p class="mt-2 text-3xl font-extrabold text-[#0e497c]">USD 0</p>
+        <ul class="mt-6 space-y-3 text-slate-700">
+          {free.map((f) => <li class="flex gap-3"><span class="text-emerald-600 font-bold">✓</span><span>{f}</span></li>)}
+        </ul>
+      </div>
+      <div class="rounded-2xl border border-slate-200 bg-slate-50 p-8">
+        <p class="text-xs font-bold uppercase tracking-widest text-slate-500">Cuando quieras ir por todo</p>
+        <p class="mt-2 text-3xl font-extrabold text-slate-800">USD {site.offer.price}<span class="text-base font-medium text-slate-500"> / mes</span></p>
+        <ul class="mt-6 space-y-3 text-slate-700">
+          {premium.map((f) => <li class="flex gap-3"><span class="text-[#0e497c] font-bold">+</span><span>{f}</span></li>)}
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-14 bg-[#eff4f7]">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-semibold text-slate-900 tracking-tight mb-8">Cómo empezar en 3 pasos</h2>
+      <div class="grid md:grid-cols-3 gap-4">
+        {
+          steps.map((s) => (
+            <div class="bg-white rounded-xl border border-slate-200 p-6">
+              <p class="w-9 h-9 rounded-full bg-[#0e497c] text-white font-bold flex items-center justify-center">{s.n}</p>
+              <p class="mt-4 font-semibold text-slate-900">{s.t}</p>
+              <p class="mt-1 text-sm text-slate-600 leading-relaxed">{s.d}</p>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="py-14 bg-white">
+    <div class="max-w-screen-lg mx-auto px-4">
+      <h2 class="text-2xl md:text-3xl font-semibold text-slate-900 tracking-tight mb-8">Preguntas frecuentes</h2>
+      <div class="space-y-3">
+        {
+          faqs.map((f) => (
+            <details class="bg-white rounded-xl border border-slate-200 hover:border-[#0e497c]/40 transition">
+              <summary class="cursor-pointer font-semibold text-slate-900 px-5 py-4 min-h-[44px] flex items-center justify-between gap-4 rounded-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#003388]">
+                {f.question}
+                <span class="text-[#0e497c] text-xl leading-none">+</span>
+              </summary>
+              <p class="mt-1 pb-5 px-5 text-slate-600 leading-relaxed">{f.answer}</p>
+            </details>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="py-14 bg-[#0e497c] text-white">
+    <div class="max-w-screen-md mx-auto px-4 text-center">
+      <h2 class="text-2xl md:text-3xl font-semibold tracking-tight">Tu primer paso hacia el NCLEX empieza gratis</h2>
+      <a
+        href={site.appUrl}
+        data-cta="app"
+        class="mt-7 inline-block bg-white text-[#0e497c] font-bold px-8 min-h-[48px] py-3 rounded-xl tracking-wide hover:bg-blue-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white transition"
+      >
+        Empezar gratis con Google
+      </a>
+    </div>
+  </section>
+</BaseLayout>
