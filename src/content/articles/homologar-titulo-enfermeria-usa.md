@@ -23,7 +23,7 @@ En EE.UU. no existe una “homologación federal” única de tu título de enfe
 
 No es un sello del Departamento de Educación que convierte tu título en BSN estadounidense. Es un proceso de **licensure by examination** (o, en algunos casos posteriores, endorsement entre estados) donde:
 
--   El estado verifica tu educación y licencia de origen (a menudo vía [CES de CGFNS/TruMerit](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/))
+-   El estado verifica tu educación y licencia de origen (a menudo vía [CES de CGFNS/TruMerit](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/), cuyo panorama completo está en la [guía de CGFNS 2026](/proceso-licencia-homologacion/cgfns/))
 -   Te declara elegible al NCLEX
 -   Tras aprobar, emite tu licencia de Registered Nurse
 
