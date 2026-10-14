@@ -26,7 +26,7 @@ El **ATT (Authorization to Test)** es el correo de Pearson VUE que te autoriza a
 ## Los 6 pasos oficiales (NCSBN / Pearson 2026)
 
 1.  **Aplica a la junta de enfermería (NRB)** del estado donde quieres licencia. Ahí pides elegibilidad y, si aplica, acomodaciones. Compara los requisitos y tarifas de cada junta en la [guía de requisitos por estado](/examen-nclex/requisitos/).
-2.  **Cumple requisitos de IEN** si estudiaste fuera de EE.UU. (a menudo CES de TruMerit/CGFNS, inglés, transcripts). Ver [qué es CGFNS](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/).
+2.  **Cumple requisitos de IEN** si estudiaste fuera de EE.UU. (a menudo CES de TruMerit/CGFNS, inglés, transcripts). Ver [qué es CGFNS](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/) y su [guía completa 2026](/proceso-licencia-homologacion/cgfns/).
 3.  **Regístrate y paga el NCLEX en Pearson VUE** ($200 USD por intento, tarjeta o pago de terceros). Online o por teléfono.
 4.  **Espera el email de confirmación de registro** (suele llegar en ~2 días). El registro permanece abierto hasta 365 días esperando la elegibilidad de la junta.
 5.  **Cuando la junta te declara elegible y el registro está completo, Pearson envía el ATT** al email que usaste al registrarte.
