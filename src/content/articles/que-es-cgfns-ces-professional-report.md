@@ -11,7 +11,7 @@ faqs: [{"question":"¿CGFNS y TruMerit son lo mismo?","answer":"Sí. TruMerit es
 ---
 
 
-**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 22 de septiembre de 2026
+**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 22 de septiembre de 2026
 
 Mientras tramitas CGFNS, ya puedes practicar el NCLEX: preguntas de muestra gratis en inglés y español.
 
@@ -22,6 +22,8 @@ Si te formaste como enfermero o enfermera fuera de Estados Unidos, casi seguro v
 ## Qué es CGFNS / TruMerit en una frase
 
 **CGFNS (TruMerit) es el evaluador de credenciales más usado por las juntas de enfermería de EE.UU. para enfermeros formados en el extranjero (IENs).** No emite tu licencia ni administra el NCLEX: entrega reportes que el Board of Nursing usa para decidir si puedes presentarte al examen.
+
+¿Estás arrancando el trámite? La [guía completa de CGFNS 2026](/proceso-licencia-homologacion/cgfns/) reúne todos los servicios, tarifas oficiales y tiempos en un solo lugar.
 
 ## El CES Professional Report: el documento que más piden
 
