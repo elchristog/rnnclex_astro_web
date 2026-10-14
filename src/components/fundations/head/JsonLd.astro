@@ -91,8 +91,37 @@ const articleSchema = type === 'article' ? {
     }
   }
 } : null;
+
+// BreadcrumbList desde la ruta canonica (no aplica a la home)
+const crumbNames: Record<string, string> = {
+  "preparacion-nclex": "Preparación NCLEX",
+  "examen-nclex": "Guía del examen",
+  "recursos-nclex": "Recursos",
+  "proceso-licencia-homologacion": "Licencia y homologación",
+  "estrategias-examen": "Estrategias",
+  "simuladores-examen": "Simuladores",
+  "requisitos": "Requisitos por estado",
+  "blog": "Blog",
+  "precios": "Precios",
+  "faq": "FAQ"
+};
+const pathSegments = new URL(url, 'https://rnnclex.com').pathname.split('/').filter(Boolean);
+const breadcrumbSchema = pathSegments.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rnnclex.com/" },
+    ...pathSegments.map((seg, i) => ({
+      "@type": "ListItem",
+      "position": i + 2,
+      "name": crumbNames[seg] ?? seg.replace(/-/g, " ").replace(/^./, (c) => c.toUpperCase()),
+      "item": "https://rnnclex.com/" + pathSegments.slice(0, i + 1).join("/") + "/"
+    }))
+  ]
+} : null;
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
 {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
+{breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
