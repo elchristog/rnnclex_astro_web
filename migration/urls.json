@@ -1,5 +1,5 @@
 {
-  "_nota": "Inventario de las 94 URLs de rnnclex.com: las 92 de WordPress (sitemap del 8-oct-2026) + West Virginia y Wyoming (nuevas, para cubrir los 50 estados). Cada una debe existir IGUAL en el sitio Astro. Las URLs no se cambian: si una cambia, va con redireccion 301 en Cloudflare.",
+  "_nota": "Inventario de las 94 URLs de rnnclex.com: las 92 de WordPress (sitemap del 8-oct-2026) + West Virginia y Wyoming (nuevas, para cubrir los 50 estados). Cada una debe existir IGUAL en el sitio Astro. Las URLs no se cambian: si una cambia, va con redireccion 301 en Cloudflare. Los posts nuevos (pilares/satelites SEO) se agregan al final del array 'posts'.",
   "core": [
     "/",
     "/precios/",
@@ -48,13 +48,15 @@
     "/estrategias-examen/plan-estudio-nclex-8-semanas/",
     "/estrategias-examen/es-bueno-sacar-80-en-el-nclex/",
     "/estrategias-examen/como-pasar-el-nclex/",
+    "/estrategias-examen/que-es-el-nclex/",
     "/proceso-licencia-homologacion/cuantas-veces-se-puede-hacer-el-nclex/",
     "/proceso-licencia-homologacion/como-inscribirte-al-examen-nclex-en-2025/",
     "/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/",
     "/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/",
     "/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/",
     "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
-    "/proceso-licencia-homologacion/como-obtener-att-nclex/"
+    "/proceso-licencia-homologacion/como-obtener-att-nclex/",
+    "/proceso-licencia-homologacion/cgfns/"
   ],
   "forbidden": [
     "g-zf1g0t80d2",
