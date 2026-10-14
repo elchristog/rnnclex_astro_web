@@ -1,0 +1,85 @@
+{
+  "_nota": "Clusters tematicos de rnnclex.com. estado: planned | pilar_creado | completo. Volumenes de DataForSEO (Google US, idioma del keyword) y GSC (ventana 2026-09-16 a 2026-10-13) cuando se indican. Actualizado 2026-10-14 por Ryze.",
+  "clusters": [
+    {
+      "cluster": "Guia NCLEX completa (que es, formato, NGN, CAT, preguntas, resultados)",
+      "pilar_url": "/estrategias-examen/que-es-el-nclex/",
+      "pilar_keyword": "examen nclex / que es el nclex",
+      "satelites": [
+        {"url": "/estrategias-examen/que-es-el-next-generation-nclex/", "estado": "live"},
+        {"url": "/estrategias-examen/como-pasar-el-nclex/", "estado": "live"},
+        {"url": "/estrategias-examen/es-bueno-sacar-80-en-el-nclex/", "estado": "live"},
+        {"url": "/estrategias-examen/plan-estudio-nclex-8-semanas/", "estado": "live"},
+        {"url": "/estrategias-examen/que-es-readiness-assessment-nclex/", "estado": "live"}
+      ],
+      "estado": "pilar_creado",
+      "volumen_total": "examen nclex 22.200/mes US-es (DataForSEO); GSC 28d: 'examen nclex' 7 imp pos 36, 'nclex que es' 4 imp pos 38, 'ngn meaning nclex' pos 78, 'readiness assessment nclex' pos 59-67",
+      "oportunidad": "Pilar creado el 2026-10-12. Queda ver en GSC si el pilar recoge las impresiones; posible satelite 'cuanto dura el examen nclex' sin articulo propio (Semrush 2026-10-12)."
+    },
+    {
+      "cluster": "CGFNS y evaluacion de titulo para enfermeros extranjeros",
+      "pilar_url": "/proceso-licencia-homologacion/cgfns/",
+      "pilar_keyword": "cgfns",
+      "satelites": [
+        {"url": "/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/", "estado": "live"},
+        {"url": "/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/", "estado": "live"},
+        {"url": "/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/", "estado": "live"},
+        {"url": "/proceso-licencia-homologacion/como-obtener-att-nclex/", "estado": "live"},
+        {"url": "/proceso-licencia-homologacion/que-es-visascreen-cgfns/", "estado": "planned"},
+        {"url": "/proceso-licencia-homologacion/cvs-new-york-enfermeria/", "estado": "planned"}
+      ],
+      "estado": "pilar_creado",
+      "volumen_total": "cgfns 8.100/mes US KD 13 CPC $14,45 (DataForSEO, sept 2026); cgfns login 4.400; cgfns international 2.400; trumerit cgfns 880 (+81% anual); cgfns visascreen 140",
+      "oportunidad": "Palabra objetivo con alto volumen y KD baja, y solo 1 articulo satelite pequeno antes del pilar. Satelites faltantes (VisaScreen, CVS-NY) registrados en seo/plan.json para el lote de publicacion lunes/jueves."
+    },
+    {
+      "cluster": "Requisitos NCLEX por estado (hub de los 50 estados)",
+      "pilar_url": "/examen-nclex/requisitos/",
+      "pilar_keyword": "requisitos nclex",
+      "satelites": [
+        {"url": "/examen-nclex/requisitos/<50 estados>/", "estado": "live"}
+      ],
+      "estado": "pilar_creado",
+      "volumen_total": "Pendiente de medir con DataForSEO por estado; GSC 28d sin impresiones del cluster (ventana 2026-09-16 a 2026-10-13)",
+      "oportunidad": "Los 50 estados ya existen. Reforzar solo FL CA NY TX AZ GA MA segun memoria 6fef6e5a. Sin pilar nuevo necesario esta ejecucion."
+    },
+    {
+      "cluster": "Costos y fechas del examen (cuanto cuesta, fechas, Pearson VUE, ATT)",
+      "pilar_url": null,
+      "pilar_keyword": "cuanto cuesta el nclex / fechas examen nclex",
+      "satelites": [
+        {"url": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/", "estado": "live"},
+        {"url": "/examen-nclex/fechas/", "estado": "live"},
+        {"url": "/examen-nclex/inscripcion/", "estado": "live"},
+        {"url": "/proceso-licencia-homologacion/como-obtener-att-nclex/", "estado": "live"}
+      ],
+      "estado": "planned",
+      "volumen_total": "2 de las 7 palabras objetivo ('cuanto cuesta el nclex', 'fechas examen nclex'); paginas de dinero ya publicadas sin pilar que las una",
+      "oportunidad": "Candidato a pilar proximo: una pagina 'Costos y fechas del NCLEX 2026' que navegue hacia las 4 paginas existentes. Espera a siguiente ejecucion para no duplicar esfuerzo con el cluster CGFNS (ATT compartido)."
+    },
+    {
+      "cluster": "Preparacion y estudio (plan 8 semanas, banco de preguntas, simuladores, Readiness)",
+      "pilar_url": "/preparacion-nclex/",
+      "pilar_keyword": "preparacion nclex",
+      "satelites": [
+        {"url": "/preparacion-nclex/preguntas-practica/", "estado": "live"},
+        {"url": "/preparacion-nclex/cursos/", "estado": "live"},
+        {"url": "/preparacion-nclex/simuladores-examen/", "estado": "live"},
+        {"url": "/preparacion-nclex/simuladores-examen/cat/", "estado": "live"},
+        {"url": "/preparacion-nclex/simuladores-examen/readiness-assessment/", "estado": "live"}
+      ],
+      "estado": "pilar_creado",
+      "volumen_total": "GSC 28d: 'simulador nclex' 2 imp pos 8, 'nclex readiness assessment' 3 imp pos 59",
+      "oportunidad": "Paginas de producto ya cubren el hub. La cobertura organica de 'simulador nclex' pos 8 sugiere reforzar el satelite CAT/Readiness antes que crear pilares nuevos."
+    },
+    {
+      "cluster": "Enfermeras por pais (Mexico, Colombia, Puerto Rico, Venezuela)",
+      "pilar_url": null,
+      "pilar_keyword": "nclex para enfermeros mexicanos / colombianos / puertorriquenos",
+      "satelites": [],
+      "estado": "planned",
+      "volumen_total": "nclex mexico 10/mes, nclex puerto rico 30/mes, nclex colombia sin dato (DataForSEO US-es, sept 2026): volumen bajo en EE.UU.",
+      "oportunidad": "Baja prioridad: volumen por pais es minimo en la geografia US. Revisar con datos de Mexico/PR (GSC geo) antes de crear contenido; no esta confirmado por datos esta ejecucion."
+    }
+  ]
+}
