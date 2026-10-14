@@ -17,7 +17,7 @@ El NCLEX es en inglés. Practica ya con preguntas de muestra gratis.
 
 [Prueba preguntas de muestra gratis](/preparacion-nclex/preguntas-practica/)
 
-Si eres **enfermero formado fuera de Estados Unidos (IEN — Internationally Educated Nurse)**, el NCLEX-RN es el mismo examen que presenta un graduado de EE.UU. Lo que cambia es el camino administrativo hasta el ATT y, a menudo, el inglés y la evaluación de tu título.
+Si eres **enfermero formado fuera de Estados Unidos (IEN — Internationally Educated Nurse)**, el NCLEX-RN es el mismo examen que presenta un graduado de EE.UU. Lo que cambia es el camino administrativo hasta el ATT y, a menudo, el inglés y la evaluación de tu título. La [guía completa de CGFNS 2026](/proceso-licencia-homologacion/cgfns/) te ordena esa parte del trámite.
 
 ## El mapa en 7 pasos
 
