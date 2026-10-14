@@ -39,6 +39,10 @@
   }
 
   // 2) Vista de la pagina de precios (una vez por visita)
+  if (location.pathname.indexOf('/prueba-gratis') === 0 && once('view_free_trial')) {
+    ga('view_free_trial', {});
+    fb('ViewContent', { content_name: 'Prueba gratis NCLEX' });
+  }
   if (location.pathname.indexOf('/precios') === 0 && once('view_pricing')) {
     ga('view_pricing', { value: cfg.price, currency: cfg.currency });
     fb('ViewContent', { content_name: 'Suscripcion mensual NCLEX', value: cfg.price, currency: cfg.currency });
