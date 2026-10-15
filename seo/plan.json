@@ -1,5 +1,5 @@
 {
-  "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-14 por Ryze (cluster tematico).",
+  "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-15 por Ryze (lote de publicacion: 3 satelites publicados).",
   "pendientes": [
     {
       "url": "/proceso-licencia-homologacion/que-es-visascreen-cgfns/",
@@ -7,7 +7,8 @@
       "pilar": "/proceso-licencia-homologacion/cgfns/",
       "keyword": "cgfns visascreen / visascreen",
       "volumen": "cgfns visascreen 140/mes US (DataForSEO sept 2026); trumerit cgfns 880/mes (+81% anual)",
-      "estado": "planned"
+      "estado": "published",
+      "fecha": "2026-10-15"
     },
     {
       "url": "/proceso-licencia-homologacion/cvs-new-york-enfermeria/",
@@ -15,15 +16,17 @@
       "pilar": "/proceso-licencia-homologacion/cgfns/",
       "keyword": "cvs new york cgfns",
       "volumen": "Servicio exclusivo NY $425 (tarifario TruMerit 2026); paginas NY del sitio ya enlazan al tema",
-      "estado": "planned"
+      "estado": "published",
+      "fecha": "2026-10-15"
     },
     {
-      "url": "/proceso-licencia-homologacion/cuanto-dura-el-nclex/",
+      "url": "/estrategias-examen/cuanto-dura-el-nclex/",
       "cluster": "Guia NCLEX",
       "pilar": "/estrategias-examen/que-es-el-nclex/",
       "keyword": "cuanto dura el examen nclex",
       "volumen": "Semrush ideas 2026-10-12: satelite sin articulo propio",
-      "estado": "planned"
+      "estado": "published",
+      "fecha": "2026-10-15"
     }
   ],
   "pilares": [
