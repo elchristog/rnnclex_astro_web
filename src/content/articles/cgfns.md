@@ -24,7 +24,8 @@ Este artículo es el mapa general. Para profundizar, tienes estas guías:
 - **[Cómo homologar tu título de enfermería en USA](/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/)** — qué significa realmente "homologar" y el orden correcto del trámite.
 - **[Cómo obtener el ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/)** — la autorización que llega después de la elegibilidad.
 
-Dos satélites de este tema están en preparación: **VisaScreen** (qué es y cuándo lo necesitas) y **CVS New York** (la vía exclusiva de ese estado).
+- **[Qué es el VisaScreen de CGFNS](/proceso-licencia-homologacion/que-es-visascreen-cgfns/)** — la evaluación que exige la ley federal para la visa de trabajo ($740) y qué examen de inglés acepta.
+- **[CVS New York de CGFNS](/proceso-licencia-homologacion/cvs-new-york-enfermeria/)** — la vía exclusiva de ese estado: $425, el reporte directo al NYSED y el Limited Permit de 1 año.
 
 ## Qué es CGFNS y por qué también verás el nombre TruMerit
 
