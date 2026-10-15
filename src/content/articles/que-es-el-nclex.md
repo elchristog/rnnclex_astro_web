@@ -30,7 +30,7 @@ El NCLEX usa **CAT** (*Computerized Adaptive Testing*): la computadora ajusta la
 - **Tiempo máximo:** 5 horas, incluyendo el tutorial y los descansos opcionales.
 - **Idioma:** el examen oficial **solo se presenta en inglés**.
 
-Que el examen termine en 85 preguntas no significa que aprobaste ni que reprobaste: solo que el sistema ya tuvo certeza. Para entender mejor cómo medir si estás listo, lee [qué es el Readiness Assessment](/estrategias-examen/que-es-readiness-assessment-nclex/).
+Que el examen termine en 85 preguntas no significa que aprobaste ni que reprobaste: solo que el sistema ya tuvo certeza. Para entender mejor cómo medir si estás listo, lee [qué es el Readiness Assessment](/estrategias-examen/que-es-readiness-assessment-nclex/). Y si te preguntas cuánto tiempo vas a estar sentado frente al examen, tienes el detalle en [cuánto dura el examen NCLEX](/estrategias-examen/cuanto-dura-el-nclex/).
 
 ## El Next Generation NCLEX (NGN)
 
