@@ -1,53 +1,72 @@
 ---
 interface Props {
-  type?: 'home' | 'service' | 'faq' | 'article';
+  type?: 'home' | 'service' | 'faq' | 'article' | 'collection' | 'webpage' | 'about' | 'aboutPerson' | 'contact' | 'precios';
   title?: string;
   description?: string;
   url?: string;
   faqs?: Array<{ question: string; answer: string }>;
   datePublished?: string;
+  dateModified?: string;
+  about?: string;
 }
 
 const {
   type = 'home',
   title = 'rnnclex.com | Preparación NCLEX-RN bilingüe para enfermeros hispanos',
   description = 'Plataforma de preparación del examen NCLEX-RN en inglés y español para enfermeros hispanos: +3500 preguntas, simuladores CAT y NGN, y preparación guiada.',
-  url = 'https://rnnclex.com',
+  url = 'https://rnnclex.com/',
   faqs = [],
-  datePublished = '2026-01-01'
+  datePublished = '2026-01-01',
+  dateModified,
+  about
 } = Astro.props;
 
-const organizationSchema = {
-  "@context": "https://schema.org",
-  "@type": "EducationalOccupationalProgram",
-  "name": "Preparación NCLEX-RN bilingüe para enfermeros hispanos",
-  "description": description,
-  "provider": {
-    "@type": "Organization",
-    "name": "rnnclex.com",
-    "alternateName": "rnnclex",
-    "url": "https://rnnclex.com",
-    "logo": "https://rnnclex.com/logo.webp",
-    "sameAs": [
-      "https://www.youtube.com/@rnnclex-usa",
-      "https://www.instagram.com/rnnclex.usa",
-      "https://www.facebook.com/rnnclex.usa",
-      "https://www.linkedin.com/company/rnnclex-com/",
-      "https://www.tiktok.com/@rnnclex.com"
-    ]
-  },
-  "occupationalCategory": "Registered Nurse (RN)",
-  "educationalProgramMode": "online",
-  "inLanguage": ["es", "en"],
-  "offers": {
-    "@type": "Offer",
-    "category": "Suscripción mensual de preparación NCLEX-RN",
-    "price": "19",
-    "priceCurrency": "USD",
-    "url": "https://rnnclex.com/precios/",
-    "availability": "https://schema.org/InStock"
-  }
+const SITE = 'https://rnnclex.com';
+const path = new URL(url, SITE).pathname;
+
+const organization = {
+  "@type": "Organization",
+  "name": "rnnclex.com",
+  "alternateName": "rnnclex",
+  "url": SITE + '/',
+  "logo": SITE + '/logo.webp',
+  "sameAs": [
+    "https://www.youtube.com/@rnnclex-usa",
+    "https://www.instagram.com/rnnclex.usa",
+    "https://www.facebook.com/rnnclex.usa",
+    "https://www.linkedin.com/company/rnnclex-com/",
+    "https://www.tiktok.com/@rnnclex.com"
+  ]
 };
+
+// Indices de seccion y blog: CollectionPage. El resto de rutas: WebPage.
+const COLLECTION_PATHS = new Set([
+  '/blog/',
+  '/preparacion-nclex/',
+  '/preparacion-nclex/preguntas-practica/',
+  '/preparacion-nclex/simuladores-examen/',
+  '/preparacion-nclex/cursos/',
+  '/examen-nclex/',
+  '/recursos-nclex/',
+  '/proceso-licencia-homologacion/',
+  '/estrategias-examen/'
+]);
+
+// El tipo real se deduce PRIMERO de la ruta canonica: la ruta manda sobre el prop
+// (asi /precios/ recibe su WebPage+Offer aunque la pagina pase type="faq").
+// Los props de la pagina solo matizan (article, faq, collection) fuera de esas rutas.
+let kind: string;
+if (path === '/') kind = 'home';
+else if (path === '/precios/') kind = 'precios';
+else if (path === '/equipo/') kind = 'aboutPerson';
+else if (path === '/quienes-somos/') kind = 'about';
+else if (path === '/contacto/') kind = 'contact';
+else if (COLLECTION_PATHS.has(path)) kind = 'collection';
+else if (type === 'article') kind = 'article';
+else if (type === 'faq') kind = 'faq';
+else if (type === 'collection') kind = 'collection';
+else if (['about', 'aboutPerson', 'contact', 'precios', 'webpage'].includes(type)) kind = type;
+else kind = 'webpage';
 
 const faqSchema = faqs.length > 0 ? {
   "@context": "https://schema.org",
@@ -62,24 +81,25 @@ const faqSchema = faqs.length > 0 ? {
   }))
 } : null;
 
-const articleSchema = type === 'article' ? {
+const articleSchema = kind === 'article' ? {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": title,
   "description": description,
-  "mainEntityOfPage": url,
+  "mainEntityOfPage": { "@type": "WebPage", "@id": url },
   "datePublished": datePublished,
+  "dateModified": dateModified ?? datePublished,
   "inLanguage": "es",
   "author": {
     "@type": "Person",
     "name": "Alejandra Barreto",
     "honorificSuffix": "RN, BSN",
     "jobTitle": "Líder del Programa rnnclex",
-    "url": "https://rnnclex.com/equipo/",
+    "url": SITE + '/equipo/',
     "worksFor": {
       "@type": "Organization",
       "name": "rnnclex.com",
-      "url": "https://rnnclex.com"
+      "url": SITE + '/'
     }
   },
   "publisher": {
@@ -87,10 +107,110 @@ const articleSchema = type === 'article' ? {
     "name": "rnnclex.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://rnnclex.com/logo.webp"
+      "url": SITE + '/logo.webp'
     }
-  }
+  },
+  ...(about ? {
+    "about": { "@type": "WebPage", "url": about },
+    "mentions": { "@type": "WebPage", "url": about }
+  } : {})
 } : null;
+
+const pageSchemas: Record<string, Record<string, unknown> | null> = {
+  // home = WebSite + Organization (dos bloques)
+  home: {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "rnnclex.com",
+    "alternateName": "rnnclex",
+    "url": SITE + '/',
+    "inLanguage": ["es", "en"],
+    "publisher": organization
+  },
+  // /precios/ = WebPage con la oferta unica (USD 19/mes)
+  precios: {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "inLanguage": "es",
+    "isPartOf": { "@type": "WebSite", "name": "rnnclex.com", "url": SITE + '/' },
+    "offers": {
+      "@type": "Offer",
+      "category": "Suscripción mensual de preparación NCLEX-RN",
+      "price": "19",
+      "priceCurrency": "USD",
+      "url": url,
+      "availability": "https://schema.org/InStock"
+    }
+  },
+  // /equipo/ = AboutPage con Person (autora y lider del programa)
+  aboutPerson: {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "inLanguage": "es",
+    "isPartOf": { "@type": "WebSite", "name": "rnnclex.com", "url": SITE + '/' },
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Alejandra Barreto",
+      "honorificSuffix": "RN, BSN",
+      "jobTitle": "Líder del Programa rnnclex",
+      "url": url,
+      "worksFor": {
+        "@type": "Organization",
+        "name": "rnnclex.com",
+        "url": SITE + '/'
+      }
+    }
+  },
+  // /quienes-somos/ = AboutPage
+  about: {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "inLanguage": "es",
+    "isPartOf": { "@type": "WebSite", "name": "rnnclex.com", "url": SITE + '/' }
+  },
+  // /contacto/ = ContactPage
+  contact: {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "inLanguage": "es",
+    "isPartOf": { "@type": "WebSite", "name": "rnnclex.com", "url": SITE + '/' }
+  },
+  // Indices de seccion y blog = CollectionPage
+  collection: {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "inLanguage": "es",
+    "isPartOf": { "@type": "WebSite", "name": "rnnclex.com", "url": SITE + '/' }
+  },
+  // Todo lo demas (paginas de estado, guias, terminos, qbank) = WebPage
+  webpage: {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": title,
+    "description": description,
+    "url": url,
+    "inLanguage": "es",
+    "isPartOf": { "@type": "WebSite", "name": "rnnclex.com", "url": SITE + '/' }
+  },
+  faq: null,
+  article: null
+};
+const pageSchema = pageSchemas[kind] ?? null;
 
 // BreadcrumbList desde la ruta canonica (no aplica a la home)
 const crumbNames: Record<string, string> = {
@@ -105,23 +225,24 @@ const crumbNames: Record<string, string> = {
   "precios": "Precios",
   "faq": "FAQ"
 };
-const pathSegments = new URL(url, 'https://rnnclex.com').pathname.split('/').filter(Boolean);
-const breadcrumbSchema = pathSegments.length > 0 ? {
+const pathSegments = path.split('/').filter(Boolean);
+const breadcrumbSchema = pathSegments.length > 0 && kind !== 'home' ? {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rnnclex.com/" },
+    { "@type": "ListItem", "position": 1, "name": "Inicio", "item": SITE + '/' },
     ...pathSegments.map((seg, i) => ({
       "@type": "ListItem",
       "position": i + 2,
       "name": crumbNames[seg] ?? seg.replace(/-/g, " ").replace(/^./, (c) => c.toUpperCase()),
-      "item": "https://rnnclex.com/" + pathSegments.slice(0, i + 1).join("/") + "/"
+      "item": SITE + '/' + pathSegments.slice(0, i + 1).join("/") + '/'
     }))
   ]
 } : null;
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
-{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+{kind === 'home' && <script type="application/ld+json" set:html={JSON.stringify(organization)} />}
+{pageSchema && <script type="application/ld+json" set:html={JSON.stringify(pageSchema)} />}
 {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
+{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
