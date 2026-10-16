@@ -13,17 +13,20 @@ interface Props {
   type?: 'home' | 'service' | 'faq' | 'article';
   faqs?: Array<{ question: string; answer: string }>;
   datePublished?: string;
+  dateModified?: string;
+  about?: string;
   ogImage?: string;
 }
 
-const { title, description, type, faqs, datePublished, ogImage } = Astro.props;
+const { title, description, type, faqs, datePublished, dateModified, about, ogImage } = Astro.props;
 // Si la página no indica su canonical, se calcula desde la ruta (siempre con barra final)
-const canonical = Astro.props.canonical ?? new URL(Astro.url.pathname, site.url).href;
+const canonicalPath = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : Astro.url.pathname + '/';
+const canonical = Astro.props.canonical ?? new URL(canonicalPath, site.url).href;
 ---
 
 <html lang="es" class="scroll-smooth">
   <head>
-    <BaseHead title={title} description={description} canonical={canonical} type={type} faqs={faqs} datePublished={datePublished} ogImage={ogImage} />
+    <BaseHead title={title} description={description} canonical={canonical} type={type} faqs={faqs} datePublished={datePublished} dateModified={dateModified} about={about} ogImage={ogImage} />
     <Tracking />
     <script is:inline src="https://px.get-ryze.ai/px.js?key=rz_pk_e473d2562deb6586aba4f11f97ad6f78"></script>
   </head>
