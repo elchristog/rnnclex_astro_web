@@ -11,10 +11,12 @@ interface Props {
   faqs?: Array<{ question: string; answer: string }>;
   type?: "service" | "article";
   datePublished?: string;
+  dateModified?: string;
+  about?: string;
   kicker?: string;
 }
 
-const { title, seoTitle, description, canonical, faqs = [], type = "service", datePublished, kicker } = Astro.props;
+const { title, seoTitle, description, canonical, faqs = [], type = "service", datePublished, dateModified, about, kicker } = Astro.props;
 const jsonType = type === "article" ? "article" : faqs.length > 0 ? "faq" : "service";
 
 // Migas de pan desde la ruta
@@ -42,6 +44,8 @@ const date = datePublished ? new Date(datePublished).toLocaleDateString("es-ES",
   type={jsonType}
   faqs={faqs}
   datePublished={datePublished}
+  dateModified={dateModified}
+  about={about}
 >
   <!-- Cabecera -->
   <section class="bg-gradient-to-b from-[#eaf3fb] to-white border-b border-slate-200">
