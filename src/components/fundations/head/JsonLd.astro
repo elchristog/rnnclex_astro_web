@@ -52,19 +52,20 @@ const COLLECTION_PATHS = new Set([
   '/estrategias-examen/'
 ]);
 
-// 'home' y 'service' son tipos genericos: el tipo real se deduce de la ruta canonica.
+// El tipo real se deduce PRIMERO de la ruta canonica: la ruta manda sobre el prop
+// (asi /precios/ recibe su WebPage+Offer aunque la pagina pase type="faq").
+// Los props de la pagina solo matizan (article, faq, collection) fuera de esas rutas.
 let kind: string;
-if (type === 'article') kind = 'article';
-else if (type === 'faq') kind = 'faq';
-else if (type === 'collection') kind = 'collection';
-else if (['about', 'aboutPerson', 'contact', 'precios', 'webpage'].includes(type)) kind = type;
-else if (type === 'home') kind = path === '/' ? 'home' : 'webpage';
-else if (path === '/') kind = 'home';
+if (path === '/') kind = 'home';
 else if (path === '/precios/') kind = 'precios';
 else if (path === '/equipo/') kind = 'aboutPerson';
 else if (path === '/quienes-somos/') kind = 'about';
 else if (path === '/contacto/') kind = 'contact';
 else if (COLLECTION_PATHS.has(path)) kind = 'collection';
+else if (type === 'article') kind = 'article';
+else if (type === 'faq') kind = 'faq';
+else if (type === 'collection') kind = 'collection';
+else if (['about', 'aboutPerson', 'contact', 'precios', 'webpage'].includes(type)) kind = type;
 else kind = 'webpage';
 
 const faqSchema = faqs.length > 0 ? {
