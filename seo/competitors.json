@@ -1,0 +1,112 @@
+{
+  "_nota": "Monitoreo de competencia rnnclex.com (Ryze, tarea viernes 2:00). PRECIOS SOLO USO INTERNO: no publicar comparaciones de precios en el sitio (regla del cliente) salvo verificacion con fuente+fecha y solo como contraste de valor. Grupo A = en espanol (prioridad), B = plataformas premium EN, C = solo contexto. Nunca incluir enfermerausa.com ni enfermeraenestadosunidos.com.",
+  "actualizado": "2026-10-16",
+  "competidores": [
+    {
+      "competidor": "NCLEX Crusade",
+      "dominio": "nclexcrusade.com",
+      "grupo": "A",
+      "fecha": "2026-10-16",
+      "hallazgos": [
+        "MODULO NUEVO: IPQ (Intensive Practice Question), nclexcrusade.com/ipq/ - practica avanzada para graduados de Dominate (home, 16-10-2026).",
+        "OFERTA/FUNNEL: Master Class abierta via Kajabi (masterclass062026); gestoria Board+NCLEX (dominate-gestoria) y curso de ingles Level UP visibles en home.",
+        "VIDEO: 'NCLEX Exam Fee Increase 2027: What Future Nurses Need to Know' en su Facebook capitalizando la tarifa del NCLEX.",
+        "SEO: 0 keywords rankeando en top 100 en es-US segun DataForSEO ranked_keywords (16-10-2026); su visibilidad viene de redes, no de organico medible."
+      ],
+      "acciones": [
+        "RE-VERSIONAR: artículo propio de plan de estudio guiado (respuesta al enfoque intensivo de 21 dias) - item planned en seo/plan.json."
+      ],
+      "items_creados": ["/estrategias-examen/plan-de-estudio-nclex/"]
+    },
+    {
+      "competidor": "NCLEX Crusade International",
+      "dominio": "nclexcrusadeinternational.com",
+      "grupo": "A",
+      "fecha": "2026-10-16",
+      "hallazgos": [
+        "CAMBIO DE PRECIO (USO INTERNO, fuente: home 16-10-2026): Master 21 paso de USD 997 a USD 897 (o 3 pagos de USD 332); acces 180 dias.",
+        "PRODUCTO NUEVO: 'Centro de Diagnostico' - test gratuito de 30 preguntas con evaluacion personalizada (ncqb.nclexcrusadeqbank.com/test; banner 'Diagnostico' en home).",
+        "SEO: 0 keywords top-100 es-US (DataForSEO 16-10); 1475 dominios de referencia con spam score 53 - perfil de enlaces masivo/spammy, sin autoridad organica real.",
+        "MASTER 21 incluye: videos, pre/post assessment de 85 preguntas, 14 mini-examenes, 1 sesion de coaching 1:1."
+      ],
+      "acciones": [
+        "RE-VERSIONAR: nuestro quiz gratis + Readiness Assessment CAT como diagnostico real (mejor que un test de 30 preguntas estatico) - refresh de /preparacion-nclex/preguntas-practica/ en seo/plan.json."
+      ],
+      "items_creados": ["/preparacion-nclex/preguntas-practica/ (refresh)"]
+    },
+    {
+      "competidor": "ProTalent US",
+      "dominio": "protalentus.com",
+      "grupo": "A",
+      "fecha": "2026-10-16",
+      "hallazgos": [
+        "REDES: publicacion diaria en Instagram 6-12 oct (2026), ~1000 seguidores; posicionamiento 'Plataforma + programa propio' (posible lanzamiento de plataforma NCLEX).",
+        "SERP: reel del 9-oct '¿Donde puedes presentar el NCLEX y cuanto cuesta?' rankea en el carrusel de videos de 'cuanto cuesta el nclex' (SERP es-US, 16-10-2026) - mismo tema de nuestra money page.",
+        "ALIANZA: reel con UNITEC + Walden University (ingles medico + NCLEX + visa TN).",
+        "Su web (protalentus.com) no responde a fetch externo; monitoreo por Instagram y SERP."
+      ],
+      "acciones": [
+        "MEJORAR: /cuanto-cuesta-el-nclex/ con la tarifa 2027 (NCSBN) y tabla de costos totales - el mismo terreno donde su reel ya rankea.",
+        "Observar lanzamiento de su 'plataforma propia' la proxima semana."
+      ],
+      "items_creados": ["/cuanto-cuesta-el-nclex/ (refresh)"]
+    },
+    {
+      "competidor": "Archer Review",
+      "dominio": "archerreview.com",
+      "grupo": "B",
+      "fecha": "2026-10-16",
+      "hallazgos": [
+        "EMPUJE EN TEAS 7 (pre-enfermeria, mercado EN): nurses.archerreview.com/pre-nursing/teas7 con keywords nuevas (ati testing, ati exam, ati teas, practice teas test) segun ranked_keywords 16-10-2026.",
+        "Escala: 4276 keywords en top 100 (2050 nuevas), ETV organico ~116k; su foco actual NO es NCLEX en espanol."
+      ],
+      "acciones": [
+        "IGNORAR: TEAS 7 es otro mercado (admisión pre-enfermeria, en ingles); relevante solo como referencia de ritmo de publicacion."
+      ],
+      "items_creados": []
+    },
+    {
+      "competidor": "UWorld Nursing",
+      "dominio": "nursing.uworld.com",
+      "grupo": "B",
+      "fecha": "2026-10-16",
+      "hallazgos": [
+        "CONTENIDO NUEVO: paginas de preguntas gratis por tema NCLEX (endocrine, pediatrics, pharmacology, med-surg...) apareciendo como nuevas en ranked_keywords 16-10-2026 - estrategia de topic-pages de practica gratuita.",
+        "VIDEO: Facebook 'NCLEX registration fee goes to $350 on February 1' (16-09-2026) capitalizando la tarifa.",
+        "Escala: 5400 keywords top-100, 754 RD, spam score 26."
+      ],
+      "acciones": [
+        "APRENDER (no clonar): el patron de topic-pages por tema refuerza nuestro cluster /preparacion-nclex/preguntas-practica/; ya cubierto con el refresh."
+      ],
+      "items_creados": []
+    },
+    {
+      "competidor": "NCLEX Bootcamp",
+      "dominio": "nclexbootcamp.com",
+      "grupo": "B",
+      "fecha": "2026-10-16",
+      "hallazgos": [
+        "SIN MOVIMIENTO MEDIBLE: 0 keywords rankeadas en top 100 US (DataForSEO 16-10), solo 51 dominios de referencia con spam score 58."
+      ],
+      "acciones": ["IGNORAR esta semana."],
+      "items_creados": []
+    }
+  ],
+  "descubrimiento": {
+    "fecha": "2026-10-16",
+    "metodo": "dataforseo competitors_domain (target rnnclex.com, es, US) + SERP de las 7 palabras objetivo",
+    "resultado": "0 dominios competidores detectados para rnnclex.com (sitio joven, sin visibilidad organica medida todavia).",
+    "candidatos_nuevos": [
+      {
+        "competidor": "NurseAdemy",
+        "dominio": "facebook.com/nurseademy",
+        "grupo": "A-candidato",
+        "nota": "Aparecio 1 vez en el carrusel de videos de 'cuanto cuesta el nclex' (es-US, 16-10-2026). Se anade solo si reaparece el proximo monitoreo (regla: 2 veces seguidas)."
+      }
+    ]
+  },
+  "contexto_transversal": {
+    "tarifa_nclex": "NCSBN (fuente oficial, 21-08-2026): la tarifa de registro NCLEX sube de USD 200 a USD 350 en US/Australia el 1-feb-2027 (Canada CAD 360->570); primer ajuste desde el ano 2000. Quien complete el registro ANTES del 1-feb-2027 paga la tarifa actual, incluso si presenta despues. Fuente: ncsbn.org/news/nclex-fee-changes-feb1 y nclex.com/fees-payment.page. UWorld, ReMar, NCLEX High Yield, NCLEX Crusade y ProTalentUS ya lo estan comunicando; en el SERP es-US de 'cuanto cuesta el nclex' dominan los videos de competidores.",
+    "nota_tecnica": "Al 16-10-2026, https://rnnclex.com/cuanto-cuesta-el-nclex/ sirvio contenido de home (con encabezado heredado con enlace bit.ly de WhatsApp, que el cliente desactivo) en vez de la pagina de costos - verificar en la tarea tecnica que la URL publica la version Astro con el contenido correcto."
+  }
+}
