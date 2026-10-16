@@ -28,7 +28,7 @@ const canonical = Astro.props.canonical ?? new URL(canonicalPath, site.url).href
   <head>
     <BaseHead title={title} description={description} canonical={canonical} type={type} faqs={faqs} datePublished={datePublished} dateModified={dateModified} about={about} ogImage={ogImage} />
     <Tracking />
-    <script is:inline src="https://px.get-ryze.ai/px.js?key=rz_pk_e473d2562deb6586aba4f11f97ad6f78"></script>
+    <script is:inline src="https://px.get-ryze.ai/px.js?key=rz_pk_e473d2562deb6586aba4f11f97ad6f78" defer></script>
   </head>
   <body class="flex flex-col bg-white min-h-dvh">
     <Navigation />

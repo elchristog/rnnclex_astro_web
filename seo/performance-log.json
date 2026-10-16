@@ -1,0 +1,41 @@
+[
+  {
+    "fecha": "2026-10-16",
+    "metodo": "DataForSEO instant_pages con render móvil; PageSpeed Insights no respondió desde el entorno.",
+    "ventana_gsc": "2026-09-16 a 2026-10-15",
+    "paginas_gsc_mayor_clics": [
+      { "url": "/examen-nclex/fechas/", "clicks": 8, "impressions": 166 },
+      { "url": "/", "clicks": 4, "impressions": 86 }
+    ],
+    "mediciones": [
+      {
+        "url": "/preparacion-nclex/",
+        "lcp_ms": 1488,
+        "cls": 0.0763,
+        "ttfb_ms": 214,
+        "html_transferido_bytes": 24770,
+        "scripts_bytes": 780589,
+        "imagenes_bytes": 224640,
+        "bloqueos_render": 1
+      },
+      {
+        "url": "/estrategias-examen/que-es-el-nclex/",
+        "lcp_ms": 976,
+        "cls": 0.0237,
+        "ttfb_ms": 261,
+        "html_transferido_bytes": 26596,
+        "scripts_bytes": 745920,
+        "imagenes_bytes": 42,
+        "bloqueos_render": 1
+      }
+    ],
+    "inventario_imagenes": {
+      "imagenes_sobre_150kb": [
+        { "archivo": "/images/wp/requisitos-nclex-por-estado.webp", "bytes": 215744 }
+      ],
+      "nota": "Los activos inventariados ya usan WebP; no se borró ningún original."
+    },
+    "cambio": "src/layouts/BaseLayout.astro: el script externo de medición se carga con defer para no bloquear el primer render.",
+    "verificacion_pendiente": "Medir tras el despliegue de producción y comparar contra esta línea base."
+  }
+]
