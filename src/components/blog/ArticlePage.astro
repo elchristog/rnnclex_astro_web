@@ -7,6 +7,15 @@ const { Content } = await render(entry);
 const d = entry.data;
 const canonical = `https://rnnclex.com/${d.section}/${d.slug}/`;
 
+// Pagina objetivo del articulo (pilar registrado en seo/plan.json): recibe about/mentions del schema Article.
+// Sin entrada en el mapa, apunta al indice de su seccion.
+const targetPages: Record<string, string> = {
+  "cuanto-dura-el-nclex": "/estrategias-examen/que-es-el-nclex/",
+  "que-es-visascreen-cgfns": "/proceso-licencia-homologacion/cgfns/",
+  "cvs-new-york-enfermeria": "/proceso-licencia-homologacion/cgfns/",
+};
+const aboutUrl = "https://rnnclex.com" + (targetPages[d.slug] ?? `/${d.section}/`);
+
 // Firma E-E-A-T: autora del programa. Si el articulo ya trae su propia firma en el texto, no se duplica.
 const hasByline = (entry.body ?? "").includes("Escrito por");
 const reviewed = (d.updated ?? d.date).toLocaleDateString("es-ES", {
@@ -25,6 +34,8 @@ const reviewed = (d.updated ?? d.date).toLocaleDateString("es-ES", {
   faqs={d.faqs ?? []}
   type="article"
   datePublished={d.date.toISOString()}
+  dateModified={(d.updated ?? d.date).toISOString()}
+  about={aboutUrl}
 >
   {
     !hasByline && (
