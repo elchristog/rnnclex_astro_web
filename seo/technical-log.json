@@ -6,7 +6,7 @@
       "Articulos sin dateModified ni about/mentions en el schema Article; sin enlace schema a su pagina objetivo",
       "llms.txt no existia (404 verificado en vivo 2026-10-12 y 2026-10-16)",
       "URLs sin barra final (p. ej. /precios, /equipo, /examen-nclex/fechas) sirven el sitio viejo de WordPress con la oferta antigua ($350/$650/$900, Thrivecart, WhatsApp): duplicado desactualizado en produccion. Un 301 real requiere regla de Cloudflare (punto humano); mientras tanto el canonical con barra unifica",
-      "robots.txt correcto: permite todo, bloquea solo /author/, sitemap declarado; no bloquea CSS/JS/imagenes",
+      "robots.txt en repo correcto: permite todo, bloquea solo /author/, sitemap declarado; no bloquea CSS/JS/imagenes. PERO el robots.txt EN VIVO sirve una copia vieja cacheada por Cloudflare (76 bytes, sin Disallow /author/, sitemap de enfermerausa.com; TTL 1 ano): requiere purga de cache en Cloudflare (punto humano)",
       "Canonicals de paginas verificadas en vivo: absolutos, https, sin www, con barra final y sin parametros (ok)",
       "GA4 key events intactos: signup, purchase, start_trial y view_pricing siguen registrados como eventos clave ONCE_PER_EVENT (creados 2026-09-22). Cociente signup 7 eventos/7 usuarios = 1,0 en 10-16 oct (sin duplicados esta semana); purchase 1 evento (prueba del 11-oct, sin compras reales). Fechas de prueba 8-oct y 11-oct excluidas de decisiones"
     ],
