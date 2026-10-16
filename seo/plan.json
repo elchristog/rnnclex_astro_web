@@ -1,5 +1,5 @@
 {
-  "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-15 por Ryze (lote de publicacion: 3 satelites publicados).",
+  "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-16 por Ryze (monitoreo de competencia: 2 items nuevos + 1 refresh).",
   "pendientes": [
     {
       "url": "/proceso-licencia-homologacion/que-es-visascreen-cgfns/",
@@ -27,6 +27,47 @@
       "volumen": "Semrush ideas 2026-10-12: satelite sin articulo propio",
       "estado": "published",
       "fecha": "2026-10-15"
+    },
+    {
+      "url": "/estrategias-examen/plan-de-estudio-nclex/",
+      "cluster": "Guia NCLEX",
+      "pilar": "/estrategias-examen/que-es-el-nclex/",
+      "keyword": "plan de estudio nclex",
+      "intencion": "informacional-comercial (busca estructura de preparacion, no solo contenido)",
+      "origen": "competencia",
+      "por_que": "NCLEX Crusade Intl empuja Master 21 (21 dias, ahora USD 897, antes 997) y Crusade Dominate (96h/12 semanas + modulo IPQ nuevo): el terreno 'plan de estudio guiado' es donde compiten. Publicar 19-oct (lunes).",
+      "angulo": "Plan de estudio bilingue semana a semana con Readiness Assessment CAT como punto de partida (diagnostico real adaptativo vs. test estatico de 30 preguntas de la competencia), foco NGN/CAT, tabla de progreso y FAQ. Sin copiar estructura de ningun entrenamiento rival.",
+      "estado": "planned",
+      "fecha": "",
+      "volumen": "verificar volumen en la tarea de escritura (DataForSEO keyword_suggestions)"
+    },
+    {
+      "url": "/cuanto-cuesta-el-nclex/",
+      "tipo": "refresh",
+      "cluster": "Guia NCLEX",
+      "pilar": "/estrategias-examen/que-es-el-nclex/",
+      "keyword": "cuanto cuesta el nclex",
+      "intencion": "informacional con presupuesto (decide si puede costear todo el proceso)",
+      "origen": "competencia",
+      "por_que": "Tarifa NCLEX sube de USD 200 a USD 350 el 1-feb-2027 (NCSBN oficial, fuente ncsbn.org/news/nclex-fee-changes-feb1); UWorld, ReMar, NCLEX High Yield, NCLEX Crusade y ProTalentUS ya publican sobre esto y sus videos dominan el carrusel de 'cuanto cuesta el nclex' (SERP es-US 16-10-2026). Nuestra pagina no aparece en el SERP. Publicar 22-oct (jueves).",
+      "angulo": "Tabla de costos totales 2026 vs 2027 (tarifa Pearson VUE + fee internacional + fee del Board del estado) con fuente y fecha NCSBN, aviso de ahorro por registrarse antes del 1-feb-2027, FAQ y contraste de valor con suscripcion USD 19/mes. Sin comparaciones de precios de competidores.",
+      "estado": "planned",
+      "fecha": "",
+      "volumen": "GSC: 81 impresiones, pos 15 (sept 2026)"
+    },
+    {
+      "url": "/preparacion-nclex/preguntas-practica/",
+      "tipo": "refresh",
+      "cluster": "Guia NCLEX",
+      "pilar": "/preparacion-nclex/",
+      "keyword": "preguntas nclex gratis / quiz nclex",
+      "intencion": "transaccional (prueba gratis = puerta de entrada)",
+      "origen": "competencia",
+      "por_que": "NCLEX Crusade lanzo su 'Centro de Diagnostico' gratis (test estatico de 30 preguntas, ncqb.nclexcrusadeqbank.com, banner en home) y UWorld expandio topic-pages de preguntas por tema (endocrine, pediatrics, pharmacology...). Publicar 26-oct (lunes).",
+      "angulo": "Reposicionar la pagina como diagnostico real: Readiness Assessment CAT adaptativo que estima tu probabilidad de pasar (vs. test estatico), seccion por temas como UWorld, CTA a prueba gratis. Bilingue con terminologia NCLEX.",
+      "estado": "planned",
+      "fecha": "",
+      "volumen": "keyword objetivo 7-palabras; GSC a verificar"
     }
   ],
   "pilares": [
