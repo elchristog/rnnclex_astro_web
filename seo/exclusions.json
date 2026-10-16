@@ -1,0 +1,9 @@
+{
+  "actualizado": "2026-10-16",
+  "nota": "URLs excluidas a proposito del sitemap/indexacion. Verificar cada semana que ninguna pagina con trafico este aqui por error.",
+  "excluidas": [
+    { "url": "https://rnnclex.com/author/*", "motivo": "paginas de autor de WordPress, no son del sitio Astro; robots.txt tambien las bloquea con Disallow: /author/" },
+    { "url": "https://rnnclex.com/login/", "motivo": "pantalla de acceso, sin valor de busqueda" },
+    { "url": "https://rnnclex.com/llms.txt", "motivo": "archivo de texto para rastreadores de IA, no es una pagina indexable; creado como endpoint en build (2026-10-16)" }
+  ]
+}
