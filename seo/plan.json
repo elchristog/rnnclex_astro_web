@@ -1,5 +1,28 @@
 {
   "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-16 por Ryze (monitoreo de competencia: 2 items nuevos + 1 refresh).",
+  "edits": [
+    {
+      "url": "/examen-nclex/fechas/",
+      "fecha": "2026-10-17",
+      "tipo": "on-page CTR (Ryze, optimizacion pagina estancada)",
+      "ventana_gsc": "2026-09-19 a 2026-10-16",
+      "antes": {
+        "title": "Fechas y Centros de Examen NCLEX: Guía para Programar tu Éxito",
+        "seoTitle": "Fechas NCLEX 2026: cómo agendar en Pearson VUE",
+        "description": "Cómo elegir fecha del NCLEX-RN con tu ATT (90 días), centros Pearson VUE en EE.UU. e internacionales, y cuándo estás listo para agendar.",
+        "ctr": 0.0387,
+        "impresiones": 155,
+        "posicion": 6.5,
+        "clicks": 6
+      },
+      "despues": {
+        "seoTitle": "Fechas examen NCLEX 2026: agenda en 4 pasos con tu ATT",
+        "description": "El NCLEX no tiene fechas fijas: se rinde todo el año. Agenda en Pearson VUE con tu ATT (90 días), elige centro y prepárate con USD 19/mes. ¡Empieza!"
+      },
+      "otros": "H1 alineado, respuesta directa en primera línea, H2/H3 por consultas GSC, FAQ 5 preguntas (fechas fijas, validez ATT, Madrid/México, duración 5h, regla 45 días), enlaces de entrada desde /examen-nclex/inscripcion/ y /preparacion-nclex/simuladores-examen/readiness-assessment/ (+ ATT ya enlazaba), salida a /precios/, datos NCSBN Candidate Bulletin abril 2026 (fee $200, internacional +$150).",
+      "evaluar_el": "2026-11-14"
+    }
+  ],
   "pendientes": [
     {
       "url": "/proceso-licencia-homologacion/que-es-visascreen-cgfns/",
