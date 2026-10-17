@@ -40,7 +40,7 @@ Cada resultado es una hoja de ruta. Así es como debes usar la información que 
 
 | Resultado | Qué significa | Qué hacer |
 |---|---|---|
-| **Alta probabilidad de pasar** | Tu juicio clínico es sólido y tu base de conocimientos es fuerte. | Mantén un ritmo de estudio constante, repasa tus notas y agenda tu examen con confianza. |
+| **Alta probabilidad de pasar** | Tu juicio clínico es sólido y tu base de conocimientos es fuerte. | Mantén un ritmo de estudio constante, repasa tus notas y [agenda tu examen con confianza](/examen-nclex/fechas/). |
 | **Probabilidad límite (Borderline)** | Tienes áreas fuertes, pero también debilidades significativas. | Analiza el reporte detallado, identifica tus 3 áreas más débiles y atácalas con práctica enfocada. |
 | **Baja probabilidad de pasar** | Necesitas reforzar los conceptos fundamentales de enfermería. | Vuelve a las bases: revisa el contenido teórico con cursos en video y practica con el Qbank por temas. |
 
