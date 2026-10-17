@@ -20,7 +20,7 @@ Sabemos que puede parecer un laberinto de formularios y agencias. Por eso, hemos
 
 ## El Proceso de Inscripción en Dos Partes
 
-Un error común es pensar que la inscripción es un solo trámite. En realidad, son dos procesos paralelos e interdependientes que debes completar. Ambos procesos deben completarse para que puedas recibir tu autorización para presentar el examen.
+Un error común es pensar que la inscripción es un solo trámite. En realidad, son dos procesos paralelos e interdependientes que debes completar. Ambos procesos deben completarse para que puedas recibir tu autorización para presentar el examen.
 
 ### Solicitud de Licencia
 
@@ -74,7 +74,7 @@ Este es el correo electrónico más esperado.
 
 **Acción:** Revisa tu correo electrónico constantemente.
 
-**Detalles:** Pearson VUE te enviará un correo con tu ATT. Este documento contiene tu número de autorización, que es válido por un período de tiempo específico (generalmente 90 días). ¡No puedes programar tu examen sin él!
+**Detalles:** Pearson VUE te enviará un correo con tu ATT. Este documento contiene tu número de autorización, que es válido por un período de tiempo específico (generalmente 90 días). ¡No puedes programar tu examen sin él! Guía completa: [fechas y centros del examen NCLEX](/examen-nclex/fechas/).
 
 ### Programa tu Cita para el Examen
 
