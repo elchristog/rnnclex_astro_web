@@ -1,0 +1,50 @@
+{
+  "_nota": "Registro de deteccion y correccion de canibalizacion de rnnclex.com (Ryze). Ventana GSC: 28 dias, 2026-09-20 a 2026-10-17, dimensiones query+page (y date para detectar cambio de URL rankeada). Umbral: 2+ URLs con 5+ impresiones cada una, o cambio de URL rankeada entre fechas.",
+  "fecha_ultima_revision": "2026-10-18",
+  "consultas_revisadas": ["nclex", "examen nclex", "nclex que es", "que es el nclex", "nclex en español", "plan de estudio nclex", "cuanto cuesta el nclex", "cgfns", "fechas examen nclex", "cuanto dura el nclex", "requisitos nclex"],
+  "resumen": "Ninguna consulta alcanzo el umbral de 2 URLs con 5+ impresiones (maximo: 4 imp por URL). 4 consultas con URL rankeada inestable entre fechas (examen nclex, nclex, nclex que es, nclex en español) con 1-4 imp por URL: bajo umbral, sin conflicto accionable. Conflicto real detectado en el plan: 1 item planned duplicaba articulo publicado y 1 refresh apuntaba a URL nueva que duplicaria pagina con historial.",
+  "conflictos": [
+    {
+      "fecha": "2026-10-18",
+      "consulta": "plan de estudio nclex",
+      "urls": [
+        "/estrategias-examen/plan-de-estudio-nclex/ (item planned, pagina no existe)",
+        "/estrategias-examen/plan-estudio-nclex-8-semanas/ (publicado, mismo cluster, misma keyword e intencion)"
+      ],
+      "ganadora": "/estrategias-examen/plan-estudio-nclex-8-semanas/",
+      "criterio": "la publicada existe, rankea y ya recibe enlaces internos; publicar la planned habria creado un duplicado directo",
+      "accion": "Item marcado 'merged' en seo/plan.json (articulo NO creado). Reemplazado por angulo distinto: /estrategias-examen/plan-estudio-nclex-4-semanas/ con keyword 'plan de estudio nclex 4 semanas' (plan intensivo para ATT vigente). Enlaces internos hacia la ganadora añadidos desde /preparacion-nclex/ (hero y seccion plan).",
+      "resultado": "una sola URL objetivo para la intencion 'plan de estudio nclex': /estrategias-examen/plan-estudio-nclex-8-semanas/"
+    },
+    {
+      "fecha": "2026-10-18",
+      "consulta": "cuanto cuesta el nclex",
+      "urls": [
+        "/cuanto-cuesta-el-nclex/ (refresh planned sobre URL raiz nueva)",
+        "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/ (existente; GSC 28d 2026-09-20 a 2026-10-17: 81 impresiones, pos 15)"
+      ],
+      "ganadora": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
+      "criterio": "la existente tiene 81 impresiones y pos 15 en 28d (historial de ranking); una URL raiz nueva duplicaria la intencion y partiria la senal en dos",
+      "accion": "URL del item refresh corregida en seo/plan.json a la pagina existente. El refresh (subida de tarifa USD 200 a USD 350 el 1-feb-2027) se aplicara el 22-oct sobre /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/. No se crea pagina raiz nueva.",
+      "resultado": "una sola URL objetivo: /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/"
+    },
+    {
+      "fecha": "2026-10-18",
+      "consulta": "nclex que es / que es el nclex",
+      "urls": [
+        "/preparacion-nclex/ (hub; pos 3 en 'nclex', pos 86 en 'nclex que es')",
+        "/estrategias-examen/que-es-el-nclex/ (pilar; pos 11 en 'nclex que es', 1 imp)"
+      ],
+      "ganadora": "/estrategias-examen/que-es-el-nclex/",
+      "criterio": "mejor posicion en la consulta definicional (11 vs 86) y es el pilar del cluster Guia NCLEX; el hub sin enlazar al pilar rompia el flujo de senal",
+      "accion": "Diferenciacion de intencion sin retitular: el hub queda como guia metodologica (como prepararse) y el pilar como guia definicional (que es). Anadidos 2 enlaces internos desde /preparacion-nclex/ hacia el pilar con anchor exacto '¿Qué es el NCLEX-RN? Guía completa en español', mas enlace al articulo ganador de 'plan de estudio nclex'. No redireccion: ambos sirven intenciones distinguibles.",
+      "resultado": "intenciones separadas (definicion vs metodologia) con paso de senal del hub al pilar"
+    }
+  ],
+  "sin_accion": [
+    {"consulta": "examen nclex", "urls_con_impresiones": 7, "max_impresiones_url": 4, "motivo": "todas bajo el umbral de 5 imp; posiciones 30-84; sin historia de ranking que proteger"},
+    {"consulta": "nclex", "urls_con_impresiones": 9, "max_impresiones_url": 3, "motivo": "bajo umbral; /preparacion-nclex/ pos 3 es la unica con ranking real (2 imp), resto pos 39-84"},
+    {"consulta": "nclex en español", "urls_con_impresiones": 3, "max_impresiones_url": 1, "motivo": "bajo umbral"},
+    {"consulta": "nclex que es", "urls_con_impresiones": 8, "max_impresiones_url": 3, "motivo": "bajo umbral; la inestabilidad de URL rankeada se mitigo con los enlaces del hub al pilar"}
+  ]
+}
