@@ -1,5 +1,5 @@
 {
-  "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-16 por Ryze (monitoreo de competencia: 2 items nuevos + 1 refresh).",
+  "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published | merged. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-10-18 por Ryze (reviso canibalizacion: 1 item merged, 1 angulo nuevo, 1 refresh redirigido a URL existente; ver seo/cannibalization.json).",
   "edits": [
     {
       "url": "/examen-nclex/fechas/",
@@ -58,14 +58,30 @@
       "keyword": "plan de estudio nclex",
       "intencion": "informacional-comercial (busca estructura de preparacion, no solo contenido)",
       "origen": "competencia",
-      "por_que": "NCLEX Crusade Intl empuja Master 21 (21 dias, ahora USD 897, antes 997) y Crusade Dominate (96h/12 semanas + modulo IPQ nuevo): el terreno 'plan de estudio guiado' es donde compiten. Publicar 19-oct (lunes).",
+      "por_que": "NCLEX Crusade Intl empuja Master 21 (21 dias, ahora USD 897, antes 997) y Crusade Dominate (96h/12 semanas + modulo IPQ nuevo): el terreno 'plan de estudio guiado' es donde compiten.",
       "angulo": "Plan de estudio bilingue semana a semana con Readiness Assessment CAT como punto de partida (diagnostico real adaptativo vs. test estatico de 30 preguntas de la competencia), foco NGN/CAT, tabla de progreso y FAQ. Sin copiar estructura de ningun entrenamiento rival.",
+      "estado": "merged",
+      "fecha": "2026-10-18",
+      "volumen": "verificar volumen en la tarea de escritura (DataForSEO keyword_suggestions)",
+      "merged_en": "/estrategias-examen/plan-estudio-nclex-8-semanas/",
+      "nota_merge": "Canibalizacion detectada 2026-10-18: este item duplicaba la intencion del articulo ya publicado /estrategias-examen/plan-estudio-nclex-8-semanas/ (misma keyword 'plan de estudio nclex'). Ganadora: el articulo de 8 semanas. Reemplazado por el item nuevo de 4 semanas (angulo distinto, keyword distinta). No crear la URL /estrategias-examen/plan-de-estudio-nclex/.",
+      "reemplazado_por": "/estrategias-examen/plan-estudio-nclex-4-semanas/"
+    },
+    {
+      "url": "/estrategias-examen/plan-estudio-nclex-4-semanas/",
+      "cluster": "Guia NCLEX",
+      "pilar": "/estrategias-examen/que-es-el-nclex/",
+      "keyword": "plan de estudio nclex 4 semanas",
+      "intencion": "informacional-comercial (plan intensivo para candidatos con ATT vigente y fecha de examen proxima)",
+      "origen": "canibalizacion: reemplaza /estrategias-examen/plan-de-estudio-nclex/ (merged 2026-10-18)",
+      "por_que": "El item original duplicaba el plan de 8 semanas ya publicado. El angulo de 4 semanas cubre la variante no servida (candidatos con el ATT de 90 dias en mano que necesitan un plan corto), sin competir con el de 8 semanas: ambos se enlazan entre si.",
+      "angulo": "Plan intensivo de 4 semanas (4h/dia) para candidatos con ATT vigente: diagnostico CAT el dia 1, bloques por categoria del test plan, 2 simuladores por semana, Readiness Assessment final antes de agendar. Enlaza al plan de 8 semanas para quien tiene mas tiempo. Bilingue, foco NGN/CAT. Publicar 22-oct (jueves).",
       "estado": "planned",
       "fecha": "",
       "volumen": "verificar volumen en la tarea de escritura (DataForSEO keyword_suggestions)"
     },
     {
-      "url": "/cuanto-cuesta-el-nclex/",
+      "url": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
       "tipo": "refresh",
       "cluster": "Guia NCLEX",
       "pilar": "/estrategias-examen/que-es-el-nclex/",
@@ -73,10 +89,11 @@
       "intencion": "informacional con presupuesto (decide si puede costear todo el proceso)",
       "origen": "competencia",
       "por_que": "Tarifa NCLEX sube de USD 200 a USD 350 el 1-feb-2027 (NCSBN oficial, fuente ncsbn.org/news/nclex-fee-changes-feb1); UWorld, ReMar, NCLEX High Yield, NCLEX Crusade y ProTalentUS ya publican sobre esto y sus videos dominan el carrusel de 'cuanto cuesta el nclex' (SERP es-US 16-10-2026). Nuestra pagina no aparece en el SERP. Publicar 22-oct (jueves).",
+      "nota_canibalizacion": "2026-10-18: el refresh apuntaba a una URL raiz nueva /cuanto-cuesta-el-nclex/ que habria duplicado la intencion de la pagina existente /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/ (GSC 28d 2026-09-20 a 2026-10-17: 81 impresiones, pos 15, historial de ranking). Ganadora: la existente. Refresh aplicado sobre ella; NO crear pagina raiz.",
       "angulo": "Tabla de costos totales 2026 vs 2027 (tarifa Pearson VUE + fee internacional + fee del Board del estado) con fuente y fecha NCSBN, aviso de ahorro por registrarse antes del 1-feb-2027, FAQ y contraste de valor con suscripcion USD 19/mes. Sin comparaciones de precios de competidores.",
       "estado": "planned",
       "fecha": "",
-      "volumen": "GSC: 81 impresiones, pos 15 (sept 2026)"
+      "volumen": "GSC: 81 impresiones, pos 15 (28d 2026-09-20 a 2026-10-17)"
     },
     {
       "url": "/preparacion-nclex/preguntas-practica/",
