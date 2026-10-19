@@ -42,7 +42,8 @@ Fuente unica. Cada tarea mensual la lee primero. El Optimizador (dia 28) la mant
 - Dia 16: SEO MENSUAL 5 - Linkbuilding y menciones.
 - Dia 24: SEO MENSUAL 6 - Auditoria y reporte.
 - Dia 28: OPTIMIZADOR MENSUAL - revisa y mejora las demas.
-- Fuera de este sistema (no se tocan): tarea de anuncios del sabado, tarea de retencion de los lunes, campana de activacion en Instantly.
+- Dia 2: VENTAS MENSUAL (app, embudo, Instantly, retencion) y dia 5: ADS MENSUAL (Meta y Google). Estas dos leen la memoria 'perfil de comprador' y la actualizan; el SEO tambien debe leerla (que paginas y palabras traen registros y compradores) antes de priorizar el dia 1, 3 y 8.
+- Limites para no solaparse: la web app (rnnclex-api) y Instantly de activacion son de VENTAS; los anuncios son de ADS; el sitio Astro es SEO. Las campanas administradas por Ryze las revisa su propio agente de campana: ni VENTAS ni SEO tocan presupuestos ni anuncios.
 
 ## Cobertura: requisito del dueno -> tarea responsable
 - Lote inicial de 30 articulos firmados por una persona real; titulos, metas, H2/H3, FAQ, enlaces internos a la pagina objetivo -> Publicacion (2).
