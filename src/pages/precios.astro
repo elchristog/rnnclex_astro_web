@@ -32,6 +32,10 @@ const faqs = [
     question: "¿El NCLEX se presenta en español?",
     answer: "No. El NCLEX-RN se presenta en inglés. Por eso la plataforma es bilingüe: estudias y practicas en inglés y en español.",
   },
+  {
+    question: "¿Puedo probar antes de pagar?",
+    answer: "Sí. Con una cuenta gratuita accedes a 2 módulos introductorios y 2 competencias grupales, sin límite de tiempo y sin pagar.",
+  },
 ];
 ---
 
@@ -69,7 +73,14 @@ const faqs = [
         >
           Empezar por USD {site.offer.price}/mes
         </a>
-        <p class="mt-4 text-xs text-slate-500 text-center">Entras a la plataforma, inicias sesión y pagas de forma segura con Stripe. Cancela cuando quieras.</p>
+        <p class="mt-4 text-sm font-semibold text-slate-700 text-center">Cancela cuando quieras.</p>
+        <p class="mt-1 text-xs text-slate-500 text-center">Entras a la plataforma, inicias sesión y pagas de forma segura con Stripe.</p>
+        <a
+          href="/prueba-gratis/"
+          class="mt-5 block border-2 border-[#0e497c] text-[#0e497c] hover:bg-[#eaf3fb] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#003388] font-bold min-h-[48px] py-3 px-6 rounded-xl text-center transition"
+        >
+          ¿Aún no estás seguro? Prueba gratis primero
+        </a>
       </div>
 
       <p class="mt-8 text-center text-sm text-slate-600">
@@ -108,7 +119,7 @@ const faqs = [
       >
         Empezar por USD {site.offer.price}/mes
       </a>
-      <p class="mt-4 text-xs text-blue-200">Pago seguro con Stripe dentro de la plataforma.</p>
+      <p class="mt-4 text-xs text-blue-200">Pago seguro con Stripe dentro de la plataforma. Cancela cuando quieras.</p>
     </div>
   </section>
 </BaseLayout>
