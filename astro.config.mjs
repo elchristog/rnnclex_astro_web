@@ -28,6 +28,12 @@ export default defineConfig({
   build: {
     inlineStylesheets: 'always'
   },
+  // 404 de WordPress con impresiones en GSC (auditoria 2026-10-24, ver seo/redirects-log.json):
+  // Astro genera paginas HTML con redireccion y canonical, no 301 reales.
+  redirects: {
+    '/author/user/': '/blog/',
+    '/author/user/page/2/': '/blog/',
+  },
   vite: {
     plugins: [tailwindcss()],
   },
