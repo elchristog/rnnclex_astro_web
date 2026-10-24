@@ -23,6 +23,39 @@
       "evaluar_el": "2026-11-14"
     }
   ],
+  "indexation": [
+    {
+      "fecha": "2026-10-24",
+      "tarea": "Auditoria y reporte (dia 24, Ryze)",
+      "metodo": "inspectUrl de GSC (el contador 'indexed' del sitemap en GSC no es fiable: mostro 0 de 102)",
+      "resumen": "21/21 URLs inspeccionadas: PASS (Submitted and indexed), canonical de Google = declarado en todas, sin noindex, robots ALLOWED. Marcado enriquecido Breadcrumbs detectado en las paginas con FAQ.",
+      "urls": [
+        {"url": "/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-20"},
+        {"url": "/examen-nclex/fechas/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-09"},
+        {"url": "/examen-nclex/", "veredicto": "PASS", "ultimo_rastreo": "2026-09-25"},
+        {"url": "/examen-nclex/requisitos/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-19"},
+        {"url": "/examen-nclex/requisitos/california/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-20"},
+        {"url": "/examen-nclex/inscripcion/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-14"},
+        {"url": "/preparacion-nclex/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-16"},
+        {"url": "/preparacion-nclex/preguntas-practica/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-20"},
+        {"url": "/preparacion-nclex/simuladores-examen/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-14"},
+        {"url": "/preparacion-nclex/simuladores-examen/readiness-assessment/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-20"},
+        {"url": "/proceso-licencia-homologacion/cgfns/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-15"},
+        {"url": "/proceso-licencia-homologacion/que-es-visascreen-cgfns/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-15"},
+        {"url": "/proceso-licencia-homologacion/cvs-new-york-enfermeria/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-15"},
+        {"url": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-16"},
+        {"url": "/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/", "veredicto": "PASS", "ultimo_rastreo": "2026-09-24"},
+        {"url": "/estrategias-examen/que-es-el-nclex/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-13"},
+        {"url": "/estrategias-examen/cuanto-dura-el-nclex/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-16"},
+        {"url": "/precios/", "veredicto": "PASS", "ultimo_rastreo": "2026-09-24"},
+        {"url": "/prueba-gratis/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-15"},
+        {"url": "/recursos-nclex/libros-y-guias/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-12"},
+        {"url": "/faq/", "veredicto": "PASS", "ultimo_rastreo": "2026-10-14"}
+      ],
+      "articulos_octubre": "Los 5 articulos publicados este mes (que-es-el-nclex 12-oct, cgfns 14-oct, visascreen y cvs-new-york 15-oct, cuanto-dura 15-oct) ya estan indexados: ninguno supera los 7 dias sin indexar, no aplica diagnostico ni ampliacion.",
+      "corregido_hoy": "Redirects HTML de /author/user/ y /author/user/page/2/ hacia /blog/ (PR SEO 404, ver seo/redirects-log.json); se verificara su rastreo en la proxima auditoria."
+    }
+  ],
   "pendientes": [
     {
       "url": "/proceso-licencia-homologacion/que-es-visascreen-cgfns/",
@@ -78,7 +111,8 @@
       "angulo": "Plan intensivo de 4 semanas (4h/dia) para candidatos con ATT vigente: diagnostico CAT el dia 1, bloques por categoria del test plan, 2 simuladores por semana, Readiness Assessment final antes de agendar. Enlaza al plan de 8 semanas para quien tiene mas tiempo. Bilingue, foco NGN/CAT. Publicar 22-oct (jueves).",
       "estado": "planned",
       "fecha": "",
-      "volumen": "verificar volumen en la tarea de escritura (DataForSEO keyword_suggestions)"
+      "volumen": "verificar volumen en la tarea de escritura (DataForSEO keyword_suggestions)",
+      "auditoria_2026-10-24": "Vencido (publicar 22-oct): la URL devuelve 404 en vivo; la tarea de Publicacion del 22-oct no lo escribio. Pendiente para la proxima tarea de Publicacion."
     },
     {
       "url": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
@@ -93,7 +127,8 @@
       "angulo": "Tabla de costos totales 2026 vs 2027 (tarifa Pearson VUE + fee internacional + fee del Board del estado) con fuente y fecha NCSBN, aviso de ahorro por registrarse antes del 1-feb-2027, FAQ y contraste de valor con suscripcion USD 19/mes. Sin comparaciones de precios de competidores.",
       "estado": "planned",
       "fecha": "",
-      "volumen": "GSC: 81 impresiones, pos 15 (28d 2026-09-20 a 2026-10-17)"
+      "volumen": "GSC: 81 impresiones, pos 15 (28d 2026-09-20 a 2026-10-17)",
+      "auditoria_2026-10-24": "Vencido (publicar 22-oct): la pagina vive y esta indexada (PASS 16-oct) pero sigue mostrando el contenido anterior (sin aviso NCSBN 2027); el refresh no se ha aplicado. Pendiente para la proxima tarea de Publicacion."
     },
     {
       "url": "/preparacion-nclex/preguntas-practica/",
