@@ -1,0 +1,21 @@
+{
+  "_nota": "Log de redirecciones 404 de rnnclex.com (Ryze). Las redirecciones de Astro son paginas HTML con redirect y canonical, NO 301 reales: la regla 301 en Cloudflare la crea el dueno (mejora opcional).",
+  "redirects": [
+    {
+      "desde": "/author/user/",
+      "hacia": "/blog/",
+      "tipo": "HTML (Astro redirects en astro.config.mjs)",
+      "301_cloudflare": "pendiente (dueno)",
+      "motivo": "404 de WordPress con impresiones en GSC: 8 impresiones, pos 8.5, 0 clics (90 dias, 2026-07-25 a 2026-10-23)",
+      "fecha": "2026-10-24"
+    },
+    {
+      "desde": "/author/user/page/2/",
+      "hacia": "/blog/",
+      "tipo": "HTML (Astro redirects en astro.config.mjs)",
+      "301_cloudflare": "pendiente (dueno)",
+      "motivo": "404 de WordPress con impresiones en GSC: 1 impresion, pos 36, 0 clics (90 dias, 2026-07-25 a 2026-10-23)",
+      "fecha": "2026-10-24"
+    }
+  ]
+}
