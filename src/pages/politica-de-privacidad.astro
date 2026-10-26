@@ -1,0 +1,142 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+
+const email = "hello@rnnclex.com";
+
+const sections = [
+  {
+    title: "1. Quién es responsable de tus datos",
+    paragraphs: [
+      "rnnclex.com es operada por Enfermera en Estados Unidos LLC, una compañía de responsabilidad limitada de Georgia, EE. UU. («nosotros»). Esta política explica qué datos recopilamos cuando visitas el sitio web o usas la plataforma de preparación NCLEX, para qué los usamos y qué derechos tienes.",
+      `Si tienes preguntas sobre tus datos, escríbenos a ${email}.`,
+    ],
+  },
+  {
+    title: "2. Qué datos recopilamos",
+    paragraphs: ["Recopilamos solo lo necesario para ofrecerte el servicio:"],
+    list: [
+      "Datos de la cuenta: nombre y correo electrónico. Si inicias sesión con Google, recibimos de Google tu nombre, correo y foto de perfil; nunca recibimos tu contraseña de Google.",
+      "Datos de uso de la plataforma: módulos y pruebas que abres o completas, respuestas, puntajes, intentos, fechas y horas de acceso y avance. Los usamos para mostrarte tu progreso y mejorar el servicio.",
+      "Datos de pago: cuando te suscribes, el pago lo procesa Stripe. Nosotros no guardamos el número completo de tu tarjeta; recibimos de Stripe el estado de tu suscripción, el monto, la fecha y un identificador de cliente.",
+      "Datos de navegación: páginas que visitas en rnnclex.com, de dónde vienes, tipo de dispositivo y navegador, país aproximado y dirección IP, recopilados con cookies y tecnologías similares (ver sección 5).",
+      "Mensajes y reportes: lo que nos escribes por correo o mediante el botón «Reportar un problema» de la plataforma.",
+    ],
+  },
+  {
+    title: "3. Para qué usamos tus datos",
+    list: [
+      "Crear y administrar tu cuenta y darte acceso al contenido.",
+      "Cobrar tu suscripción, procesar cancelaciones y reembolsos.",
+      "Mostrar tu avance y ofrecerte una experiencia de estudio guiada.",
+      "Enviarte correos sobre tu cuenta y tu estudio, como recordatorios de lo que te falta por completar y avisos importantes. Puedes pedir dejar de recibir correos de seguimiento en cualquier momento.",
+      "Medir y mejorar el sitio, la plataforma y nuestros anuncios.",
+      "Atender tus solicitudes y problemas reportados.",
+      "Prevenir fraude, uso indebido y cuentas compartidas.",
+      "Cumplir obligaciones legales.",
+    ],
+  },
+  {
+    title: "4. Con quién compartimos tus datos",
+    paragraphs: [
+      "No vendemos tus datos personales. Los compartimos solo con proveedores que nos ayudan a operar el servicio, y solo lo necesario para su función:",
+    ],
+    list: [
+      "Stripe: procesamiento de pagos y suscripciones.",
+      "Google: inicio de sesión con Google, Google Analytics (medición del sitio y de la plataforma), Google Ads (medición de anuncios) y la infraestructura de Google Cloud donde se aloja la plataforma y se almacenan los datos.",
+      "Meta (Facebook e Instagram): medición y optimización de anuncios, mediante el píxel de Meta y la API de conversiones (ver sección 5).",
+      "Proveedor de correo (Instantly): envío de los correos de seguimiento que te escribimos desde hello@rnnclex.com.",
+      "Cloudflare: red de entrega y seguridad del sitio web.",
+      "Autoridades: cuando la ley lo exija.",
+    ],
+    after:
+      "Algunos de estos proveedores están en Estados Unidos u otros países; al usar el servicio entiendes que tus datos pueden tratarse allí.",
+  },
+  {
+    title: "5. Cookies, analítica y publicidad",
+    paragraphs: [
+      "Usamos cookies y tecnologías similares para que el sitio funcione, para medir cómo se usa y para saber qué anuncios funcionan.",
+      "Google Analytics mide visitas y eventos del sitio, como ver precios o crear una cuenta. El píxel de Meta y Google Ads registran, por ejemplo, que una persona que vio un anuncio creó una cuenta o se suscribió. Para esto, cuando creas una cuenta o te suscribes, nuestro servidor también puede enviar a Meta y a Google ese evento (por ejemplo, tu correo cifrado con un método irreversible) para asociarlo a un anuncio y medir su resultado.",
+      "Puedes bloquear o borrar cookies en la configuración de tu navegador, aunque algunas funciones podrían dejar de funcionar. También puedes limitar los anuncios personalizados desde la configuración de anuncios de tu cuenta de Google y de Meta, y usar herramientas como el complemento de inhabilitación de Google Analytics.",
+    ],
+  },
+  {
+    title: "6. Cuánto tiempo guardamos tus datos",
+    paragraphs: [
+      "Conservamos los datos de tu cuenta mientras esté activa y durante el tiempo necesario para cumplir obligaciones legales, contables y resolver disputas. Si pides que eliminemos tu cuenta, borraremos o anonimizaremos tus datos personales, salvo los que debamos conservar por ley (por ejemplo, registros de pagos).",
+    ],
+  },
+  {
+    title: "7. Seguridad",
+    paragraphs: [
+      "Usamos conexiones cifradas (HTTPS) y proveedores de infraestructura reconocidos para proteger tus datos. Ningún sistema es 100 % seguro, por lo que no podemos garantizar una seguridad absoluta. Cuida tu cuenta y no compartas tu acceso.",
+    ],
+  },
+  {
+    title: "8. Tus derechos",
+    paragraphs: [
+      `Puedes pedirnos acceso a tus datos, corregirlos, eliminarlos, limitar su uso o recibir una copia. También puedes retirar tu consentimiento y dejar de recibir correos de seguimiento. Escríbenos a ${email} desde el correo de tu cuenta y te respondemos en un plazo razonable. Si vives en California, la Unión Europea u otra región con leyes de protección de datos, tienes además los derechos que esas leyes te otorgan, y no te discriminaremos por ejercerlos.`,
+    ],
+  },
+  {
+    title: "9. Menores de edad",
+    paragraphs: [
+      "El servicio es para mayores de 18 años. No recopilamos a sabiendas datos de menores. Si crees que un menor nos dio sus datos, escríbenos y los eliminaremos.",
+    ],
+  },
+  {
+    title: "10. Enlaces a otros sitios",
+    paragraphs: [
+      "Nuestro sitio puede enlazar a sitios de terceros, como las juntas de enfermería, Pearson VUE y redes sociales. No controlamos sus prácticas de privacidad; te recomendamos leer las suyas.",
+    ],
+  },
+  {
+    title: "11. Cambios en esta política",
+    paragraphs: [
+      "Podemos actualizar esta política. Publicaremos la versión nueva en esta página con su fecha, y si el cambio es importante te avisaremos por correo o dentro de la plataforma.",
+    ],
+  },
+  {
+    title: "12. Contacto",
+    paragraphs: [
+      `Para cualquier consulta sobre privacidad, escríbenos a ${email}.`,
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title="Política de Privacidad"
+  description="Política de privacidad de rnnclex.com: qué datos recopilamos, cómo los usamos, con quién los compartimos y cómo ejercer tus derechos."
+  canonical="https://rnnclex.com/politica-de-privacidad/"
+>
+  <section class="py-16 bg-[#eff4f7]">
+    <div class="max-w-screen-xl mx-auto px-4 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold text-[#2b2c27] mb-4">
+        Política de Privacidad
+      </h1>
+      <p class="text-sm text-gray-500">Última actualización: 26 de octubre de 2026</p>
+    </div>
+  </section>
+
+  <section class="py-20 bg-white">
+    <div class="max-w-screen-md mx-auto px-4 space-y-8 text-gray-700 leading-relaxed text-sm">
+      {
+        sections.map((s) => (
+          <div>
+            <h2 class="text-xl font-bold text-[#0e497c] mb-3">{s.title}</h2>
+            {s.paragraphs && s.paragraphs.map((p) => <p class="mb-3">{p}</p>)}
+            {s.list && (
+              <ul class="list-disc pl-6 space-y-1 mb-3">
+                {s.list.map((li) => <li>{li}</li>)}
+              </ul>
+            )}
+            {s.after && <p>{s.after}</p>}
+          </div>
+        ))
+      }
+      <p class="pt-4 border-t border-gray-200">
+        Consulta también nuestros <a href="/terminos-y-condiciones/" class="text-[#0e497c] font-semibold underline">Términos y Condiciones</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
