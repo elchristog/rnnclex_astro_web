@@ -1,10 +1,130 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import { site } from "@/data/site.mjs";
+
+const price = site.offer.price;
+const email = "hello@rnnclex.com";
+
+const sections = [
+  {
+    title: "1. Quiénes somos y aceptación",
+    paragraphs: [
+      "rnnclex.com es una plataforma de preparación para el examen NCLEX-RN, bilingüe (inglés y español), operada por Enfermera en Estados Unidos LLC, una compañía de responsabilidad limitada de Georgia, EE. UU. (en adelante, «nosotros»).",
+      "Al crear una cuenta, comprar una suscripción o usar la plataforma aceptas estos Términos y Condiciones. Si no estás de acuerdo, no uses el servicio.",
+      "Debes tener al menos 18 años para crear una cuenta y comprar una suscripción.",
+    ],
+  },
+  {
+    title: "2. Qué ofrecemos y qué no",
+    paragraphs: [
+      "Ofrecemos material de estudio y práctica: banco de preguntas, simuladores adaptativos (CAT), preguntas estilo NCLEX Next Generation (NGN), guías de estudio y evaluaciones de preparación (Readiness Assessment).",
+      "No garantizamos que apruebes el NCLEX-RN ni ningún otro examen. Tu resultado depende de tu estudio, tu formación y otros factores fuera de nuestro control. Los puntajes y las probabilidades que muestra la plataforma son una herramienta educativa para evaluar tu avance y no predicen tu resultado en el examen oficial.",
+      "rnnclex.com no está afiliado, patrocinado ni respaldado por el National Council of State Boards of Nursing (NCSBN), por Pearson VUE ni por ninguna junta estatal de enfermería. NCLEX® y NCLEX-RN® son marcas registradas del NCSBN. Nuestros contenidos son material educativo independiente y no constituyen asesoría médica, legal ni de licenciamiento. Los requisitos de cada estado cambian: verifícalos siempre en la junta de enfermería correspondiente.",
+    ],
+  },
+  {
+    title: "3. Cuenta de usuario",
+    paragraphs: [
+      "Para usar la plataforma debes crear una cuenta con información verdadera y actualizada. Eres responsable de proteger tu acceso y de lo que ocurra con tu cuenta.",
+      "La cuenta es personal e intransferible. No puedes compartir tus credenciales, vender o ceder tu acceso ni permitir que otra persona lo use. Podemos suspender o cerrar cuentas con uso simultáneo o compartido, sin reembolso.",
+    ],
+  },
+  {
+    title: "4. Prueba gratis",
+    paragraphs: [
+      "Puedes crear una cuenta gratuita para acceder a los módulos introductorios y a las competencias grupales que ofrezcamos como prueba, sin pagar y sin límite de tiempo. Podemos cambiar el contenido incluido en la prueba gratuita. La prueba gratis no se convierte en un cobro automático: solo pagas si decides suscribirte.",
+    ],
+  },
+  {
+    title: "5. Suscripción, pagos y renovación",
+    paragraphs: [
+      `El plan completo cuesta USD ${price} al mes. Se cobra por adelantado y se renueva automáticamente cada mes hasta que lo canceles.`,
+      "Los pagos se procesan de forma segura a través de Stripe. No almacenamos los datos completos de tu tarjeta. Si un cobro falla, podemos suspender el acceso al contenido de pago hasta que se regularice.",
+      "Podemos cambiar el precio. Te avisaremos con al menos 30 días de anticipación y el nuevo precio aplicará desde tu siguiente renovación; si no estás de acuerdo, puedes cancelar antes.",
+    ],
+  },
+  {
+    title: "6. Cancelación y reembolsos",
+    paragraphs: [
+      `Puedes cancelar tu suscripción en cualquier momento desde la plataforma o escribiéndonos a ${email}. La cancelación detiene los cobros futuros y conservas el acceso hasta el final del período ya pagado. No se prorratean ni se devuelven los días no usados de un mes ya cobrado.`,
+      `Reembolso: si lo solicitas dentro de las 48 horas siguientes a tu primer pago y no has usado el contenido de pago (banco de preguntas, simuladores, evaluaciones y guías), te devolvemos el 100 % de lo pagado. Escríbenos a ${email} con el correo de tu cuenta. Fuera de ese plazo, o si ya usaste el contenido, los pagos no son reembolsables, salvo que la ley aplicable lo exija o que el cobro haya sido un error nuestro (por ejemplo, un cobro duplicado), caso en el que lo corregimos.`,
+      "Los reembolsos se devuelven al mismo medio de pago y pueden tardar varios días hábiles en reflejarse según tu banco.",
+    ],
+  },
+  {
+    title: "7. Uso permitido y prohibiciones",
+    paragraphs: [
+      "El servicio es solo para tu estudio personal y no comercial. Queda prohibido:",
+    ],
+    list: [
+      "compartir, vender, alquilar o transferir tu acceso;",
+      "copiar, capturar, grabar, descargar, imprimir o redistribuir preguntas, explicaciones, guías u otro contenido de la plataforma, salvo lo que la propia plataforma permita;",
+      "usar programas automatizados, hacer ingeniería inversa o intentar acceder a partes del sistema que no te corresponden;",
+      "usar la plataforma para crear un producto o servicio competidor.",
+    ],
+    after: "Si incumples estas reglas podemos suspender o cerrar tu cuenta sin reembolso y reclamar los daños que correspondan.",
+  },
+  {
+    title: "8. Propiedad intelectual",
+    paragraphs: [
+      "Todo el contenido de la plataforma, incluidos el banco de preguntas, los simuladores, las guías, los textos, los diseños, el software y las marcas, pertenece a Enfermera en Estados Unidos LLC o a sus licenciantes y está protegido por las leyes de derechos de autor y de marcas. Al pagar una suscripción recibes una licencia limitada, personal, no exclusiva e intransferible para usarlo mientras esté vigente. No adquieres ningún otro derecho.",
+      `Si crees que algo de la plataforma infringe tus derechos de autor, escríbenos a ${email} con la descripción del contenido, su ubicación y tus datos de contacto, y lo revisaremos.`,
+    ],
+  },
+  {
+    title: "9. Disponibilidad y cambios en el servicio",
+    paragraphs: [
+      "Hacemos lo posible por mantener la plataforma disponible, pero puede haber interrupciones por mantenimiento o por causas ajenas a nosotros. Podemos mejorar, cambiar o retirar funciones y contenido; si dejamos de ofrecer el servicio completo, solo cobraremos el tiempo ya transcurrido.",
+    ],
+  },
+  {
+    title: "10. Exclusión de garantías",
+    paragraphs: [
+      "El servicio se ofrece «tal cual» y «según disponibilidad». En la máxima medida que permita la ley, no damos garantías expresas ni implícitas sobre que el servicio no tendrá errores, será ininterrumpido o cumplirá un resultado determinado, incluido aprobar el examen.",
+    ],
+  },
+  {
+    title: "11. Límite de responsabilidad",
+    paragraphs: [
+      "En la máxima medida que permita la ley, no somos responsables por daños indirectos, incidentales, especiales o consecuentes, como pérdida de ingresos, de oportunidades laborales, de tarifas de examen o de licencias. Nuestra responsabilidad total frente a ti por cualquier reclamo relacionado con el servicio no excederá lo que hayas pagado en los 12 meses anteriores al reclamo, o USD 100 si no has pagado nada. Algunas jurisdicciones no permiten ciertas limitaciones, por lo que parte de lo anterior podría no aplicarte.",
+    ],
+  },
+  {
+    title: "12. Terminación",
+    paragraphs: [
+      "Puedes dejar de usar el servicio y cancelar tu suscripción cuando quieras. Podemos suspender o cerrar tu cuenta si incumples estos Términos o si detectamos fraude o un uso indebido. Al cerrarse la cuenta termina tu derecho de acceso al contenido.",
+    ],
+  },
+  {
+    title: "13. Ley aplicable y resolución de disputas",
+    paragraphs: [
+      "Estos Términos se rigen por las leyes del estado de Georgia, EE. UU., sin aplicar sus reglas sobre conflicto de leyes. Antes de iniciar cualquier reclamo, te pedimos que nos escribas para intentar resolverlo de forma amistosa. Si no se resuelve, las disputas se someterán a los tribunales estatales o federales competentes del estado de Georgia. Si eres consumidor, también conservas los derechos obligatorios que te otorgue la ley de tu lugar de residencia.",
+    ],
+  },
+  {
+    title: "14. Cambios en estos Términos",
+    paragraphs: [
+      "Podemos actualizar estos Términos. Si el cambio es importante, te avisaremos con al menos 30 días de anticipación por correo o dentro de la plataforma. Si sigues usando el servicio después de que el cambio entre en vigor, lo aceptas; si no estás de acuerdo, puedes cancelar antes.",
+    ],
+  },
+  {
+    title: "15. Otras disposiciones",
+    paragraphs: [
+      "Si alguna parte de estos Términos resulta inválida, el resto sigue vigente. No ejercer un derecho no significa renunciar a él. Estos Términos son el acuerdo completo entre tú y nosotros sobre el uso del servicio. Si existe una versión en otro idioma, la versión en español es la que se usa para interpretarlos.",
+    ],
+  },
+  {
+    title: "16. Contacto",
+    paragraphs: [
+      `Para preguntas sobre estos Términos, tu suscripción o un reembolso, escríbenos a ${email}.`,
+    ],
+  },
+];
 ---
 
 <BaseLayout
   title="Términos y Condiciones"
-  description="Conoce los términos y condiciones de uso de la plataforma rnnclex.com de Enfermera en Estados Unidos LLC."
+  description="Términos y condiciones de rnnclex.com: suscripción de USD 19 al mes, cancelación, reembolso en 48 horas, uso de la cuenta y alcance del servicio."
   canonical="https://rnnclex.com/terminos-y-condiciones/"
 >
   <section class="py-16 bg-[#eff4f7]">
@@ -12,26 +132,26 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
       <h1 class="text-4xl md:text-5xl font-bold text-[#2b2c27] mb-4">
         Términos y Condiciones
       </h1>
-      <p class="text-sm text-gray-500">Última actualización: 2026</p>
+      <p class="text-sm text-gray-500">Última actualización: 26 de octubre de 2026</p>
     </div>
   </section>
 
   <section class="py-20 bg-white">
     <div class="max-w-screen-md mx-auto px-4 space-y-8 text-gray-700 leading-relaxed text-sm">
-      <div>
-        <h2 class="text-xl font-bold text-[#0e497c] mb-3">1. Aspectos Generales</h2>
-        <p>Bienvenido a rnnclex.com, una plataforma operada por Enfermera en Estados Unidos LLC. Al acceder o utilizar nuestros servicios, aceptas cumplir con estos Términos y Condiciones.</p>
-      </div>
-
-      <div>
-        <h2 class="text-xl font-bold text-[#0e497c] mb-3">2. Propiedad Intelectual</h2>
-        <p>Todo el contenido disponible en la plataforma, incluidos bancos de preguntas, simuladores, marcas y diseños, es propiedad exclusiva de Enfermera en Estados Unidos LLC y está protegido por las leyes internacionales de derechos de autor.</p>
-      </div>
-
-      <div>
-        <h2 class="text-xl font-bold text-[#0e497c] mb-3">3. Uso de la Cuenta</h2>
-        <p>Las cuentas de usuario son personales e transferibles. Queda estrictamente prohibida la compartición de credenciales de acceso. Nos reservamos el derecho de suspender cualquier cuenta que detecte uso simultáneo indebido.</p>
-      </div>
+      {
+        sections.map((s) => (
+          <div>
+            <h2 class="text-xl font-bold text-[#0e497c] mb-3">{s.title}</h2>
+            {s.paragraphs.map((p) => <p class="mb-3">{p}</p>)}
+            {s.list && (
+              <ul class="list-disc pl-6 space-y-1 mb-3">
+                {s.list.map((li) => <li>{li}</li>)}
+              </ul>
+            )}
+            {s.after && <p>{s.after}</p>}
+          </div>
+        ))
+      }
     </div>
   </section>
 </BaseLayout>
