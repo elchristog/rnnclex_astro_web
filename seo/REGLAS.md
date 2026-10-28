@@ -46,7 +46,7 @@ Fuente unica. Cada tarea mensual la lee primero. El Optimizador (dia 28) la mant
 - Limites para no solaparse: la web app (rnnclex-api) y Instantly de activacion son de VENTAS; los anuncios son de ADS; el sitio Astro es SEO. Las campanas administradas por Ryze las revisa su propio agente de campana: ni VENTAS ni SEO tocan presupuestos ni anuncios.
 
 ## Cobertura: requisito del dueno -> tarea responsable
-- Lote inicial de 30 articulos firmados por una persona real; titulos, metas, H2/H3, FAQ, enlaces internos a la pagina objetivo -> Publicacion (2).
+- Hasta 4 articulos nuevos al mes (Politica de contenido, 2026-10-21, prevalece: resultado en espanol debil, datos verificables que cambian y lleva a la prueba gratis o /precios/), firmados por una persona real; titulos, metas, H2/H3, FAQ, enlaces internos a la pagina objetivo -> Publicacion (2).
 - Intercambio de enlaces (1 por cada 3 articulos) -> Publicacion (2).
 - Canibalizacion -> Publicacion (2) antes de escribir y Optimizacion (3).
 - Clusteres tematicos -> Investigacion (1) detecta; Publicacion (2) crea el pilar.
