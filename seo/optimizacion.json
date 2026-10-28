@@ -1,0 +1,25 @@
+{
+  "fecha": "2026-10-28",
+  "tarea": "OPTIMIZADOR MENSUAL (dia 28), primera ejecucion",
+  "hallazgos": [
+    "Inventario: 9 tareas mensuales (SEO 1-6, VENTAS, ADS, Optimizador); no queda ninguna semanal ni diaria: el set semanal viejo se elimino el 18-oct al crear el mensual.",
+    "Solo han corrido SEO 6 (24-oct, completed sin error) y esta; las demas corren por primera vez en noviembre, sin historial de fallos. Todas las corridas de pipeline del ultimo mes (50 registradas) terminaron completed, cero failed.",
+    "Mayor costo recurrente: los 3 agentes de campana administrada corren revision diaria (5-13 min por corrida) aunque las campanas estan ACTIVE, sin issues de politica y dentro de sus guardrails.",
+    "Prompt de ADS desactualizado en 3 datos: techo USD 16 (el cliente lo subio a USD 21 el 26-oct), compra directa descrita como 'DIFERIDA y no construida' (esta ACTIVE desde el 23-oct) y grupo USA de registro a USD 7/dia (real: USD 2/dia desde el 23-oct).",
+    "seo/REGLAS.md mantenia en Cobertura el 'lote inicial de 30 articulos'; la Politica de Contenido (21-oct) ya limita a maximo 4 articulos nuevos al mes: conflicto de reglas que haria a la tarea 2 sobrescribir la politica.",
+    "La memoria 'perfil de comprador' (cbdaa657) ya esta referenciada en VENTAS (la escribe) y ADS (la lee antes de decidir); el flujo de aprendizaje esta conectado.",
+    "Sin duplicados de consulta detectados entre tareas: VENTAS es la unica que llama /free-users; ADS tiene prohibido usarla; las tareas SEO 1-6 usan archivos seo/*.json como memoria compartida para no repetir GSC ni dataforseo.",
+    "Fronteras entre tareas ya explicitas en los prompts: VENTAS no toca anuncios, ADS no repite la revision de estado del agente de campana, SEO no toca app ni anuncios."
+  ],
+  "cambios": [
+    "ADS prompt (patch_schedule 22ff3dd7): techo global 16 -> 21; compra directa ACTIVA desde 23-oct (era 'no construida'); grupo USA USD 7,00 -> 2,00/dia; se agrego 'NO repitas la revision de estado que ya hace el agente de cada campana administrada' y el paso F queda limitado a los 2 anuncios de USA hacia /precios/.",
+    "Campana administrada 'compra directa' (daef7ae7): next_review_at 28-oct 17:30Z -> 02-nov 17:30Z (su fecha de veredicto); campana 'Reprobaste' (cd0548d6): 28-oct 12:00Z -> 02-nov 12:00Z. Ambas estables (ACTIVE, sin issues, gasto bajo el alerta de USD 16,45 sin registros), revision diaria pausada hasta el veredicto; la campana principal c5ae395f conserva su cadencia y veredicto del 2-nov.",
+    "seo/REGLAS.md: fila de Cobertura 'Lote inicial de 30 articulos' -> 'Hasta 4 articulos nuevos al mes' segun POLITICA-CONTENIDO.md, en un PR propio con este archivo."
+  ],
+  "ahorro_estimado": "Cerca de 8-10 corridas de agentes de campana evitadas hasta el 2-nov (2 campanas x ~4 dias x 5-13 min), aprox. 60-70% del costo de los agentes de campana en ese tramo y ~0,7% de las 9 tareas mensuales intactas; cobertura de Cobertura sin reduccion.",
+  "riesgos": [
+    "Si una campana administrada sufre un rechazo o caida de entrega antes del 2-nov, lo detectaria la tarea ADS del dia 5 o el propio veredicto, no una revision diaria (hasta 5 dias de reaccion).",
+    "SEO 1-5, VENTAS y ADS corren por primera vez en noviembre: ajustes finos (pasos sin salida 2 meses seguidos) solo seran posibles con datos del mes 2 en la corrida del 02-dic."
+  ],
+  "punto_humano": null
+}
