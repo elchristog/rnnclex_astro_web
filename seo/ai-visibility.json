@@ -1,0 +1,31 @@
+{
+  "_nota": "Visibilidad de rnnclex.com en IAs. Las mismas 10 consultas cada mes, en ChatGPT, Gemini y Google AI Overviews. Motor no disponible por API = 'no medido', nunca simular. Fecha de medición: 2026-11-01.",
+  "consultas": [
+    {"consulta": "como presentar el nclex en espanol", "chatgpt": "no medido", "gemini": "no citado — guías genéricas de presentación en español sin fuentes", "google_ai_overviews": "no medido"},
+    {"consulta": "cuanto cuesta el nclex", "chatgpt": "no medido", "gemini": "no citado — precios genéricos de registro y prep, sin fuentes concretas", "google_ai_overviews": "no medido"},
+    {"consulta": "que es el nclex", "chatgpt": "no medido", "gemini": "no citado — definición propia sin fuentes", "google_ai_overviews": "no medido"},
+    {"consulta": "requisitos nclex florida", "chatgpt": "no medido", "gemini": "no citado — pasos genéricos (Credenciales, ATT, Pearson VUE) sin citar rnnclex", "google_ai_overviews": "no medido"},
+    {"consulta": "que es cgfns", "chatgpt": "no medido", "gemini": "no citado — explicó CGFNS/TruMerit sin citar rnnclex", "google_ai_overviews": "no medido"},
+    {"consulta": "fechas del examen nclex", "chatgpt": "no medido", "gemini": "no citado — no hay fechas fijas; ATT 90 días; Pearson VUE; sin citar rnnclex", "google_ai_overviews": "no medido"},
+    {"consulta": "mejor plataforma nclex en espanol", "chatgpt": "no medido", "gemini": "no citado — recomendó UWorld, Kaplan y Hurst; afirmó que no hay plataformas completas en español. HUECO: la IA admite que falta oferta en español y rnnclex no aparece", "competidores": "NCLEX Crusade y ProTalentUS tampoco aparecieron", "google_ai_overviews": "no medido"},
+    {"consulta": "homologar titulo de enfermeria en EE.UU.", "chatgpt": "no medido", "gemini": "no citado — enumeró el proceso completo (CGFNS/TruMerit, TOEFL/IELTS, Board, NCLEX, visa) sin citar rnnclex", "google_ai_overviews": "no medido"},
+    {"consulta": "cuantas preguntas tiene el NCLEX NGN", "chatgpt": "no medido", "gemini": "no citado — 85-150 preguntas adaptativas (CAT); sin citar rnnclex", "google_ai_overviews": "no medido"},
+    {"consulta": "plan de estudio nclex 8 semanas", "chatgpt": "no medido", "gemini": "no citado — generó el plan completo con Kaplan, Saunders y UWorld como materiales; sin citar rnnclex", "google_ai_overviews": "no medido"}
+  ],
+  "competidores_visibles": {
+    "gemini": ["UWorld", "Kaplan", "Hurst", "Saunders", "Anki"],
+    "chatgpt": "no medido",
+    "google_ai_overviews": "no medido"
+  },
+  "fuentes_que_citan_las_ias": {
+    "gemini": "sin web_search: respuestas desde conocimiento del modelo (sin fuentes externas). La ruta para entrar es contenido citable con datos verificables y páginas de referencia oficiales (NCSBN, CGFNS, Pearson VUE).",
+    "chatgpt": "no medido",
+    "google_ai_overviews": "no medido"
+  },
+  "huecos_aprovechables": [
+    {"consulta": "mejor plataforma nclex en espanol", "hallazgo": "Gemini dice que no hay plataformas completas en español y recomienda UWorld/Kaplan/Hurst — rnnclex no existe para la IA", "accion": "item planned nuevo /proceso-licencia-homologacion/como-ser-enfermera-en-estados-unidos/ + refresh de /faq/ y del pilar /estrategias-examen/que-es-el-nclex/ en formato citable (datos NCSBN con fuente+fecha, tabla 85-150 preguntas con criterio de corte, tarifa 2027 con fuente+fecha)"},
+    {"consulta": "plan de estudio nclex 8 semanas", "hallazgo": "Gemini produce el plan completo con materiales de la competencia; rnnclex no aparece", "accion": "refresh de /estrategias-examen/plan-estudio-nclex-8-semanas/ con tabla semana a semana citable + Readiness Assessment como diagnóstico citable (1-nov-2026)"}
+  ],
+  "proximo_mes": "Re-medir las 10 consultas idénticas el 1-dic-2026; incluir ChatGPT si DataForSEO libera el endpoint (hoy cola); vigilar si UWorld lanza español (señal 1-nov: lanzó francés).",
+  "actualizado": "2026-11-01"
+}
