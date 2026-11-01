@@ -1,5 +1,11 @@
 {
-  "_nota": "Clusters tematicos de rnnclex.com. estado: planned | pilar_creado | completo. Volumenes de DataForSEO (Google US, idioma del keyword) y GSC (ventana 2026-09-16 a 2026-10-13) cuando se indican. Actualizado 2026-10-15 por Ryze (3 satelites nuevos publicados).",
+  "_nota": "Clusters tematicos de rnnclex.com. estado: planned | pilar_creado | completo. Volumenes de DataForSEO (Google US, idioma del keyword) y GSC (ventana 2026-09-16 a 2026-10-13) cuando se indican. Actualizado 2026-10-15 por Ryze (3 satelites nuevos publicados). 2026-11-01 (Ryze, dia 1 Investigacion): GSC re-leido con ventana 2026-10-04 a 2026-10-31 (28d) y cluster prioritario para el dia 3 marcado.",
+  "cluster_prioritario_dia_3": "Costos y fechas del examen",
+  "cluster_prioritario_motivo": "2 de las 7 palabras objetivo ('cuanto cuesta el nclex', 'fechas examen nclex'); GSC 28d 4-31 oct muestra 'fechas examen nclex' pos 6.5 con 155 imp y CTR 3.87% y 'cuanto cuesta el nclex' pos 15 con 81 imp - paginas con senal real y a un paso de top-10; el refresh de /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/ con la tarifa NCSBN 2027 (USD 200->350 el 1-feb-2027) es el item con mejor retorno por hora de la tarea de Publicacion; la competencia (videos de UWorld y reels de ProTalentUS) domina el SERP con contenido no-citable.",
+  "cluster_prioritario_items_dia_3": [
+    "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/ (refresh: tabla 2026 vs 2027 + aviso NCSBN)",
+    "/examen-nclex/fechas/ (evaluar el 2026-11-14: no re-editar antes)"
+  ],
   "clusters": [
     {
       "cluster": "Guia NCLEX completa (que es, formato, NGN, CAT, preguntas, resultados)",
@@ -55,8 +61,8 @@
         {"url": "/proceso-licencia-homologacion/como-obtener-att-nclex/", "estado": "live"}
       ],
       "estado": "planned",
-      "volumen_total": "2 de las 7 palabras objetivo ('cuanto cuesta el nclex', 'fechas examen nclex'); paginas de dinero ya publicadas sin pilar que las una",
-      "oportunidad": "Candidato a pilar proximo: una pagina 'Costos y fechas del NCLEX 2026' que navegue hacia las 4 paginas existentes. Espera a siguiente ejecucion para no duplicar esfuerzo con el cluster CGFNS (ATT compartido)."
+      "volumen_total": "2 de las 7 palabras objetivo ('cuanto cuesta el nclex', 'fechas examen nclex'); GSC 28d 4-31 oct: 'fechas examen nclex' 155 imp pos 6.5 CTR 3.87%, 'cuanto cuesta el nclex' 81 imp pos 15; paginas de dinero ya publicadas sin pilar que las una",
+      "oportunidad": "Candidato a pilar proximo: una pagina 'Costos y fechas del NCLEX 2026' que navegue hacia las 4 paginas existentes. PRIORIZADO PARA EL DIA 3 (1-nov-2026): aplicar el refresh de cuanto-cuesta con la tarifa NCSBN 2027 antes de construir el pilar."
     },
     {
       "cluster": "Preparacion y estudio (plan 8 semanas, banco de preguntas, simuladores, Readiness)",
