@@ -1,26 +1,25 @@
 {
   "updated_at": "2026-11-01",
-  "semrush_report": "FALTA INFORME DE SEMRUSH DE NOVIEMBRE 2026 — sin nuevos datos Semrush; los datos de este archivo provienen de DataForSEO (mediciones locales 1-nov-2026). Reintentar al recibir el CSV del mes.",
-  "currency_note": "CPC en USD, location 2840 (EE.UU.) salvo anotado; todo KD <= 45 y volumen >= 30 o tendencia positiva.",
+  "semrush_report": "FALTA INFORME DE SEMRUSH DE NOVIEMBRE 2026 — sin nuevos datos Semrush; los datos de este archivo provienen de DataForSEO (medición local 1-nov-2026). Reintentar al recibir el CSV del mes.",
+  "currency_note": "CPC en USD, location 2840 (EE.UU.) salvo anotado; filtro de la política: volumen >= 30 o tendencia, KD <= 45, intención útil para la suscripción.",
   "keywords": [
     {"keyword": "cgfns", "volume_us": 6600, "kd": 13, "cpc": 20.88, "trend": "-33% anual", "intent": "informacional", "page": "/estrategias-examen/cgfns-para-enfermeros/", "source": "dataforseo keyword_overview es 2840 2026-11-01"},
     {"keyword": "examen nclex", "volume_us": 22200, "kd": 36, "cpc": 5.72, "trend": "+23% anual", "intent": "informacional", "page": "/examen-nclex/", "source": "dataforseo keyword_overview es 2840 2026-11-01"},
-    {"keyword": "nclex rn", "volume_us": 6600, "kd": 48, "cpc": 7.61, "trend": "+23% mensual", "intent": "informacional", "page": "/examen-nclex/", "source": "dataforseo keyword_overview es 2840 2026-11-01", "note": "KD > 45: head term duro; objetivo long-tail complementario, no head directo."},
+    {"keyword": "nclex rn", "volume_us": 6600, "kd": 48, "cpc": 7.61, "trend": "+23% mensual", "intent": "informacional", "page": "/examen-nclex/", "source": "dataforseo keyword_overview es 2840 2026-11-01", "note": "KD 48 > 45: fuera del filtro directo; se ataca vía long-tail en /examen-nclex/."},
     {"keyword": "att nclex", "volume_us": 320, "kd": 26, "cpc": 12.34, "trend": "estable", "intent": "informacional (pre-examen)", "page": "/estrategias-examen/att-guia/", "source": "dataforseo keyword_overview es 2840 2026-11-01"},
     {"keyword": "nclex readiness assessment", "volume_us": 210, "kd": 3, "cpc": 4.67, "trend": "-35% anual", "intent": "informacional (decisión de suscripción)", "page": "/preparacion-nclex/simuladores-examen/readiness-assessment/", "source": "dataforseo keyword_overview es 2840 2026-11-01"},
-    {"keyword": "examen nclex en español pdf", "volume_us": 30, "kd": 14, "cpc": 1.40, "trend": "+200% trimestral", +200% "intent": "informacional (descarga)", "page": "/blog/", "source": "dataforseo ranked_keywords es 2840 2026-11-01", "note": "volumen bajo pero tendencia +200% q/q — candidato a refresh de /blog/ con lead magnet en español."},
-    {"keyword": "nclex que es", "volume_us": 50, "kd": 12, "cpc": 8.80, "trend": "+40% q/q", "intent": "informacional", "page": "/faq/", "source": "dataforseo ranked_keywords es 2840 2026-11-01"},
-    {"keyword": "requisitos nclex", "volume_us": 30, "kd": 26, "cpc": 12.34, "trend": "estable", "intent": "informacional (proceso)", "page": "/examen-nclex/requisitos/", "source": "datafix ranked_keywords es 2840 2026-11-01", "source": "dataforseo ranked_keywords es 2840 202-11-01", "note": "anchor del cluster Requisitos por estado (14 páginas)."}, 
+    {"keyword": "examen nclex en español pdf", "volume_us": 30, "kd": 14, "cpc": 1.4, "trend": "+200% trimestral", "intent": "informacional (descarga)", "page": "/blog/", "source": "dataforseo ranked_keywords es 2840 2026-11-01", "note": "tendencia +200% q/q: candidato a refresh de /blog/ con lead magnet PDF en español."},
+    {"keyword": "nclex que es", "volume_us": 50, "kd": 12, "cpc": 8.8, "trend": "+40% q/q", "intent": "informacional", "page": "/faq/", "source": "dataforseo ranked_keywords es 2840 2026-11-01"},
+    {"keyword": "requisitos nclex", "volume_us": 30, "kd": 26, "cpc": 12.34, "trend": "estable", "intent": "informacional (proceso)", "page": "/examen-nclex/requisitos/", "source": "dataforseo ranked_keywords es 2840 2026-11-01", "note": "anchor del cluster Requisitos por estado (14 páginas)."},
     {"keyword": "nclex massachusetts", "volume_us": 40, "kd": 12, "cpc": null, "trend": "-57% q/q", "intent": "navegacional", "page": "/examen-nclex/requisitos/massachusetts/", "source": "dataforseo ranked_keywords es 2840 2026-11-01"},
-    {"keyword": "nclex indiana", "volume_us": 0, "kd": 9, "cpc": null, "trend": "-50% q/q", "intent": "navegacional", "page": "/examen-nclex/re duplicado"}
+    {"keyword": "nclex indiana", "volume_us": 30, "kd": 9, "cpc": null, "trend": "-50% q/q", "intent": "navegacional", "page": "/examen-nclex/requisitos/indiana/", "source": "dataforseo ranked_keywords es 2840 2026-11-01"},
+    {"keyword": "como ser enfermera en estados unidos", "volume_us": 30, "kd": 45, "cpc": 17.86, "trend": "+200% trimestral", "intent": "informacional (proceso)", "page": "NUEVA (proceso-licencia-homologacion)", "source": "dataforseo keyword_overview es 2840 2026-11-01", "note": "candidato 'planned' — ProTalentUS acaba de entrar en top-100 con este término (pos 41-50)."},
+    {"keyword": "examen de enfermería en estados unidos", "volume_us": 30, "kd": 26, "cpc": 17.86, "trend": "+200% trimestral", "intent": "informacional (proceso)", "page": "NUEVA (proceso-licencia-homologacion)", "source": "dataforseo keyword_overview es 2840 2026-11-01", "note": "candidato 'planned' — mismo momento ProTalentUS."}
   ],
-  "cpc_note": "CPC alto en términos de proceso (12.34 att nclex, 20.88 cgfns) = intención comercial latente: cada clic orgánico en estos ahorra anuncios.",
-  "cpc_note": "CPC alto en términos de proceso (12.34 att nclex, 20.88 cgfns) (12.34 att nclex, 20.88 cgfns)",
-  "brand_share_note": "0 % de tráfico de marca; head terms 'examen nclex' 22.200/mes y 'nclex' 49.500/mes en EE.UU. en español e inglés mezclados.",
+  "cpc_note": "CPC alto en términos de proceso (12.34 att nclex, 20.88 cgfns, 17.86 homologación) = intención comercial latente: cada clic orgánico en estos ahorra anuncios.",
+  "brand_share_note": "0% de tráfico de marca (0 impresiones en GSC); head terms 'examen nclex' 22.200/mes y 'nclex' 49.500/mes (EN/es mezclados, EE.UU.).",
   "refresh_candidates": [
-    {"keyword": "simulador nclex", "volume_us": null, "kd": null, "note": "DataForSEO no reporta volumen (para busco>=30): SEO posición 3 en GSC, sin volumen lab, candidato a refresh de /preparacion-nclex/simuladores-examen/ con lead magnet PDF en español."},
- 'refresh': true},
-    {"keyword": "simulador nclex", "volume_us": null, "kd": null, "note": "posición 3 en GSC; sin volumen DataForSEO — sin datos para medir; candidato a refresh solo con datos del informe Semrush de nov."},
-    {"keyword": "nclex en español", "volume_us": null, "kd": null, "note": "pos 9 en GSC, sin volumen DataForSEO; candidato a refresh de la página piloto del sitio; pero sin datos para medir, queda como 'refresh' condicional.", "refresh": true}
+    {"keyword": "simulador nclex", "volume_us": null, "kd": null, "note": "posición 3 en GSC 28d, sin volumen DataForSEO — sin datos para medir este mes; candidato a refresh cuando llegue el Semrush de nov."},
+    {"keyword": "nclex en español", "volume_us": null, "kd": null, "note": "posición 9 en GSC 28d, sin volumen DataForSEO — candidato a refresh condicional; sin datos no se mueve."}
   ]
 }
