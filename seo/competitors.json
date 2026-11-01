@@ -1,17 +1,23 @@
 {
   "_nota": "Monitoreo de competencia rnnclex.com (Ryze, tarea viernes 2:00). PRECIOS SOLO USO INTERNO: no publicar comparaciones de precios en el sitio (regla del cliente) salvo verificacion con fuente+fecha y solo como contraste de valor. Grupo A = en espanol (prioridad), B = plataformas premium EN, C = solo contexto. Nunca incluir enfermerausa.com ni enfermeraenestadosunidos.com.",
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-11-01",
   "competidores": [
     {
       "competidor": "NCLEX Crusade",
       "dominio": "nclexcrusade.com",
       "grupo": "A",
-      "fecha": "2026-10-16",
+      "fecha": "2026-11-01",
+      "hallazgos_2026-11-01": [
+        "SEO (DataForSEO ranked_keywords es-US 1-nov-2026): 15 keywords top-100, 7 nuevas ('7-day training', 'nclex crusade notes'); sigue sin keywords genericas en espanol.",
+        "PRODUCTO NUEVO (home 1-nov-2026): 'Centro de Diagnostico' ahora tambien en nclexcrusade.com (antes solo en .international) + modulo IPQ en el funnel.",
+        "ETV organico ~106 (DataForSEO relevant_pages 1-nov-2026) - visibilidad pequena pero subiendo.",
+        "Backlinks: 134 backlinks, 78 RD, spam score 36 (DataForSEO summary 1-nov-2026)."
+      ],
       "hallazgos": [
-        "MODULO NUEVO: IPQ (Intensive Practice Question), nclexcrusade.com/ipq/ - practica avanzada para graduados de Dominate (home, 16-10-2026).",
-        "OFERTA/FUNNEL: Master Class abierta via Kajabi (masterclass062026); gestoria Board+NCLEX (dominate-gestoria) y curso de ingles Level UP visibles en home.",
-        "VIDEO: 'NCLEX Exam Fee Increase 2027: What Future Nurses Need to Know' en su Facebook capitalizando la tarifa del NCLEX.",
-        "SEO: 0 keywords rankeando en top 100 en es-US segun DataForSEO ranked_keywords (16-10-2026); su visibilidad viene de redes, no de organico medible."
+        "16-10-2026: MODULO NUEVO: IPQ (Intensive Practice Question) - practica avanzada para graduados de Dominate.",
+        "16-10-2026: OFERTA/FUNNEL: Master Class abierta via Kajabi; gestoria Board+NCLEX y curso de ingles Level UP.",
+        "16-10-2026: VIDEO: 'NCLEX Exam Fee Increase 2027' en Facebook capitalizando la tarifa.",
+        "16-10-2026: SEO: 0 keywords rankeando top-100 es-US; visibilidad por redes, no organico."
       ],
       "acciones": [
         "RE-VERSIONAR: artículo propio de plan de estudio guiado (respuesta al enfoque intensivo de 21 dias) - item planned en seo/plan.json."
@@ -22,12 +28,18 @@
       "competidor": "NCLEX Crusade International",
       "dominio": "nclexcrusadeinternational.com",
       "grupo": "A",
-      "fecha": "2026-10-16",
+      "fecha": "2026-11-01",
+      "hallazgos_2026-11-01": [
+        "PRECIOS (USO INTERNO, home 1-nov-2026): Master 21 USD 897 (o 3 pagos de 332), igual que 16-oct.",
+        "PRODUCTO NUEVO (home 1-nov-2026): pagina 'new-course-coming-soon' visible - preparan un tercer curso.",
+        "SEO (DataForSEO ranked_keywords es-US 1-nov-2026): sigue sin keywords genericas es-US; su trafico viene de Master 21 y redes.",
+        "Backlinks: 56 backlinks, 53 RD, spam score 58 - perfil masivo/spammy sin autoridad organica (DataForSEO summary 1-nov-2026)."
+      ],
       "hallazgos": [
-        "CAMBIO DE PRECIO (USO INTERNO, fuente: home 16-10-2026): Master 21 paso de USD 997 a USD 897 (o 3 pagos de USD 332); acces 180 dias.",
-        "PRODUCTO NUEVO: 'Centro de Diagnostico' - test gratuito de 30 preguntas con evaluacion personalizada (ncqb.nclexcrusadeqbank.com/test; banner 'Diagnostico' en home).",
-        "SEO: 0 keywords top-100 es-US (DataForSEO 16-10); 1475 dominios de referencia con spam score 53 - perfil de enlaces masivo/spammy, sin autoridad organica real.",
-        "MASTER 21 incluye: videos, pre/post assessment de 85 preguntas, 14 mini-examenes, 1 sesion de coaching 1:1."
+        "16-10-2026: CAMBIO DE PRECIO (USO INTERNO, home 16-10-2026): Master 21 de USD 997 a USD 897 (o 3 pagos de 332); acceso 180 dias.",
+        "16-10-2026: PRODUCTO NUEVO: 'Centro de Diagnostico' - test gratuito de 30 preguntas (ncqb.nclexcrusadeqbank.com/test).",
+        "16-10-2026: SEO: 0 keywords top-100 es-US; 1475 dominios de referencia spam score 53.",
+        "16-10-2026: Master 21 incluye videos, pre/post assessment de 85 preguntas, 14 mini-examenes, 1 coaching 1:1."
       ],
       "acciones": [
         "RE-VERSIONAR: nuestro quiz gratis + Readiness Assessment CAT como diagnostico real (mejor que un test de 30 preguntas estatico) - refresh de /preparacion-nclex/preguntas-practica/ en seo/plan.json."
@@ -38,27 +50,35 @@
       "competidor": "ProTalent US",
       "dominio": "protalentus.com",
       "grupo": "A",
-      "fecha": "2026-10-16",
+      "fecha": "2026-11-01",
+      "hallazgos_2026-11-01": [
+        "SEO - MOVIMIENTO DEL MES (DataForSEO ranked_keywords es-US 1-nov-2026): ProTalentUS entra en organico por primera vez con 5 keywords top-100, TODAS en espanol de proceso/homologacion: 'como ser enfermera en estados unidos', 'que necesito para ejercer la enfermeria en estados unidos', 'como obtener una licencia de enfermeria en estados unidos', 'licencia de enfermeria en estados unidos para extranjeros', 'como aplicar para enfermeria en estados unidos' (pos 21-50, KD 45-51) - terreno que atacamos con el item planned.",
+        "WEB (1-nov-2026): SPA (React/Vite) con solo 3 URLs accesibles para Google (/, /blog/, /blog/homologar-enfermeria-estados-unidos/); el hub del blog no se indexa.",
+        "Backlinks: 56 backlinks, 53 RD, spam score 58 (DataForSEO summary 1-nov-2026) - perfil spammy igual que Crusade Intl.",
+        "DataForSEO relevant_pages solo devuelve su home; ETV organico 0 (sin trafico medible)."
+      ],
       "hallazgos": [
-        "REDES: publicacion diaria en Instagram 6-12 oct (2026), ~1000 seguidores; posicionamiento 'Plataforma + programa propio' (posible lanzamiento de plataforma NCLEX).",
-        "SERP: reel del 9-oct '¿Donde puedes presentar el NCLEX y cuanto cuesta?' rankea en el carrusel de videos de 'cuanto cuesta el nclex' (SERP es-US, 16-10-2026) - mismo tema de nuestra money page.",
-        "ALIANZA: reel con UNITEC + Walden University (ingles medico + NCLEX + visa TN).",
-        "Su web (protalentus.com) no responde a fetch externo; monitoreo por Instagram y SERP."
+        "16-10-2026: publicacion diaria en Instagram 6-12 oct (~1000 seguidores), posible lanzamiento de plataforma NCLEX.",
+        "16-10-2026: reel del 9-oct '¿Donde puedes presentar el NCLEX y cuanto cuesta?' rankea en el carrusel de 'cuanto cuesta el nclex'.",
+        "16-10-2026: alianza con UNITEC + Walden University (ingles medico + NCLEX + visa TN)."
       ],
       "acciones": [
         "MEJORAR: /cuanto-cuesta-el-nclex/ con la tarifa 2027 (NCSBN) y tabla de costos totales - el mismo terreno donde su reel ya rankea.",
         "Observar lanzamiento de su 'plataforma propia' la proxima semana."
       ],
-      "items_creados": ["/cuanto-cuesta-el-nclex/ (refresh)"]
+      "items_creados": ["/cuanto-cuesta-el-nclex/ (refresh)", "/proceso-licencia-homologacion/como-ser-enfermera-en-estados-unidos/ (planned 1-nov-2026)"]
     },
     {
       "competidor": "Archer Review",
       "dominio": "archerreview.com",
       "grupo": "B",
-      "fecha": "2026-10-16",
+      "fecha": "2026-11-01",
+      "hallazgos_2026-11-01": [
+        "Escala (DataForSEO ranked_keywords 1-nov-2026): 4242 keywords top-100, ETV organico ~86.7k, 2019 nuevas - ritmo de publicacion alto, foco NCLEX/TEAS en ingles.",
+        "Sigue sin posicionarse en NCLEX espanol; el hueco sigue libre."
+      ],
       "hallazgos": [
-        "EMPUJE EN TEAS 7 (pre-enfermeria, mercado EN): nurses.archerreview.com/pre-nursing/teas7 con keywords nuevas (ati testing, ati exam, ati teas, practice teas test) segun ranked_keywords 16-10-2026.",
-        "Escala: 4276 keywords en top 100 (2050 nuevas), ETV organico ~116k; su foco actual NO es NCLEX en espanol."
+        "16-10-2026: EMPUJE EN TEAS 7 con keywords nuevas (ati testing, ati exam, ati teas, practice teas test)."
       ],
       "acciones": [
         "IGNORAR: TEAS 7 es otro mercado (admisión pre-enfermeria, en ingles); relevante solo como referencia de ritmo de publicacion."
@@ -69,11 +89,15 @@
       "competidor": "UWorld Nursing",
       "dominio": "nursing.uworld.com",
       "grupo": "B",
-      "fecha": "2026-10-16",
+      "fecha": "2026-11-01",
+      "hallazgos_2026-11-01": [
+        "INTERNACIONALIZACION (blog 1-nov-2026): UWorld lanza NCLEX-RN EN FRANCES para Canada - primera vez que un grupo B saca NCLEX en otro idioma. Senal: los grandes miran no-ingles; el espanol todavia esta libre.",
+        "Escala (DataForSEO ranked_keywords 1-nov-2026): 5184 keywords top-100, 1560 nuevas - expandieron topic-pages de study-plan y pass-rates.",
+        "Sigue sin NCLEX espanol."
+      ],
       "hallazgos": [
-        "CONTENIDO NUEVO: paginas de preguntas gratis por tema NCLEX (endocrine, pediatrics, pharmacology, med-surg...) apareciendo como nuevas en ranked_keywords 16-10-2026 - estrategia de topic-pages de practica gratuita.",
-        "VIDEO: Facebook 'NCLEX registration fee goes to $350 on February 1' (16-09-2026) capitalizando la tarifa.",
-        "Escala: 5400 keywords top-100, 754 RD, spam score 26."
+        "16-10-2026: paginas de preguntas gratis por tema NCLEX apareciendo como nuevas.",
+        "16-10-2026: video Facebook 'NCLEX registration fee goes to $350 on February 1'."
       ],
       "acciones": [
         "APRENDER (no clonar): el patron de topic-pages por tema refuerza nuestro cluster /preparacion-nclex/preguntas-practica/; ya cubierto con el refresh."
@@ -84,24 +108,39 @@
       "competidor": "NCLEX Bootcamp",
       "dominio": "nclexbootcamp.com",
       "grupo": "B",
-      "fecha": "2026-10-16",
+      "fecha": "2026-11-01",
+      "hallazgos_2026-11-01": [
+        "SIN MOVIMIENTO MEDIBLE (DataForSEO ranked_keywords 1-nov-2026): 0 keywords top-100 US - igual que 16-oct."
+      ],
       "hallazgos": [
-        "SIN MOVIMIENTO MEDIBLE: 0 keywords rankeadas en top 100 US (DataForSEO 16-10), solo 51 dominios de referencia con spam score 58."
+        "16-10-2026: sin movimiento medible, solo 51 dominios de referencia spam score 58."
       ],
       "acciones": ["IGNORAR esta semana."],
       "items_creados": []
     }
   ],
   "descubrimiento": {
-    "fecha": "2026-10-16",
-    "metodo": "dataforseo competitors_domain (target rnnclex.com, es, US) + SERP de las 7 palabras objetivo",
-    "resultado": "0 dominios competidores detectados para rnnclex.com (sitio joven, sin visibilidad organica medida todavia).",
+    "fecha": "2026-11-01",
+    "metodo": "SERP es-US 1-nov-2026 de las 7 palabras objetivo + ranked_keywords de los 3 A (competitors_domain sin resultados utiles: sitio joven, ver 16-oct)",
+    "resultado": "2 dominios nuevos detectados en SERP es-US 1-nov-2026 (nuevos vs 16-oct):",
     "candidatos_nuevos": [
+      {
+        "competidor": "EnfermerasUSA (marketing)",
+        "dominio": "enfermerasenusa.com",
+        "grupo": "A-candidato",
+        "nota": "Aparecio 1 vez en SERP de 'como ser enfermera en estados unidos' (es-US, 1-nov-2026). Se anade solo si reaparece el proximo monitoreo (regla: 2 veces seguidas)."
+      },
+      {
+        "competidor": "FVI (Florida Vocational Institute)",
+        "dominio": "fvi.edu",
+        "grupo": "A-candidato",
+        "nota": "Pagina de NCLEX en espanol (fvi.edu/blog/nclex-examen-en-espanol/) aparecio 1 vez en SERP de 'como ser enfermera en estados unidos' (es-US, 1-nov-2026). Escuela de Florida con programa de enfermeria; se anade solo si reaparece (regla: 2 veces seguidas)."
+      },
       {
         "competidor": "NurseAdemy",
         "dominio": "facebook.com/nurseademy",
         "grupo": "A-candidato",
-        "nota": "Aparecio 1 vez en el carrusel de videos de 'cuanto cuesta el nclex' (es-US, 16-10-2026). Se anade solo si reaparece el proximo monitoreo (regla: 2 veces seguidas)."
+        "nota": "Aparecio 1 vez en el carrusel de videos de 'cuanto cuesta el nclex' (es-US, 16-10-2026); NO reaparecio el 1-nov-2026. Sigue como candidato."
       }
     ]
   },
