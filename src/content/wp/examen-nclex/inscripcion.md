@@ -53,7 +53,7 @@ Este es el primer paso oficial.
 Paso 2
 
 - **Acción:** Visita www.nclex.com (el portal oficial de Pearson VUE) y crea una cuenta.
-- **Detalles:** Deberás proporcionar tu información personal, el código de tu programa de enfermería y pagar la tarifa de $200 USD (para candidatos de EE. UU.).
+- **Detalles:** Deberás proporcionar tu información personal, el código de tu programa de enfermería y pagar la tarifa de registro: **USD 200 si tu registro queda antes del 1-feb-2027; USD 350 desde esa fecha**. Se cobra según la fecha de registro: antes del 1-feb = USD 200 aunque el examen sea después.
 - **Consejo de Experto:** Asegúrate de que el nombre que uses para registrarte sea IDÉNTICO al de la identificación oficial con fotografía que presentarás el día del examen. Cualquier discrepancia puede impedirte realizar la prueba.
 
 ### Espera la Confirmación de Elegibilidad de tu BON
