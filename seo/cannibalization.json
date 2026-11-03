@@ -1,9 +1,21 @@
 {
-  "_nota": "Registro de deteccion y correccion de canibalizacion de rnnclex.com (Ryze). Ventana GSC: 28 dias, 2026-09-20 a 2026-10-17, dimensiones query+page (y date para detectar cambio de URL rankeada). Umbral: 2+ URLs con 5+ impresiones cada una, o cambio de URL rankeada entre fechas.",
-  "fecha_ultima_revision": "2026-10-18",
-  "consultas_revisadas": ["nclex", "examen nclex", "nclex que es", "que es el nclex", "nclex en español", "plan de estudio nclex", "cuanto cuesta el nclex", "cgfns", "fechas examen nclex", "cuanto dura el nclex", "requisitos nclex"],
-  "resumen": "Ninguna consulta alcanzo el umbral de 2 URLs con 5+ impresiones (maximo: 4 imp por URL). 4 consultas con URL rankeada inestable entre fechas (examen nclex, nclex, nclex que es, nclex en español) con 1-4 imp por URL: bajo umbral, sin conflicto accionable. Conflicto real detectado en el plan: 1 item planned duplicaba articulo publicado y 1 refresh apuntaba a URL nueva que duplicaria pagina con historial.",
+  "_nota": "Registro de deteccion y correccion de canibalizacion de rnnclex.com (Ryze). Ventana GSC: 28 dias, 2026-10-06 a 2026-11-02 (revision 2026-11-03), dimensiones query+page. Umbral: 2+ URLs con 5+ impresiones cada una, o cambio de URL rankeada entre fechas.",
+  "fecha_ultima_revision": "2026-11-03",
+  "consultas_revisadas": ["nclex", "examen nclex", "nclex que es", "que es el nclex", "nclex en español", "plan de estudio nclex", "cuanto cuesta el nclex", "cgfns", "fechas examen nclex", "cuanto dura el nclex", "requisitos nclex", "inscribirte al examen nclex", "como ser enfermera en estados unidos"],
+  "resumen": "Revision 2026-11-03: sin conflictos nuevos que alcancen el umbral (max 4 imp por URL). Duplicado historico como-inscribirte-al-examen-nclex-en-2025 vs /examen-nclex/inscripcion/ NO alcanza el criterio de redireccion: 0 consultas compartidas en GSC 28d y 3 clics (>=3) en el articulo; se refresca y se enlaza a la pagina de dinero en su lugar.",
   "conflictos": [
+    {
+      "fecha": "2026-11-03",
+      "consulta": "inscripcion examen nclex (articulo 2025 vs pagina de dinero)",
+      "urls": [
+        "/proceso-licencia-homologacion/como-inscribirte-al-examen-nclex-en-2025/ (articulo, 3 clics en 28d)",
+        "/examen-nclex/inscripcion/ (pagina de dinero, indexada, 4 imp 'nclex')"
+      ],
+      "ganadora": "ninguna (sin conflicto accionable)",
+      "criterio": "GSC 28d (2026-10-06 a 2026-11-02): 0 consultas compartidas entre las dos URLs y el articulo tiene 3 clics (no <3), fuera del umbral de redireccion; la pagina de dinero no compite en las mismas consultas",
+      "accion": "NO redirect. El articulo se refresca (titulo 2026, tarifa NCSBN 2027, firma Alejandra Barreto) y ahora enlaza a /examen-nclex/inscripcion/ como pagina de dinero. Slug conservado: es la URL en urls.json y su cambio romperia el historial sin ganancia.",
+      "resultado": "ambas sirven intenciones distinguibles (guia narrativa vs pagina de producto) y se refuerzan con enlace interno"
+    },
     {
       "fecha": "2026-10-18",
       "consulta": "plan de estudio nclex",
@@ -14,7 +26,7 @@
       "ganadora": "/estrategias-examen/plan-estudio-nclex-8-semanas/",
       "criterio": "la publicada existe, rankea y ya recibe enlaces internos; publicar la planned habria creado un duplicado directo",
       "accion": "Item marcado 'merged' en seo/plan.json (articulo NO creado). Reemplazado por angulo distinto: /estrategias-examen/plan-estudio-nclex-4-semanas/ con keyword 'plan de estudio nclex 4 semanas' (plan intensivo para ATT vigente). Enlaces internos hacia la ganadora añadidos desde /preparacion-nclex/ (hero y seccion plan).",
-      "resultado": "una sola URL objetivo para la intencion 'plan de estudio nclex': /estrategias-examen/plan-estudio-nclex-8-semanas/"
+      "resultado": "una sola URL objetivo para la intencion 'plan de estudio nclex': /estrategias-examen/plan-estudio-nclex-8-semanas/; la variante 4 semanas se publica 2026-11-03 y ambas se enlazan entre si"
     },
     {
       "fecha": "2026-10-18",
@@ -25,7 +37,7 @@
       ],
       "ganadora": "/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/",
       "criterio": "la existente tiene 81 impresiones y pos 15 en 28d (historial de ranking); una URL raiz nueva duplicaria la intencion y partiria la senal en dos",
-      "accion": "URL del item refresh corregida en seo/plan.json a la pagina existente. El refresh (subida de tarifa USD 200 a USD 350 el 1-feb-2027) se aplicara el 22-oct sobre /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/. No se crea pagina raiz nueva.",
+      "accion": "URL del item refresh corregida en seo/plan.json a la pagina existente. El refresh (subida de tarifa USD 200 a USD 350 el 1-feb-2027) aplicado sobre /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/ (ya vivo en el sitio desde el PR del 27-sep; 2026-11-03 se corrige firma E-E-A-T y fuente NCSBN enlazada). No se crea pagina raiz nueva.",
       "resultado": "una sola URL objetivo: /proceso-licencia-homologacion/cuanto-cuesta-el-nclex/"
     },
     {
