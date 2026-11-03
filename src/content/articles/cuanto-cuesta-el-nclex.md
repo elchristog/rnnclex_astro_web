@@ -3,7 +3,7 @@ title: "¿Cuánto cuesta el NCLEX 2027? $200 hasta ene-2027, $350 después + tot
 seoTitle: "¿Cuánto cuesta el NCLEX 2027? $200 hasta ene-2027, $350 después + total ~$550"
 description: "Tarifa Pearson VUE: USD 200 si tu registro queda antes del 1-feb-2027; USD 350 desde esa fecha. Junta estatal $40–$350, CBC $30–$75. Prep por USD 19 al mes en rnnclex.com."
 date: "2025-08-12T10:29:13"
-updated: "2026-11-03T09:30:00"
+updated: "2026-09-27T17:15:46"
 section: "proceso-licencia-homologacion"
 slug: "cuanto-cuesta-el-nclex"
 flags: []
@@ -13,7 +13,7 @@ faqs: [{"question":"¿Cuánto cuesta el examen NCLEX-RN en 2027?","answer":"La t
 
 * * *
 
-**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 3 de noviembre de 2026
+**Escrito por:** [Alejandra Martinez, RN, BSN](https://rnnclex.com/quienes-somos/) | **Última actualización:** 22 de septiembre de 2026
 
 Antes de pagar la tarifa de registro del examen, practica con preguntas de muestra gratis (inglés y español).
 
@@ -29,7 +29,7 @@ En esta guía detallada, no solo desglosaremos cada una de las tarifas oficiales
 
 Para empezar, la tarifa de registro para el examen NCLEX-RN (o NCLEX-PN) es de **USD 200 si tu registro con Pearson VUE queda antes del 1-feb-2027; USD 350 desde esa fecha**. Se cobra según la fecha de registro: antes del 1-feb = USD 200 aunque el examen sea después. Esta tarifa se paga directamente a Pearson VUE, la compañía que administra el examen en nombre del NCSBN (National Council of State Boards of Nursing), y se cobra por **cada intento**. Por lo tanto, asegurar el éxito a la primera es tu primer gran ahorro.
 
-*Fuente: [aviso oficial de NCSBN sobre el cambio de tarifa](https://www.ncsbn.org/news/nclex-fee-changes-feb1) y [sitio oficial de NCLEX](https://www.nclex.com/).*
+*Fuente: [Sitio Oficial de NCLEX](https://www.nclex.com/).*
 
 ## **💸 Otros Costos Obligatorios del NCLEX**
 
