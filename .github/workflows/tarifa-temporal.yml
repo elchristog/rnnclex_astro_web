@@ -1,0 +1,32 @@
+name: Tarifa temporal
+
+on:
+  push:
+    branches:
+      - ryze/tarifa-registro
+    paths:
+      - .github/workflows/tarifa-temporal.yml
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ryze/tarifa-registro
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Aplicar reemplazos
+        run: node scripts/fix-fee.mjs | tee scripts/fee-fix-log.txt
+      - name: Guardar cambios
+        run: |
+          git config user.name "ryze-tarifa"
+          git config user.email "tarifa@rnnclex.com"
+          git add -A src scripts/fee-fix-left.txt scripts/fee-fix-log.txt
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Aclarar tarifa de registro del NCLEX (USD 200 antes del 1-feb-2027; USD 350 despues)"
+          git push origin HEAD:ryze/tarifa-registro
