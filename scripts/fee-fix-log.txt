@@ -24,3 +24,8 @@ Archivos cambiados: 0
 0x  seoTitle: "¿Qué es el NCLEX-RN? Guía en español (2026)"
 0x  description: "¿Qué es el NCLEX-RN? Es el examen para obtener tu licenc
 Lineas con 200 sin fecha: 13
+cambiado src/content/wp/examen-nclex/requisitos/georgia.md
+cambiado src/content/wp/examen-nclex/requisitos/idaho.md
+cambiado src/content/wp/examen-nclex/requisitos/iowa.md
+cambiado src/content/wp/examen-nclex/requisitos/minnesota.md
+archivos: 4

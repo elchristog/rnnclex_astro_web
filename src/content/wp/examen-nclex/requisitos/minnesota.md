@@ -5,7 +5,7 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Oklahoma. 
 path: "/examen-nclex/requisitos/minnesota/"
 thin: false
 flags: []
-faqs: [{"question":"¿Mi licencia de Minnesota me permitirá trabajar en Wisconsin?","answer":"No directamente. Minnesota no es un estado miembro del NLC, mientras que su vecino Wisconsin sí lo es. Para trabajar en Wisconsin con una licencia de Minnesota, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de Wisconsin."},{"question":"¿El costo de $137 es el único pago que debo hacer?","answer":"No. Los $137 USD se pagan a la Junta de Enfermería de Minnesota por la solicitud y el CBC. Aparte, deberás pagar la tarifa de $200 USD directamente a Pearson VUE para registrarte en el examen NCLEX."}]
+faqs: [{"question":"¿Mi licencia de Minnesota me permitirá trabajar en Wisconsin?","answer":"No directamente. Minnesota no es un estado miembro del NLC, mientras que su vecino Wisconsin sí lo es. Para trabajar en Wisconsin con una licencia de Minnesota, deberás solicitar una licencia por \"endorsement\" (homologación) en la junta de enfermería de Wisconsin."},{"question":"¿El costo de $137 es el único pago que debo hacer?","answer":"No. Los $137 USD se pagan a la Junta de Enfermería de Minnesota por la solicitud y el CBC. Aparte, deberás pagar la tarifa de registro (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha) directamente a Pearson VUE para registrarte en el examen NCLEX."}]
 ---
 Si tu objetivo es obtener tu licencia de enfermería en el "Estado de los 10,000 Lagos", deberás seguir el proceso de solicitud del Minnesota Board of Nursing. Este organismo es el encargado de verificar que cumples con todos los requisitos para ser elegible para presentar el examen NCLEX.
 
