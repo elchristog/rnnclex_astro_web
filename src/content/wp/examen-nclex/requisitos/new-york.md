@@ -52,7 +52,7 @@ Deberás presentar los certificados de finalización de ambos cursos como parte 
 
 1. Completa los dos cursos obligatorios: Control de Infecciones y Abuso Infantil, a través de proveedores aprobados por NYSED.
 2. Completa la solicitud online en el portal de NYSED y paga la tarifa de $143.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe la verificación de tu educación directamente a NYSED.
 5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 6. Programa tu examen NCLEX en un centro Pearson VUE.

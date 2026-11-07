@@ -46,7 +46,7 @@ Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de cr
 
 1. Crea una cuenta en el Texas Nurse Portal y completa la solicitud online.
 2. Paga la tarifa de solicitud y sigue las instrucciones para la toma de huellas dactilares (DPS y FBI).
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Estudia y aprueba el Texas Nursing Jurisprudence Exam.
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la BON.
 6. Una vez que la BON verifique que has cumplido todos los requisitos (incluyendo el examen de jurisprudencia), recibirás tu Authorization to Test (ATT).

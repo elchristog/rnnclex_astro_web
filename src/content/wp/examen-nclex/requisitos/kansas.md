@@ -47,7 +47,7 @@ El Kansas State Board of Nursing exige que los solicitantes presenten el examen 
 
 1. Completa la solicitud online en el portal del Kansas State Board of Nursing y paga la tarifa indicada.
 2. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la KSBN.
 5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 6. Programa tu examen, asegurándote de que la fecha sea dentro de los 2 años posteriores a tu graduación.

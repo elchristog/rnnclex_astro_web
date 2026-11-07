@@ -45,7 +45,7 @@ El proceso de solicitud en Arkansas es bastante directo y se centra en los requi
 1. Accede al Arkansas Nurse Portal a través del sitio web oficial de la ARSBN.
 2. Crea una cuenta y completa la solicitud en línea para "Licensure by Examination", realizando el pago de las tarifas indicadas.
 3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC estatal y federal.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la ARSBN.
 6. Espera la aprobación de tu solicitud por parte de la ARSBN y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 7. Programa tu examen NCLEX en un centro Pearson VUE.

@@ -21,27 +21,27 @@ El **ATT (Authorization to Test)** es el correo de Pearson VUE que te autoriza a
 
 ## Qué es el ATT en una frase
 
-**El ATT es la autorización temporal para presentarte al NCLEX en un centro Pearson VUE, válida solo dentro de las fechas que indica el email.** La validez la fija tu junta estatal; el promedio es cerca de 90 días. Si expira sin examen, debes volver a registrarte y pagar otra vez los $200.
+**El ATT es la autorización temporal para presentarte al NCLEX en un centro Pearson VUE, válida solo dentro de las fechas que indica el email.** La validez la fija tu junta estatal; el promedio es cerca de 90 días. Si expira sin examen, debes volver a registrarte y pagar otra vez la tarifa de registro (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha).
 
 ## Los 6 pasos oficiales (NCSBN / Pearson 2026)
 
 1.  **Aplica a la junta de enfermería (NRB)** del estado donde quieres licencia. Ahí pides elegibilidad y, si aplica, acomodaciones. Compara los requisitos y tarifas de cada junta en la [guía de requisitos por estado](/examen-nclex/requisitos/).
 2.  **Cumple requisitos de IEN** si estudiaste fuera de EE.UU. (a menudo CES de TruMerit/CGFNS, inglés, transcripts). Ver [qué es CGFNS](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/) y su [guía completa 2026](/proceso-licencia-homologacion/cgfns/).
-3.  **Regístrate y paga el NCLEX en Pearson VUE** ($200 USD por intento, tarjeta o pago de terceros). Online o por teléfono.
+3.  **Regístrate y paga el NCLEX en Pearson VUE** (USD 200 por intento si te registras antes del 1-feb-2027, USD 350 desde esa fecha; tarjeta o pago de terceros). Online o por teléfono.
 4.  **Espera el email de confirmación de registro** (suele llegar en ~2 días). El registro permanece abierto hasta 365 días esperando la elegibilidad de la junta.
 5.  **Cuando la junta te declara elegible y el registro está completo, Pearson envía el ATT** al email que usaste al registrarte.
 6.  **Agenda la cita** en pearsonvue.com con tu ATT (online o teléfono). Elige fecha dentro de la ventana de validez. Guía de [fechas y centros](/examen-nclex/fechas/).
 
 ## Orden que confunde a casi todos
 
-Puedes (y conviene) **registrar y pagar Pearson en paralelo** a la solicitud del Board. No hace falta esperar el “sí” de la junta para pagar los $200: el registro espera hasta un año la elegibilidad. Lo que no puedes hacer es agendar sin ATT.
+Puedes (y conviene) **registrar y pagar Pearson en paralelo** a la solicitud del Board. No hace falta esperar el “sí” de la junta para pagar la tarifa: el registro espera hasta un año la elegibilidad. Lo que no puedes hacer es agendar sin ATT.
 
 ## Errores que queman el ATT o el dinero
 
 -   Email incorrecto o spam: el ATT solo llega por correo
 -   Agendar tarde y quedarte sin cupo antes de que expire la ventana
 -   Nombre o ID que no coinciden con el ATT el día del examen
--   Presentarte sin estar listo: reprobar = otros $200 + mínimo 45 días de espera
+-   Presentarte sin estar listo: reprobar = otra tarifa de registro (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha) + mínimo 45 días de espera
 -   No revisar [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/) completo (junta + CBC + internacional)
 
 ## ¿Cuándo agendar de verdad?

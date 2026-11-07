@@ -51,7 +51,7 @@ Alaska requiere una verificación de antecedentes penales obligatoria para todos
 
 1. Completa y envía la solicitud (online o en papel) al Alaska Board of Nursing junto con el pago de todas las tarifas.
 2. Completa el proceso de toma de huellas dactilares para la verificación de antecedentes penales.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela de enfermería que envíe tus transcripciones oficiales directamente a la Junta de Alaska.
 5. Espera la aprobación de tu solicitud y la recepción de tu Autorización para Examinarte (ATT) por correo electrónico.
 6. Programa tu examen NCLEX en un centro Pearson VUE.

@@ -48,7 +48,7 @@ Completa la solicitud online en el portal de la Junta de Massachusetts y paga la
 
 Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
 
-Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 
 Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
 

@@ -46,7 +46,7 @@ Es mandatorio que todos los solicitantes se sometan a una verificación de antec
 1. Crea una cuenta en el portal DELPROS.
 2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa indicada.
 3. Sigue las instrucciones para la toma de huellas dactilares para el CBC.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales a la Junta de Delaware, asegurándote de que se verifique el requisito de las 400 horas clínicas.
 6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.

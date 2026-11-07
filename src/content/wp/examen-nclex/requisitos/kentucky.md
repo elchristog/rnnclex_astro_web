@@ -48,7 +48,7 @@ Antes de que puedas recibir tu Autorización para Examinarte (ATT) para el NCLEX
 1. Crea una cuenta en el Kentucky Nurse Portal y completa la solicitud online, pagando la tarifa de $125.
 2. Completa la toma de huellas dactilares para el CBC a través de IdentoGO.
 3. Estudia y aprueba el Examen de Jurisprudencia de Kentucky en línea con una nota de 80% o superior.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la KBN.
 6. Espera la aprobación de todos los requisitos y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.

@@ -49,7 +49,7 @@ Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de cr
 2. Imprime la certificación, pega tu foto, fírmala ante un notario y súbela de nuevo al portal.
 3. Paga la tarifa de solicitud de $200.
 4. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-5. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+5. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 6. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
 7. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 8. Programa tu examen NCLEX en un centro Pearson VUE.

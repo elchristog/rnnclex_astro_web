@@ -48,7 +48,7 @@ Estatus del Nurse Licensure Compact (NLC): Connecticut ha aprobado la legislaci�
 1. Completa la solicitud online para "Registered Nurse License by Examination" en el portal del DPH y paga la tarifa de $180.
 2. Solicita a tu escuela de enfermería que envíe tus transcripciones oficiales directamente al DPH.
 3. (Solo para IENs) Asegúrate de que tu reporte de certificación de CGFNS sea enviado a la junta.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Espera la confirmación de elegibilidad por parte del DPH y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 6. Programa tu examen NCLEX en un centro Pearson VUE.
 

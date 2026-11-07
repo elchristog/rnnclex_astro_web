@@ -52,7 +52,7 @@ Debes asegurarte de completar el curso de Manejo del Dolor como parte de tu soli
 1. Completa el curso obligatorio de 7 horas sobre Manejo del Dolor.
 2. Crea una cuenta y completa la solicitud online en el portal de la OSBN, pagando la tarifa de $160.
 3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la OSBN.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.

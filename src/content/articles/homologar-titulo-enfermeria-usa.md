@@ -33,12 +33,12 @@ No es un sello del Departamento de Educación que convierte tu título en BSN es
 2.  Inicia CES / evaluación de credenciales si aplica.
 3.  Inglés (si el estado lo exige).
 4.  Solicitud al Board + CBC + tarifas estatales.
-5.  Registro Pearson ($200) → [ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/) → examen.
+5.  Registro Pearson (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha) → [ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/) → examen.
 6.  Licencia RN emitida por el estado. Luego podrás mirar compactos NLC si aplica.
 
 ## Costos a presupuestar
 
-CES ~$485 · Junta estatal (desde ~$40 hasta $350+) · CBC $30–$75 · NCLEX $200 (+~$150 si examinas fuera de EE.UU.) · Prep. Detalle en [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/).
+CES ~$485 · Junta estatal (desde ~$40 hasta $350+) · CBC $30–$75 · NCLEX USD 200 antes del 1-feb-2027, USD 350 desde esa fecha (+~$150 si examinas fuera de EE.UU.) · Prep. Detalle en [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/).
 
 ## Homologar no sustituye aprobar el NCLEX
 

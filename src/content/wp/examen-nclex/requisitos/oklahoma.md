@@ -46,7 +46,7 @@ Enfermeros Educados Internacionalmente (IENs): Es un requisito mandatorio que lo
 1. Crea una cuenta en el Oklahoma Nurse Portal.
 2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa correspondiente.
 3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Oklahoma.
 6. (Solo para IENs) Asegúrate de que tu reporte de evaluación de CGFNS sea enviado a la junta.
 7. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.

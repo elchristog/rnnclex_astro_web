@@ -47,7 +47,7 @@ Enfermeros Educados Internacionalmente (IENs): Si tu formación fue fuera de los
 
 1. Completa la solicitud online en el portal del Tennessee Board of Nursing y paga la tarifa indicada.
 2. Sigue las instrucciones recibidas para completar la toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Tennessee.
 5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales y tu examen de inglés sean enviados a la junta.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.

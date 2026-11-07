@@ -54,7 +54,7 @@ Es obligatoria una verificación de antecedentes basada en huellas dactilares. E
 1. Verifica que tu programa cumple con los requisitos curriculares específicos de la BRN.
 2. Crea una cuenta en el sistema BreEZe y completa la solicitud online, pagando la tarifa de $350 o $750.
 3. Completa el proceso de huellas dactilares (Live Scan o Hard Card).
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales, desglosando el contenido curricular, directamente a la BRN.
 6. Espera la aprobación de la BRN y la recepción de tu ATT (Authorization to Test).
 7. Programa tu examen NCLEX en un centro Pearson VUE.

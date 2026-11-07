@@ -44,7 +44,7 @@ Prueba de Ciudadanía o Presencia Legal: Deberás presentar un documento válido
 
 1. Completa la solicitud (online o por correo) con el Georgia Board of Nursing y paga la tarifa de $40.
 2. Regístrate con GAPS/Gemalto para programar tu cita de toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Georgia.
 5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 6. Programa tu examen NCLEX en un centro Pearson VUE.

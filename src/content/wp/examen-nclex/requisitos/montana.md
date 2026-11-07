@@ -45,7 +45,7 @@ Montana tiene requisitos estrictos para los IENs. Es importante destacar que los
 
 1. Crea una cuenta y completa la solicitud online en el portal ebiz.mt.gov/pol, pagando la tarifa de $100.
 2. Sigue las instrucciones recibidas para completar la toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Montana.
 5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.

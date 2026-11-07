@@ -1,0 +1,87 @@
+Archivos cambiados: 61
+ - src/content/articles/cgfns.md
+ - src/content/articles/como-obtener-att-nclex.md
+ - src/content/articles/como-pasar-el-nclex.md
+ - src/content/articles/cuantas-veces-se-puede-hacer-el-nclex.md
+ - src/content/articles/homologar-titulo-enfermeria-usa.md
+ - src/content/articles/nclex-para-enfermeros-extranjeros.md
+ - src/content/articles/plan-estudio-nclex-8-semanas.md
+ - src/content/articles/que-es-el-nclex.md
+ - src/content/articles/que-es-readiness-assessment-nclex.md
+ - src/content/wp/examen-nclex/requisitos/alabama.md
+ - src/content/wp/examen-nclex/requisitos/alaska.md
+ - src/content/wp/examen-nclex/requisitos/arizona.md
+ - src/content/wp/examen-nclex/requisitos/arkansas.md
+ - src/content/wp/examen-nclex/requisitos/california.md
+ - src/content/wp/examen-nclex/requisitos/colorado.md
+ - src/content/wp/examen-nclex/requisitos/connecticut.md
+ - src/content/wp/examen-nclex/requisitos/delaware.md
+ - src/content/wp/examen-nclex/requisitos/florida.md
+ - src/content/wp/examen-nclex/requisitos/georgia.md
+ - src/content/wp/examen-nclex/requisitos/hawaii.md
+ - src/content/wp/examen-nclex/requisitos/idaho.md
+ - src/content/wp/examen-nclex/requisitos/illinois.md
+ - src/content/wp/examen-nclex/requisitos/indiana.md
+ - src/content/wp/examen-nclex/requisitos/iowa.md
+ - src/content/wp/examen-nclex/requisitos/kansas.md
+ - src/content/wp/examen-nclex/requisitos/kentucky.md
+ - src/content/wp/examen-nclex/requisitos/louisiana.md
+ - src/content/wp/examen-nclex/requisitos/maine.md
+ - src/content/wp/examen-nclex/requisitos/maryland.md
+ - src/content/wp/examen-nclex/requisitos/massachusetts.md
+ - src/content/wp/examen-nclex/requisitos/michigan.md
+ - src/content/wp/examen-nclex/requisitos/minnesota.md
+ - src/content/wp/examen-nclex/requisitos/mississippi.md
+ - src/content/wp/examen-nclex/requisitos/missouri.md
+ - src/content/wp/examen-nclex/requisitos/montana.md
+ - src/content/wp/examen-nclex/requisitos/nebraska.md
+ - src/content/wp/examen-nclex/requisitos/nevada.md
+ - src/content/wp/examen-nclex/requisitos/new-hampshire.md
+ - src/content/wp/examen-nclex/requisitos/new-jersey.md
+ - src/content/wp/examen-nclex/requisitos/new-mexico.md
+ - src/content/wp/examen-nclex/requisitos/new-york.md
+ - src/content/wp/examen-nclex/requisitos/north-carolina.md
+ - src/content/wp/examen-nclex/requisitos/north-dakota.md
+ - src/content/wp/examen-nclex/requisitos/ohio.md
+ - src/content/wp/examen-nclex/requisitos/oklahoma.md
+ - src/content/wp/examen-nclex/requisitos/oregon.md
+ - src/content/wp/examen-nclex/requisitos/pennsylvania.md
+ - src/content/wp/examen-nclex/requisitos/rhode-island.md
+ - src/content/wp/examen-nclex/requisitos/south-carolina.md
+ - src/content/wp/examen-nclex/requisitos/south-dakota.md
+ - src/content/wp/examen-nclex/requisitos/tennessee.md
+ - src/content/wp/examen-nclex/requisitos/texas.md
+ - src/content/wp/examen-nclex/requisitos/utah.md
+ - src/content/wp/examen-nclex/requisitos/vermont.md
+ - src/content/wp/examen-nclex/requisitos/virginia.md
+ - src/content/wp/examen-nclex/requisitos/washington.md
+ - src/content/wp/examen-nclex/requisitos/wisconsin.md
+ - src/content/wp/preparacion-nclex/cursos.md
+ - src/content/wp/recursos-nclex/app.md
+ - src/content/wp/recursos-nclex/libros-y-guias.md
+ - src/content/wp/recursos-nclex/videos.md
+1x  antes de que gastes los $200 de la tarifa de Pearson VUE
+1x  las detectara Pearson VUE por $200.
+1x  si pagas los $200 del intento
+2x  La tarifa de Pearson VUE es de USD 200
+1x  La tarifa de Pearson VUE es de **USD 200**
+1x  Cada intento cuesta $200 USD con Pearson VUE
+1x  pagar la tarifa del examen de $200 USD.
+1x  **$200 USD por cada intento.**
+1x  la tarifa de $200 por re-examen
+1x  un cargo accidental de $200 en tu tarjeta
+1x  ($200 por intento)
+1x  tarifa Pearson de $200,
+1x  en Pearson VUE** ($200)
+1x  pagar otra vez los $200.
+1x  ($200 USD por intento, tarjeta
+1x  para pagar los $200: el registro
+1x  otros $200 + mínimo 45 días
+1x  Registro Pearson ($200)
+1x  NCLEX $200 (+~$150
+1x  Reprobar cuesta $200 y 45 días.
+4x  $200 USD para
+48x  paga la tarifa de $200.
+1x  seoTitle: "¿Qué es el NCLEX-RN? Guía en español (2026)"
+1x  description: "¿Qué es el NCLEX-RN? Es el examen para obtener tu licenc
+Lineas con 200 sin fecha: 13

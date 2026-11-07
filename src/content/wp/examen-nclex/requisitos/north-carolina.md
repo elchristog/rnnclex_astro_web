@@ -47,7 +47,7 @@ Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de cr
 1. Crea una cuenta en el North Carolina Nurse Portal.
 2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa de $75.
 3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC (SBI y FBI).
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la NCBON.
 6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 7. Programa tu examen NCLEX en un centro Pearson VUE.
