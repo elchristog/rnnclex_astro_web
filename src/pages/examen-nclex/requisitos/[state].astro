@@ -31,7 +31,7 @@ const generatedFaqs = [
   { question: `¿${s.name} pertenece al Nurse Licensure Compact (NLC)?`, answer: nlcLong(s) },
   {
     question: `¿Cuánto cuesta presentar el NCLEX en ${s.name}?`,
-    answer: `El examen cuesta USD 200 con Pearson VUE por cada intento. Además pagas la solicitud de licencia a ${s.board}, cuya tarifa fija la junta, y, si aplica, la toma de huellas y la evaluación de credenciales para enfermeros formados fuera de EE. UU.`,
+    answer: `El registro del examen con Pearson VUE cuesta USD 200 por intento si te registras antes del 1-feb-2027 y USD 350 desde esa fecha (cuenta la fecha de registro, no la del examen). Además pagas la solicitud de licencia a ${s.board}, cuya tarifa fija la junta, y, si aplica, la toma de huellas y la evaluación de credenciales para enfermeros formados fuera de EE. UU.`,
   },
   {
     question: `¿Puedo obtener la licencia en ${s.name} si estudié fuera de Estados Unidos?`,
@@ -73,7 +73,7 @@ const faqs = [...generatedFaqs, ...extraFaqs];
     </div>
     <div>
       <p class="text-xs font-bold uppercase tracking-wider text-[#0e497c]">Examen NCLEX-RN</p>
-      <p class="mt-1 font-semibold text-[#2b2c27]">USD 200 por intento (Pearson VUE)</p>
+      <p class="mt-1 font-semibold text-[#2b2c27]">USD 200 por intento si te registras antes del 1-feb-2027; USD 350 desde esa fecha (Pearson VUE)</p>
       <p class="text-xs text-gray-600 mt-1">Unos USD 150 más si lo presentas fuera de EE. UU., Canadá o Australia.</p>
     </div>
   </div>
