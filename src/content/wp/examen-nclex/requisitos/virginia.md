@@ -45,7 +45,7 @@ Virginia exige que todos los solicitantes completen una verificación de anteced
 
 1. Completa la solicitud online en el portal del Virginia Board of Nursing y paga la tarifa de $190.
 2. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales a la Junta, asegurándote de que documenten las 500 horas clínicas.
 5. (Solo para IENs) Envía el reporte de evaluación de credenciales de CGFNS o Josef Silny & Associates.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.

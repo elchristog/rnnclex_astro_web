@@ -5,7 +5,7 @@ description: "Guía paso a paso de los requisitos para el examen NCLEX-RN en Ida
 path: "/examen-nclex/requisitos/idaho/"
 thin: false
 flags: []
-faqs: [{"question":"¿La tarifa de $118.25 cubre todo el proceso con la junta de Idaho?","answer":"Sí, esa tarifa cubre tanto la solicitud de la licencia por examen como el costo de la verificación de antecedentes penales (CBC) que exige la junta. Ten en cuenta que la tarifa de $200 para registrarte en el examen NCLEX con Pearson VUE es un pago separado."},{"question":"Como residente de Idaho, ¿puedo trabajar en estados vecinos como Utah o Wyoming?","answer":"¡Sí! Dado que Idaho, Utah y Wyoming son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Idaho, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto sin necesidad de obtener licencias adicionales."}]
+faqs: [{"question":"¿La tarifa de $118.25 cubre todo el proceso con la junta de Idaho?","answer":"Sí, esa tarifa cubre tanto la solicitud de la licencia por examen como el costo de la verificación de antecedentes penales (CBC) que exige la junta. Ten en cuenta que la tarifa de registro del examen NCLEX con Pearson VUE (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha) es un pago separado."},{"question":"Como residente de Idaho, ¿puedo trabajar en estados vecinos como Utah o Wyoming?","answer":"¡Sí! Dado que Idaho, Utah y Wyoming son todos estados miembros del Nurse Licensure Compact (NLC), si obtienes una licencia multiestado (MSL) en Idaho, podrás ejercer en cualquiera de esos estados y en los demás estados del pacto sin necesidad de obtener licencias adicionales."}]
 ---
 Si tu objetivo es obtener tu licencia de enfermería en el "Estado de la Gema", deberás seguir el proceso de solicitud del Idaho Board of Nursing. Este organismo, que forma parte de la División de Licencias Ocupacionales y Profesionales (DOPL), es el encargado de verificar tu elegibilidad para presentar el examen NCLEX.
 
@@ -44,7 +44,7 @@ Es mandatorio que todos los solicitantes completen una verificación de antecede
 
 1. Completa la solicitud online en el portal del Idaho Board of Nursing y paga la tarifa única de $118.25.
 2. Sigue las instrucciones recibidas para completar la toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Idaho.
 5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 6. Programa tu examen NCLEX en un centro Pearson VUE.

@@ -19,7 +19,7 @@ Si estudias para el NCLEX-RN en español, probablemente ya conoces el banco de p
 
 ## ¿Qué es exactamente un Readiness Assessment?
 
-Un Readiness Assessment es una simulación que usa un algoritmo y datos históricos de rendimiento para estimar tu resultado antes de que gastes los $200 de la tarifa de Pearson VUE. Tras completarlo, recibes uno de tres veredictos:
+Un Readiness Assessment es una simulación que usa un algoritmo y datos históricos de rendimiento para estimar tu resultado antes de que pagues la tarifa de registro de Pearson VUE (USD 200 si te registras antes del 1-feb-2027; USD 350 desde esa fecha). Tras completarlo, recibes uno de tres veredictos:
 
 - **Alta Probabilidad de Pasar** — tu nivel está claramente por encima del estándar de aprobación.
 - **Probabilidad Límite (Borderline)** — estás justo en la frontera; el resultado real sería impredecible.
@@ -53,7 +53,7 @@ En el examen real, la tecnología CAT termina cuando el sistema alcanza un **95%
 
 **Probabilidad Límite (Borderline):** es la señal más valiosa del test, porque los candidatos que se presentan en esta zona reprueban con frecuencia. Vuelve al banco de preguntas, enfócate en tus 2 o 3 áreas más débiles y repite el test en 1 a 2 semanas.
 
-**Baja Probabilidad de Pasar:** información, no castigo. Significa que el test detectó brechas antes de que las detectara Pearson VUE por $200. Ajusta tu plan — por ejemplo con un [plan de estudio de 8 semanas](/estrategias-examen/plan-estudio-nclex-8-semanas/) — y repite.
+**Baja Probabilidad de Pasar:** información, no castigo. Significa que el test detectó brechas antes de que las detectara Pearson VUE al costo de otra tarifa de registro (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha). Ajusta tu plan — por ejemplo con un [plan de estudio de 8 semanas](/estrategias-examen/plan-estudio-nclex-8-semanas/) — y repite.
 
 ## Cuándo hacer el Readiness Assessment en tu preparación
 
@@ -67,7 +67,7 @@ Si prefieres la versión técnica de cada herramienta, tienes las páginas espec
 
 - **Presentar el examen con un solo resultado favorable.** Un buen día no es una tendencia. Busca 2 o 3 veredictos de Alta Probabilidad antes de pagar.
 - **Estudiar solo con el porcentaje de aciertos.** Un 70% global puede esconder un 45% en farmacología. El desglose por área es la parte utilizable del reporte.
-- **Hacer el test en condiciones cómodas.** Pausas, apuntes abiertos o responder rápido distorsionan la predicción — y la predicción es lo que vas a usar para decidir si pagas los $200 del intento.
+- **Hacer el test en condiciones cómodas.** Pausas, apuntes abiertos o responder rápido distorsionan la predicción — y la predicción es lo que vas a usar para decidir si pagas la tarifa de registro del intento (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha).
 
 ## Preguntas frecuentes
 

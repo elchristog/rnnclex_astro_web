@@ -54,7 +54,7 @@ Alabama tiene algunos requisitos adicionales importantes que debes tener en cuen
 ## Proceso de Solicitud para Alabama: Resumen Paso a Paso
 
 1. Crea tu cuenta en el portal de la ABN y completa la solicitud online para "Licensure by Examination", pagando la tarifa de $125 o $225.
-2. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+2. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 3. Completa el proceso de huellas dactilares (si aplicas para la licencia MSL).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la ABN.
 5. Espera la confirmación de elegibilidad por parte de la ABN y la recepción de tu Authorization to Test (ATT) por correo electrónico.

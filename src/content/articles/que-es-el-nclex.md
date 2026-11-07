@@ -1,12 +1,12 @@
 ---
 title: "¿Qué es el NCLEX-RN? Guía completa en español"
-seoTitle: "¿Qué es el NCLEX-RN? Guía en español (2026)"
-description: "¿Qué es el NCLEX-RN? Es el examen para obtener tu licencia de enfermería en EE. UU. Formato CAT y NGN, 85 a 150 preguntas, costo y cómo prepararte en español."
+seoTitle: "NCLEX en español: qué es el NCLEX-RN y cómo funciona (2026)"
+description: "NCLEX en español: qué es el NCLEX-RN, el examen para tu licencia de enfermería en EE. UU. Formato CAT y NGN, 85 a 150 preguntas, costo y cómo prepararte."
 date: "2026-10-12T09:00:00"
 section: "estrategias-examen"
 slug: "que-es-el-nclex"
 flags: []
-faqs: [{"question":"¿Qué es el NCLEX?","answer":"El NCLEX-RN (National Council Licensure Examination) es el examen de licencia que deben aprobar los enfermeros y enfermeras registrados para ejercer en Estados Unidos. Lo administra el NCSBN y se presenta en un centro Pearson VUE. Es adaptativo (CAT) y se califica solo como aprobado o reprobado."},{"question":"¿Cuántas preguntas tiene el NCLEX?","answer":"Entre 85 y 150 preguntas. De ellas, 15 son de prueba y no cuentan para tu resultado. El examen termina cuando el sistema tiene 95% de certeza de que superaste o no el estándar, o cuando se acaba el tiempo máximo de 5 horas."},{"question":"¿El NCLEX se puede presentar en español?","answer":"No. El examen oficial se presenta en inglés. Por eso la preparación más eficaz para hispanos es bilingüe: entender el concepto en español y practicar las preguntas y el vocabulario clínico en inglés."},{"question":"¿Qué es el Next Generation NCLEX (NGN)?","answer":"Es la versión del examen vigente desde abril de 2023. Agrega estudios de caso y nuevos tipos de preguntas (matriz, bow-tie, tendencia, arrastrar y soltar) para medir el juicio clínico, además de las preguntas tradicionales."},{"question":"¿Cuánto cuesta el NCLEX?","answer":"La tarifa de Pearson VUE es de USD 200. A eso se suman las tarifas de tu junta estatal de enfermería y, si te formaste fuera de EE. UU., la evaluación de título y el registro internacional."}]
+faqs: [{"question":"¿Qué es el NCLEX?","answer":"El NCLEX-RN (National Council Licensure Examination) es el examen de licencia que deben aprobar los enfermeros y enfermeras registrados para ejercer en Estados Unidos. Lo administra el NCSBN y se presenta en un centro Pearson VUE. Es adaptativo (CAT) y se califica solo como aprobado o reprobado."},{"question":"¿Cuántas preguntas tiene el NCLEX?","answer":"Entre 85 y 150 preguntas. De ellas, 15 son de prueba y no cuentan para tu resultado. El examen termina cuando el sistema tiene 95% de certeza de que superaste o no el estándar, o cuando se acaba el tiempo máximo de 5 horas."},{"question":"¿El NCLEX se puede presentar en español?","answer":"No. El examen oficial se presenta en inglés. Por eso la preparación más eficaz para hispanos es bilingüe: entender el concepto en español y practicar las preguntas y el vocabulario clínico en inglés."},{"question":"¿Qué es el Next Generation NCLEX (NGN)?","answer":"Es la versión del examen vigente desde abril de 2023. Agrega estudios de caso y nuevos tipos de preguntas (matriz, bow-tie, tendencia, arrastrar y soltar) para medir el juicio clínico, además de las preguntas tradicionales."},{"question":"¿Cuánto cuesta el NCLEX?","answer":"La tarifa de registro de Pearson VUE es de USD 200 si te registras antes del 1-feb-2027 (USD 350 desde esa fecha). A eso se suman las tarifas de tu junta estatal de enfermería y, si te formaste fuera de EE. UU., la evaluación de título y el registro internacional."}]
 ---
 
 * * *
@@ -65,7 +65,7 @@ El resumen completo del trámite está en [cómo inscribirte al NCLEX](/proceso-
 
 ## Cuánto cuesta
 
-La tarifa de Pearson VUE es de **USD 200**. A eso se suman las tarifas de tu junta estatal y, para candidatos internacionales, la evaluación del título y recargos del registro. El desglose está en [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/). Si reprobaste, también puedes ver [cuántas veces se puede hacer el NCLEX](/proceso-licencia-homologacion/cuantas-veces-se-puede-hacer-el-nclex/).
+La tarifa de registro de Pearson VUE es de **USD 200 si te registras antes del 1-feb-2027** (USD 350 desde esa fecha; cuenta la fecha de registro, no la del examen). A eso se suman las tarifas de tu junta estatal y, para candidatos internacionales, la evaluación del título y recargos del registro. El desglose está en [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/). Si reprobaste, también puedes ver [cuántas veces se puede hacer el NCLEX](/proceso-licencia-homologacion/cuantas-veces-se-puede-hacer-el-nclex/).
 
 ## Cómo prepararte siendo hispano/a
 
@@ -98,7 +98,7 @@ Es la versión vigente desde abril de 2023. Agrega estudios de caso y nuevos for
 
 ### ¿Cuánto cuesta el NCLEX?
 
-La tarifa de Pearson VUE es de USD 200, más las tarifas de tu junta estatal y, si eres candidato internacional, la evaluación del título.
+La tarifa de registro de Pearson VUE es de USD 200 si te registras antes del 1-feb-2027 (USD 350 desde esa fecha), más las tarifas de tu junta estatal y, si eres candidato internacional, la evaluación del título.
 
 ## El siguiente paso
 

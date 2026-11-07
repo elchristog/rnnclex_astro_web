@@ -47,7 +47,7 @@ Es mandatorio que todos los solicitantes completen una verificación de antecede
 1. Visita el sitio web de Continental Testing Services (CTS) y crea una cuenta.
 2. Completa la solicitud online para "Licensure by Examination for Registered Nurse" y paga la tarifa correspondiente directamente a CTS.
 3. Sigue las instrucciones de CTS para completar la toma de huellas dactilares para el CBC.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales a CTS (o al IDFPR, según te indiquen las instrucciones de CTS).
 6. Espera a que CTS procese tu solicitud y que el IDFPR te declare elegible para recibir tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.

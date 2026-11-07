@@ -25,13 +25,13 @@ Si eres **enfermero formado fuera de Estados Unidos (IEN — Internationally Edu
 2.  Completa evaluación de credenciales si el estado la pide — casi siempre [CGFNS / TruMerit CES Professional Report](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/) (~$485).
 3.  Cumple el requisito de inglés del estado (TOEFL, IELTS u otros aceptados; o exención si aplica).
 4.  Solicita elegibilidad al Board of Nursing + CBC (antecedentes).
-5.  Regístrate y paga el NCLEX en Pearson VUE ($200 por intento).
+5.  Regístrate y paga el NCLEX en Pearson VUE (USD 200 por intento si te registras antes del 1-feb-2027; USD 350 desde esa fecha).
 6.  Recibe el [ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/) y agenda en un centro (EE.UU. o internacional: México, España, Puerto Rico, etc.).
 7.  Presenta el NCLEX-RN (CAT + NGN, hasta 5 horas).
 
 ## Qué sí y qué no cambia para un IEN
 
-**Igual:** contenido del examen, formato NGN, puntuación por CAT, tarifa Pearson de $200, regla de 45 días si reprobás.
+**Igual:** contenido del examen, formato NGN, puntuación por CAT, tarifa Pearson (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha), regla de 45 días si reprobás.
 
 **Distinto:** papelería (CES, licencia extranjera, inglés), tiempos (meses de espera de documentos), a veces tarifa internacional de ~$150 si examinas fuera de EE.UU./Canadá/Australia, y el costo total del primer intento (ver [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/)).
 

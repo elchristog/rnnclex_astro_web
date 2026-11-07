@@ -44,7 +44,7 @@ Vermont exige que todos los solicitantes completen una verificación de antecede
 
 1. Completa la solicitud online en el portal de la OPR de Vermont y paga la tarifa correspondiente.
 2. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
-3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+3. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Vermont.
 5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.

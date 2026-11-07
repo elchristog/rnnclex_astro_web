@@ -7,7 +7,7 @@ updated: "2026-10-11T10:00:00"
 section: "proceso-licencia-homologacion"
 slug: "cuantas-veces-se-puede-hacer-el-nclex"
 flags: []
-faqs: [{"question":"¿Cuántas veces se puede hacer el NCLEX?","answer":"El NCSBN permite hasta 8 intentos al año calendario. Tu junta estatal puede ser más estricta: por ejemplo, Florida limita a 3 intentos y exige un curso de remediación después."},{"question":"¿Cuánto tiempo debo esperar entre intentos?","answer":"Mínimo 45 días entre cada intento, fijado por el NCSBN. Úsalo para analizar tu reporte de desempeño (CPR) y ajustar tu plan de estudio."},{"question":"¿Pago otra vez el examen si repruebo?","answer":"Sí. Cada intento cuesta $200 USD con Pearson VUE, más la reaplicación a tu junta estatal (entre $40 y $250 según el estado)."},{"question":"¿Cómo preparo mi próximo intento?","answer":"Lee tu reporte de desempeño (CPR), enfoca el 80% del estudio en las categorías por debajo del estándar y practica con un banco de preguntas actualizado para NGN, como el de rnnclex.com."}]
+faqs: [{"question":"¿Cuántas veces se puede hacer el NCLEX?","answer":"El NCSBN permite hasta 8 intentos al año calendario. Tu junta estatal puede ser más estricta: por ejemplo, Florida limita a 3 intentos y exige un curso de remediación después."},{"question":"¿Cuánto tiempo debo esperar entre intentos?","answer":"Mínimo 45 días entre cada intento, fijado por el NCSBN. Úsalo para analizar tu reporte de desempeño (CPR) y ajustar tu plan de estudio."},{"question":"¿Pago otra vez el examen si repruebo?","answer":"Sí. Cada intento cuesta USD 200 con Pearson VUE si te registras antes del 1-feb-2027 (USD 350 desde esa fecha), más la reaplicación a tu junta estatal (entre $40 y $250 según el estado)."},{"question":"¿Cómo preparo mi próximo intento?","answer":"Lee tu reporte de desempeño (CPR), enfoca el 80% del estudio en las categorías por debajo del estándar y practica con un banco de preguntas actualizado para NGN, como el de rnnclex.com."}]
 ---
 
 
@@ -47,7 +47,7 @@ El NCSBN aplica estrictamente una regla fundamental: **debes esperar un mínimo 
 Navegar el proceso de reinscripción implica coordinar con dos organizaciones clave: tu Junta de Enfermería estatal (NRB) y el centro de examinación Pearson VUE. Sigue estos pasos cuidadosamente para evitar demoras.
 
 -   **Contacta a tu Junta de Enfermería (NRB)**: Primero, notifícales tu intención de repetir el examen. Ellos te proporcionarán instrucciones claras sobre los formularios de reaplicación y las tarifas estatales correspondientes que debes pagar.
--   **Vuelve a Registrarte con Pearson VUE**: Simultáneamente, debes registrarte de nuevo en el sitio web de [Pearson VUE](https://home.pearsonvue.com/nclex). Aquí también deberás pagar la tarifa del examen de $200 USD. Este es un paso indispensable para cada intento.
+-   **Vuelve a Registrarte con Pearson VUE**: Simultáneamente, debes registrarte de nuevo en el sitio web de [Pearson VUE](https://home.pearsonvue.com/nclex). Aquí también deberás pagar la tarifa de registro: USD 200 si te registras antes del 1-feb-2027; USD 350 desde esa fecha. Este es un paso indispensable para cada intento.
 -   **Espera tu Nueva Autorización para el Examen (ATT)**: Después de registrarte, no podrás programar tu examen de inmediato. Primero, debes recibir un nuevo ATT por correo electrónico, el cual confirma que tu NRB ha verificado tu elegibilidad para un nuevo intento.
 -   **Programa tu Nuevo Examen**: Finalmente, una vez que recibas el ATT, inicia sesión en Pearson VUE y programa tu cita. Asegúrate de hacerlo dentro de la ventana de validez que se indica en el documento.
 
@@ -57,7 +57,7 @@ Navegar el proceso de reinscripción implica coordinar con dos organizaciones cl
 
 Repetir el examen conlleva implicaciones financieras que debes considerar cuidadosamente. Los costos van más allá de la simple tarifa de inscripción.
 
--   **Tarifa de Registro de Pearson VUE:** **$200 USD por cada intento.**
+-   **Tarifa de Registro de Pearson VUE:** **USD 200 por cada intento si te registras antes del 1-feb-2027; USD 350 desde esa fecha.**
 -   **Tarifas de Reaplicación del Estado:** La mayoría de los estados cobran una tarifa adicional que puede oscilar entre $40 y $250.
 -   **Costo de Oportunidad:** Este es, quizás, el costo más grande. El período de espera de 45+ días, sumado al tiempo de preparación adicional, representa una pérdida de ingresos potenciales de miles de dólares como enfermero/a licenciado/a.
 

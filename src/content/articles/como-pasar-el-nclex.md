@@ -185,7 +185,7 @@ Para un candidato que repite la prueba, el éxito requiere un cambio deliberado.
 
 ### **💰 El Cálculo Financiero: Inversión vs. Gasto**
 
-Reprobar el **Examen NCLEX-RN** es costoso. Si consideramos la tarifa de $200 por re-examen y la pérdida de ingresos potenciales de más de $10,000 por el retraso obligatorio de 45 días o más, queda claro que una inversión inicial en una preparación de alta calidad es la decisión financieramente más prudente.
+Reprobar el **Examen NCLEX-RN** es costoso. Si consideramos la tarifa de registro por re-examen (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha) y la pérdida de ingresos potenciales de más de $10,000 por el retraso obligatorio de 45 días o más, queda claro que una inversión inicial en una preparación de alta calidad es la decisión financieramente más prudente.
 
 * * *
 
@@ -207,7 +207,7 @@ La preparación mental para esta prueba de alta exigencia es tan crítica como l
 
 ### **Protocolo Post-Examen**
 
-Oficialmente, los resultados pueden tardar hasta seis semanas. Sin embargo, puedes usar el Servicio de Resultados Rápidos (Quick Results Service) no oficial de Pearson VUE por una pequeña tarifa para conocer tu resultado en 48 horas. Se desaconseja firmemente el uso del "Truco de Pearson VUE" (PVT), ya que no es un método fiable y podría resultar en un cargo accidental de $200 en tu tarjeta.
+Oficialmente, los resultados pueden tardar hasta seis semanas. Sin embargo, puedes usar el Servicio de Resultados Rápidos (Quick Results Service) no oficial de Pearson VUE por una pequeña tarifa para conocer tu resultado en 48 horas. Se desaconseja firmemente el uso del "Truco de Pearson VUE" (PVT), ya que no es un método fiable y podría resultar en un cargo accidental en tu tarjeta (la tarifa de registro: USD 200 antes del 1-feb-2027; USD 350 desde esa fecha).
 
 ## Pasa el NCLEX a la primera
 

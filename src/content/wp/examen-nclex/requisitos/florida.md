@@ -46,7 +46,7 @@ Antes de que tu licencia pueda ser emitida, es un requisito mandatorio completar
 1. Completa el curso de 2 horas de Prevención de Errores Médicos.
 2. Inicia tu solicitud online en el MQA Services Portal y paga la tarifa.
 3. Completa la toma de huellas electrónicas a través de un proveedor Livescan.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Florida.
 6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.

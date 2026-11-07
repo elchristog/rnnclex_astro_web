@@ -113,7 +113,7 @@ El CES no va solo: es el paso 2 de un proceso con orden fijo.
 2. **Abre tu solicitud en TruMerit** y paga el servicio correcto (para la mayoría: CES Professional Report, $485).
 3. **Tu escuela y tu autoridad de licencia envían los documentos** directamente a TruMerit. Tú solo empuja ese trámite a diario.
 4. **TruMerit emite el reporte a tu junta**, que te declara elegible.
-5. **Te registras y pagas el NCLEX en Pearson VUE** ($200) y recibes el **[ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/)**, la autorización para agendar tu cita.
+5. **Te registras y pagas el NCLEX en Pearson VUE** (USD 200 antes del 1-feb-2027; USD 350 desde esa fecha) y recibes el **[ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/)**, la autorización para agendar tu cita.
 6. **Agendas tu fecha** y presentas el examen (la guía de [fechas y centros](/examen-nclex/fechas/) cubre esa parte).
 
 El panorama completo de los 7 pasos, con costos totales, está en la [guía para enfermeros extranjeros (IENs)](/proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/), y el detalle de qué significa homologar en la [guía de homologación de título](/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/).

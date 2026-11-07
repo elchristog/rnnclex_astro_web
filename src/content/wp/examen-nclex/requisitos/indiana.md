@@ -45,7 +45,7 @@ Indiana exige que todos los solicitantes de la licencia de enfermería completen
 1. Crea una cuenta en el portal MyLicense de la IPLA de Indiana.
 2. Completa la solicitud online para "Licensure by Examination" y realiza el pago de la tarifa indicada.
 3. Sigue las instrucciones del portal para completar la verificación de antecedentes penales.
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe prueba de tu graduación o tus transcripciones oficiales a la Junta de Indiana.
 6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 7. Programa tu examen NCLEX en un centro Pearson VUE.

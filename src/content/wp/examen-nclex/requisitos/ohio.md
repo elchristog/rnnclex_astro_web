@@ -49,7 +49,7 @@ El Ohio Board of Nursing recomienda encarecidamente que los estudiantes de enfer
 1. (4-8 meses antes de graduarte) Crea una cuenta en el Ohio eLicense System.
 2. Completa la solicitud online para "Licensure by Examination" y paga la tarifa ($75 o $100).
 3. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC (BCI y FBI).
-4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de $200.
+4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Solicita a tu escuela que envíe tus transcripciones oficiales a la OBN justo después de tu graduación.
 6. Espera la aprobación final y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.
