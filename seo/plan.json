@@ -2,6 +2,41 @@
   "_nota": "Plan de articulos SEO de rnnclex.com (Ryze). Estados: planned | writing | published | merged. Las tareas de publicacion (lunes/jueves) toman items 'planned' y los escriben; NO marcar aqui lo que otra tarea este escribiendo. Actualizado 2026-11-03 por Ryze (tarea de publicacion): 2 articulos nuevos publicados (plan-estudio-nclex-4-semanas, como-ser-enfermera-en-estados-unidos), 2 refresh aplicados (cuanto-cuesta: firma E-E-A-T + fuente NCSBN; como-inscribirte-2025: titulo 2026, tarifa 2027, firma y enlaces, sin redirect — ver cannibalization.json). Sin pilar nuevo: ningun cluster con 5+ satelites publicados. Backlinks: 4 articulos publicados desde el ultimo intercambio y sin socios disponibles (list_objects mentions type=backlink devolvio 0 filas) — no se inserto enlace de socio; el 3er articulo de la cuenta debe llevarlo cuando haya socio. Evaluacion 90 dias en la clave 'evaluacion_90_dias'.",
   "edits": [
     {
+      "url": "/preparacion-nclex/preguntas-practica/",
+      "fecha": "2026-11-08",
+      "tipo": "on-page CTR (Ryze, refresh pendiente del plan dia 8)",
+      "ventana_gsc": "2026-10-11 a 2026-11-07",
+      "antes": { "impresiones": 48, "clics": 1, "posicion": 25.6, "ctr": 0.021 },
+      "despues": { "title": "Preguntas NCLEX gratis por categorías | Banco +3500", "description": "Practica preguntas NCLEX de muestra gratis por categoría (Salud del Adulto, Farmacología, Mental Health y más) y crea tu cuenta gratis: +3500 preguntas CAT y NGN por USD 19/mes.", "h1": "Preguntas NCLEX de muestra gratis, por categoría", "cambios": "respuesta directa en las 2 primeras lineas del hero, FAQ de 4 preguntas alineadas al title (frontmatter + visible), bloque 'Actualizado: 8 de noviembre de 2026' con fuente NCSBN enlazada y regla de tarifa (USD 200 hasta 1-feb-2027), CTA unico a /prueba-gratis/ (boton principal, FAQ y cierre)." },
+      "evaluar_el": "2026-12-06"
+    },
+    {
+      "url": "/blog/",
+      "fecha": "2026-11-08",
+      "tipo": "on-page CTR (Ryze, refresh pendiente del plan dia 8)",
+      "ventana_gsc": "2026-10-11 a 2026-11-07",
+      "antes": { "impresiones": 28, "clics": 0, "posicion": 25.6, "ctr": 0 },
+      "despues": { "cambios": "nueva seccion 'Empieza por aqui' con 3 lecturas ancla (que-es-el-nclex, plan-8-semanas, cuanto-cuesta) y CTA a /prueba-gratis/; title y description se mantienen (ya cumplen norma)." },
+      "evaluar_el": "2026-12-06"
+    },
+    {
+      "url": "/precios/ (CRO, registro completo en cro-log.json)",
+      "fecha": "2026-11-08",
+      "tipo": "CRO + diseno",
+      "antes": { "sesiones_28d": 218, "bounce": 0.74, "view_pricing_sitio": 368, "signup_sitio": 115 },
+      "despues": { "cambios": "CTA fijo en movil, urgencia tarifa NCSBN USD 350 (1-feb-2027) con enlace a cuanto-cuesta-el-nclex, title/description nuevos con la oferta al inicio." },
+      "evaluar_el": "2026-11-22"
+    },
+    {
+      "url": "/examen-nclex/fechas/",
+      "fecha": "2026-11-08",
+      "tipo": "evaluacion (Ryze, revision a +28 dias)",
+      "ventana_gsc": "2026-10-11 a 2026-11-07",
+      "antes": { "impresiones": 45, "clics": 1, "posicion": 15.7, "ctr": 0.022 },
+      "despues": { "veredicto": "no revertir: impresiones 36->45 (+25%) pero CTR sigue bajo (2.2%) y clico solo 1 en 28d; la edicion del 17-oct no empeoro, no alcanza a probarse; reevaluar el 2026-12-06 con ventana mas larga." },
+      "evaluar_el": "2026-12-06"
+    },
+    {
       "url": "/examen-nclex/fechas/",
       "fecha": "2026-10-17",
       "tipo": "on-page CTR (Ryze, optimizacion pagina estancada)",
@@ -196,7 +231,8 @@
       "condiciones_cumplidas": {"serp_espanol_debil": "KD 3-6, nuestras posiciones 61-74 vs. rank-lost no saturado", "datos_verificables": "vol 210 + 170, CPC 4.67-6.02 (DataForSEO 1-nov-2026)", "lleva_a_dinero": "CTA a /prueba-gratis/"},
       "origen": "keywords propias (rnnclex ya rankea 61-74 con estas páginas)",
       "angulo": "Refresh: FAQ + tabla CAT/NGN del Readiness Assessment real y CTA a la app. Bilingüe con terminología NCLEX.",
-      "nota_2026-11-03": "La tarea evaluo este item para esta ejecucion y lo descarto por fuera de zona: es pagina de producto (src/pages/preparacion-nclex/), no articulo. Pendiente para la tarea de Optimizacion (dia 8).",
+      "nota_2026-11-03": "La tarea evaluo este item para esta ejecucion y lo descarto por fuera de zona: es pagina de producto (src/pages/preparacion-nclex/), no articulo. Hecho por la tarea de Optimizacion el 2026-11-08 (registro en edits[]).",
+      "nota_2026-11-08_optimizacion": "LA TAREA DE OPTIMIZACION NO PUDO HACER ESTE REFRESH: la pagina fue editada el 2026-11-07 (PRs #36-#37), hace menos de 28 dias. Reintentar el 2026-12-06.",
       "backlinks": {"published_since_last_exchange": 4, "log": []},
       "edits": [],
       "indexation": [],
@@ -218,7 +254,7 @@
       "condiciones_cumplidas": {"serp_espanol_debil": "KD 26, sin dominio hispano top-20", "datos_verificables": "vol 30 + CPC 12.34 (DataForSEO 1-nov-2026)", "lleva_a_dinero": "CTA a /prueba-gratis/"},
       "origen": "keywords propias (rnnclex ya rankea pos 71 con esta página)",
       "angulo": "Refresh: tabla de estados con links a las 14 páginas hijas, bloques por IEN vs. graduado de EE.UU., FAQ de requisitos más buscados (Florida, California, Texas), CTA.",
-      "nota_2026-11-03": "Página de producto, fuera de la zona de la tarea de publicacion de articulos. Pendiente para la tarea de Optimizacion (dia 8).",
+      "nota_2026-11-03": "Página de producto, fuera de la zona de la tarea de publicacion de articulos. HECHO PARCIALMENTE el 2026-11-08: requisitos/ bloqueado (editado 7-nov, <28d) y reintento el 2026-12-06; las paginas hijas de estados con impresiones (montana 37 imp, connecticut 14) tambien caen bajo la regla de 28 dias.",
       "backlinks": {"published_since_last_exchange": 4, "log": []},
       "edits": [],
       "indexation": [],
@@ -240,7 +276,7 @@
       "condiciones_cumplidas": {"serp_espanol_debil": "KD 14, sin dominio hispano en top-20", "datos_verificables": "vol 30, tendencia +200% q/q (DataForSEO 1-nov-2026)", "lleva_a_dinero": "lead magnet captura correo y lleva a /prueba-gratis/"},
       "origen": "tendencia propia (rnnclex rankea pos 38 con /blog/)",
       "angulo": "Refresh del hub del blog: guía rápida 'NCLEX en español' arriba + link a PDF descargable (guía de 90 días) con correo. Sin PDF si no existe aún: solo mover la guía principal al hub.",
-      "nota_2026-11-03": "Página de producto (src/pages/blog), fuera de la zona de la tarea de publicacion de articulos. Pendiente para la tarea de Optimizacion (dia 8).",
+      "nota_2026-11-03": "Página de producto (src/pages/blog), fuera de la zona de la tarea de publicacion de articulos. HECHO el 2026-11-08 por la tarea de Optimizacion (registro en edits[]).",
       "backlinks": {"published_since_last_exchange": 4, "log": []},
       "edits": [],
       "indexation": [],
@@ -262,7 +298,7 @@
       "condiciones_cumplidas": {"serp_espanol_debil": "KD 12, FAQ sin dominio hispano top-20", "datos_verificables": "vol 50, +40% q/q, CPC 8.80 (DataForSEO 1-nov-2026)", "lleva_a_dinero": "CTA a /prueba-gratis/"},
       "origen": "keywords propias (rnnclex ya rankea pos 72 con /faq/)",
       "angulo": "Refresh: ampliar FAQ con las 4 preguntas más buscadas ('nclex que es', 'cuanto dura', 'cuantas preguntas', 'cuando salen los resultados') y enlazar al pilar.",
-      "nota_2026-11-03": "Página de producto (src/pages/faq.astro), fuera de la zona de la tarea de publicacion de articulos. Pendiente para la tarea de Optimizacion (dia 8).",
+      "nota_2026-11-03": "Página de producto (src/pages/faq.astro), fuera de la zona de la tarea de publicacion de articulos. LA TAREA DE OPTIMIZACION NO PUDO HACER ESTE REFRESH: la pagina fue editada el 2026-10-12, hace 27 dias (<28). Reintentar el 2026-12-06.",
       "backlinks": {"published_since_last_exchange": 4, "log": []},
       "edits": [],
       "indexation": [],
