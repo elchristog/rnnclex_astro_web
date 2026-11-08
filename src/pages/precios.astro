@@ -71,6 +71,9 @@ const faqs = [
           Crear cuenta y suscribirme por USD {site.offer.price}/mes
         </a>
         <p class="mt-2 text-sm font-semibold text-slate-700 text-center">Cancela cuando quieras.</p>
+        <p class="mt-3 text-sm text-slate-700 text-center leading-relaxed">
+          ⏳ La tarifa oficial del examen NCLEX sube de USD 200 a USD 350 a partir del 1 de febrero de 2027 (se cobra según la fecha de registro). <a href="/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/" class="font-semibold text-[#0e497c] underline underline-offset-2 hover:text-[#0b3b64]">Ver los costos del examen</a>.
+        </p>
         <ul class="mt-6 space-y-3 text-slate-700">
           {features.map((f) => <li class="flex gap-3"><span class="text-emerald-600 font-bold">✓</span><span>{f}</span></li>)}
         </ul>
@@ -129,4 +132,16 @@ const faqs = [
       <p class="mt-4 text-xs text-blue-200">Pago seguro con Stripe dentro de la plataforma. Cancela cuando quieras.</p>
     </div>
   </section>
+
+  {/* CTA fijo en móvil: siempre visible mientras se hace scroll */}
+  <div class="md:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur border-t border-slate-200 px-4 py-3">
+    <a
+      href={site.appUrl}
+      data-cta="app"
+      class="block bg-[#0e497c] hover:bg-[#0b3b64] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#003388] text-white font-bold text-base min-h-[48px] py-3 rounded-xl text-center tracking-wide transition"
+    >
+      Empezar por USD {site.offer.price}/mes
+    </a>
+  </div>
+  <div class="md:hidden h-20" aria-hidden="true"></div>
 </BaseLayout>
