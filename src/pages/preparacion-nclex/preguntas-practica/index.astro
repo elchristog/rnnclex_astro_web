@@ -1,17 +1,40 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+const faqsQbank = [
+  {
+    question: "¿Sus preguntas son más difíciles que las del NCLEX real?",
+    answer: "Nuestro objetivo es que sean realistas. Algunas preguntas te parecerán más difíciles y otras más sencillas, exactamente como en el examen real. Están calibradas para reflejar el nivel de pensamiento crítico que exige el NCLEX.",
+  },
+  {
+    question: "¿Cuál es el mejor banco de preguntas (Qbank) para NCLEX RN?",
+    answer: "El mejor Qbank no es el que tiene más preguntas, sino el que combina realismo (formatos NGN y CAT), justificaciones detalladas de cada opción y volumen suficiente (más de 3,000 preguntas). El de rnnclex.com cumple los tres criterios y puedes comprobarlo con las preguntas de muestra de esta página.",
+  },
+  {
+    question: "¿Dónde puedo practicar preguntas de estilo NCLEX gratis?",
+    answer: "Aquí mismo y en la prueba gratis de rnnclex.com: con tu cuenta gratuita accedes a 2 módulos introductorios, 2 competencias grupales y preguntas de muestra por categoría, sin límite de tiempo y sin pagar.",
+  },
+  {
+    question: "¿Qué tan grande es el banco de preguntas para el examen NCLEX?",
+    answer: "El banco oficial del NCSBN es confidencial. En rnnclex.com nuestro Qbank cuenta con más de 3,500 preguntas actualizadas al formato Next Generation (NGN), suficiente para cubrir todas las categorías del examen sin repetir preguntas.",
+  },
+];
 ---
 
 <BaseLayout 
-  title="+3500 preguntas NCLEX en inglés y español | Muestra gratis" 
-  description="Banco de +3500 preguntas NCLEX-RN bilingüe con justificaciones, NGN y simulacros. Prueba preguntas de muestra gratis y prepárate con CAT realista."
+  title="Preguntas NCLEX gratis por categorías | Banco +3500" 
+  description="Practica preguntas NCLEX de muestra gratis por categoría (Salud del Adulto, Farmacología, Mental Health y más) y crea tu cuenta gratis: +3500 preguntas CAT y NGN por USD 19/mes."
 >
   <!-- Hero Section -->
   <section id="section-2-224" class="ct-section border-t border-gray-200 text-center">
     <div class="ct-section-inner-wrap py-10 px-5 max-w-6xl mx-auto flex flex-col items-center">
       <h1 id="headline-4-224" class="atomic-primary-heading text-4xl md:text-5xl font-bold text-[#2b2c27] mb-3">
-        Banco de Preguntas de Práctica para el NCLEX-RN (Qbank)
+        Preguntas NCLEX de muestra gratis, por categoría
       </h1>
+
+      <p class="text-lg md:text-xl text-[#070707] max-w-4xl text-center mb-6 leading-relaxed">
+        Practica preguntas de muestra del NCLEX-RN en las 8 categorías del examen y, cuando estés listo, accede al banco completo: más de 3500 preguntas CAT y NGN en inglés y español por USD 19 al mes.
+      </p>
       
       <img 
         src="/images/wp/banco-preguntas-nclex-ngn-rnnclex.webp" 
@@ -36,8 +59,10 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
         target="_blank"
         rel="noopener noreferrer"
       >
-        Empezar ahora — USD 19/mes
+        Empezar gratis con Google
       </a>
+
+      <p class="text-sm text-[#0e497c] font-semibold my-2">Actualizado: 8 de noviembre de 2026 · Fuente oficial del examen: <a href="https://www.ncsbn.org/" class="underline">NCSBN</a> · Tarifa de registro: USD 200 hasta el 1-feb-2027 (USD 350 después, según la fecha de registro)</p>
 
       <div id="text_block-412-102" class="atomic-subheading text-lg md:text-xl text-[#2b2c27] text-justify my-8 max-w-4xl">
         La práctica constante y estratégica es la clave para aprobar el examen NCLEX. Pero no todas las preguntas de práctica del NCLEX (nclex practice questions) son iguales. Necesitas un recurso que no solo te desafíe, sino que te enseñe a pensar como el NCLEX.<br/><br/>
@@ -297,59 +322,21 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
         Preguntas Frecuentes sobre el Qbank
       </h3>
 
-      <img 
-        src="/images/wp/evaluacion-habilidad-nclex-cat-readiness.webp" 
-        alt="Dashboard de evaluación de habilidad de rnnclex.com, mostrando los resultados de un Readiness Assessment." 
-        class="max-w-xs w-full mb-10 rounded-xl"
-      />
-
       <div class="space-y-6 w-full">
-        <!-- FAQ Item 1 -->
-        <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-          <h4 class="text-xl font-bold text-[#0e497c] mb-3">¿Sus preguntas son más difíciles que las del NCLEX real?</h4>
-          <p class="text-gray-700 text-base leading-relaxed">
-            Nuestro objetivo es que sean realistas. Algunas preguntas te parecerán más difíciles y otras más sencillas, exactamente como en el examen real. Están calibradas para reflejar el nivel de pensamiento crítico que exige el NCLEX.
-          </p>
-        </div>
-
-        <!-- FAQ Item 2 -->
-        <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-          <h4 class="text-xl font-bold text-[#0e497c] mb-3">¿Cuál es el mejor banco de preguntas (Qbank) para NCLEX RN?</h4>
-          <div class="text-gray-700 text-base leading-relaxed space-y-3">
-            <p>El "mejor" banco de preguntas para el NCLEX no es necesariamente el que tiene más preguntas, sino el que cumple con ciertos criterios de calidad cruciales. Al evaluar un Qbank, debes buscar:</p>
-            <p><b>Realismo y Actualización:</b> Las preguntas deben imitar el estilo, la dificultad y los formatos del examen real, incluyendo una cobertura completa del Next Generation NCLEX (NGN).</p>
-            <p><b>Calidad de las Justificaciones:</b> Una característica indispensable. El Qbank debe explicarte en detalle no solo por qué la respuesta correcta es la correcta, sino también por qué las opciones incorrectas son incorrectas.</p>
-            <p><b>Volumen Suficiente:</b> Un banco de preguntas con más de 3,000 preguntas garantiza que tendrás suficiente material para practicar sin ver repeticiones constantes.</p>
-            <p><b>Funcionalidad y Análisis:</b> La capacidad de crear exámenes personalizados por tema y de analizar tu rendimiento para identificar áreas débiles es fundamental.</p>
-            <p>En rnnclex.com, hemos diseñado nuestro Qbank para sobresalir en cada uno de estos puntos. Te invitamos a comprobarlo con las preguntas de muestra gratuitas de esta página.</p>
+        {faqsQbank.map((f) => (
+          <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
+            <h4 class="text-xl font-bold text-[#0e497c] mb-3">{f.question}</h4>
+            <p class="text-gray-700 text-base leading-relaxed">{f.answer}</p>
           </div>
-        </div>
-
-        <!-- FAQ Item 3 -->
-        <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm">
-          <h4 class="text-xl font-bold text-[#0e497c] mb-3">¿Dónde puedo practicar preguntas de estilo NCLEX?</h4>
-          <div class="text-gray-700 text-base leading-relaxed space-y-3">
-            <p>¡Estás en el lugar indicado! rnnclex.com es una plataforma especializada que te ofrece múltiples formas de practicar preguntas de estilo NCLEX:</p>
-            <p><b>Nuestro Qbank Premium:</b> Es la forma más completa, con más de 3,500 preguntas realistas. Accedes a todo el banco con la suscripción de USD 19 al mes desde la plataforma.</p>
-            <p><b>Preguntas de Muestra por Categoría:</b> Si quieres tener una idea de nuestro estilo, puedes explorar las preguntas de muestra gratuitas que ofrecemos en las 8 áreas principales del examen.</p>
-          </div>
-        </div>
-
-        <!-- FAQ Item 4 -->
-        <div class="bg-white p-6 rounded-xl border border-gray-200 shadow-sm flex flex-col justify-between">
-          <div>
-            <h4 class="text-xl font-bold text-[#0e497c] mb-3">¿Qué tan grande es el banco de preguntas para el examen NCLEX?</h4>
-            <p class="text-gray-700 text-base leading-relaxed mb-6">
-              Es importante diferenciar dos cosas. El banco de preguntas oficial del NCSBN es confidencial. Sin embargo, en rnnclex.com, nuestro Qbank cuenta con más de 3,500 preguntas actualizadas. Este volumen es ideal porque te permite cubrir a fondo todas las categorías del examen sin repetir preguntas.
-            </p>
-          </div>
-          <div class="text-center md:text-left">
-            <a class="inline-block bg-[#0e497c] text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-900 transition-colors text-sm" href="https://rnnclex-frontend-v2-989579164577.us-central1.run.app/dashboard-user" data-cta="app" target="_blank" rel="noopener noreferrer">
-              Empezar ahora — USD 19/mes
-            </a>
-          </div>
-        </div>
+        ))}
       </div>
+
+      <a 
+        class="atomic-primary-button inline-block bg-[#0e497c] text-white font-bold text-lg md:text-xl py-4 px-8 rounded-lg hover:bg-blue-900 transition-colors mt-10" 
+        href="/prueba-gratis/" data-cta="prueba-gratis-desde-preguntas"
+      >
+        Crea tu cuenta gratis y empieza a practicar
+      </a>
     </div>
   </section>
 </BaseLayout>
