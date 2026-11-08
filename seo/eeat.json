@@ -1,0 +1,40 @@
+{
+  "ultima_auditoria": "2026-11-08",
+  "paginas_revisadas": [
+    {
+      "url": "/quienes-somos/",
+      "estado": "ok",
+      "hallazgos": "Marca independiente declarada en la pagina; sin menciones a Enfermera en Estados Unidos ni a ex-miembros del equipo."
+    },
+    {
+      "url": "/equipo/",
+      "estado": "ok",
+      "hallazgos": "Alejandra Barreto, RN, BSN, Lider del Programa rnnclex: nombre, foto, cargo y credenciales presentes. Christian Gonzalez (CEO) y Alejandra Martinez (cofundadora) correctos."
+    },
+    {
+      "url": "articulos (ProseLayout)",
+      "estado": "ok",
+      "hallazgos": "Firma 'Escrito por' con enlace a /equipo/ presente en la plantilla de articulos; fecha de actualizacion visible."
+    },
+    {
+      "url": "schema (JsonLd)",
+      "estado": "ok",
+      "hallazgos": "Organization/schema con sameAs limitado a las redes oficiales de rnnclex (YouTube @rnnclex-usa, Instagram @rnnclex.usa, Facebook rnnclex.usa, TikTok @rnnclex.com, LinkedIn company/rnnclex-com); sin WhatsApp ni enlaces de otros negocios."
+    },
+    {
+      "url": "politica editorial",
+      "estado": "ok",
+      "hallazgos": "Politica editorial y fuentes oficiales (NCSBN, Pearson VUE, CGFNS) enlazadas en articulos y paginas de datos; tarifa del NCLEX citada con regla de fecha de registro y vigencia 1-feb-2027."
+    },
+    {
+      "url": "busqueda 'Bingley' / 'Andres Cruz' en sitio y repo",
+      "estado": "ok",
+      "hallazgos": "0 resultados en contenido, schema, autores o paginas de equipo. Restan solo 2 archivos de imagen sin uso en public/ (recreo-4.png, recreo-5.png) que no se sirven en ninguna pagina."
+    },
+    {
+      "url": "verificacion externa",
+      "estado": "punto humano",
+      "hallazgos": "1) La pagina de LinkedIn de rnnclex sigue publicando posts que llevan a bit.ly/45SidF6 (WhatsApp de otro negocio): no afecta el schema del sitio, pero la marca sigue mezclada alli. 2) LinkedIn rechaza el fetch automatico (999): verificar la URL en un navegador; YouTube igual. 3) La pagina /equipo/ no muestra (o no se verifico) credenciales verificables publicas de Barreto (numero de licencia RN o estado): si el cliente quiere validar E-E-A-T ante Google, anadir el estado de licencia o enlace al board verificable."
+    }
+  ]
+}
