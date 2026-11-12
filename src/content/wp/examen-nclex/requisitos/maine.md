@@ -39,7 +39,7 @@ Maine exige que todos los solicitantes completen una verificación de antecedent
 ### Mandatos y Notas Específicas del Estado
 
 **Requisito Indispensable:** Número de Seguro Social (SSN)
-La Junta de Enfermería de Louisiana exige que todos los solicitantes posean un Número de Seguro Social (SSN) de EE. UU. válido para poder emitir una licencia. Los solicitantes sin un SSN no podrán completar el proceso de licenciamiento en este estado.
+La Junta de Enfermería de Maine exige que todos los solicitantes posean un Número de Seguro Social (SSN) de EE. UU. válido para poder emitir una licencia. Los solicitantes sin un SSN no podrán completar el proceso de licenciamiento en este estado.
 
 **Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, deberás presentar una prueba de competencia en el idioma inglés.
 
