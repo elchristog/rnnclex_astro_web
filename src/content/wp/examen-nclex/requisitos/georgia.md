@@ -40,7 +40,7 @@ Georgia exige que todos los solicitantes completen una verificación de antecede
 
 Prueba de Ciudadanía o Presencia Legal: Deberás presentar un documento válido que acredite tu ciudadanía estadounidense o tu estatus de presencia legal en el país para poder obtener la licencia.
 
-## Proceso de Solicitud para Florida: Resumen Paso a Paso
+## Proceso de Solicitud para Georgia: Resumen Paso a Paso
 
 1. Completa la solicitud (online o por correo) con el Georgia Board of Nursing y paga la tarifa de $40.
 2. Regístrate con GAPS/Gemalto para programar tu cita de toma de huellas dactilares para el CBC.
