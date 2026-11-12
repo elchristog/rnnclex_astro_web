@@ -62,7 +62,7 @@ El Ohio Board of Nursing recomienda encarecidamente que los estudiantes de enfer
 
 — Carlos V., RN
 
-"La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing de Florida me salvaron de muchos dolores de cabeza. ¡Gracias!"
+"La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing me salvaron de muchos dolores de cabeza. ¡Gracias!"
 
 — Jessica H., RN
 
