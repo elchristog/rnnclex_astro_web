@@ -1,7 +1,7 @@
 ---
 title: "Guía Completa: Requisitos para el Examen NCLEX-RN en Minnesota"
 seoTitle: "Requisitos para el Examen NCLEX en Minnesota"
-description: "Guía paso a paso de los requisitos para el NCLEX-RN en Oklahoma. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Oklahoma Board of Nursing."
+description: "Guía paso a paso de los requisitos para el NCLEX-RN en Minnesota. Información sobre tarifas, NLC, CBC, y el proceso de solicitud con el Minnesota Board of Nursing."
 path: "/examen-nclex/requisitos/minnesota/"
 thin: false
 flags: []
@@ -61,7 +61,7 @@ Minnesota exige que todos los solicitantes completen una verificación de antece
 
 — Carlos V., RN
 
-"La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing de Florida me salvaron de muchos dolores de cabeza. ¡Gracias!"
+"La mejor inversión de mi preparación. Las guías sobre los requisitos del Board of Nursing me salvaron de muchos dolores de cabeza. ¡Gracias!"
 
 — Jessica H., RN
 

@@ -22,6 +22,22 @@ function rehypeFreeTrialLinks() {
   return (tree) => walk(tree);
 }
 
+// Reglas SEO tecnico (REGLAS.md punto 6): lazy loading y decodificacion async en toda
+// imagen de contenido. width/height NO se inyectan aqui: un ratio inventado distorsiona
+// la imagen; se agregan manualmente por imagen cuando se conocen las dimensiones reales.
+function rehypeImagePerf() {
+  return (tree) => {
+    const walk = (node) => {
+      if (node.type === 'element' && node.tagName === 'img') {
+        if (!node.properties.loading) node.properties.loading = 'lazy';
+        if (!node.properties.decoding) node.properties.decoding = 'async';
+      }
+      (node.children || []).forEach(walk);
+    };
+    walk(tree);
+  };
+}
+
 export default defineConfig({
   site: 'https://rnnclex.com',
   trailingSlash: 'always',
@@ -38,7 +54,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   markdown: {
-    rehypePlugins: [rehypeFreeTrialLinks],
+    rehypePlugins: [rehypeFreeTrialLinks, rehypeImagePerf],
     shikiConfig: {
       theme: "github-dark",
     }

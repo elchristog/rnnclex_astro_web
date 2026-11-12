@@ -1,5 +1,34 @@
 [
   {
+    "fecha": "2026-11-12",
+    "hallazgos": [
+      "Punto 8 (paginas de estado): los 48 wp (todos menos west-virginia y wyoming, que no tienen wp) llevaban 'Board of Nursing de Florida' en el 2o testimonio; corregido a 'requisitos del Board of Nursing' en los 47 no-Florida",
+      "minnesota.md: description copiada de Oklahoma (decia 'NCLEX-RN en Oklahoma... Oklahoma Board of Nursing') -> corregida a Minnesota",
+      "georgia.md: encabezado 'Proceso de Solicitud para Florida' -> corregido a Georgia",
+      "maine.md: parrafo SSN citaba 'La Junta de Enfermeria de Louisiana' -> corregido a Maine",
+      "south-dakota.md: typo 'Proceso de Solicitu' -> corregido",
+      "GA4 (prop 555401479, 16-oct a 12-nov): signup 127 eventos / 126 usuarios = ratio 1,008 (sin doble disparo); purchase 4 eventos con transaction_id unico y value 19 USD cada uno (sin duplicados). signup y purchase ya son key events (verificado via Admin API)",
+      "Robots en vivo: robotsTxtState ALLOWED en inspectUrl de home y 4 paginas mas (el 16-oct el log apuntaba copia cacheada; hoy Google la lee bien). robots.txt en repo intacto y correcto (bloquea solo /author/, declara sitemap)",
+      "Canonicals: spot-check de 5 URLs (home, /precios/, /examen-nclex/fechas/, /examen-nclex/inscripcion/, /examen-nclex/requisitos/florida/): absolutos, https, sin www, con barra final, igual al sitemap. minnesota y texas siguen 'Crawled - currently not indexed' (lastCrawl 30-jun, previo al contenido actual): no son canonicals rotos, falta re-rastrado",
+      "PageSpeed API no accesible desde este entorno (3 intentos fallidos); LCP/INP/CLS sin medicion hoy. Chequeo manual: imagen destacada de /fechas/ es WebP con alt descriptivo y lazy (via plugin rehypeImagePerf); sin fetchpriority porque se inyecta lazy en todo contenido y no se quiere contradecir el LCP; imagen requisitos-nclex-por-estado.webp pesa 210KB (>150KB): conversion a AVIF o re-compresion pendiente (necesita herramienta de imagen, no disponible desde API de GitHub)",
+      "llms.txt en vivo verificado: incluye paginas clave y articulos; minnesota aparece alli con description vieja (se corrige al desplegar este PR)"
+    ],
+    "cambios": [
+      "47 archivos src/content/wp/examen-nclex/requisitos/<estado>.md: testimonio 2 sin 'de Florida'",
+      "minnesota.md: description con Minnesota en vez de Oklahoma",
+      "georgia.md: encabezado con Georgia en vez de Florida",
+      "maine.md: parrafo SSN con Maine en vez de Louisiana",
+      "south-dakota.md: typo 'Solicitu' corregido",
+      "astro.config.mjs: rehypeImagePerf anade loading=lazy y decoding=async a toda imagen de contenido markdown (sin tocar HTML de articulos ni metas). No se inyectan width/height: sin dimensiones reales verificadas, un ratio inventado distorsiona la imagen"
+    ],
+    "dudas": [
+      "requisitos-nclex-por-estado.webp (210KB) e inscripcion-registro-nclex-pearson-vue.webp (133KB): recomprimir/reconvertir a AVIF o WebP de menor calidad conservando el original - requiere herramienta de imagen local o pipeline de build, no disponible desde API de GitHub",
+      "width/height de las imagenes de contenido: hay que leer las dimensiones reales de cada .webp (ImageMagick `identify`) y anadirlas a los .md o al plugin; sin ellas el CLS real no se puede corregir sin riesgo de distorsion",
+      "fetchpriority=high en la imagen LCP de /fechas/ (y las demas paginas con imagen destacada arriba): requiere saber cual es la primera imagen above-the-fold de cada plantilla; sin PageSpeed no se puede confirmar el LCP real"
+    ],
+    "punto_humano": "Ninguno obligatorio: GA4 key events ya configurados; robots.txt ya correcto en vivo; canonicals ok. Pendiente (no urgente): recompresion de 2 imagenes pesadas y width/height por imagen, ambos listados en 'dudas'"
+  },
+  {
     "fecha": "2026-10-16",
     "hallazgos": [
       "JsonLd.astro emitia EducationalOccupationalProgram en TODAS las paginas (precios, home, articulos, equipo): tipo de schema erroneo salvo en la pagina de servicio",
