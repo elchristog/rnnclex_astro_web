@@ -40,7 +40,7 @@ South Dakota exige que todos los solicitantes completen una verificación de ant
 
 **Enfermeros Educados Internacionalmente (IENs):** Si tu formación fue fuera de los Estados Unidos, deberás presentar una evaluación de credenciales de un servicio aprobado y, además, aprobar un examen de competencia en inglés.
 
-## Proceso de Solicitu para South Dakota: Resumen Paso a Paso
+## Proceso de Solicitud para South Dakota: Resumen Paso a Paso
 
 1. Completa la solicitud online en el portal del South Dakota Board of Nursing y paga la tarifa de $100.
 2. Sigue las instrucciones recibidas durante el proceso para completar la toma de huellas dactilares para el CBC.
