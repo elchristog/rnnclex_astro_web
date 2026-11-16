@@ -1,0 +1,64 @@
+# rnnclex.com — disavow generado por auditoría DataForSEO 2026-11-16
+# 58 dominios claramente tóxicos (directorios automáticos, páginas scan, PBN, spam). Subir a mano en
+# https://search.google.com/search-console/disavow-backlinks (propiedad sc-domain:rnnclex.com) — Google no permite subirlo por API.
+# NOTA: los enlaces de las plataformas de scan/estadísticas (lines.dev, sitemap scanners, ping farms) suelen
+# dejarse fuera del disavow según la política de Google; aquí solo van dominios con señales claras de spam (score >= 50, sin contenido real).
+
+lordsserial.xyz
+promoteyoursitewithpinterest.website
+wheretobuybest.link
+fashionclothingnews.com
+bestnz-poker-casinoslot.com
+betwinnermirror.com
+homesforsaleoldgreenwichct.com
+rank-seo-now.shop
+kernelpanicpodcast.com
+clifflisting.com
+thcradar.com
+australianwebdirectory.shop
+topentreno.com
+lorentius.com
+otorented.com
+websquemolan.com
+dbike-us.com
+bureatag.com
+sahammurah.com
+jake.eu
+onvaxs.com
+cvillico.com
+dupurgeniefr.com
+mediaboooster.com
+techbumppy.com
+cmocheatsheets.com
+forbesstories.com
+uncledspizza.com
+quotesblom.com
+thedocmag.com
+theforbestimes.com
+ufabettererm4.com
+archive-hu.com
+betulcrime.com
+bye.fyi
+ggmap.us.com
+buzzshrink.website
+screenshots.wiki
+indexaward.com
+drjack.world
+read.org.in
+tunca.org
+sergechel.info
+ycm.info
+urls-shortener.eu
+musweb.org
+booksreadr.org
+globalecommerce.org
+shortenurls.eu
+alljobs.info
+anchorurl.cloud
+simplewebdirectory.com
+websiterace.com
+getwebsiteworth.com
+quero.party
+global-websites.pages.dev
+global-ranks.pages.dev
+huldra.pages.dev
