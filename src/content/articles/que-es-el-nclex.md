@@ -57,7 +57,7 @@ La conclusión práctica: **gestión del cuidado y farmacología** pesan más qu
 
 1. **Elige tu junta estatal** (Board of Nursing) y revisa sus [requisitos por estado](/examen-nclex/requisitos/).
 2. **Si estudiaste fuera de EE. UU.**, tramita la evaluación de tu título, normalmente con [CGFNS/CES](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/).
-3. **Regístrate en Pearson VUE** y paga la tarifa del examen.
+3. **Regístrate en Pearson VUE** y paga la tarifa del examen, siguiendo la guía de [cómo registrarte al NCLEX paso a paso](/examen-nclex/inscripcion/).
 4. **Recibe tu ATT** (Authorization to Test), como explica la guía de [cómo obtener el ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/).
 5. **Agenda tu fecha** en un centro: mira [fechas y centros de examen](/examen-nclex/fechas/).
 
@@ -76,7 +76,7 @@ Como el examen es en inglés pero tu razonamiento clínico lo formaste en españ
 - **Practica el formato CAT y NGN** antes del día del examen.
 - **Mide tu preparación** con simuladores y no programes hasta que tus resultados sean consistentes.
 
-Un orden semana por semana lo tienes en el [plan de estudio NCLEX de 8 semanas](/estrategias-examen/plan-estudio-nclex-8-semanas/), y la estrategia general en [cómo pasar el NCLEX](/estrategias-examen/como-pasar-el-nclex/).
+Un orden semana por semana lo tienes en el [plan de estudio NCLEX de 8 semanas](/estrategias-examen/plan-estudio-nclex-8-semanas/), y la estrategia general en [cómo pasar el NCLEX](/estrategias-examen/como-pasar-el-nclex/). Si prefieres un sistema guiado todo en uno, conoce el [curso de preparación para el NCLEX-RN](/preparacion-nclex/cursos/).
 
 ## Preguntas frecuentes
 

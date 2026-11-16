@@ -48,7 +48,7 @@ Incluye case studies y bow-tie cada día (al menos 1 NGN set). 100–125 pregunt
 
 ## Dónde practicar
 
-En [el banco de +3500 preguntas](/preparacion-nclex/preguntas-practica/) de rnnclex.com tienes justifications, NGN y [CAT](/preparacion-nclex/simuladores-examen/cat/) + Readiness. Precio más accesible que Archer o UWorld — ver [planes](/precios/).
+En [el banco de +3500 preguntas](/preparacion-nclex/preguntas-practica/) de rnnclex.com tienes justifications, NGN y [CAT](/preparacion-nclex/simuladores-examen/cat/) + Readiness. Precio más accesible que Archer o UWorld — ver [planes](/precios/). Si quieres que un sistema te diga qué estudiar cada día, mira el [curso de preparación para el NCLEX-RN](/preparacion-nclex/cursos/).
 
 ## Semana 1 empieza con una prueba gratis
 
