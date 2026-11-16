@@ -1,0 +1,27 @@
+{
+  "_nota": "Plan de YouTube rnnclex · Usa para diciembre 2026. Enfoque: temas de EXPERIENCIA y proceso que un resumen de IA no cubre (viaje real, errores, casos vivos), con el nombre 'rnnclex' y enlace a la prueba gratis en cada descripcion. Fuentes de datos: NCSBN y Pearson VUE verificados 2026-11-01 y 2026-11-16.",
+  "actualizado": "2026-11-16",
+  "canal": "youtube.com/@rnnclex-usa",
+  "prueba_gratis_url": "https://rnnclex.com/preparacion-nclex/preguntas-practica/",
+  "guion_video_largo": {
+    "duracion_min": 4,
+    "enlace_descripcion": "Prueba gratis: https://rnnclex.com/preparacion-nclex/preguntas-practica/",
+    "estructura": [
+      {"seg": "0:00-0:35", "texto": "Hola, soy del equipo de rnnclex. Hoy responde la pregunta que mas llega por correo: 'reprobe el NCLEX, ¿y ahora qué?'. Si acabas de ver tu CPR en mano, este video es para ti. No hay promesa de aprobacion: hay un mapa claro."},
+      {"seg": "0:35-1:30", "texto": "Que dice tu CPR y que NO dice. El Candidate Performance Report muestra tus areas Below / Near / Above the Passing Standard, pero es una foto del dia del examen, no un diagnostico completo. Error tipico: estudiar solo lo 'Below' y abandonar lo 'Near'."},
+      {"seg": "1:30-2:40", "texto": "Los 3 errores que mas vemos en reprobados: 1) esperar meses sin practicar y volver al examen con el mismo criterio; 2) leer guias pasivas sin resolver preguntas de estilo NCLEX; 3) ignorar el juicio clinico NGN (estudios de caso, bow-tie) porque 'se ve dificil'."},
+      {"seg": "2:40-3:30", "texto": "El plan de 4 semanas: semana 1 y 2, 40 preguntas diarias bilingues revisando CADA explicacion; semana 3, solo NGN y estudios de caso; semana 4, simulador CAT completo + Readiness Assessment para decidir fecha con datos, no con coraje. Regla: no agendes hasta que tus simuladores sean consistentes."},
+      {"seg": "3:30-4:00", "texto": "Cierre: reprobar no te define, reintentar con metodo si. En rnnclex practicas en espanol e ingles con las +3500 preguntas y simuladores CAT y NGN. Empieza gratis hoy: https://rnnclex.com/preparacion-nclex/preguntas-practica/ y cuéntanos en comentarios en que area quedó tu Below."
+    ],
+    "titulo": "Reprobé el NCLEX: qué hacer con mi CPR y cómo prepararme la 2a vez (rnnclex)",
+    "utms": "?utm_source=youtube&utm_medium=video&utm_campaign=nclex_reprobados"
+  },
+  "videos_cortos": [
+    {"formato": "60s vertical, cara a camara", "gancho": "El examen termina en 85 preguntas y piensas 'reprobé'. Falso.", "id": "Y1", "mes": "2026-12-semana1", "titulo": "Terminó en 85 preguntas: ¿aprobé o reprobé?", "topic": "Explicar que el corte por CAT no revela el resultado (85 no significa nada), con el ejemplo de 2 candidatos"},
+    {"formato": "45s vertical, sobre pantalla de CPR", "gancho": "Tu CPR tiene 8 secciones y la mayoria solo mira la primera.", "id": "Y2", "mes": "2026-12-semana2", "titulo": "Cómo leer tu CPR sin frustrarte", "topic": "Recorrer Below/Near/Above y en qué orden estudiar"},
+    {"formato": "60s vertical, voz en off sobre guia", "gancho": "La tarifa del NCLEX sube a USD 350 y nadie lo esta contando en espanol.", "id": "Y3", "mes": "2026-12-semana3", "titulo": "El NCLEX sube de $200 a $350 el 1 de febrero", "topic": "Regla oficial: se cobra segun la FECHA DE REGISTRO; registrarse antes del 1-feb-2027 cuesta USD 200 aunque el examen sea despues"},
+    {"formato": "50s vertical, dos casos lado a lado", "gancho": "Misma nota, distinto destino: por que la prep decide.", "id": "Y4", "mes": "2026-12-semana3", "titulo": "Enfermera de México vs. de Puerto Rico: rutas distintas al mismo examen", "topic": "Comparar camino CGFNS/TruMerit vs. junta de PR, sin promesas"},
+    {"formato": "55s vertical, cara a camara", "gancho": "3 errores que reprobados repiten la segunda vez.", "id": "Y5", "mes": "2026-12-semana4", "titulo": "Los 3 errores del segundo intento", "topic": "Esperar meses, estudiar sin preguntas, ignorar NGN; cierre con prueba gratis"}
+  ],
+  "reglas_marca": ["El nombre 'rnnclex' debe aparecer hablado o en pantalla en cada video", "Enlace a la prueba gratis en la descripcion de cada video (bit.ly de WhatsApp prohibido; ningun enlace a bit.ly/45SidF6)", "Tono 'tu', alentador, sin promesas de aprobacion garantizada", "Sin menciones de precio de competidores (UWorld, Archer, Bootcamp)", "Datos de NCSBN/Pearson VUE con fecha de verificacion en pantalla cuando se citen"]
+}
