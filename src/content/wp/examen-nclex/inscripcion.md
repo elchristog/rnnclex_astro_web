@@ -1,16 +1,20 @@
 ---
-title: "Cómo Registrarse para el Examen NCLEX-RN: Guía Paso a Paso"
-seoTitle: "Cómo Registrarse para el Examen NCLEX-RN: Guía Paso a Paso 2025"
-description: "Aprende cómo registrarte para el examen NCLEX-RN sin errores. Te guiamos paso a paso en el proceso de inscripción con tu Junta de Enfermería (BON) y Pearson VUE."
+title: "Cómo registrarte para el examen NCLEX-RN: guía paso a paso 2026"
+seoTitle: "Cómo registrarte al NCLEX-RN 2026: guía paso a paso"
+description: "Regístrate al NCLEX-RN sin errores: licencia en tu Board of Nursing, registro en Pearson VUE, ATT y fecha. Tarifa USD 200 antes del 1-feb-2027. Prueba gratis."
 path: "/examen-nclex/inscripcion/"
 thin: false
 flags: []
-faqs: [{"question":"¿Puedo registrarme en Pearson VUE antes de aplicar a la Junta de Enfermería?","answer":"Sí, puedes hacerlo en paralelo. Sin embargo, no recibirás tu ATT de Pearson VUE hasta que la Junta de Enfermería haya procesado tu solicitud y te haya declarado elegible."},{"question":"¿Cuánto tiempo tarda en llegar el ATT?","answer":"El tiempo varía mucho según la eficiencia de tu Junta de Enfermería. Puede tardar desde dos semanas hasta varios meses. Es importante que te asegures de que todos tus documentos (especialmente las transcripciones) hayan sido recibidos por la junta para agilizar el proceso."},{"question":"¿Puedo cambiar el estado de mi solicitud después de enviarla?","answer":"Generalmente no. Cambiar de estado a mitad del proceso suele requerir que inicies una nueva solicitud y pagues las tarifas correspondientes a la nueva junta de enfermería."},{"question":"¿Qué tan pronto debo registrarme para el examen NCLEX?","answer":"La NCSBN no ha establecido directrices sobre cuándo deben inscribirse los estudiantes que se gradúan. Sin embargo, es común inscribirse para el examen NCLEX y la licencia durante el mes de graduación."}]
+faqs: [{"question":"¿Cómo me registro en Pearson VUE para el NCLEX-RN?","answer":"Crea tu cuenta en nclex.com (el portal oficial de Pearson VUE para el NCLEX), escribe tus datos exactamente como aparecen en tu identificación, elige tu programa de enfermería y paga la tarifa de registro. Haz este paso en paralelo con la solicitud de licencia en tu Junta de Enfermería: necesitas ambos para recibir el ATT."},{"question":"¿Cuánto cuesta registrarse al NCLEX-RN?","answer":"La tarifa de registro de Pearson VUE es de USD 200 si tu registro queda antes del 1-feb-2027 y de USD 350 desde esa fecha. Se cobra según la fecha de registro, no la del examen. Aparte pagas la tarifa de tu Junta de Enfermería y, si programas en un centro fuera de EE. UU., una tarifa adicional de USD 150."},{"question":"¿Puedo registrarme en Pearson VUE antes de aplicar a la Junta de Enfermería?","answer":"Sí, puedes hacerlo en paralelo. Sin embargo, no recibirás tu ATT de Pearson VUE hasta que la Junta de Enfermería haya procesado tu solicitud y te haya declarado elegible."},{"question":"¿Cuánto tiempo tarda en llegar el ATT?","answer":"El tiempo varía mucho según la eficiencia de tu Junta de Enfermería. Puede tardar desde dos semanas hasta varios meses. Es importante que te asegures de que todos tus documentos (especialmente las transcripciones) hayan sido recibidos por la junta para agilizar el proceso."},{"question":"¿Puedo cambiar el estado de mi solicitud después de enviarla?","answer":"Generalmente no. Cambiar de estado a mitad del proceso suele requerir que inicies una nueva solicitud y pagues las tarifas correspondientes a la nueva junta de enfermería."}]
 ---
 
-![Pantalla de un formulario de inscripción online para el examen NCLEX en el sitio de Pearson VUE, mostrando campos para datos personales.](/images/wp/inscripcion-registro-nclex-pearson-vue.webp)
+![Pantalla del formulario de registro del NCLEX-RN en Pearson VUE, con campos de datos personales y programa de enfermería.](/images/wp/inscripcion-registro-nclex-pearson-vue.webp)
 
 [Florida](/examen-nclex/requisitos/florida/)[Texas](/examen-nclex/requisitos/texas/)[California](/examen-nclex/requisitos/california/)
+
+**Respuesta corta:** para registrarte al NCLEX-RN haces dos trámites en paralelo: la solicitud de licencia en la Junta de Enfermería (Board of Nursing, BON) de tu estado y el registro en Pearson VUE (nclex.com). Cuando tu junta te declara elegible, recibes el ATT (Autorización para Examinarte) y agendas tu fecha. La tarifa de registro es de USD 200 si tu registro queda antes del 1-feb-2027 y de USD 350 desde esa fecha; se cobra según la fecha de registro, aunque el examen sea después.
+
+**Escrito por:** [Alejandra Barreto, RN, BSN](/equipo/), Líder del Programa rnnclex | **Actualizado:** 16 de noviembre de 2026
 
 ¡Felicidades! Has tomado la decisión de presentar el NCLEX-RN, uno de los pasos más importantes de tu carrera. Ahora, es momento de navegar el proceso administrativo.
 
@@ -53,7 +57,7 @@ Este es el primer paso oficial.
 Paso 2
 
 - **Acción:** Visita www.nclex.com (el portal oficial de Pearson VUE) y crea una cuenta.
-- **Detalles:** Deberás proporcionar tu información personal, el código de tu programa de enfermería y pagar la tarifa de registro: **USD 200 si tu registro queda antes del 1-feb-2027; USD 350 desde esa fecha**. Se cobra según la fecha de registro: antes del 1-feb = USD 200 aunque el examen sea después.
+- **Detalles:** Deberás proporcionar tu información personal, el código de tu programa de enfermería y pagar la tarifa de registro: **USD 200 si tu registro queda antes del 1-feb-2027; USD 350 desde esa fecha**. Se cobra según la fecha de registro: antes del 1-feb = USD 200 aunque el examen sea después. Desglose completo en [cuánto cuesta el NCLEX](/proceso-licencia-homologacion/cuanto-cuesta-el-nclex/).
 - **Consejo de Experto:** Asegúrate de que el nombre que uses para registrarte sea IDÉNTICO al de la identificación oficial con fotografía que presentarás el día del examen. Cualquier discrepancia puede impedirte realizar la prueba.
 
 ### Espera la Confirmación de Elegibilidad de tu BON
@@ -74,7 +78,7 @@ Este es el correo electrónico más esperado.
 
 **Acción:** Revisa tu correo electrónico constantemente.
 
-**Detalles:** Pearson VUE te enviará un correo con tu ATT. Este documento contiene tu número de autorización, que es válido por un período de tiempo específico (generalmente 90 días). ¡No puedes programar tu examen sin él! Guía completa: [fechas y centros del examen NCLEX](/examen-nclex/fechas/).
+**Detalles:** Pearson VUE te enviará un correo con tu ATT. Este documento contiene tu número de autorización, que es válido por un período de tiempo específico (generalmente 90 días). ¡No puedes programar tu examen sin él! Más detalle en [cómo obtener el ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/) y en la guía de [fechas y centros del examen NCLEX](/examen-nclex/fechas/).
 
 ### Programa tu Cita para el Examen
 
@@ -101,6 +105,14 @@ Marca los pasos que hayas completado:
 \[ \] He recibido mi correo electrónico con el ATT.
 
 \[ \] He programado mi fecha y centro de examen.
+
+## Fuentes oficiales
+
+Las tarifas y reglas de esta guía provienen de las fuentes oficiales; confírmalas ahí antes de pagar:
+
+- [NCLEX.com (NCSBN y Pearson VUE)](https://www.nclex.com/): portal oficial de registro del examen.
+- [NCSBN: cambio de tarifa del NCLEX](https://www.ncsbn.org/news/nclex-fee-changes-feb1): USD 200 a USD 350 el 1-feb-2027, según la fecha de registro.
+- [Pearson VUE: portal para programar tu NCLEX](https://wsr.pearsonvue.com/testtaker/signin/SignInPage/NCLEXTESTING): agenda con tu ATT.
 
 ## Inscripción para el NCLEX por Estado
 
@@ -199,6 +211,12 @@ Marca los pasos que hayas completado:
 [Washington](/examen-nclex/requisitos/washington/)
 
 [Wisconsin](/examen-nclex/requisitos/wisconsin/)
+
+## Mientras esperas tu ATT, empieza a prepararte
+
+El registro puede tardar semanas; ese tiempo es para estudiar. Con rnnclex.com practicas en inglés y español con +3500 preguntas, simuladores CAT y formato NGN.
+
+**[Empieza gratis](/prueba-gratis/)**
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
