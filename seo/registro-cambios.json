@@ -1,0 +1,44 @@
+{
+  "_nota": "Registro de cambios obligatorio (regla permanente de Christian, 2026-11-16): toda ejecucion SEO MENSUAL (1-6) ABRE su reporte con este registro: pagina -> cambio -> en vivo (si/no) -> PR o commit. Sin registro la corrida se considera incompleta. Agregar entradas nuevas al inicio de 'ejecuciones'.",
+  "ejecuciones": [
+    {
+      "fecha": "2026-11-16",
+      "tarea": "SEO MENSUAL 3 (ejecucion anticipada, paquete aprobado por Christian el 2026-11-16)",
+      "excepcion_aprobada": "Christian aprobo el 2026-11-16 saltar (a) la espera del dia 8, (b) el congelamiento de titulos del 2026-11-13 y (c) la regla de 28 dias, SOLO para /examen-nclex/inscripcion/ (ultima edicion 2026-11-02, aclaracion de tarifa) y /preparacion-nclex/cursos/ (ultima edicion 2026-11-07, aclaracion de tarifa), porque esos cambios previos fueron aclaraciones de la tarifa y no optimizacion SEO. El resto de titulos sigue congelado hasta el dia 8 (2026-12-08).",
+      "pr": "ryze/seo3-inscripcion-cursos-2026-11-16",
+      "cambios": [
+        {
+          "pagina": "/examen-nclex/inscripcion/",
+          "cambio": "seoTitle 'Como registrarte al NCLEX-RN 2026: guia paso a paso' (51 car.); description 158 car. con CTA; H1 nuevo; respuesta directa al inicio; 'Actualizado: 16 de noviembre de 2026' con firma Alejandra Barreto; FAQ de 5 preguntas (cuatro de la consulta real 'nclex exam registration / register pearson vue / nclex register'); seccion 'Fuentes oficiales' (NCLEX.com, NCSBN, Pearson VUE); CTA unico a /prueba-gratis/; enlaces internos a cuanto-cuesta y obtener-att; ALT de imagen mejorado.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "commit 6906f1a"
+        },
+        {
+          "pagina": "/preparacion-nclex/cursos/",
+          "cambio": "seoTitle 'Curso NCLEX-RN en espanol: que incluye y precio (USD 19)' (56 car.); description 145 car. con CTA; H1 nuevo; respuesta directa; 'Actualizado: 16 de noviembre de 2026'; FAQ de 5 preguntas; seccion 'Fuentes oficiales'; CTA unico a /precios/; enlaces internos a CAT, Readiness, preguntas de practica y planes de 4 y 8 semanas.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "commit ec28de2"
+        },
+        {
+          "pagina": "/estrategias-examen/que-es-el-nclex/",
+          "cambio": "Solo enlaces internos entrantes: paso 3 enlaza a /examen-nclex/inscripcion/ y la seccion de preparacion enlaza a /preparacion-nclex/cursos/. NOTA: la pagina fue editada el 2026-11-07 (aclaracion de tarifa), dentro de la ventana de 28 dias; el cambio es de una frase por enlace, sin tocar titulo, meta ni contenido.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "commit f6a633f"
+        },
+        {
+          "pagina": "/estrategias-examen/plan-estudio-nclex-8-semanas/",
+          "cambio": "Solo un enlace interno entrante hacia /preparacion-nclex/cursos/ en la seccion 'Donde practicar'. Ultima edicion previa 2026-11-07 (tarifa); misma nota que la fila anterior.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "commit 3f6c2af"
+        },
+        {
+          "pagina": "/images/wp/inscripcion-registro-nclex-pearson-vue.webp",
+          "cambio": "SIN CAMBIO DE PESO: el archivo pesa 136.782 bytes (133,6 KiB), ya por debajo de 150 KB. No hay herramienta de compresion de imagenes disponible desde esta ejecucion; solo se mejoro el ALT. Si se quiere bajar mas el peso, hay que recomprimir el archivo fuera de esta ejecucion.",
+          "en_vivo": "no aplica",
+          "referencia": "commit 6906f1a (solo ALT)"
+        }
+      ],
+      "evaluar_el": "2026-12-14 (GSC 28 dias; linea base: inscripcion pos 35, cursos pos 28; consultas base: 'nclex exam registration' pos 90, 'nclex register' pos 9, 'nclex exam preparation training' pos 71)"
+    }
+  ]
+}
