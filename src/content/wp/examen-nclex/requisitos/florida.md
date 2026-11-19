@@ -15,9 +15,9 @@ faqs:
   - question: "¿Qué es el curso de Prevención de Errores Médicos y es obligatorio?"
     answer: "Es un curso de 2 horas, aprobado por la Junta de Florida, sobre prevención de errores médicos. Es obligatorio para emitir tu licencia: guarda el certificado de finalización. Muchos proveedores autorizados lo ofrecen en línea; busca la lista en CE Broker o con la frase Florida Board of Nursing approved Prevention of Medical Errors course."
   - question: "¿Cómo funciona el portal MQA de Florida para la solicitud de RN?"
-    answer: "La solicitud se hace en línea en el MQA Services Portal del Departamento de Salud. Creas tu cuenta, eliges la solicitud Registered Nurse by Examination, subes o confirmas los datos pedidos y pagas las tarifas en el mismo portal. Antes de empezar, revisa la guía de solicitud rápida (Fast-Track Examination Guide) que publica la Junta en floridasnursing.gov para evitar demoras."
+    answer: "La solicitud se hace en línea en el MQA Services Portal del Departamento de Salud. Creas tu cuenta, eliges la solicitud Registered Nurse by Examination, completas los datos pedidos y pagas las tarifas en el mismo portal. Antes de empezar, revisa la guía de solicitud rápida (Fast-Track Examination Guide) que publica la Junta en floridasnursing.gov para evitar demoras."
   - question: "¿Cuáles son las tarifas vigentes para el NCLEX en Florida?"
-    answer: "El registro del NCLEX con Pearson VUE cuesta USD 200 si te registras antes del 1-feb-2027 y USD 350 desde esa fecha; cuenta la fecha de registro, no la del examen, e incluye repeticiones pagadas al registrarte. Además pagas la solicitud a la Junta de Florida en el portal MQA (la fija la Junta; verifícala al iniciar), la tarifa del proveedor Livescan y, si aplica, la evaluación de credenciales (CES de CGFNS/TruMerit, unos USD 485). Si presentas el examen fuera de EE. UU., Canadá o Australia, suma unos USD 150."
+    answer: "El registro del NCLEX con Pearson VUE cuesta USD 200 si te registras antes del 1-feb-2027 y USD 350 desde esa fecha; cuenta la fecha de registro, no la del examen. Además pagas la solicitud a la Junta de Florida en el portal MQA (la fija la Junta; verifícala al iniciar), la tarifa del proveedor Livescan y, si aplica, la evaluación de credenciales (CES de CGFNS/TruMerit, unos USD 485). Si presentas el examen fuera de EE. UU., Canadá o Australia, suma unos USD 150."
   - question: "¿Dónde puedo encontrar un proveedor para el curso de Errores Médicos?"
     answer: "Puedes encontrar una lista de proveedores autorizados en el sitio web de CE Broker o buscando en línea Florida Board of Nursing approved Prevention of Medical Errors course. Muchos de estos cursos se pueden completar de forma online."
   - question: "¿Sirve el título de enfermería de mi país para el NCLEX en Florida?"
@@ -40,7 +40,7 @@ faqs:
 1. Reserva el curso de 2 horas de Prevención de Errores Médicos y guarda tu certificado.
 2. Inicia la evaluación de tus credenciales y, si aplica, tu prueba de inglés: son lo que más tarda. Mira [qué es el CES de CGFNS](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/) y la [guía de CGFNS 2026](/proceso-licencia-homologacion/cgfns/).
 3. Crea tu cuenta en el MQA Services Portal, completa la solicitud "Registered Nurse by Examination" y paga la tarifa.
-4. Tom a tus huellas electrónicas con un proveedor Livescan (ten tu SSN a mano; ver la pregunta de SSN abajo).
+4. Tómate las huellas electrónicas con un proveedor Livescan (ten tu SSN a mano; ver la pregunta de SSN en las preguntas frecuentes).
 5. Pide a tu escuela y a la autoridad que emitió tu licencia que envíen tus documentos directamente a la Junta o al evaluador.
 6. Regístrate para el NCLEX en Pearson VUE: USD 200 si te registras antes del 1-feb-2027 (USD 350 desde esa fecha).
 7. Espera la aprobación de la Junta y tu [ATT](/proceso-licencia-homologacion/como-obtener-att-nclex/), y [agenda tu examen](/examen-nclex/fechas/) en un centro Pearson VUE dentro de la ventana del ATT.
