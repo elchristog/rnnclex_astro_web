@@ -14,7 +14,8 @@ Fuente unica. Cada tarea mensual la lee primero. El Optimizador (dia 28) la mant
 - Sin precios de competidores; sin promesas de aprobacion garantizada; sin enlaces ni botones de WhatsApp.
 - Voz: espanol, 'tu', alentadora, datos concretos (+3500 preguntas, CAT, NGN, bilingue).
 - Firma de articulos: Alejandra Barreto, RN, BSN, Lider del Programa (enlaza a /equipo/). Alejandra Martinez no es autora. Bingley Ortiz y Andres Cruz ya no trabajan aqui: no deben aparecer en ningun sitio.
-- rnnclex es independiente de enfermerausa.com y enfermeraenestadosunidos.com: no uses sus cuentas, remitentes, pixeles ni contenido.
+- Entidad (GEO P0, 2026-11-19): el nombre de marca en el schema es RNNCLEX (no el dominio) y la razon social es ENFERMERAEEU LLC (legalName). Hay un solo bloque Organization en la portada; los demas bloques lo referencian por @id.
+- rnnclex sigue independiente de enfermerausa.com y enfermeraenestadosunidos.com en cuentas, remitentes, pixeles y analitica: no los uses ni copies su contenido. Desde 2026-11-19 (paquete GEO P0 pedido por Christian) enfermerausa.com se presenta como la marca hermana de homologacion y acompanamiento con un enlace visible (pie, guias de homologacion e IEN, guia de Florida) y una mencion en llms.txt. No cambies ese enlace sin pedido del dueno.
 - Redes oficiales: youtube.com/@rnnclex-usa, instagram.com/rnnclex.usa, facebook.com/rnnclex.usa, tiktok.com/@rnnclex.com, linkedin.com/company/rnnclex-com.
 - 7 palabras objetivo: nclex, examen nclex, nclex rn, cgfns, fechas examen nclex, cuanto cuesta el nclex, requisitos nclex.
 
