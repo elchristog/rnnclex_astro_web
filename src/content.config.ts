@@ -10,6 +10,10 @@ const wp = defineCollection({
   schema: z.object({
     title: z.string(),
     seoTitle: z.string().optional(),
+    // H1 propio de la pagina (si falta, las plantillas usan su H1 por defecto)
+    h1: z.string().optional(),
+    // Respuesta corta que se muestra al inicio de la pagina de estado
+    answer: z.string().optional(),
     description: z.string().optional(),
     path: z.string(),
     thin: z.boolean().optional(),
