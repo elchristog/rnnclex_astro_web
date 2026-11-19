@@ -22,6 +22,10 @@ const wpTitle = entry?.data.seoTitle ?? "";
 const wpDesc = entry?.data.description ?? "";
 const custom = rich && wpTitle.length > 0 && !/Gu[ií]a( Completa)? 2025/i.test(wpTitle);
 
+// H1 y respuesta corta propios (opcionales, definidos en el frontmatter de la página del estado).
+const h1 = rich && entry?.data.h1 ? entry.data.h1 : `Requisitos para el NCLEX-RN en ${s.name}: guía completa`;
+const answer = rich ? entry?.data.answer : undefined;
+
 const seoTitle = custom ? wpTitle : `Requisitos NCLEX en ${s.name} 2026 | Guía para IEN`;
 const generatedDescription = `Requisitos para presentar el NCLEX-RN en ${s.name}: junta de enfermería, documentos, huellas, inglés para IEN y estado del NLC. Guía en español.`;
 const description = custom && wpDesc.length >= 50 ? wpDesc : generatedDescription;
@@ -47,13 +51,22 @@ const faqs = [...generatedFaqs, ...extraFaqs];
 ---
 
 <ProseLayout
-  title={`Requisitos para el NCLEX-RN en ${s.name}: guía completa`}
+  title={h1}
   seoTitle={seoTitle}
   description={description}
   canonical={`https://rnnclex.com/examen-nclex/requisitos/${s.slug}/`}
   faqs={faqs}
   kicker={`${s.abbr} · Guía por estado`}
 >
+  {
+    answer && (
+      <div class="not-prose mb-8 rounded-xl border-l-4 border-[#0e497c] bg-[#eaf3fb] p-5">
+        <p class="text-xs font-bold uppercase tracking-wider text-[#0e497c]">Respuesta corta</p>
+        <p class="mt-2 text-[#1e3a5f] leading-relaxed">{answer}</p>
+      </div>
+    )
+  }
+
   <p>
     Esta guía resume cómo presentar el NCLEX-RN para obtener tu licencia de enfermería en <strong>{s.name}</strong>. La junta que decide si eres elegible es <strong>{s.board}</strong>; después, el examen se programa con Pearson VUE. ¿Comparas varios estados? Mira los <a href="/examen-nclex/requisitos/">requisitos del NCLEX por estado</a>.
   </p>
@@ -121,6 +134,6 @@ const faqs = [...generatedFaqs, ...extraFaqs];
   </p>
 
   <p class="text-sm text-gray-500">
-    Información revisada en octubre de 2026. Las reglas y tarifas cambian: verifica siempre en el <a href={s.url} target="_blank" rel="noopener">sitio oficial de {s.board}</a>.
+    Información revisada en {answer ? "noviembre" : "octubre"} de 2026. Las reglas y tarifas cambian: verifica siempre en el <a href={s.url} target="_blank" rel="noopener">sitio oficial de {s.board}</a>.
   </p>
 </ProseLayout>

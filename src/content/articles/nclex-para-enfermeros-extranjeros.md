@@ -7,7 +7,7 @@ updated: "2026-09-22T17:45:05"
 section: "proceso-licencia-homologacion"
 slug: "nclex-para-enfermeros-extranjeros"
 flags: []
-faqs: [{"question":"¿Puedo presentar el NCLEX si mi título es de Latinoamérica o España?","answer":"Sí, si cumples los requisitos del Board of Nursing del estado (evaluación de credenciales, inglés si aplica, elegibilidad). El examen en sí es el mismo NCLEX-RN."},{"question":"¿El NCLEX se puede hacer en español?","answer":"No. El NCLEX-RN se administra en inglés. Por eso conviene una prep bilingüe: entiendes en español y respondes como en el examen."},{"question":"¿Dónde puedo examinarme fuera de EE.UU.?","answer":"Pearson VUE tiene centros internacionales (entre ellos Ciudad de México, Madrid, Guaynabo PR y otros). Puede aplicar tarifa internacional adicional."},{"question":"¿Cuánto tarda todo el proceso IEN?","answer":"Varía por estado y por la velocidad de tu escuela/colegio al enviar documentos. Planifica varios meses solo para papelería, más tu tiempo de estudio."}]
+faqs: [{"question":"¿Puedo presentar el NCLEX si mi título es de Latinoamérica o España?","answer":"Sí, si cumples los requisitos del Board of Nursing del estado (evaluación de credenciales, inglés si aplica, elegibilidad). El examen en sí es el mismo NCLEX-RN."},{"question":"¿El NCLEX se puede hacer en español?","answer":"No. El NCLEX-RN se administra en inglés. Por eso conviene una prep bilingüe: entiendes en español y respondes como en el examen."},{"question":"¿Dónde puedo examinarme fuera de EE.UU.?","answer":"Pearson VUE tiene centros internacionales (entre ellos Ciudad de México, Madrid, Guaynabo PR y otros). Puede aplicar tarifa internacional adicional."},{"question":"¿Cuánto tarda todo el proceso IEN?","answer":"Varía por estado y por la velocidad de tu escuela/colegio al enviar documentos. Planifica varios meses solo para papelería, más tu tiempo de estudio."},{"question":"¿Hay ayuda para el trámite de homologación, además de prepararme para el examen?","answer":"Sí. rnnclex.com te prepara para aprobar el NCLEX-RN. Para el acompañamiento del trámite (título, licencia, visa y empleo) existe Enfermera en Estados Unidos (enfermerausa.com), nuestra marca hermana de homologación y acompañamiento."}]
 ---
 
 
@@ -21,7 +21,7 @@ Si eres **enfermero formado fuera de Estados Unidos (IEN — Internationally Edu
 
 ## El mapa en 7 pasos
 
-1.  Elige el estado de licencia y lee sus [requisitos por estado](/examen-nclex/requisitos/) (Florida, California, New York, Texas y Arizona son los más buscados por hispanos).
+1.  Elige el estado de licencia y lee sus [requisitos por estado](/examen-nclex/requisitos/) (Florida, California, New York, Texas y Arizona son los más buscados por hispanos). Para Florida, ve directo a los [requisitos del NCLEX en Florida para enfermeras extranjeras](/examen-nclex/requisitos/florida/).
 2.  Completa evaluación de credenciales si el estado la pide — casi siempre [CGFNS / TruMerit CES Professional Report](/proceso-licencia-homologacion/que-es-cgfns-ces-professional-report/) (~$485).
 3.  Cumple el requisito de inglés del estado (TOEFL, IELTS u otros aceptados; o exención si aplica).
 4.  Solicita elegibilidad al Board of Nursing + CBC (antecedentes).
@@ -47,6 +47,10 @@ rnnclex.com está pensado para ese nicho: +3500 preguntas, CAT, NGN y precio má
 -   Elegir estado sin mirar costos de junta ni si piden CES
 -   Usar solo material 100% en español y chocar el día del examen
 -   Agendar el primer hueco disponible sin Readiness Assessment sólido
+
+## ¿Necesitas acompañamiento para homologar tu título?
+
+rnnclex.com te prepara para aprobar el examen. Si además buscas acompañamiento personalizado en el trámite de homologación (título, licencia, visa y empleo), visita [Enfermera en Estados Unidos](https://enfermerausa.com), nuestra marca hermana de homologación y acompañamiento para enfermeras internacionales. Para entender primero el proceso, lee la [guía para homologar tu título de enfermería en USA](/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/).
 
 ## Prepárate como IEN, no como traductor de última hora
 

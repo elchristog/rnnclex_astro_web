@@ -2,6 +2,57 @@
   "_nota": "Registro de cambios obligatorio (regla permanente de Christian, 2026-11-16): toda ejecucion SEO MENSUAL (1-6) ABRE su reporte con este registro: pagina -> cambio -> en vivo (si/no) -> PR o commit. Sin registro la corrida se considera incompleta. Agregar entradas nuevas al inicio de 'ejecuciones'.",
   "ejecuciones": [
     {
+      "fecha": "2026-11-19",
+      "tarea": "Paquete GEO P0 (pedido directo de Christian tras la Auditoria GEO del 2026-11-19; fuera del calendario mensual)",
+      "excepcion_aprobada": "Christian pidio el 2026-11-19 reorientar la guia de Florida (titulo/H1/FAQ). Es una excepcion puntual al congelamiento de titulos del 2026-11-13; el resto de titulos sigue congelado hasta el dia 8 (2026-12-08). No se tocaron dominios ni campanas.",
+      "pr": "ryze/geo-p0-2026-11-19",
+      "cambios": [
+        {
+          "pagina": "/ (schema Organization)",
+          "cambio": "Organization con name 'RNNCLEX' (antes el dominio 'rnnclex.com'), legalName 'ENFERMERAEEU LLC', alternateName rnnclex y rnnclex.com, @id propio. Un solo bloque Organization completo (con @context); el WebSite lo referencia por @id (se elimino el Organization duplicado anidado). Article publisher/author y AboutPage del equipo referencian la misma entidad.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "src/components/fundations/head/JsonLd.astro"
+        },
+        {
+          "pagina": "/ (schema Product/Offer)",
+          "cambio": "Bloque Product con Offer de USD 19/mes (UnitPriceSpecification, billingDuration 1 MON) y Offer de prueba gratis (USD 0). Sin aggregateRating ni Review (no hay resenas de terceros verificables todavia).",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "src/components/fundations/head/JsonLd.astro"
+        },
+        {
+          "pagina": "Pie de pagina (todo el sitio)",
+          "cambio": "Enlace visible a https://enfermerausa.com como marca hermana de homologacion y acompanamiento (texto en la columna 1 y enlace en 'Mas'); linea legal 'un producto de ENFERMERAEEU LLC'.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "src/components/global/Footer.astro"
+        },
+        {
+          "pagina": "/llms.txt",
+          "cambio": "Titulo '# RNNCLEX (rnnclex.com)' y seccion 'Entidad y marca': entidad legal ENFERMERAEEU LLC y Enfermera en Estados Unidos como marca hermana.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "src/pages/llms.txt.ts"
+        },
+        {
+          "pagina": "/examen-nclex/requisitos/florida/",
+          "cambio": "seoTitle 'Requisitos NCLEX Florida para enfermera extranjera 2026'; H1 propio con la misma intencion; respuesta corta al inicio (plantilla de estado ahora admite h1 y answer); FAQ nueva: SSN, Livescan/huellas, curso de Errores Medicos, portal MQA, tarifas vigentes (Pearson USD 200 hasta el 1-feb-2027, USD 350 desde esa fecha) y validez del titulo extranjero; paso a paso para IEN; enlaces a homologacion, IEN, CGFNS/CES, ATT y cuanto cuesta; enlace a Enfermera. Se retiro la afirmacion no verificada sobre trabajar como GN y se reemplazo por 'pregunta a la Junta'.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "src/content/wp/examen-nclex/requisitos/florida.md y src/pages/examen-nclex/requisitos/[state].astro"
+        },
+        {
+          "pagina": "/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/ y /proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/",
+          "cambio": "Enlace interno a la guia de Florida (texto 'requisitos del NCLEX en Florida para enfermeras extranjeras'), seccion y FAQ con enlace a Enfermera en Estados Unidos como marca hermana. Titulos y metas sin cambios.",
+          "en_vivo": "pendiente de verificar",
+          "referencia": "src/content/articles/homologar-titulo-enfermeria-usa.md y nclex-para-enfermeros-extranjeros.md"
+        },
+        {
+          "pagina": "seo/REGLAS.md",
+          "cambio": "Regla de marca actualizada: entidad RNNCLEX/ENFERMERAEEU LLC y enlace visible a enfermerausa.com permitido; cuentas, remitentes, pixeles y analitica siguen separados.",
+          "en_vivo": "no aplica",
+          "referencia": "seo/REGLAS.md"
+        }
+      ],
+      "evaluar_el": "2026-12-19 (GSC 28 dias: consulta 'requisitos nclex florida enfermera extranjera' y pagina /examen-nclex/requisitos/florida/; Rich Results Test de la portada para Product y Organization)"
+    },
+    {
       "fecha": "2026-11-16",
       "tarea": "SEO MENSUAL 3 (ejecucion anticipada, paquete aprobado por Christian el 2026-11-16)",
       "excepcion_aprobada": "Christian aprobo el 2026-11-16 saltar (a) la espera del dia 8, (b) el congelamiento de titulos del 2026-11-13 y (c) la regla de 28 dias, SOLO para /examen-nclex/inscripcion/ (ultima edicion 2026-11-02, aclaracion de tarifa) y /preparacion-nclex/cursos/ (ultima edicion 2026-11-07, aclaracion de tarifa), porque esos cambios previos fueron aclaraciones de la tarifa y no optimizacion SEO. El resto de titulos sigue congelado hasta el dia 8 (2026-12-08).",

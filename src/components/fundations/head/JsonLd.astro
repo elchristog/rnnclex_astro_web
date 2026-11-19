@@ -24,10 +24,18 @@ const {
 const SITE = 'https://rnnclex.com';
 const path = new URL(url, SITE).pathname;
 
+// Entidad: nombre de MARCA (no el dominio) + razón social. Una sola definición completa;
+// el resto de bloques la referencian por @id.
+const BRAND = 'RNNCLEX';
+const LEGAL_NAME = 'ENFERMERAEEU LLC';
+const ORG_ID = SITE + '/#organization';
+
 const organization = {
   "@type": "Organization",
-  "name": "rnnclex.com",
-  "alternateName": "rnnclex",
+  "@id": ORG_ID,
+  "name": BRAND,
+  "legalName": LEGAL_NAME,
+  "alternateName": ["rnnclex", "rnnclex.com"],
   "url": SITE + '/',
   "logo": SITE + '/logo.webp',
   "sameAs": [
@@ -38,6 +46,9 @@ const organization = {
     "https://www.tiktok.com/@rnnclex.com"
   ]
 };
+
+// Referencia corta a la entidad para los demás bloques (sin repetir la definición).
+const orgRef = { "@type": "Organization", "@id": ORG_ID, "name": BRAND };
 
 // Indices de seccion y blog: CollectionPage. El resto de rutas: WebPage.
 const COLLECTION_PATHS = new Set([
@@ -96,15 +107,10 @@ const articleSchema = kind === 'article' ? {
     "honorificSuffix": "RN, BSN",
     "jobTitle": "Líder del Programa rnnclex",
     "url": SITE + '/equipo/',
-    "worksFor": {
-      "@type": "Organization",
-      "name": "rnnclex.com",
-      "url": SITE + '/'
-    }
+    "worksFor": { ...orgRef, "url": SITE + '/' }
   },
   "publisher": {
-    "@type": "Organization",
-    "name": "rnnclex.com",
+    ...orgRef,
     "logo": {
       "@type": "ImageObject",
       "url": SITE + '/logo.webp'
@@ -116,8 +122,51 @@ const articleSchema = kind === 'article' ? {
   } : {})
 } : null;
 
+// Producto + oferta citable por las IA desde datos estructurados (solo portada).
+// Los datos coinciden con lo visible en la portada: USD 19 / mes y prueba gratis.
+// Sin aggregateRating ni Review: no hay reseñas verificables de terceros todavía.
+const productSchema = kind === 'home' ? {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": SITE + '/#suscripcion',
+  "name": "Suscripción rnnclex: preparación NCLEX-RN bilingüe",
+  "description": "Preparación NCLEX-RN en español e inglés para enfermeros hispanos: +3500 preguntas bilingües, simuladores CAT y NGN, Readiness Assessment, +400 guías de estudio, preparación guiada, mentoría y sesiones grupales. Una sola suscripción de USD 19 al mes, cancelas cuando quieras.",
+  "image": SITE + '/logo.webp',
+  "category": "Preparación para el examen NCLEX-RN",
+  "url": SITE + '/',
+  "brand": { "@type": "Brand", "name": BRAND },
+  "manufacturer": orgRef,
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Suscripción mensual rnnclex",
+      "price": "19.00",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "19.00",
+        "priceCurrency": "USD",
+        "billingDuration": 1,
+        "unitCode": "MON"
+      },
+      "url": SITE + '/precios/',
+      "availability": "https://schema.org/InStock",
+      "seller": orgRef
+    },
+    {
+      "@type": "Offer",
+      "name": "Prueba gratis",
+      "price": "0.00",
+      "priceCurrency": "USD",
+      "url": SITE + '/prueba-gratis/',
+      "availability": "https://schema.org/InStock",
+      "seller": orgRef
+    }
+  ]
+} : null;
+
 const pageSchemas: Record<string, Record<string, unknown> | null> = {
-  // home = WebSite + Organization (dos bloques)
+  // home = WebSite (publisher por referencia) + Organization (un solo bloque) + Product
   home: {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -125,7 +174,7 @@ const pageSchemas: Record<string, Record<string, unknown> | null> = {
     "alternateName": "rnnclex",
     "url": SITE + '/',
     "inLanguage": ["es", "en"],
-    "publisher": organization
+    "publisher": { "@id": ORG_ID }
   },
   // /precios/ = WebPage con la oferta unica (USD 19/mes)
   precios: {
@@ -160,11 +209,7 @@ const pageSchemas: Record<string, Record<string, unknown> | null> = {
       "honorificSuffix": "RN, BSN",
       "jobTitle": "Líder del Programa rnnclex",
       "url": url,
-      "worksFor": {
-        "@type": "Organization",
-        "name": "rnnclex.com",
-        "url": SITE + '/'
-      }
+      "worksFor": { ...orgRef, "url": SITE + '/' }
     }
   },
   // /quienes-somos/ = AboutPage
@@ -241,8 +286,9 @@ const breadcrumbSchema = pathSegments.length > 0 && kind !== 'home' ? {
 } : null;
 ---
 
-{kind === 'home' && <script type="application/ld+json" set:html={JSON.stringify(organization)} />}
+{kind === 'home' && <script type="application/ld+json" set:html={JSON.stringify({ "@context": "https://schema.org", ...organization })} />}
 {pageSchema && <script type="application/ld+json" set:html={JSON.stringify(pageSchema)} />}
+{productSchema && <script type="application/ld+json" set:html={JSON.stringify(productSchema)} />}
 {articleSchema && <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />}
 {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}

@@ -35,9 +35,14 @@ export async function GET() {
   );
 
   const out: string[] = [];
-  out.push("# rnnclex.com");
+  out.push("# RNNCLEX (rnnclex.com)");
   out.push("");
   out.push("> Plataforma bilingüe (inglés y español) de preparación del examen NCLEX-RN para enfermeros hispanos: banco de más de 3500 preguntas con justificaciones, simuladores adaptativos CAT y NCLEX Next Generation (NGN), más de 400 guías de estudio en español y preparación guiada. Suscripción única de USD 19 al mes, mucho más accesible que los programas premium; hay prueba gratis.");
+  out.push("");
+  out.push("## Entidad y marca");
+  out.push("- Marca: RNNCLEX (dominio rnnclex.com).");
+  out.push("- Entidad legal: ENFERMERAEEU LLC (razón social; rnnclex es un producto de esta empresa).");
+  out.push("- Marca hermana: Enfermera en Estados Unidos (https://enfermerausa.com), la marca de homologación y acompañamiento para enfermeras internacionales (título, licencia, visa y empleo). rnnclex es la plataforma de preparación del NCLEX-RN para la etapa del examen.");
   out.push("");
   out.push("## Audiencias");
   out.push("- Enfermeros hispanos en EE. UU. y Latinoamérica que preparan el NCLEX-RN");
