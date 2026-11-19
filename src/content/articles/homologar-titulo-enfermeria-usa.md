@@ -7,7 +7,7 @@ updated: "2026-09-22T17:45:43"
 section: "proceso-licencia-homologacion"
 slug: "homologar-titulo-enfermeria-usa"
 flags: []
-faqs: [{"question":"¿Existe homologación automática del título de enfermería en EE.UU.?","answer":"No. Cada estado evalúa tu caso. No hay un reconocimiento federal único que reemplace junta + NCLEX."},{"question":"¿Necesito CGFNS para homologar?","answer":"Muchos estados sí piden el CES Professional Report de TruMerit/CGFNS. Confirma el estado elegido."},{"question":"¿Puedo trabajar de RN solo con el CES aprobado?","answer":"No. El CES apoya la elegibilidad. Para la licencia RN debes aprobar el NCLEX y completar el proceso del Board."},{"question":"¿Qué es el Nurse Licensure Compact (NLC)?","answer":"Un acuerdo entre estados que permite practicar en varios con una licencia multistate, una vez ya eres RN elegible. No reemplaza el primer NCLEX ni la primera licencia."}]
+faqs: [{"question":"¿Existe homologación automática del título de enfermería en EE.UU.?","answer":"No. Cada estado evalúa tu caso. No hay un reconocimiento federal único que reemplace junta + NCLEX."},{"question":"¿Necesito CGFNS para homologar?","answer":"Muchos estados sí piden el CES Professional Report de TruMerit/CGFNS. Confirma el estado elegido."},{"question":"¿Puedo trabajar de RN solo con el CES aprobado?","answer":"No. El CES apoya la elegibilidad. Para la licencia RN debes aprobar el NCLEX y completar el proceso del Board."},{"question":"¿Qué es el Nurse Licensure Compact (NLC)?","answer":"Un acuerdo entre estados que permite practicar en varios con una licencia multistate, una vez ya eres RN elegible. No reemplaza el primer NCLEX ni la primera licencia."},{"question":"¿Quién me acompaña en el trámite de homologación?","answer":"rnnclex.com te prepara para el examen NCLEX-RN. Para el acompañamiento del trámite (título, licencia, visa y empleo) existe Enfermera en Estados Unidos (enfermerausa.com), nuestra marca hermana de homologación y acompañamiento."}]
 ---
 
 
@@ -29,7 +29,7 @@ No es un sello del Departamento de Educación que convierte tu título en BSN es
 
 ## Orden correcto del trámite
 
-1.  Elige estado y lee [requisitos por estado](/examen-nclex/requisitos/).
+1.  Elige estado y lee [requisitos por estado](/examen-nclex/requisitos/). Si te interesa Florida, mira los [requisitos del NCLEX en Florida para enfermeras extranjeras](/examen-nclex/requisitos/florida/).
 2.  Inicia CES / evaluación de credenciales si aplica.
 3.  Inglés (si el estado lo exige).
 4.  Solicitud al Board + CBC + tarifas estatales.
@@ -43,6 +43,10 @@ CES ~$485 · Junta estatal (desde ~$40 hasta $350+) · CBC $30–$75 · NCLEX US
 ## Homologar no sustituye aprobar el NCLEX
 
 Sin NCLEX aprobado no hay licencia RN de EE.UU. por esta vía. Por eso el trámite y el estudio deben correr en paralelo: papeles + banco de preguntas bilingüe, CAT y NGN.
+
+## ¿Necesitas acompañamiento para el trámite?
+
+rnnclex.com se enfoca en prepararte para aprobar el NCLEX. Si buscas acompañamiento personalizado para homologar tu título y avanzar en tu licencia, visita [Enfermera en Estados Unidos](https://enfermerausa.com), nuestra marca hermana de homologación y acompañamiento para enfermeras internacionales.
 
 ## Trámite en marcha, estudio en marcha
 
