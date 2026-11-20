@@ -49,37 +49,37 @@
         {
           "pagina": "/ (schema Organization)",
           "cambio": "Organization con name 'RNNCLEX' (antes el dominio 'rnnclex.com'), legalName 'ENFERMERAEEU LLC', alternateName rnnclex y rnnclex.com, @id propio. Un solo bloque Organization completo (con @context); el WebSite lo referencia por @id (se elimino el Organization duplicado anidado). Article publisher/author y AboutPage del equipo referencian la misma entidad.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "src/components/fundations/head/JsonLd.astro"
         },
         {
           "pagina": "/ (schema Product/Offer)",
           "cambio": "Bloque Product con Offer de USD 19/mes (UnitPriceSpecification, billingDuration 1 MON) y Offer de prueba gratis (USD 0). Sin aggregateRating ni Review (no hay resenas de terceros verificables todavia).",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "src/components/fundations/head/JsonLd.astro"
         },
         {
           "pagina": "Pie de pagina (todo el sitio)",
           "cambio": "Enlace visible a https://enfermerausa.com como marca hermana de homologacion y acompanamiento (texto en la columna 1 y enlace en 'Mas'); linea legal 'un producto de ENFERMERAEEU LLC'.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "src/components/global/Footer.astro"
         },
         {
           "pagina": "/llms.txt",
           "cambio": "Titulo '# RNNCLEX (rnnclex.com)' y seccion 'Entidad y marca': entidad legal ENFERMERAEEU LLC y Enfermera en Estados Unidos como marca hermana.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "src/pages/llms.txt.ts"
         },
         {
           "pagina": "/examen-nclex/requisitos/florida/",
           "cambio": "seoTitle 'Requisitos NCLEX Florida para enfermera extranjera 2026'; H1 propio con la misma intencion; respuesta corta al inicio (plantilla de estado ahora admite h1 y answer); FAQ nueva: SSN, Livescan/huellas, curso de Errores Medicos, portal MQA, tarifas vigentes (Pearson USD 200 hasta el 1-feb-2027, USD 350 desde esa fecha) y validez del titulo extranjero; paso a paso para IEN; enlaces a homologacion, IEN, CGFNS/CES, ATT y cuanto cuesta; enlace a Enfermera. Se retiro la afirmacion no verificada sobre trabajar como GN y se reemplazo por 'pregunta a la Junta'.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "src/content/wp/examen-nclex/requisitos/florida.md y src/pages/examen-nclex/requisitos/[state].astro"
         },
         {
           "pagina": "/proceso-licencia-homologacion/homologar-titulo-enfermeria-usa/ y /proceso-licencia-homologacion/nclex-para-enfermeros-extranjeros/",
           "cambio": "Enlace interno a la guia de Florida (texto 'requisitos del NCLEX en Florida para enfermeras extranjeras'), seccion y FAQ con enlace a Enfermera en Estados Unidos como marca hermana. Titulos y metas sin cambios.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "src/content/articles/homologar-titulo-enfermeria-usa.md y nclex-para-enfermeros-extranjeros.md"
         },
         {
@@ -100,25 +100,25 @@
         {
           "pagina": "/examen-nclex/inscripcion/",
           "cambio": "seoTitle 'Como registrarte al NCLEX-RN 2026: guia paso a paso' (51 car.); description 158 car. con CTA; H1 nuevo; respuesta directa al inicio; 'Actualizado: 16 de noviembre de 2026' con firma Alejandra Barreto; FAQ de 5 preguntas (cuatro de la consulta real 'nclex exam registration / register pearson vue / nclex register'); seccion 'Fuentes oficiales' (NCLEX.com, NCSBN, Pearson VUE); CTA unico a /prueba-gratis/; enlaces internos a cuanto-cuesta y obtener-att; ALT de imagen mejorado.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "commit 6906f1a"
         },
         {
           "pagina": "/preparacion-nclex/cursos/",
           "cambio": "seoTitle 'Curso NCLEX-RN en espanol: que incluye y precio (USD 19)' (56 car.); description 145 car. con CTA; H1 nuevo; respuesta directa; 'Actualizado: 16 de noviembre de 2026'; FAQ de 5 preguntas; seccion 'Fuentes oficiales'; CTA unico a /precios/; enlaces internos a CAT, Readiness, preguntas de practica y planes de 4 y 8 semanas.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "commit ec28de2"
         },
         {
           "pagina": "/estrategias-examen/que-es-el-nclex/",
           "cambio": "Solo enlaces internos entrantes: paso 3 enlaza a /examen-nclex/inscripcion/ y la seccion de preparacion enlaza a /preparacion-nclex/cursos/. NOTA: la pagina fue editada el 2026-11-07 (aclaracion de tarifa), dentro de la ventana de 28 dias; el cambio es de una frase por enlace, sin tocar titulo, meta ni contenido.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "commit f6a633f"
         },
         {
           "pagina": "/estrategias-examen/plan-estudio-nclex-8-semanas/",
           "cambio": "Solo un enlace interno entrante hacia /preparacion-nclex/cursos/ en la seccion 'Donde practicar'. Ultima edicion previa 2026-11-07 (tarifa); misma nota que la fila anterior.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "commit 3f6c2af"
         },
         {
