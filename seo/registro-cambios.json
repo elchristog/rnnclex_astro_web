@@ -5,36 +5,36 @@
       "fecha": "2026-11-20",
       "tarea": "Paquete SEO P1 de la Auditoria SEO de Muse (19-nov): paginas de preguntas por tipo NGN. Pedido y aprobado por Christian; union tras la revision clinica de Alejandra Barreto, RN (confirmada por Christian el 20-nov).",
       "excepcion_aprobada": "Ninguna: son paginas nuevas; no se tocaron titulos ni metas de paginas existentes (congelamiento hasta 2026-12-08). El hub recibio una seccion nueva sin cambiar titulo ni meta.",
-      "pr": "#43 (paginas) y PR de enlace desde el hub y registro (rama ryze/tecnico-2026-11-12)",
+      "pr": "#43 (paginas) y #44 (enlace desde el hub y registro)",
       "cambios": [
         {
           "pagina": "/preparacion-nclex/preguntas-practica/sata/",
           "cambio": "Pagina nueva: 3 preguntas SATA con justificacion por opcion, metodo, FAQ de 4 preguntas, enlaces a prueba gratis, precios y las otras paginas NGN.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "PR #43"
         },
         {
           "pagina": "/preparacion-nclex/preguntas-practica/cloze/",
           "cambio": "Pagina nueva: 2 preguntas cloze (cetoacidosis diabetica; insulina y potasio) con justificacion y FAQ.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "PR #43"
         },
         {
           "pagina": "/preparacion-nclex/preguntas-practica/resaltar-highlight/",
           "cambio": "Pagina nueva: 2 preguntas highlight (posoperatorio; hipoglucemia) con que resaltar y que no, justificacion y FAQ.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "PR #43"
         },
         {
           "pagina": "/preparacion-nclex/preguntas-practica/caso-clinico-ngn/",
           "cambio": "Pagina nueva: caso de neumonia con los 6 pasos del juicio clinico del NCSBN, justificacion por paso y FAQ.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en produccion, 2026-11-20)",
           "referencia": "PR #43"
         },
         {
           "pagina": "/preparacion-nclex/preguntas-practica/ (hub)",
           "cambio": "Seccion nueva 'Practica por tipo de pregunta NGN' con 4 tarjetas que enlazan a las paginas nuevas. Sin cambios de titulo ni meta.",
-          "en_vivo": "pendiente de verificar",
+          "en_vivo": "si (verificado por Muse en navegador, 4 tarjetas, 2026-11-20)",
           "referencia": "src/pages/preparacion-nclex/preguntas-practica/index.astro"
         }
       ],
