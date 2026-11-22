@@ -11,9 +11,9 @@ Si tu objetivo es obtener tu licencia de enfermería en el "Buckeye State", debe
 
 Esta guía te ofrece un desglose claro de cada requisito en Ohio, incluyendo un consejo clave sobre cuándo iniciar tu solicitud para un proceso más fluido.
 
-## Información Clave de un Vistazo para Ohio
+## Información Clave de un Vistazo para Ohio
 
-### NCLEX-RN Ohio
+### NCLEX-RN Ohio
 
 [**Junta Reguladora:** Ohio Board of Nursing (OBN)
 **Sitio Web Oficial:** https://www.nursing.ohio.gov
@@ -53,6 +53,8 @@ El Ohio Board of Nursing recomienda encarecidamente que los estudiantes de enfer
 5. Solicita a tu escuela que envíe tus transcripciones oficiales a la OBN justo después de tu graduación.
 6. Espera la aprobación final y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Tarifa de registro del NCLEX verificada el 22 de noviembre de 2026 con NCSBN: depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones. Las tarifas de solicitud de $75 (SSL) y $100 (MSL) coinciden con fuentes secundarias; confirma el monto vigente en el Ohio eLicense System.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
