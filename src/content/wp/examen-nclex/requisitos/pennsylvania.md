@@ -13,10 +13,10 @@ Esta guía te ofrece un desglose detallado de cada requisito, prestando especial
 
 ## Información Clave de un Vistazo para Pennsylvania
 
-### NCLEX-RN Pennsylvania
+### NCLEX-RN Pennsylvania
 
 [**Junta Reguladora:** Pennsylvania State Board of Nursing
-**Sitio Web Oficial:** 
+**Sitio Web Oficial:** 
 https://www.pa.gov
 **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro con implementación completa)
 **Tarifas de Solicitud:** Las tarifas exactas para la solicitud y la verificación de antecedentes se detallan en el portal PALS.
@@ -53,6 +53,8 @@ Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de cr
 5. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta de Pennsylvania.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Tarifa de registro del NCLEX verificada el 22 de noviembre de 2026 con NCSBN: depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones. La tarifa de solicitud a la Junta se confirma en el portal PALS al iniciar.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
