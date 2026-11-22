@@ -50,6 +50,8 @@ Indiana exige que todos los solicitantes de la licencia de enfermería completen
 6. Espera la aprobación de tu solicitud y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 7. Programa tu examen NCLEX en un centro Pearson VUE.
 
+*Tarifa de registro del NCLEX verificada el 22 de noviembre de 2026 con NCSBN: depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones.*
+
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
 — Daniela P., RN
