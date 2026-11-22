@@ -20,7 +20,7 @@ Esta guía te ofrece un desglose claro de cada paso del proceso en Montana, incl
 - **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
 - **Tarifa de Solicitud:** $100 USD
 
-## Desglose de Requisitos para la Licencia por Examen en Montana
+## Desglose de Requisitos para la Licencia por Examen en Montana
 
 Para que la Junta de Enfermería de Montana apruebe tu solicitud, debes cumplir con los siguientes puntos:
 
@@ -50,6 +50,8 @@ Montana tiene requisitos estrictos para los IENs. Es importante destacar que los
 5. (Solo para IENs) Asegúrate de que tu reporte de evaluación de credenciales sea enviado a la junta.
 6. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 7. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Datos verificados el 22 de noviembre de 2026 con el Montana Board of Nursing (tarifa de solicitud de $100) y NCSBN. La tarifa de registro del NCLEX depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

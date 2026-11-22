@@ -13,10 +13,10 @@ Esta guía te ofrece un desglose detallado de cada paso, prestando especial aten
 
 ## Información Clave de un Vistazo para New York
 
-### NCLEX-RN New York
+### NCLEX-RN New York
 
 [**Junta Reguladora:** NYSED, Office of the Professions
-**Sitio Web Oficial:** 
+**Sitio Web Oficial:** 
 https://www.op.nysed.gov
 **Participa en el Pacto de Licencia de Enfermería (NLC):** No (Estado No Miembro)
 **Tarifa de Solicitud:** $143 USD
@@ -56,6 +56,8 @@ Deberás presentar los certificados de finalización de ambos cursos como parte 
 4. Solicita a tu escuela que envíe la verificación de tu educación directamente a NYSED.
 5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 6. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Datos verificados el 22 de noviembre de 2026 con NYSED (licencia y primer registro de RN: $143) y NCSBN. La tarifa de registro del NCLEX depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

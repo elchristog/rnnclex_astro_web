@@ -53,6 +53,8 @@ Antes de que puedas recibir tu Autorización para Examinarte (ATT) para el NCLEX
 6. Espera la aprobación de todos los requisitos y la recepción de tu Authorization to Test (ATT).
 7. Programa tu examen NCLEX en un centro Pearson VUE.
 
+*Tarifa de registro del NCLEX verificada el 22 de noviembre de 2026 con NCSBN: depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones. La tarifa de solicitud a la KBN puede cambiar: confirma el monto vigente en el portal al iniciar.*
+
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
 — Daniela P., RN

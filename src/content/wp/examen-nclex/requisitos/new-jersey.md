@@ -11,14 +11,14 @@ Si tu objetivo es obtener tu licencia de enfermería en el "Garden State", deber
 
 Esta guía te ofrece un desglose claro de cada requisito, prestando especial atención a pasos únicos del proceso de New Jersey como la notarización de tu solicitud.
 
-## Información Clave de un Vistazo para New Jersey
+## Información Clave de un Vistazo para New Jersey
 
 ### NCLEX-RN New Jersey
 
 - **Junta Reguladora:** New Jersey Board of Nursing
-- **Sitio Web Oficial:** [www.njconsumeraffairs.gov/nur/Pages/default.aspx](https://www.njconsumeraffairs.gov/nur/Pages/default.aspx)
+- **Sitio Web Oficial:** [www.njconsumeraffairs.gov/nur/Pages/default.aspx](https://www.njconsumeraffairs.gov/nur/Pages/default.aspx)
 - **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (Estado Miembro)
-- **Tarifa de Solicitud:** $200 USD
+- **Tarifa de Solicitud:** $225 USD ($100 de solicitud + $120 de licencia + $5 de recargo)
 
 ## Desglose de Requisitos para la Licencia por Examen en New Jersey
 
@@ -26,7 +26,7 @@ Para que la Junta de New Jersey apruebe tu solicitud, debes cumplir con los sigu
 
 ### Solicitud y Tarifas
 
-La solicitud para la licencia por examen en New Jersey debe realizarse obligatoriamente en línea. Deberás crear una cuenta en el portal de la División de Asuntos del Consumidor, completar la información requerida y pagar la tarifa de solicitud de $200.
+La solicitud para la licencia por examen en New Jersey debe realizarse obligatoriamente en línea. Deberás crear una cuenta en el portal de la División de Asuntos del Consumidor, completar la información requerida y pagar la tarifa de solicitud de $225.
 
 ### Requisitos Educativos
 
@@ -47,12 +47,14 @@ Enfermeros Educados Internacionalmente (IENs): Se requiere una evaluación de cr
 
 1. Completa la solicitud online en el portal de la NJ Division of Consumer Affairs.
 2. Imprime la certificación, pega tu foto, fírmala ante un notario y súbela de nuevo al portal.
-3. Paga la tarifa de solicitud de $200.
+3. Paga la tarifa de solicitud de $225.
 4. Sigue las instrucciones para completar la toma de huellas dactilares para el CBC.
 5. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 6. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la Junta.
 7. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 8. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Datos verificados el 22 de noviembre de 2026 con el NJ Board of Nursing (paquete de solicitud por examen: $100 de solicitud, $120 de licencia y $5 de recargo) y NCSBN. La tarifa de registro del NCLEX depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

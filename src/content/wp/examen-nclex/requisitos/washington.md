@@ -11,9 +11,9 @@ Si tu objetivo es obtener tu licencia de enfermería en el "Evergreen State", de
 
 Esta guía te ofrece un desglose claro de cada requisito, incluyendo las particularidades de su proceso de verificación de antecedentes.
 
-## Información Clave de un Vistazo para Washington
+## Información Clave de un Vistazo para Washington
 
-### NCLEX-RN Washington
+### NCLEX-RN Washington
 
 [**Junta Reguladora:** Washington State Nursing Care Quality Assurance Commission (NCQAC)
 **Sitio Web Oficial:** https://nursing.wa.gov
@@ -55,6 +55,8 @@ Es crucial seguir las instrucciones exactas que recibirás en el portal de solic
 4. Solicita a tu escuela que envíe tus transcripciones oficiales directamente a la NCQAC.
 5. Espera la aprobación de todos tus documentos y la recepción de tu Authorization to Test (ATT).
 6. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Datos verificados el 22 de noviembre de 2026 con la NCQAC (licencia inicial de RN: $138 de un solo estado, $203 multiestado) y NCSBN. La tarifa de registro del NCLEX depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 

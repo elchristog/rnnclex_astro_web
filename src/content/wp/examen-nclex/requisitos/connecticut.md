@@ -5,7 +5,7 @@ description: "Guía paso a paso de los requisitos para el NCLEX-RN en Connecticu
 path: "/examen-nclex/requisitos/connecticut/"
 thin: false
 flags: []
-faqs: [{"question":"¿Cuándo se implementará el NLC en Connecticut?","answer":"Actualmente no hay una fecha oficial establecida. Se recomienda a los solicitantes revisar periódicamente el sitio web del DPH y del NCSBN para obtener las últimas actualizaciones sobre la implementación del Pacto de Licencia de Enfermería en el estado."},{"question":"¿Qué es el programa de certificación de CGFNS para IENs?","answer":"Es un programa ofrecido por CGFNS International que evalúa la educación, el registro y la licencia de los enfermeros educados en el extranjero para verificar que sus credenciales son equivalentes a los estándares requeridos en Estados Unidos. Es un paso fundamental para los IENs que aplican en Connecticut."}]
+faqs: [{"question":"¿Connecticut ya participa en el NLC?","answer":"Sí. Connecticut implementó el Nurse Licensure Compact (NLC) el 1 de octubre de 2025. Si Connecticut es tu estado principal de residencia y cumples los requisitos, puedes solicitar una licencia multiestado (MSL). Convertir una licencia de un solo estado a MSL no tiene costo; sí requiere la verificación de antecedentes con huellas dactilares. Confirma los pasos vigentes en el sitio del DPH."},{"question":"¿Qué es el programa de certificación de CGFNS para IENs?","answer":"Es un programa ofrecido por CGFNS International que evalúa la educación, el registro y la licencia de los enfermeros educados en el extranjero para verificar que sus credenciales son equivalentes a los estándares requeridos en Estados Unidos. Es un paso fundamental para los IENs que aplican en Connecticut."}]
 ---
 Si buscas obtener tu licencia de enfermería en el "Estado de la Constitución", es fundamental que conozcas el proceso de solicitud del Connecticut Department of Public Health (DPH).
 
@@ -17,7 +17,7 @@ Aunque el proceso es directo, Connecticut tiene algunas diferencias clave en com
 
 - **Junta Reguladora:** Connecticut Department of Public Health (DPH)
 - **Sitio Web Oficial:** [portal.ct.gov/dph/public-health-hearing-office/board-of-examiners-for-nursing/board-of-examiners-for-nursing](https://portal.ct.gov/dph/public-health-hearing-office/board-of-examiners-for-nursing/board-of-examiners-for-nursing)
-- **Participa en el Pacto de Licencia de Enfermería (NLC):** Promulgado, pendiente de implementación (ver detalles abajo)
+- **Participa en el Pacto de Licencia de Enfermería (NLC):** Sí (implementado el 1 de octubre de 2025; ver detalles abajo)
 - **Tarifa de Solicitud:** $180 USD
 
 ## Desglose de Requisitos para la Licencia por Examen en Connecticut
@@ -35,11 +35,11 @@ Debes haberte graduado de un programa de enfermería que cumpla con las regulaci
 ### Verificación de Antecedentes Penales (CBC)
 
 **Atención:** Sin Verificación de Antecedentes Obligatoria
-A diferencia de la gran mayoría de los estados, Connecticut no exige una verificación de antecedentes penales (CBC) con toma de huellas dactilares para la obtención de la licencia inicial por examen. Esto simplifica y agiliza considerablemente el proceso de solicitud.
+A diferencia de la gran mayoría de los estados, Connecticut no exige una verificación de antecedentes penales (CBC) con toma de huellas dactilares para la obtención de la licencia inicial por examen. Esto simplifica y agiliza considerablemente el proceso de solicitud. La excepción es la licencia multiestado (MSL): para obtenerla, el DPH sí pide verificación de antecedentes estatal y federal con huellas dactilares.
 
 ### Mandatos y Notas Específicas del Estado
 
-Estatus del Nurse Licensure Compact (NLC): Connecticut ha aprobado la legislación para unirse al NLC, pero aún no ha fijado una fecha de implementación oficial. Esto significa que, por ahora, las licencias emitidas son de un solo estado (Single-State) y solo válidas para ejercer en Connecticut. Se espera que en el futuro se conviertan en licencias multiestado.
+Estatus del Nurse Licensure Compact (NLC): Connecticut implementó el NLC el 1 de octubre de 2025. Si Connecticut es tu estado principal de residencia y cumples los requisitos, puedes solicitar una licencia multiestado (MSL), válida para ejercer en los demás estados del pacto. Convertir una licencia de un solo estado a MSL no tiene costo, y el DPH indica que los enfermeros educados fuera de EE. UU. necesitan la evaluación de CGFNS (TruMerit), con verificación de inglés si tu educación no fue en inglés.
 
 **Enfermeros Educados Internacionalmente (IENs):** Es un requisito mandatorio que los IENs completen y presenten el Programa de Certificación de CGFNS International.
 
@@ -51,6 +51,8 @@ Estatus del Nurse Licensure Compact (NLC): Connecticut ha aprobado la legislaci�
 4. Regístrate para el NCLEX en el sitio web de Pearson VUE y paga la tarifa de registro: $200 si te registras antes del 1-feb-2027 ($350 desde esa fecha).
 5. Espera la confirmación de elegibilidad por parte del DPH y la recepción de tu Authorization to Test (ATT) por correo electrónico.
 6. Programa tu examen NCLEX en un centro Pearson VUE.
+
+*Datos verificados el 22 de noviembre de 2026 con el DPH de Connecticut y NCSBN. La tarifa de registro del NCLEX depende de la fecha en que te registras, no de la fecha del examen, e incluye las repeticiones.*
 
 ## Miles de Estudiantes Han Confiado en Nosotros para superar el NCLEX
 
