@@ -9,7 +9,7 @@ flags: []
 faqs: [{"question":"¿Cuánto dura el examen NCLEX?","answer":"El NCLEX-RN tiene un límite máximo de 5 horas, incluyendo el tutorial y los dos descansos opcionales. El examen adaptativo puede terminar antes: cuando el sistema alcanza el 95% de certeza de tu resultado, con un mínimo de 85 y un máximo de 150 preguntas según el Test Plan del NCSBN."},{"question":"¿Cuántas preguntas tiene el NCLEX-RN?","answer":"Entre 85 y 150 preguntas. De ellas, 15 son de prueba (pretest) y no cuentan para tu resultado, y el mínimo incluye 3 estudios de caso NGN con 6 preguntas cada uno (18 ítems de juicio clínico)."},{"question":"¿Qué pasa si me acabo el tiempo en el NCLEX?","answer":"Si respondiste el mínimo de 85 preguntas, el algoritmo evalúa tu desempeño con las preguntas respondidas y decide si estás por encima o por debajo del estándar. Si no llegaste a 85 antes de agotar el tiempo, el examen se considera no aprobado."},{"question":"¿El examen NCLEX es el mismo tiempo para todos?","answer":"El límite de 5 horas es igual para todos, pero la duración real varía: el examen es adaptativo (CAT) y termina en cualquier punto entre 85 y 150 preguntas cuando el sistema alcanza el 95% de certeza. La mayoría de los candidatos termina antes de las 5 horas."}]
 ---
 
-**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 15 de octubre de 2026
+**Escrito por:** [Alejandra Barreto, RN, BSN](https://rnnclex.com/equipo/), Líder del Programa rnnclex | **Última actualización:** 22 de noviembre de 2026
 
 **El examen NCLEX-RN puede durar hasta 5 horas, pero casi nadie las usa todas: es un examen adaptativo que termina entre 85 y 150 preguntas, cuando el sistema alcanza un 95% de certeza de tu resultado.** El límite incluye el tutorial y los dos descansos opcionales, según el Test Plan oficial del NCSBN.
 
@@ -29,7 +29,7 @@ Si estás preparando tu presentación, saber esto cambia cómo entrenas: no es u
 
 Dos detalles que muchos candidatos no saben:
 
-- **Los 3 estudios de caso del formato NGN están incluidos en el mínimo de 85.** No son un extra opcional: son 18 ítems de juicio clínico que el algoritmo cuenta desde la primera pregunta.
+- **Los 3 estudios de caso del formato NGN están incluidos en el mínimo de 85.** No son un extra opcional: son 18 ítems de juicio clínico que el algoritmo cuenta desde la primera pregunta. Mira un [caso clínico NGN resuelto paso a paso](/preparacion-nclex/preguntas-practica/caso-clinico-ngn/).
 - **Se permiten hasta 8 intentos al año** con 45 días de espera entre intentos, según la regla general del NCSBN (tu junta estatal puede tener límites propios).
 
 ## Por qué el examen termina antes: cómo funciona el CAT
@@ -62,11 +62,11 @@ El **NCLEX-PN** (para enfermeros prácticos, LPN/LVN) comparte la estructura: 5 
 Prepararse para un examen adaptativo de hasta 5 horas es distinto de estudiar un test fijo de 75 preguntas:
 
 - **Practica bloques largos.** Un bloque de 100+ preguntas sin interrupciones entrena la resistencia y el ritmo real (~2 minutos por pregunta).
-- **Mezcla formatos NGN.** Los estudios de caso pesan 18 ítems del mínimo: practicar solo preguntas tradicionales te deja un agujero en el formato.
+- **Mezcla formatos NGN.** Los estudios de caso pesan 18 ítems del mínimo: practicar solo preguntas tradicionales te deja un agujero en el formato. Empieza con [preguntas SATA resueltas](/preparacion-nclex/preguntas-practica/sata/).
 - **Simula el CAT.** La dificultad variable cambia la sensación del examen: fallar una pregunta difícil es parte del diseño, no una señal de fracaso.
 - **Mide tu preparación con veredictos de probabilidad.** No programes tu fecha con porcentajes sueltos: usa simuladores con veredicto para decidir cuándo presentar.
 
-Un orden semana por semana lo tienes en el [plan de estudio de 8 semanas](/estrategias-examen/plan-estudio-nclex-8-semanas/), y la estrategia completa en [cómo pasar el NCLEX](/estrategias-examen/como-pasar-el-nclex/).
+Un orden semana por semana lo tienes en el [plan de estudio de 8 semanas](/estrategias-examen/plan-estudio-nclex-8-semanas/), y la estrategia completa en [cómo pasar el NCLEX](/estrategias-examen/como-pasar-el-nclex/). Si ya tienes tu ATT, revisa las [fechas y centros de examen](/examen-nclex/fechas/) para agendar.
 
 ## Preguntas frecuentes
 
