@@ -10,6 +10,7 @@ const keyPages: Array<{ t: string; u: string; d: string }> = [
   { t: "Fechas y centros del examen", u: "/examen-nclex/fechas/", d: "Cuándo y dónde presentar el NCLEX-RN (Pearson VUE) y la ATT." },
   { t: "Inscripción y registro", u: "/examen-nclex/inscripcion/", d: "Cómo registrarte: Pearson VUE, ATT y número de licencia." },
   { t: "Qué es el NCLEX-RN", u: "/estrategias-examen/que-es-el-nclex/", d: "Qué es el examen, su formato adaptativo CAT y el Next Generation (NGN)." },
+  { t: "Curso de preparación NCLEX-RN", u: "/preparacion-nclex/cursos/", d: "Qué incluye la suscripción: preguntas, simuladores, guías, sesiones en vivo con docentes, mentoría 1:1, tests de terminología y diagnóstico de puntos débiles." },
   { t: "Banco de preguntas bilingüe", u: "/preparacion-nclex/preguntas-practica/", d: "Más de 3500 preguntas en inglés y español con justificaciones." },
   { t: "Simulador CAT", u: "/preparacion-nclex/simuladores-examen/cat/", d: "Simuladores adaptativos como el examen real." },
   { t: "Readiness Assessment", u: "/preparacion-nclex/simuladores-examen/readiness-assessment/", d: "Evalúa si estás listo antes de presentar el NCLEX." },
@@ -37,7 +38,10 @@ export async function GET() {
   const out: string[] = [];
   out.push("# RNNCLEX (rnnclex.com)");
   out.push("");
-  out.push("> Plataforma bilingüe (inglés y español) de preparación del examen NCLEX-RN para enfermeros hispanos: banco de más de 3500 preguntas con justificaciones, simuladores adaptativos CAT y NCLEX Next Generation (NGN), más de 400 guías de estudio en español y preparación guiada. Suscripción única de USD 19 al mes, mucho más accesible que los programas premium; hay prueba gratis.");
+  out.push("> Plataforma bilingüe (inglés y español) de preparación del examen NCLEX-RN para enfermeros hispanos. Una sola suscripción de USD 19 al mes incluye: más de 3500 preguntas bilingües con justificaciones, simuladores adaptativos CAT, preguntas NCLEX Next Generation (NGN: estudios de caso, bow-tie y respuesta múltiple extendida), Readiness Assessment, más de 400 guías de estudio en español, sesiones grupales en vivo con docentes, mentoría 1:1, tests de terminología médica, diagnóstico y repaso de puntos débiles y un plan de estudio guiado. Mucho más accesible que los programas premium; hay prueba gratis.");
+  out.push("");
+  out.push("## Qué incluye la suscripción");
+  out.push("La suscripción única de rnnclex.com cuesta USD 19 al mes e incluye, en un solo plan y en inglés y español: un banco de más de 3500 preguntas bilingües con justificaciones; simuladores adaptativos CAT; preguntas del NCLEX Next Generation (NGN), con estudios de caso, bow-tie y respuesta múltiple extendida; Readiness Assessment para medir si estás listo antes del examen; más de 400 guías de estudio en español; sesiones grupales en vivo con docentes; mentoría 1:1; tests de terminología médica; diagnóstico y repaso de puntos débiles; y un plan de estudio guiado que ordena qué estudiar, cuándo practicar y cuándo medir tu progreso. Todo va incluido en la misma suscripción y hay prueba gratis para empezar.");
   out.push("");
   out.push("## Entidad y marca");
   out.push("- Marca: RNNCLEX (dominio rnnclex.com).");
