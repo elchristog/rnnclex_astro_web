@@ -1,0 +1,39 @@
+{
+  "_nota": "Registro de cambios de la corrida SEO mensual del 2026-11-24 (regla permanente 2026-11-16). Esta corrida NO toco produccion: todo PASS, sin PR.",
+  "ventanas": "4 semanas actuales: 2026-10-27 a 2026-11-23; 4 previas: 2026-09-29 a 2026-10-26 (GSC y GA4, excluidos 8 y 11-oct en GA4).",
+  "totales_28d": {
+    "actuales": {"clics": 33, "impresiones": 1119, "ctr_pct": 2.9, "posicion": 11.7},
+    "previas": {"clics": 20, "impresiones": 1131, "ctr_pct": 1.8, "posicion": 12.4},
+    "meta_dueno": "150-250 clics/28d: NO cumplida (33)"
+  },
+  "semana_por_semana": {
+    "actuales": {"S1_27oct_2nov": "6 clics / 244 imp", "S2_3nov_9nov": "6 clics / 249 imp", "S3_10nov_16nov": "12 clics / 291 imp", "S4_17nov_23nov": "9 clics / 335 imp"},
+    "previas": {"S1_29sep_5oct": "6 clics / 279 imp", "S2_6oct_12oct": "7 clics / 234 imp", "S3_13oct_19oct": "10 clics / 290 imp", "S4_20oct_26oct": "6 clics / 328 imp"}
+  },
+  "7_palabras": {
+    "fuente": "Serie por query+date 2026-09-29 a 2026-11-23",
+    "resultado": "nclex 9 imp y 1 clic (20-nov, pos 9) en 4sem actuales; examen nclex 3 imp; nclex rn 2 imp (1 clic en la semana previa, 26-oct, pos 1); cgfns, fechas examen nclex, cuanto cuesta el nclex y requisitos nclex: 0 impresiones en las 8 semanas. Las 7 palabras juntas no alcanzan ni el 1% de las impresiones del sitio.",
+    "urls_que_rankan": "nclex -> / (pos 6-9 del 14 al 20-nov); examen nclex -> /examen-nclex/ y /examen-nclex/fechas/; nclex rn -> /proceso-licencia-homologacion/cgfns/"
+  },
+  "marca": {
+    "gsc": "Query 'rn nclex': 1 impresion en 8 semanas (2-nov, pos 1, 0 clics). 'rnnclex.com': 0. Base 2026-10-12 (0 impresiones) sin cambio real.",
+    "serp_dataforseo": "Keyword 'rnnclex' (es, ubicaciones 2840 y 2484, 24-nov): rnnclex.com SIN resultados organicos en el top-10; Google corrige la keyword a 'rn nclex'. Keyword 'rn nclex' (es, 2840): rnnclex.com tampoco en el top-10.",
+    "perfiles_sociales": "Unico perfil del top-10: YouTube 'Enfermera en Estados Unidos' (carrusel de video, es/MX). Ningun perfil de rnnclex (Instagram/TikTok/LinkedIn/Facebook) aparece."
+  },
+  "sitemap_gsc": {
+    "estado": "sitemap-0.xml y sitemap-index.xml: 0 errores, 0 advertencias, lastDownloaded 22-23 nov (<= 7 dias). Sin reenvio.",
+    "contador_indexed": "'indexed 0 de 109/218' NO es fiable: inspectUrl confirma paginas indexadas.",
+    "descubierto": "La copia del sitemap que tiene Google (109 URLs) omite /blog/ y 3 URLs; el sitemap vivo tiene 113. Google la refresca solo; sin accion."
+  },
+  "404_soft404": {
+    "resultado": "Cero 404 y cero soft-404 con impresiones en 90 dias (81 paginas de GSC revisadas; wp-content: 0 paginas con impresiones). astro.config.mjs y redirects-log.json SIN cambios; 301 Cloudflare de /author/user/ sigue pendiente del dueno (mejora opcional).",
+    "muestra": "40 URLs inspectUrl: 37 PASS, 3 NEUTRAL (texas y connecticut descubiertas/rastreadas sin indexar; como-inscribirte-al-examen-nclex-en-2025 rastreada-sin-indexar desde 28-sep, mejoras ya en PR #48 unido). /blog/ viva, indexada, 36 imp, pos 23.8."
+  },
+  "indexacion_top20": "20 URLs con mas impresiones + plan-estudio-nclex-4-semanas y como-ser-enfermera-en-estados-unidos (3-nov) + corregidos hoy: todo PASS 'Submitted and indexed', canonical de Google = declarada, Breadcrumbs en todas. Portada: Product/Merchant con warnings review/aggregateRating (espera Trustpilot real, regla del 22-nov). Articulo nuevo indexado el 22-nov (19 dias).",
+  "ga4": {
+    "organico": "totalUsers 82 vs 85 (-3.5%); newUsers 74 vs 80. signup 14 vs 99 (93 excluyendo 8-oct): -85%; 0 signups organicos desde el 15-oct. view_pricing 5 vs 100, start_trial 14 vs 146.",
+    "sitio_completo": "signup 100 vs 292 (169 vs 100 excluyendo 8-oct: -41%); start_trial 101 vs 330; view_pricing 237 vs 510; purchase 3 vs 3. Pico de 375 eventos el 8-oct = prueba tecnica, excluido."
+  },
+  "oportunidades": "pos 8-20: cuantas-veces-se-puede-hacer-el-nclex (~pos 10, 21 imp), preguntas-nclex-en-espanol (~pos 12, 25 imp), caso-clinico-ngn (~pos 13, 17 imp). Muchas impresiones pocos clics: cuanto-dura-el-nclex (147 imp, 1 clic), requisitos (112 imp, 2). Muchos clics pocas impresiones: /preparacion-nclex/preguntas-practica/ (6 clics / 9 imp).",
+  "publicacion": "Runs de 'Publicar sitio' en noviembre: 15, 0 fallos. PRs ryze/* unidos en 30 dias verificados: #48 (22-nov, commit en main, run success, texto visible en /requisitos/montana/ el 24-nov) y #50 (23-nov, run #176 success, seccion 'Que incluye la suscripcion' visible en /cursos/). PR #49 sigue ABIERTO esperando OK de Christian (schema Trustpilot)."
+}
