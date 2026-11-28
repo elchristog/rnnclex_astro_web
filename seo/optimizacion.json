@@ -1,25 +1,27 @@
 {
-  "fecha": "2026-10-28",
-  "tarea": "OPTIMIZADOR MENSUAL (dia 28), primera ejecucion",
+  "fecha": "2026-11-28",
   "hallazgos": [
-    "Inventario: 9 tareas mensuales (SEO 1-6, VENTAS, ADS, Optimizador); no queda ninguna semanal ni diaria: el set semanal viejo se elimino el 18-oct al crear el mensual.",
-    "Solo han corrido SEO 6 (24-oct, completed sin error) y esta; las demas corren por primera vez en noviembre, sin historial de fallos. Todas las corridas de pipeline del ultimo mes (50 registradas) terminaron completed, cero failed.",
-    "Mayor costo recurrente: los 3 agentes de campana administrada corren revision diaria (5-13 min por corrida) aunque las campanas estan ACTIVE, sin issues de politica y dentro de sus guardrails.",
-    "Prompt de ADS desactualizado en 3 datos: techo USD 16 (el cliente lo subio a USD 21 el 26-oct), compra directa descrita como 'DIFERIDA y no construida' (esta ACTIVE desde el 23-oct) y grupo USA de registro a USD 7/dia (real: USD 2/dia desde el 23-oct).",
-    "seo/REGLAS.md mantenia en Cobertura el 'lote inicial de 30 articulos'; la Politica de Contenido (21-oct) ya limita a maximo 4 articulos nuevos al mes: conflicto de reglas que haria a la tarea 2 sobrescribir la politica.",
-    "La memoria 'perfil de comprador' (cbdaa657) ya esta referenciada en VENTAS (la escribe) y ADS (la lee antes de decidir); el flujo de aprendizaje esta conectado.",
-    "Sin duplicados de consulta detectados entre tareas: VENTAS es la unica que llama /free-users; ADS tiene prohibido usarla; las tareas SEO 1-6 usan archivos seo/*.json como memoria compartida para no repetir GSC ni dataforseo.",
-    "Fronteras entre tareas ya explicitas en los prompts: VENTAS no toca anuncios, ADS no repite la revision de estado del agente de campana, SEO no toca app ni anuncios."
+    "Inventario: 15 recurrentes + 2 unicas (plan 27-nov a 27-dic). Ninguna diaria. La unica semanal no prevista ('Alta semanal oferta $19', lunes 9:00 Bogota) esta aprobada por Christian (17-nov-2026): se conserva.",
+    "Choque de horario: 'Retencion rnnclex' corria lunes 9:00 Bogota, misma hora que 'Alta semanal oferta $19'; ambas escriben leads en Instantly el mismo dia.",
+    "Costo: 4 campanas administradas (Lista EEEU, Reprobaste, Meta registro, compra directa) estan pausadas o congeladas desde el 9-12 nov por decision del cliente, pero sus next_review_at vencidos provocaron ~30 corridas de revision en noviembre (pipeline campaign-manage), sin posibilidad de actuar.",
+    "Acceso: la conexion de Meta Ads (Alejandra Martinez) fue revocada el 2026-11-22: sin lecturas de estado ni gasto de Meta hasta reconexion; blocker en la campana de compra directa.",
+    "El prompt de ADS (dia 5) llevaba un 'ESTADO REAL' congelado al 28-oct: techo USD 26/dia y presupuestos que hoy difieren (Reprobaste 16,50; compra directa 10+3 retargeting; Lista EEEU 5). Actualizado a 2026-11-28 con techo USD 30 y pausa por congelamiento.",
+    "Memoria 'perfil de comprador' (cbdaa657) sin actualizar desde 2026-11-04; VENTAS la escribe, ADS y SEO 1, 3 y 8 la leen. Con 5 compras reales no cambia el contenido.",
+    "Duplicaciones de lectura: /retention-data la leen VENTAS, Retencion semanal y Alta semanal (3/semana); /free-users la leen VENTAS, Alta semanal y Lista EEEU mensual. No se unifico para no perder cobertura.",
+    "content-health-deep agota web_fetch en todas las corridas de VENTAS con doble reintento: queda regla de un solo intento y salto a alternativa.",
+    "seo/REGLAS.md no requiso cambios: cobertura, calendario y reglas de ahorro siguen vigentes."
   ],
   "cambios": [
-    "ADS prompt (patch_schedule 22ff3dd7): techo global 16 -> 21; compra directa ACTIVA desde 23-oct (era 'no construida'); grupo USA USD 7,00 -> 2,00/dia; se agrego 'NO repitas la revision de estado que ya hace el agente de cada campana administrada' y el paso F queda limitado a los 2 anuncios de USA hacia /precios/.",
-    "Campana administrada 'compra directa' (daef7ae7): next_review_at 28-oct 17:30Z -> 02-nov 17:30Z (su fecha de veredicto); campana 'Reprobaste' (cd0548d6): 28-oct 12:00Z -> 02-nov 12:00Z. Ambas estables (ACTIVE, sin issues, gasto bajo el alerta de USD 16,45 sin registros), revision diaria pausada hasta el veredicto; la campana principal c5ae395f conserva su cadencia y veredicto del 2-nov.",
-    "seo/REGLAS.md: fila de Cobertura 'Lote inicial de 30 articulos' -> 'Hasta 4 articulos nuevos al mes' segun POLITICA-CONTENIDO.md, en un PR propio con este archivo."
+    "Retencion rnnclex (1c0e52e9): cron 0 9 -> 0 10 (lunes, Bogota), 1 h despues de 'Alta semanal oferta $19' para no pisar Instantly.",
+    "next_review_at de las 4 campanas administradas -> 2026-12-27T14:00Z (fecha del veredicto del plan aprobado); sin reactivar nada, solo espacia revisiones.",
+    "ADS prompt (22ff3dd7): 'ESTADO REAL AL 2026-10-28' -> 'ESTADO REAL AL 2026-11-28' con techo USD 30/dia, presupuestos vigentes y congelamiento hasta que el funnel convierta.",
+    "VENTAS prompt (600ddf47): content-health-deep un solo intento con &_= aleatorio; si se agota, 'revision profunda no ejecutada' y alternativa del cliente, sin doble reintento."
   ],
-  "ahorro_estimado": "Cerca de 8-10 corridas de agentes de campana evitadas hasta el 2-nov (2 campanas x ~4 dias x 5-13 min), aprox. 60-70% del costo de los agentes de campana en ese tramo y ~0,7% de las 9 tareas mensuales intactas; cobertura de Cobertura sin reduccion.",
+  "ahorro_estimado": "Evita ~20-25 corridas de agentes de campana hasta el 27-dic (mayor partida de noviembre) y ~3-5 llamadas API por corrida de VENTAS; ~60-70% menos llamadas en el bloque de anuncios sin tocar la cobertura.",
   "riesgos": [
-    "Si una campana administrada sufre un rechazo o caida de entrega antes del 2-nov, lo detectaria la tarea ADS del dia 5 o el propio veredicto, no una revision diaria (hasta 5 dias de reaccion).",
-    "SEO 1-5, VENTAS y ADS corren por primera vez en noviembre: ajustes finos (pasos sin salida 2 meses seguidos) solo seran posibles con datos del mes 2 en la corrida del 02-dic."
+    "Si una campana pausada se reactiva antes del 27-dic, el agente de campana revisara 27 dias despues; la tarea ADS del dia 5 y el veredicto del plan cubren la revision mensual.",
+    "Reenvio de hashes pendientes de Lista EEEU (offset 100-149 y 250-299) sigue en su tarea del dia 17.",
+    "Si reconectan Meta Ads, desespaciar next_review_at al reactivar una campana."
   ],
-  "punto_humano": null
+  "punto_humano": "Reconectar Meta Ads en Integraciones (conexion de Alejandra Martinez revocada el 22-nov): sin ella no se puede leer el estado ni el gasto de ninguna campana de Meta."
 }
